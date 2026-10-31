@@ -1,0 +1,8 @@
+# Private learning records and local media
+personal/
+recordings/
+.DS_Store
+*.mp3
+*.m4a
+*.wav
+*.mp4
