@@ -9,3 +9,8 @@
 上传第三方文件前必须确认允许公开再分发，记录原始页、文件直链、作者、许可依据、日期和 SHA-256；仅允许个人下载不够。音视频须检查格式与完整解码，先更新材料表再更新日程。
 
 本仓库原创文字使用 CC BY 4.0。提交原创文字即表示同意按该许可证分享；第三方内容仍遵守原作者许可。个人日志和录音请保存于自己的私有空间。
+
+
+## 本地构建与校验
+
+更新课程后运行 `python3 scripts/build_offline.py`，再运行 `python3 scripts/check_and_package.py /tmp/ielts-learning-packages`。两个脚本仅使用 Python 标准库。媒体新增时还应使用 ffprobe/ffmpeg 检查格式和完整解码，并更新 manifest.json；打包脚本检查文件校验和，不代替媒体内容检查。

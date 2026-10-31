@@ -150,5 +150,325 @@
         "codec_type": "audio"
       }
     ]
+  },
+  {
+    "path": "assets/voa/lesson-05.mp4",
+    "source_url": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/c/ce/ce630bdd-1ffd-4c63-aca7-4bdff50fc7ba.mp4?cb=ed0a575e6&download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-5-where-are-you/3168971.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 16239617,
+    "sha256": "9c1f49aa43d7ebfa995a7b3d7ffdf70d356b81817c9e894211f291e4caa32d73",
+    "duration_seconds": 300.096,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-05.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/03/01/ab9c2944-eddc-4806-9296-290bfa8c6ff2.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-5-where-are-you/3168971.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 485503,
+    "sha256": "d0a785ada7babff5d4a8e126dd2ee7aaeab8d1ae58d996c97abd2033d6202f61",
+    "duration_seconds": 60.643,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-06.mp4",
+    "source_url": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/1/17/17b61020-32a1-4021-9575-adbf9ee76979.mp4?cb=ecfb9e2bf&download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-6-where-is-the-gym/3225958.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 16985652,
+    "sha256": "a3dc3952bfc28722e861a82a7641d994ed84a34b81d27dc81532c2202fe7e66e",
+    "duration_seconds": 300.053,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-06.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/03/10/66b63229-1dc5-40ab-886d-1f4b891adf6b.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-6-where-is-the-gym/3225958.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 864592,
+    "sha256": "a2ea933905fe40a710160ac8d8b128631b8736c9b61dbd96cbc348c7d5a09cf5",
+    "duration_seconds": 108.029,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-07.mp4",
+    "source_url": "https://voa-video.voanews.eu/pangeavideo/2016/05/5/54/54ebe82e-9578-4c39-9ca9-42dae639be4f.mp4",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-7-what-are-you-doing/3240468.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 17899381,
+    "sha256": "dde6933fe4a761ef89c81fa8b41b8036ed446009982c91dc0ebb5d4c5feee611",
+    "duration_seconds": 300.074,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-07.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/03/16/5d724fbc-a907-4a48-9221-c1813d248168.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-7-what-are-you-doing/3240468.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 1199471,
+    "sha256": "ad1c48b2718a71f35082695dcd6506abcf84c027d510f0a06ce51d0ded7be610",
+    "duration_seconds": 149.878,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-08.mp4",
+    "source_url": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/e/ee/ee277d1c-017b-4b98-9491-8de08a76122e.mp4?cb=ecfb9e192&download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-8-are-you-busy/3253185.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 17194776,
+    "sha256": "ce7553173f5b3afd2edc3e346cbc4a1a35f82a5a792dd2913b057bee16b91851",
+    "duration_seconds": 300.053,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-08.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/03/25/ae6c5055-13ae-485b-995d-b347125ecf10.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-8-are-you-busy/3253185.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 948911,
+    "sha256": "3f395c7bf4eab262446e33bfea84de551775aa869c22d5cf541167e45ca63aed",
+    "duration_seconds": 118.557,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-09.mp4",
+    "source_url": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/4/44/44b5b429-02aa-45c0-ac5a-cde704945b4b.mp4?cb=ecfb9e1a6&download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-9-is-it-cold/3261789.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 17658191,
+    "sha256": "9334f8187f40ba288199531e818e0090e536f260ee69f36db742eeabae744028",
+    "duration_seconds": 300.309,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-09.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/04/01/fe67e651-87d0-4b62-9c68-749b2d3c2f21.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-9-is-it-cold/3261789.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 975242,
+    "sha256": "6b19c02fbf4e0162c9633c1de7387e0068711b3a134485a0b824a6f9e543ca7c",
+    "duration_seconds": 121.848,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-10.mp4",
+    "source_url": "https://voa-video-ns.akamaized.net/pangeavideo/2016/06/3/3e/3ec2bbef-f064-4545-bbdd-74f2a695e141.mp4?cb=ecfb9e2ea&download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-10/3285228.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 19991964,
+    "sha256": "8ef7e62cb09e0c3ba28f4827ae0ee0d523fad04aa8e421affefe184ac207cf52",
+    "duration_seconds": 300.096,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-10.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/04/14/442a6a50-693e-411f-8cff-99e40d16614c.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-10/3285228.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 725721,
+    "sha256": "0cfd6224bc3b53319acc1b535cc81908f8f9880f8dcee1e0c2a8ff697d5c9a66",
+    "duration_seconds": 90.658,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-11.mp4",
+    "source_url": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/9/93/932ae001-a462-4158-8e25-399289a46ec9.mp4?cb=ecfb9e1b9&download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-11-this-is-my-neighborhood/3293986.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 24404667,
+    "sha256": "94492edd0c6446dcc4b52c90f5d6207e69e0e386b50e8c72a54030852d1fe6de",
+    "duration_seconds": 299.904,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-11.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/04/20/de238e35-97b9-4c21-81e3-e3c26fbeccaa.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-11-this-is-my-neighborhood/3293986.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 884445,
+    "sha256": "b22a6f0531dcf943a2b23d5bd09696f2cfc5970f50a3911082b457c532625c6e",
+    "duration_seconds": 110.511,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-12.mp4",
+    "source_url": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/6/67/671fbaf2-668e-49a3-9828-a0639d1ce3d5.mp4?cb=ecfb9e304&download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-12-meet-my-family/3301733.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 18328753,
+    "sha256": "09d7423f1c167856fbc2683a682002f1b246a0b6a944aa2c6bba40b0359b2865",
+    "duration_seconds": 300.053,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-12.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/04/28/d1527ef7-587d-45b5-b3cc-fecbe37167ab.mp3?download=1",
+    "source_page": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-12-meet-my-family/3301733.html",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 1515810,
+    "sha256": "b2eeaf3cfb9cacf2626b0048eddac38c70ad56cf726039c3c068dae84acbfd94",
+    "duration_seconds": 189.427,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
   }
 ]

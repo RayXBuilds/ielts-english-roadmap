@@ -2,16 +2,16 @@
 
 ## 完整包
 
-在 GitHub 仓库主页选择 **Code → Download ZIP**，解压后双击 `offline.html`。也可以从 [发布下载页](https://github.com/RayXBuilds/ielts-english-roadmap/releases) 获取完整包。HTML 页面包含全部 12 篇短文、理解题、答案和四课音视频播放器，没有远程脚本、字体或播放器依赖。
+在 GitHub 仓库主页选择 **Code → Download ZIP**，解压后双击 `offline.html`。也可以从 [发布下载页](https://github.com/RayXBuilds/ielts-english-roadmap/releases) 获取完整包。HTML 页面包含全部 24 篇短文、理解题、答案和十二课音视频播放器，没有远程脚本、字体或播放器依赖。
 
 不要只下载 HTML 一个文件；音视频放在 `assets/voa` 目录，必须保留相对位置。手机上建议先完整解压，用文件管理器打开 MP3/MP4，文档可在 GitHub 阅读。不同手机的本地 HTML 媒体支持不同，播放器不能用时直接打开媒体文件。
 
 ## 小体积包
 
-发布页同时提供“文字与音频包”，保留全部文档、四段 MP3 和音频阅读入口，不含 MP4。完整包约 76 MB，小包约 2～3 MB，实际大小以下载页为准。小包适合先开始每日精听，视频后续单独从仓库 assets/voa 下载即可。
+发布页同时提供“文字与音频包”，保留全部文档、十二段 MP3 和音频阅读入口，不含 MP4。完整包约 229 MB，小包约 9.5 MB，实际大小以下载页为准。小包适合先开始每日精听，视频后续单独从仓库 assets/voa 下载即可。
 
 ## 不会使用 Git 也能学
 
-下载和解压即可，不需要 Git、Python 或注册任何学习网站。日程在 `plans/first-28-days.md`；每天的阅读与听力编号对应 `offline.html` 中的导航。个人记录放在自己的笔记里，不必提交到公共仓库。
+下载和解压即可，不需要 Git、Python 或注册任何学习网站。日程在 `plans/first-28-days.md` 和 `plans/days-29-84.md`；每天的阅读与听力编号对应 `offline.html` 中的导航。个人记录放在自己的笔记里，不必提交到公共仓库。
 
 GitHub 的连接速度因网络环境而异。此版本解决的是“获取资料以后无需访问外部学习网站”，不承诺 GitHub 或其下载域名在所有国内网络均可直连。若仓库打不开，可先使用本次交付的本地学习包。

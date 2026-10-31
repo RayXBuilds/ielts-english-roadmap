@@ -1,36 +1,30 @@
 # 12 周英语学习路线
 
-周期从实际开始日计算。前四周以阅读为主；第五周起逐步增加听力和互动。每周五次 30 分钟训练、一次 30 分钟复盘，其余一天休息。以下是学习任务目标，未达成时保留当前阶段，不强行赶进度。
+每周五次 30 分钟学习、一次 30 分钟复盘、一天休息，总计约 36 小时。现在每周均有本地阅读、对话音频、课程视频与口语任务。材料为基础英语训练，未做正式 CEFR 校准，也不是完整雅思专项题库。
 
-| 周次 | 阅读主线 | 听力与视频 | 表达任务 | 周末交付 |
-|---|---|---|---|---|
-| 1 | R01 学习习惯、R02 新邻居 | L01 欢迎新朋友、V01 | 三句自我介绍 | 基线记录、一次 30 秒录音 |
-| 2 | R03 改计划、R04 留言 | L02 认识朋友、V02 | 描述计划，提出邀请 | 50～80 词短邮件 |
-| 3 | R05 问路、R06 课程比较 | L03 电话求助、V03 | 比较选项，问路或求助 | 60 秒复述与一条留言 |
-| 4 | R07 数字习惯、R08 未读通知 | L04 描述物品、V04 | 说兴趣、安排与理由 | 第一轮月度复盘 |
-| 5 | R09 信息核对，复习 R07 | 复习 L01～L02；可选 ELLLO 新片段 | 回答问题后追问一个问题 | 3 分钟有准备的交流 |
-| 6 | R09 信息判断、复习错句 | 复习 L03；可选不同说话者 | 给观点和一个例子 | 80～120 词观点短文 |
-| 7 | R10 数字工具、同级泛读 | 复习 L04；可选分级新闻音频 | 同一件事的利与弊 | 90 秒观点录音 |
-| 8 | R11 书评或同级故事 | 重听熟悉材料，再试陌生主题 | 讲故事的起因、经过、结果 | 第二轮月度复盘 |
-| 9 | R12 项目说明，选择兴趣分支 | 每次 2～3 分钟自然材料 | 向别人解释一个概念 | 一次 5 分钟互动 |
-| 10 | 兴趣分支两篇短文 | 同主题不同观点的片段 | 比较两种看法并提问 | 100～150 词摘要 |
-| 11 | 未读同级文章，练主题句与结构 | 不看字幕抓要点，再核对 | 用澄清句修复沟通 | 一次有反馈的对话 |
-| 12 | 同级新材料评估；选下一周期方向 | 陌生材料评估与旧音频对照 | 复述、观点、追问 | 总复盘与下一阶段安排 |
+| 周次 | 两篇阅读 | 听看材料 | 口语任务 |
+|---|---|---|---|
+| 1 | [R01](../lessons/readings/r01.md) + [R02](../lessons/readings/r02.md) | [L01](../lessons/listening/l01.md) + [V01](../lessons/listening/l01.md) | [S01](../lessons/speaking/week-01.md) 认识新朋友 |
+| 2 | [R03](../lessons/readings/r03.md) + [R04](../lessons/readings/r04.md) | [L02](../lessons/listening/l02.md) + [V02](../lessons/listening/l02.md) | [S02](../lessons/speaking/week-02.md) 安排一次见面 |
+| 3 | [R05](../lessons/readings/r05.md) + [R06](../lessons/readings/r06.md) | [L03](../lessons/listening/l03.md) + [V03](../lessons/listening/l03.md) | [S03](../lessons/speaking/week-03.md) 电话询问信息 |
+| 4 | [R07](../lessons/readings/r07.md) + [R08](../lessons/readings/r08.md) | [L04](../lessons/listening/l04.md) + [V04](../lessons/listening/l04.md) | [S04](../lessons/speaking/week-04.md) 描述与借用物品 |
+| 5 | [R13](../lessons/readings/r13.md) + [R14](../lessons/readings/r14.md) | [L05](../lessons/listening/l05.md) + [V05](../lessons/listening/l05.md) | [S05](../lessons/speaking/week-05.md) 参观一个住处 |
+| 6 | [R09](../lessons/readings/r09.md) + [R12](../lessons/readings/r12.md) | [L06](../lessons/listening/l06.md) + [V06](../lessons/listening/l06.md) | [S06](../lessons/speaking/week-06.md) 为访客指路 |
+| 7 | [R15](../lessons/readings/r15.md) + [R16](../lessons/readings/r16.md) | [L07](../lessons/listening/l07.md) + [V07](../lessons/listening/l07.md) | [S07](../lessons/speaking/week-07.md) 礼貌地询问同事 |
+| 8 | [R10](../lessons/readings/r10.md) + [R11](../lessons/readings/r11.md) | [L08](../lessons/listening/l08.md) + [V08](../lessons/listening/l08.md) | [S08](../lessons/speaking/week-08.md) 道歉与修复 |
+| 9 | [R17](../lessons/readings/r17.md) + [R18](../lessons/readings/r18.md) | [L09](../lessons/listening/l09.md) + [V09](../lessons/listening/l09.md) | [S09](../lessons/speaking/week-09.md) 天气与出行计划 |
+| 10 | [R19](../lessons/readings/r19.md) + [R20](../lessons/readings/r20.md) | [L10](../lessons/listening/l10.md) + [V10](../lessons/listening/l10.md) | [S10](../lessons/speaking/week-10.md) 邀请朋友到家 |
+| 11 | [R21](../lessons/readings/r21.md) + [R22](../lessons/readings/r22.md) | [L11](../lessons/listening/l11.md) + [V11](../lessons/listening/l11.md) | [S11](../lessons/speaking/week-11.md) 比较日常选择 |
+| 12 | [R23](../lessons/readings/r23.md) + [R24](../lessons/readings/r24.md) | [L12](../lessons/listening/l12.md) + [V12](../lessons/listening/l12.md) | [S12](../lessons/speaking/week-12.md) 回顾与展示 |
 
-材料编号见 [精选材料](../resources/materials.md)。R01～R12 为本项目原创练习，难度未正式校准；尚未适应者继续读短段落。前四周全部使用本地文件，第五周起的扩展音视频尚未包含在本地包中，可先重复四课或按可选来源选择新材料。
+## 执行入口
 
-## 每周怎样安排
+- [Day 1～28](../plans/first-28-days.md)：阅读 20 分钟、听力 5 分钟、表达 5 分钟。
+- [Day 29～84](../plans/days-29-84.md)：第 5～8 周阅读 15、听力 10、表达 5 分钟；第 9～12 周三项各约 10 分钟。
+- [阶段检查](../lessons/checkpoints.md)：第 8 与第 12 周使用尚未练过的短文。
 
-前 4 周按 [逐日任务](../plans/first-28-days.md)。第 5～8 周每天约阅读 15 分钟、听力 10 分钟、表达 5 分钟；第 9～12 周约阅读 10 分钟、听力 10 分钟、表达 10 分钟。
+阅读速度慢时减少篇幅；音频看文本才懂时缩短片段。每周只改一个变量，不同时增加篇幅、速度和生词。口语从复述逐步转向回应追问，优先让对方理解。
 
-第 5 周起：周一读新文章并列主旨；周二重读、听同主题材料；周三读第二篇并比较；周四精听与跟读；周五复述与问答；周六复盘。每周只选两篇主材料，其他时间优先复习。
+## 12 周以后
 
-## 三种兴趣分支
-
-- 科普与社会：从 R07、R09、R10 开始，再从 Breaking News English 选能读懂的等级。把主题问题写成“这是什么、为什么发生、与我有什么关系”。
-- 故事与文化：先读 R11 书评，再选择同级故事或正规出版社的分级读物。试读一页能说出情节再继续，不急于挑战原版长篇。
-- 工作与技术：先读 R03、R04、R06，再读 R12，再选自己熟悉项目 README 的简介、安装或使用段落。每次 150～300 词，说明“这个工具做什么、我怎样使用”。技术词汇表仅作查询补充。
-
-## 12 周之后
-
-能持续完成任务且进步明显：保留同样节奏，增加材料长度或互动时间中的一项。仍很吃力：降低难度，保持短时训练。明确需要雅思：转入 [雅思衔接](04-ielts-bridge.md)，根据考试期限单独安排备考，不把 36 小时基础周期当作完整备考时长。
+比较首日与现在的录音、陌生文章理解情况和真实交流表现，选择一个下一周期重点。有明确成绩用途和考试日期时，进入 [雅思衔接](04-ielts-bridge.md)，加入官方题型、限时训练、写作修改与口语反馈。已有基础的学习者可以跳过过于容易的内容；不要把完成 84 天当作达到某个分数的证明。
