@@ -27,6 +27,8 @@
 
 ## 官方入口
 
+国内用户可先查看 [剑桥英语中国雅思备考页](https://www.cambridgeenglish.cn/exams-and-tests/ielts/preparation-new/)。本地包解决基础训练的离线访问，不包含未获转载许可的商业真题。
+
 - [官方备考资源](https://ielts.org/take-a-test/preparation-resources)
 - [官方样题与练习](https://ielts.org/take-a-test/preparation-resources/sample-test-questions)
 - [官方评分说明](https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail)

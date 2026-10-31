@@ -1,0 +1,154 @@
+[
+  {
+    "path": "assets/voa/lesson-01.mp4",
+    "source_url": "https://voa-video.voanews.eu/pangeavideo/2021/02/5/5f/5f00c78a-0f84-41e6-949d-bd808bcadf50.mp4",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 15672269,
+    "sha256": "a7bc9ee8405a07196a162e87fe68b52071c4c576289dc03840d9d4bfd97dce98",
+    "duration_seconds": 300.373,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-01.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/02/08/49485bf8-4277-47f6-9abe-617ee2473f8c.mp3",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 236944,
+    "sha256": "f9bd90edddbb8736f64fb5cb3a34ab5a27aecd6e99510977e7b820caf47c5cf7",
+    "duration_seconds": 29.558,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-02.mp4",
+    "source_url": "https://voa-video.voanews.eu/pangeavideo/2021/02/4/42/4298a2ba-d665-4b1c-aaa1-502bbcb9b88d.mp4",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 19013696,
+    "sha256": "c6dfdcdd52ebdafd172c1b62c6a7b2e39b7bf679ca013ca9e6d1598e43ea7c97",
+    "duration_seconds": 300.373,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-02.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/02/10/56246d7b-5fa4-42d2-90b0-d403e6b46227.mp3",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 384603,
+    "sha256": "e943ca83c8a0d33bb3e505ba61cfda86c31f821bd065feb414aa83788faed2db",
+    "duration_seconds": 48.026,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-03.mp4",
+    "source_url": "https://voa-video.voanews.eu/pangeavideo/2016/05/0/02/027f8fdd-e9b0-409c-8618-45be49fcefe8.mp4",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 17021457,
+    "sha256": "d5414f6ed239c70e0f3607e256f7015d56639380be6c1cb933a0ce576399ab8b",
+    "duration_seconds": 300.074,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-03.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/02/18/a82baaf4-0a91-4d43-8ab6-78f72cef8fce.mp3",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 962841,
+    "sha256": "8a1d67ab3d32f3895747dc9bed42081f4f13e16ddf0879ade7bcce3ba0a7dcdb",
+    "duration_seconds": 120.307,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-04.mp4",
+    "source_url": "https://voa-video.voanews.eu/pangeavideo/2016/05/c/c8/c829a13b-9764-4b89-ad70-1edbdc3d8013.mp4",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 21887692,
+    "sha256": "f2b29bc112227679ca3fb390df1d1e56c1423cf2ca39105df56aa516b1d3c4df",
+    "duration_seconds": 300.053,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "assets/voa/lesson-04.mp3",
+    "source_url": "https://voa-audio.voanews.eu/vle/2016/02/26/af0324f6-67c5-4c0c-ab42-abb0cd33817c.mp3",
+    "downloaded": "2026-10-31",
+    "creator": "VOA Learning English",
+    "rights": "VOA-produced content: public domain with source attribution; see README.md",
+    "bytes": 714643,
+    "sha256": "a648e8181a2ef6b1fd106f0de0bc05f7bd09f99d66f2f8f380d78afe353c27c4",
+    "duration_seconds": 89.247,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio"
+      }
+    ]
+  }
+]

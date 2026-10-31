@@ -1,48 +1,39 @@
-# 精选文章音频与视频
+# 仓库内学习材料
 
-先用下面 17 个具体材料，不必一次收藏几十个网站。R 为阅读，L 为音频，V 为视频。R 与 L 来自 British Council，V 来自 VOA。下表任务是本项目设计的练习建议；官方等级按来源标注，VOA 的入门课程不强行换算成 CEFR 等级。
+前 28 天只使用本仓库文件。无需访问 VOA、British Council 或 YouTube；一次下载完整仓库后即可离线使用。GitHub 本身的国内连接不保证稳定，因此建议保存整包。下载与播放方法见 [离线使用指南](offline-guide.md)。
 
-## 首批可直接使用的材料
+## 阅读短文
 
-| 编号 | 原始页面 | 类型与难度 | 本次训练产出 |
+下面 12 篇均为本项目原创，每篇有三道理解题、参考答案、词组和表达任务。难度仅为编辑建议，未做 CEFR 正式校准，也不是雅思真题。原来的外部 R 编号已重新分配，旧资料只保留在在线拓展页。
+
+| 编号 | 仓库内全文 | 建议用途 |
+|---|---|---|
+| R01 | [A Small Daily Habit](../lessons/readings/r01.md) | 建立学习习惯，起点测读 |
+| R02 | [A New Neighbour](../lessons/readings/r02.md) | 自我介绍与日常信息 |
+| R03 | [Changing a Plan](../lessons/readings/r03.md) | 安排时间与改变计划 |
+| R04 | [A Message for a Friend](../lessons/readings/r04.md) | 理解留言与行动要求 |
+| R05 | [Finding a Local Shop](../lessons/readings/r05.md) | 问路、确认信息 |
+| R06 | [Choosing a Course](../lessons/readings/r06.md) | 比较选项与说明理由 |
+| R07 | [A Quieter Digital Evening](../lessons/readings/r07.md) | 阅读较长段落与描述习惯 |
+| R08 | [A Notice at the Station](../lessons/readings/r08.md) | 未读材料评估与旅行场景 |
+| R09 | [Check Before You Share](../lessons/readings/r09.md) | 第五周起，信息与证据 |
+| R10 | [Learning with a Digital Tool](../lessons/readings/r10.md) | 第五周起，观点与利弊 |
+| R11 | [A Book Worth Discussing](../lessons/readings/r11.md) | 故事与书评 |
+| R12 | [Explaining a Small Project](../lessons/readings/r12.md) | 工作与项目说明 |
+
+## 已下载的官方教学音视频
+
+以下是 VOA 自制课程原始文件，已依据其公开转载政策保存到仓库，保留署名。音频为独立对话，视频为约五分钟的完整课程；配套文字是对话文本，不是完整视频字幕。
+
+| 编号 | 文本与练习 | MP3 对话 | MP4 完整课程 |
 |---|---|---|---|
-| R01 | [Study skills tips](https://learnenglish.britishcouncil.org/free-resources/reading/a2/study-skills-tips) | A2 阅读 | 列出想尝试的两个学习行动 |
-| R02 | [A message to a new friend](https://learnenglish.britishcouncil.org/free-resources/reading/a2/message-new-friend) | A2 阅读 | 找人物、地点和联系目的 |
-| R03 | [An email from a friend](https://learnenglish.britishcouncil.org/free-resources/reading/a2/email-friend) | A2 阅读 | 说明安排并写一个简短回复 |
-| R04 | [An invitation to a job interview](https://learnenglish.britishcouncil.org/free-resources/reading/a2/invitation-job-interview) | A2 阅读 | 提取时间、地点与行动要求 |
-| R05 | [English course prospectus](https://learnenglish.britishcouncil.org/free-resources/reading/a2/english-course-prospectus) | A2 阅读 | 比较两个选项，说明选择理由 |
-| R06 | [Digital habits across generations](https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations) | B1 阅读 | 比较自己的数字习惯 |
-| R07 | [How to spot fake news](https://learnenglish.britishcouncil.org/free-resources/reading/b1/how-spot-fake-news) | B1 阅读 | 说出一项可实践的信息检查方法 |
-| R08 | [Robot teachers](https://learnenglish.britishcouncil.org/free-resources/reading/b1/robot-teachers) | B1 阅读 | 表达一个观点并给理由 |
-| R09 | [The Martian: a book review](https://learnenglish.britishcouncil.org/free-resources/reading/b1/martian-book-review) | B1 阅读 | 区分剧情介绍与评价 |
-| L01 | [Changing a meeting time](https://learnenglish.britishcouncil.org/free-resources/listening/a2/changing-meeting-time) | A2 音频及文本 | 听清最终时间并模拟改约 |
-| L02 | [Changing plans](https://learnenglish.britishcouncil.org/free-resources/listening/a2/changing-plans) | A2 音频及文本 | 区分原计划和新计划 |
-| L03 | [Leaving a message](https://learnenglish.britishcouncil.org/free-resources/listening/a2/leaving-message) | A2 音频及文本 | 记录来电目的并口头回电 |
-| L04 | [Transport announcements](https://learnenglish.britishcouncil.org/free-resources/listening/a2/transport-announcements) | A2 音频及文本 | 抓时间、地点与变化 |
-| V01 | [VOA Lesson 1: Welcome!](https://learningenglish.voanews.com/a/lets-learn-english-lesson-one/3111026.html) | 入门视频及文本 | 自我介绍 |
-| V02 | [VOA Lesson 2: Hello, I’m Anna!](https://learningenglish.voanews.com/a/lets-learn-english-lesson-2-hello/3113733.html) | 入门视频及文本 | 认识新朋友 |
-| V03 | [VOA Lesson 3: I’m Here!](https://learningenglish.voanews.com/a/lets-learn-english-lesson-3-i-am-here/3126527.html) | 入门视频及文本 | 说明所在位置 |
-| V04 | [VOA Lesson 4: What Is It?](https://learningenglish.voanews.com/a/lets-learn-english-lesson-4/3168920.html) | 入门视频及文本 | 询问和描述物品 |
+| L01 / V01 | [Welcome!](../lessons/listening/l01.md) | [约 30 秒](../assets/voa/lesson-01.mp3) | [约 5 分钟](../assets/voa/lesson-01.mp4) |
+| L02 / V02 | [Hello, I’m Anna!](../lessons/listening/l02.md) | [约 48 秒](../assets/voa/lesson-02.mp3) | [约 5 分钟](../assets/voa/lesson-02.mp4) |
+| L03 / V03 | [I’m Here!](../lessons/listening/l03.md) | [约 2 分钟](../assets/voa/lesson-03.mp3) | [约 5 分钟](../assets/voa/lesson-03.mp4) |
+| L04 / V04 | [What Is It?](../lessons/listening/l04.md) | [约 89 秒](../assets/voa/lesson-04.mp3) | [约 5 分钟](../assets/voa/lesson-04.mp4) |
 
-阅读页面通常有准备活动和理解练习；音频页面带 transcript。不要假设阅读文章本身有配套朗读，R 与 L 是分别选择的材料。希望听读同篇时，直接阅读 L 的文本或 V 的课程文本。
+[来源、许可与校验清单](../assets/voa/README.md)。媒体合计约 76 MB，便于整包下载；不使用 Git LFS，不依赖国外播放器。浏览器不支持 GitHub 文件预览时，下载后用本地播放器或 offline.html 打开。
 
-## 后续资源入口
+## 国内入口与扩展
 
-| 来源 | 适合用途 | 本项目建议的使用方式 | 获取与限制 |
-|---|---|---|---|
-| [British Council A2 阅读](https://learnenglish.britishcouncil.org/free-resources/reading/a2) | 基础短文 | 每周两篇，做首次理解题 | 公开资源页；其他课程可能收费，站点可能调整注册要求 |
-| [British Council B1 阅读](https://learnenglish.britishcouncil.org/free-resources/reading/b1) | 文章与工作主题 | 基础稳定后每周一两篇 | 从同级不同主题中选择 |
-| [VOA 入门课程](https://learningenglish.voanews.com/p/5644.html) | 有情境的视频学习 | 前四课之后逐课选用，每次只处理短片段 | 课程页有学习材料，播放取决于网络环境 |
-| [ELLLO](https://elllo.org/) | 分级对话和不同说话者 | 第五周起选 A1/A2/B1 中合适的级别 | 多数活动有音视频、文本和测验，逐课确认 |
-| [Breaking News English](https://breakingnewsenglish.com/) | 同主题新闻的分级学习 | 优先试较低级别；阅读后找对应听力入口 | 站内 Level 0～6 不是 CEFR A1～C2 的直接对应 |
-| [British Council Video zone](https://learnenglish.britishcouncil.org/free-resources/general/video-zone) | 后续较自然的视频 | 仅作进阶选项，不作为前四周主线 | 官方面向 B2/C1，使用 YouTube 视频，存在地区播放限制 |
-
-## 无法打开时如何替代
-
-British Council 暂时不可用：阅读用 [原创短文](../lessons/01-small-daily-habit.md)，听力改用 ELLLO 对应等级或 VOA 已能打开的一课。VOA 视频不能播放：改做 L01～L04 的音频与文本，仍按相同练习步骤。不通过反复找镜像消耗学习时间。
-
-想使用真实书籍时，先从正规分级读物的试读页判断难度，再决定购买或借阅。免费主线足以开始，不需要预先买课。
-
-## 核查记录
-
-2026-10-31 已通过网页读取核对上面 17 个具体页面的标题、来源和页面可达性，并查看资源入口。未逐个实际播放音视频，未验证每个地区、设备或登录状态下的体验。链接可达与媒体可播放分开判断；反馈问题时请写明页面标题和问题类型。所有链接指向原站，不在本仓库重新分发全文或媒体文件。
+[国内学习入口与访问说明](china-access.md) 用于后续拓展，不是前四周的必需条件。国际站资料统一移至 [可选在线拓展](optional-online.md)，开源工具仍见 [GitHub 资源](github.md)。这些入口并未经过中国大陆不同运营商的直连实测。

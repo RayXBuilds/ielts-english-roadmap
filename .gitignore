@@ -1,4 +1,3 @@
-# Private learning records and local media
 personal/
 recordings/
 .DS_Store
@@ -6,3 +5,5 @@ recordings/
 *.m4a
 *.wav
 *.mp4
+!assets/voa/*.mp3
+!assets/voa/*.mp4
