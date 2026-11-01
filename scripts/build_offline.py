@@ -4,7 +4,7 @@ import html,re
 ROOT=Path(__file__).resolve().parents[1]
 sections=[]
 for name,title in [('plans/first-28-days.md','Day 1–28'),('plans/days-29-84.md','Day 29–84')]:sections.append((ROOT/name,'plan'+('1' if 'first' in name else '2'),title))
-for folder,prefix in [('readings','r'),('listening','l'),('speaking','s')]:
+for folder,prefix in [('readings','r'),('listening','l'),('speaking','s'),('bridge','u')]:
  for f in sorted((ROOT/'lessons'/folder).glob('*.md')):
   number=re.search(r'(\d+)',f.stem)[1];sections.append((f,prefix+number,f.read_text().splitlines()[0].lstrip('# ')))
 sections.append((ROOT/'lessons/checkpoints.md','checks','阶段检查'))
@@ -47,8 +47,8 @@ def render(text,source):
  return '\n'.join(out)
 css='body{margin:0;background:#f5f3ed;color:#263244;font:17px/1.8 system-ui,sans-serif}main{max-width:920px;margin:auto;padding:28px 20px}section{padding:24px;background:#fff;margin:24px 0;border-radius:12px}a{color:#1559a4}nav a{display:inline-block;margin:4px 12px 4px 0}summary{cursor:pointer;font-weight:600}audio,video{width:100%;max-height:450px}h1,h2,h3{line-height:1.4}.table{overflow:auto}td{border-bottom:1px solid #ddd;min-width:100px;padding:8px;vertical-align:top}table{border-collapse:collapse}.item{margin:8px 0}.muted{color:#647084}'
 for mode in ['full','audio']:
- out=['<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>雅思英语学习路线 12 周离线课程</title><style>'+css+'</style><main><h1>雅思英语学习路线</h1><p>24 篇短文 · 12 课听力 · 12 周口语 · 84 天任务</p><p class="muted">解压完整目录后打开此页，无外部脚本、字体或播放器依赖。先独立作答，再展开文本或答案。原创练习非雅思真题，难度未经正式校准。阶段检查请留到第 8、12 周。</p>']
- for group,prefix in [('学习日程','plan'),('阅读短文','r'),('听力与视频','l'),('口语任务','s'),('阶段检查','checks')]:
+ out=['<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>雅思英语学习路线 12 周离线课程</title><style>'+css+'</style><main><h1>雅思英语学习路线</h1><p>24 篇短文 · 12 课听力 · 12 周口语 · 84 天任务 · 证据与改写衔接</p><p class="muted">解压完整目录后打开此页，无外部脚本、字体或播放器依赖。先独立作答，再展开文本或答案。原创练习非雅思真题，难度未经正式校准。阶段检查请留到第 8、12 周。</p>']
+ for group,prefix in [('学习日程','plan'),('阅读短文','r'),('听力与视频','l'),('口语任务','s'),('衔接单元','u'),('阶段检查','checks')]:
   out.append('<nav><strong>'+group+'</strong><br>')
   out.extend(f'<a href="#{id}">{html.escape(title if prefix in ["plan","checks"] else id.upper())}</a>' for f,id,title in sections if id.startswith(prefix))
   out.append('</nav>')

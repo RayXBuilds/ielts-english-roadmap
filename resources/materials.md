@@ -72,3 +72,7 @@
 ## 使用与来源
 
 [84 天路线](../docs/02-roadmap.md) · [下载与离线使用](offline-guide.md) · [来源及许可](../assets/voa/README.md) · [国内入口](china-access.md) · [可选在线拓展](optional-online.md)。本地包不依赖外部播放器，但 GitHub 下载本身仍受网络环境影响。
+
+## 新增衔接单元
+
+[U01 从原文证据到准确复述](../lessons/bridge/u01-evidence-and-paraphrase.md)：三次各 30 分钟，包含原创文章、六道证据判断题与理由、改写和语法练习、80～100 词摘要示例及听说迁移。可在基础路线后完成，或替换第 11 周部分训练，不额外增加每日负担。

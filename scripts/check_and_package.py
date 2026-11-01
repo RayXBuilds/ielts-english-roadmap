@@ -19,13 +19,13 @@ for name in ['offline.html','offline-audio.html']:
  assert not re.search(r'(?:src|href)="https?://',s),'External dependency'
 plan='\n'.join((ROOT/n).read_text() for n in ['plans/first-28-days.md','plans/days-29-84.md'])
 assert [int(n) for n in re.findall(r'\| Day (\d+) \|',plan)]==list(range(1,85))
-for folder,expected in [('readings',24),('listening',12),('speaking',12)]:assert len(list((ROOT/'lessons'/folder).glob('*.md')))==expected
+for folder,expected in [('readings',24),('listening',12),('speaking',12),('bridge',1)]:assert len(list((ROOT/'lessons'/folder).glob('*.md')))==expected
 manifest=json.loads((ROOT/'assets/voa/manifest.json').read_text());assert len(manifest)==24
 for r in manifest:
  f=ROOT/r['path'];assert f.stat().st_size==r['bytes'];assert hashlib.sha256(f.read_bytes()).hexdigest()==r['sha256']
  assert f.stat().st_size<50_000_000,'Unexpected oversized media'
 for mode in ['full','audio']:
- dest=DEST/f'ielts-english-roadmap-v0.3-{mode}.zip'
+ dest=DEST/f'ielts-english-roadmap-v0.4-{mode}.zip'
  with zipfile.ZipFile(dest,'w',zipfile.ZIP_DEFLATED) as z:
   for f in files:
    if mode=='audio' and (f.suffix=='.mp4' or f.name=='offline.html'):continue
@@ -38,4 +38,4 @@ for mode in ['full','audio']:
   names=set(z.namelist());s=z.read('ielts-english-roadmap/offline.html').decode()
   for src in re.findall(r'src="([^"]+)"',s):assert 'ielts-english-roadmap/'+src in names
  print(dest.name,dest.stat().st_size,hashlib.sha256(dest.read_bytes()).hexdigest())
-print('PASS: links, local HTML, 84 days, 48 lesson files, 24 media hashes, ZIP integrity')
+print('PASS: links, local HTML, 84 days, 49 lesson files, 24 media hashes, ZIP integrity')
