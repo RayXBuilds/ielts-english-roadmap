@@ -16,6 +16,12 @@
 
 GitHub 本身的国内连接仍可能不稳定；整包下载后，离线学习入口不使用外部脚本、字体或播放器。HTML 在 GitHub 上显示为源码，请下载解压后打开。
 
+## macOS 离线学习客户端
+
+**[拾阶英语：雅思英语离线学习客户端](client/README.md)** 将现有课程接入桌面应用：84 天计划、阅读、音视频播放、进度、笔记、生词收藏与编辑、JSON 备份恢复。课程与媒体随应用打包，无需登录或在线接口。
+
+[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.1.0)。首版尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。
+
 ## 新增衔接单元
 
 [U01 从原文证据到准确复述](lessons/bridge/u01-evidence-and-paraphrase.md)：三次 30 分钟训练，将阅读证据、同义改写、语法、摘要与口语连起来，附逐题解析和示例。基础 84 天编号保持不变。

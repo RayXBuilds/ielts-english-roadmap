@@ -14,3 +14,5 @@
 ## 本地构建与校验
 
 更新课程后运行 `python3 scripts/build_offline.py`，再运行 `python3 scripts/check_and_package.py /tmp/ielts-learning-packages`。两个脚本仅使用 Python 标准库。媒体新增时还应使用 ffprobe/ffmpeg 检查格式和完整解码，并更新 manifest.json；打包脚本检查文件校验和，不代替媒体内容检查。
+
+客户端课程数据也由 `build_offline.py` 同步生成。修改客户端时运行 `node --test tests/client-state.test.cjs`，并在 macOS 构建后验证播放、记录保存和备份恢复。源码说明见 [客户端文档](client/README.md)。桌面安装包输出到仓库外，不提交个人学习数据。

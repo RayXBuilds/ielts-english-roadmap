@@ -64,3 +64,7 @@ for mode in ['full','audio']:
  out.append('<footer>原创文字：RayXBuilds，CC BY 4.0。对话与教学媒体：VOA Learning English，依据原站自制内容公共领域与署名转载政策收录。详情见 assets/voa/README.md。与 IELTS 或 VOA 官方无隶属关系。</footer></main></html>')
  (ROOT/('offline.html' if mode=='full' else 'offline-audio.html')).write_text('\n'.join(out))
 print('Built 84-day readers from',len(sections),'source documents')
+
+# Desktop curriculum shares the same generated sections and stable course IDs.
+import runpy
+runpy.run_path(str(ROOT/"scripts/build_client.py"))
