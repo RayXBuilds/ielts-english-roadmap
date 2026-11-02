@@ -23,7 +23,7 @@ const paths = {
 };
 const icon = (name, cls='') => `<svg class="icon ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${paths[name] || paths.reading}"/></svg>`;
 const groups = [['home','今日学习'],['plan','学习计划'],['reading','阅读书房'],['listening','听力练习'],['speaking','口语与衔接'],['words','我的生词本']];
-const types = {reading:['阅读','20 分钟训练'],listening:['听力','10 分钟精听'],speaking:['口语','10 分钟表达'],bridge:['衔接','30 分钟训练'],check:['检查','独立完成后核对']};
+const types = {reading:['阅读','20 分钟训练'],listening:['听力','10 分钟精听'],speaking:['口语','10 分钟表达'],bridge:['雅思衔接','按单元分次完成'],check:['检查','独立完成后核对']};
 const titleOf = lesson => lesson.title.replace(/^(?:R\d+|L\d+ 与 V\d+|S\d+|U\d+)\s*/, '');
 const lessonGroup = lesson => ['bridge','check'].includes(lesson.type) ? 'speaking' : lesson.type;
 let route='home', current=null, week=Math.ceil((D.days.find(d=>!state.days[d.day])?.day || 84)/7);

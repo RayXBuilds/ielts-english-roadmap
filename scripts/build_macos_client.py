@@ -14,7 +14,7 @@ app=out/(name+'.app');contents=app/'Contents';binary=contents/'MacOS';res=conten
 binary.mkdir(parents=True,exist_ok=True);site.mkdir(parents=True,exist_ok=True)
 subprocess.run([sys.executable,str(root/'scripts/build_offline.py')],check=True)
 subprocess.run(['swiftc','-target','arm64-apple-macos14.0','-module-cache-path','/tmp/stepwise-swift-cache','-O',str(root/'client/native/main.swift'),'-o',str(binary/'StepwiseEnglish'),'-framework','Cocoa','-framework','WebKit'],check=True)
-for folder in ['client','assets','lessons']:
+for folder in ['client','assets','lessons','resources','docs','plans']:
  shutil.copytree(root/folder,site/folder,dirs_exist_ok=True,ignore=shutil.ignore_patterns('native','__pycache__'))
 for row in json.loads((root/'assets/voa/manifest.json').read_text()):
  media=site/row['path']

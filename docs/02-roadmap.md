@@ -32,3 +32,7 @@
 ## 可选衔接训练
 
 [U01 从原文证据到准确复述](../lessons/bridge/u01-evidence-and-paraphrase.md)：三次各 30 分钟，包含原创文章、六道证据判断题与理由、改写和语法练习、80～100 词摘要示例及听说迁移。可在基础路线后完成，或替换第 11 周部分训练，不额外增加每日负担。
+
+## 八周雅思专项扩展
+
+[U00 系统资料指南](../resources/ielts-systematic.md) · [U02 八周任务安排](../lessons/bridge/u02-ielts-eight-weeks.md) · [U03 四项原创工作坊](../lessons/bridge/u03-community-library.md)。基础 84 天之后使用，每周约 6 小时；原有课程编号保持不变，A/G 写作按用途选择。

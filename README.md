@@ -20,9 +20,15 @@ GitHub 本身的国内连接仍可能不稳定；整包下载后，离线学习�
 
 **[拾阶英语：雅思英语离线学习客户端](client/README.md)** 将现有课程接入桌面应用：84 天计划、阅读、音视频播放、进度、笔记、生词收藏与编辑、JSON 备份恢复。课程与媒体随应用打包，无需登录或在线接口。0.2 版重做界面与折页书本图标，新增全局搜索、专注阅读、字号调整与生词复习筛选。
 
-[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.0)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
+[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.1)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
 
-## 新增衔接单元
+## 新增八周雅思系统课程
+
+在原有 12 周基础之上，新增 [U02 八周专项安排](lessons/bridge/u02-ielts-eight-weeks.md)：每周约 6 小时，46 项具体任务，覆盖听力、阅读、A/G 分流写作、口语、限时练习与复盘。配套 [U03 社区图书馆工作坊](lessons/bridge/u03-community-library.md)，含原创阅读、逐题解析、词汇语法、听力迁移、写作与口语任务。
+
+[U00 系统资料选用指南](resources/ielts-systematic.md) 核查 BC、IELTS、剑桥官方入口，区分免费、报名权益与付费材料。新增原创内容和课程表已接入两种离线阅读器与客户端 0.2.1。官方题库未获公开转载许可，保留官方入口；离线练习不替代正式题型和陌生整卷评估。
+
+## 证据与改写衔接单元
 
 [U01 从原文证据到准确复述](lessons/bridge/u01-evidence-and-paraphrase.md)：三次 30 分钟训练，将阅读证据、同义改写、语法、摘要与口语连起来，附逐题解析和示例。基础 84 天编号保持不变。
 
@@ -59,4 +65,4 @@ GitHub 本身的国内连接仍可能不稳定；整包下载后，离线学习�
 
 原创文字按 [CC BY 4.0](LICENSE.md) 分享。VOA 自制教学音视频与对话全文依据其公共领域及署名转载政策收录，详见 [来源与许可](assets/voa/README.md)，不冒用本项目原创许可。其他机构材料只提供必要来源入口。
 
-本项目与 IELTS 或 VOA 官方无隶属关系。欢迎 [贡献资料](CONTRIBUTING.md)；个人日志和录音请保存到私有空间。更新日期：2026-11-01。
+本项目与 IELTS 或 VOA 官方无隶属关系。欢迎 [贡献资料](CONTRIBUTING.md)；个人日志和录音请保存到私有空间。更新日期：2026-11-02。

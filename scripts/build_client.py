@@ -24,9 +24,12 @@ for name in ['first-28-days.md','days-29-84.md']:
    return f'<a href="#{id}">{html.escape(label)}</a>'
   material=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,c[2])
   days.append(dict(day=int(c[0].split()[1]),title=c[1],materials=material,steps=c[3],output=c[4]))
-assert len(lessons)>=50 and len({l['id'] for l in lessons})==len(lessons)
+assert len(lessons)==53 and len({l['id'] for l in lessons})==len(lessons)
 assert [d['day'] for d in days]==list(range(1,85))
 ids={l['id'] for l in lessons}
+assert {'u00','u01','u02','u03'} <= ids
+for lesson in lessons:
+ for target in re.findall(r'href="#([^"]+)"',lesson['html']):assert target in ids,(lesson['id'],target)
 for d in days:
  for target in re.findall(r'href="#([^"]+)"',d['materials']):assert target in ids,(d['day'],target)
 credits=(ROOT/'assets/voa/README.md').read_text()+'\n\n'+(ROOT/'LICENSE.md').read_text()
