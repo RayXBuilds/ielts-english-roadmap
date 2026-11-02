@@ -30,5 +30,5 @@ ids={l['id'] for l in lessons}
 for d in days:
  for target in re.findall(r'href="#([^"]+)"',d['materials']):assert target in ids,(d['day'],target)
 credits=(ROOT/'assets/voa/README.md').read_text()+'\n\n'+(ROOT/'LICENSE.md').read_text()
-(ROOT/'client/data.js').write_text('window.COURSE_DATA='+json.dumps(dict(lessons=lessons,days=days,credits=credits),ensure_ascii=False)+';\n')
+(ROOT/'client/data.js').write_text('window.COURSE_DATA='+json.dumps(dict(lessons=lessons,days=days,credits=credits,version=json.loads((ROOT/'client/version.json').read_text())['version']),ensure_ascii=False)+';\n')
 print('Client data:',len(lessons),'units;',len(days),'days')

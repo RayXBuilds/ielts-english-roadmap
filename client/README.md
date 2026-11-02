@@ -2,9 +2,17 @@
 
 macOS 桌面客户端，面向中文自学者。从阅读、听力和日常交流开始，为雅思打基础。无需登录，课程与音视频随应用一起下载，学习时没有外部网站、字体、接口或播放器依赖。
 
+## 0.2 新版界面与图标
+
+![拾阶英语新版图标](assets/app-icon.png)
+
+重做今日学习首页、课程目录、分周计划、阅读排版、生词本和设置页面；采用统一线条图标、折页书本应用图标与浅色桌面布局。新增全局课程搜索（⌘K）、完成状态筛选、三档阅读字号、专注阅读、正文旁笔记、独立音频播放器、生词搜索与复习筛选、删除后撤销。
+
+升级前在旧版导出备份，退出旧应用后用新版替换。原有应用标识和记录目录保持不变；0.1 版备份仍可恢复。新版的备份入口位于侧栏「设置与备份」。课程与音视频仍全部离线提供，没有加入付费墙或账号要求。
+
 ## 下载与使用
 
-在 [客户端发布页](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.1.0) 下载 `Stepwise-English-macOS-arm64-v0.1.0.zip`，解压得到「拾阶英语.app」，可将它放入「应用程序」文件夹后打开。不要直接在压缩包中运行。
+在 [客户端发布页](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.0) 下载 `Stepwise-English-macOS-arm64-v0.2.0.zip`，解压得到「拾阶英语.app」，可将它放入「应用程序」文件夹后打开。不要直接在压缩包中运行。
 
 - 首版为 Apple 芯片 Mac（M 系列、arm64），构建最低目标为 macOS 14；实测环境为当前开发 Mac。尚未逐一验证所有系统版本，未提供 Intel Mac 或 Windows 安装包。
 - 当前为开发者预览版，使用本地 ad-hoc 签名，**没有 Apple Developer ID 签名或公证**。网上下载后可能被 macOS 拦截；此版本不承诺双击即能通过 Gatekeeper。仅在确认来源可信后，可按 [Apple 官方说明](https://support.apple.com/zh-cn/102445) 在「系统设置 → 隐私与安全性」中为此应用选择「仍要打开」。不要关闭系统全局安全保护。熟悉开发的使用者也可审阅源码后自行构建。
@@ -29,7 +37,7 @@ macOS 桌面客户端，面向中文自学者。从阅读、听力和日常交�
 
 ## 学习记录与隐私
 
-桌面版将记录保存在本机用户目录 `~/Library/Application Support/StepwiseEnglish/progress.json`，不会上传到 GitHub。应用文件和个人记录分开，替换应用版本不会主动清空记录。定期点击左下角「导出学习备份」，将 JSON 放在自己的安全位置；备份含个人笔记，不要提交到公开仓库。
+桌面版将记录保存在本机用户目录 `~/Library/Application Support/StepwiseEnglish/progress.json`，不会上传到 GitHub。应用文件和个人记录分开，替换应用版本不会主动清空记录。定期打开「设置与备份 → 导出学习备份」，将 JSON 放在自己的安全位置；备份含个人笔记，不要提交到公开仓库。
 
 「恢复学习备份」会替换当前记录，导入前会提醒备份。格式不正确的备份不会替换已有记录；读取异常时停止写入，避免覆盖原文件。关闭应用后仍保留学习进度。没有跨设备实时同步。
 
@@ -51,6 +59,8 @@ codesign --verify --deep --strict /tmp/stepwise-client/拾阶英语.app
 
 ## 来源与许可
 
-课程原创文字：RayXBuilds，按 [CC BY 4.0](../LICENSE.md) 分享。VOA Learning English 对话与媒体沿用 [已核验的来源和许可](../assets/voa/README.md)；每个文件的原始网址、大小、SHA-256 和时长见 [来源清单](../assets/voa/manifest.json)。客户端内「学习总览 → 来源与许可」可离线查看署名和依据。
+课程原创文字：RayXBuilds，按 [CC BY 4.0](../LICENSE.md) 分享。VOA Learning English 对话与媒体沿用 [已核验的来源和许可](../assets/voa/README.md)；每个文件的原始网址、大小、SHA-256 和时长见 [来源清单](../assets/voa/manifest.json)。客户端内「设置与备份 → 查看完整来源与许可」可离线查看署名和依据。
 
 本目录的手写程序代码、图标生成代码、新增的两个客户端构建脚本及客户端测试采用 [MIT License](LICENSE)。生成课程数据内的文字和第三方媒体不改用 MIT。与 IELTS 或 VOA 官方无隶属关系；原创练习不是官方真题，不承诺分数。
+
+界面开发测试可使用 `python3 scripts/build_macos_client.py /tmp/stepwise-qa --qa`，测试包使用独立的应用标识与 StepwiseEnglish-QA 数据目录，不写入正式学习记录。版本号在 version.json 维护，正式构建拒绝覆盖已有 ZIP。

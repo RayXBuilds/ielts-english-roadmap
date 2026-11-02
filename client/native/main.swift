@@ -6,7 +6,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, WKScriptMessageHandler, WKNa
     var window: NSWindow!
     var web: WKWebView!
     var site: URL!
-    let store = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0].appendingPathComponent("StepwiseEnglish/progress.json")
+    let store = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0].appendingPathComponent((Bundle.main.bundleIdentifier?.hasSuffix(".qa") == true ? "StepwiseEnglish-QA" : "StepwiseEnglish") + "/progress.json")
     func notice(_ text: String) {
         let data = try! JSONSerialization.data(withJSONObject: [text])
         web.evaluateJavaScript("window.nativeNotice(\(String(data:data,encoding:.utf8)!)[0])")
@@ -26,8 +26,8 @@ class AppDelegate: NSObject, NSApplicationDelegate, WKScriptMessageHandler, WKNa
         config.userContentController.add(self,name:"app")
         config.userContentController.addUserScript(WKUserScript(source:"window.NATIVE_MODE=true;window.NATIVE_STATE=\(raw);window.STATE_ERROR=\(loadFailed);",injectionTime:.atDocumentStart,forMainFrameOnly:true))
         web=WKWebView(frame:.zero,configuration:config);web.navigationDelegate=self
-        window=NSWindow(contentRect:NSRect(x:0,y:0,width:1200,height:820),styleMask:[.titled,.closable,.miniaturizable,.resizable],backing:.buffered,defer:false)
-        window.title="拾阶英语 · 离线学习";window.minSize=NSSize(width:850,height:600);window.contentView=web;window.center();window.makeKeyAndOrderFront(nil)
+        window=NSWindow(contentRect:NSRect(x:0,y:0,width:1280,height:860),styleMask:[.titled,.closable,.miniaturizable,.resizable],backing:.buffered,defer:false)
+        window.appearance=NSAppearance(named:.aqua);window.title="拾阶英语 · 你的英语学习空间";window.setFrameAutosaveName("StepwiseMainWindow");window.minSize=NSSize(width:850,height:600);window.contentView=web;window.center();window.makeKeyAndOrderFront(nil)
         web.loadFileURL(site.appendingPathComponent("client/index.html"),allowingReadAccessTo:site)
         NSApp.activate(ignoringOtherApps:true)
         if loadFailed {let a=NSAlert();a.messageText="学习记录无法读取";a.informativeText="原文件已保留。请使用有效备份恢复；恢复前不会覆盖原记录。";a.runModal()}
@@ -43,7 +43,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, WKScriptMessageHandler, WKNa
         case "save", "export":
             guard let raw=body["payload"] as? String,raw.utf8.count<10*1024*1024,let data=raw.data(using:.utf8),(try? JSONSerialization.jsonObject(with:data)) != nil else {notice("记录格式无效，未保存");return}
             if action == "save" {
-                do {try FileManager.default.createDirectory(at:store.deletingLastPathComponent(),withIntermediateDirectories:true);try data.write(to:store,options:.atomic);web.evaluateJavaScript("window.nativeSaved()") } catch {notice("保存失败，请导出备份：\(error.localizedDescription)")}
+                do {try FileManager.default.createDirectory(at:store.deletingLastPathComponent(),withIntermediateDirectories:true);try data.write(to:store,options:.atomic);web.evaluateJavaScript("window.nativeSaved()") } catch { let message="保存失败，请导出备份：\(error.localizedDescription)";let arg=try! JSONSerialization.data(withJSONObject:[message]);web.evaluateJavaScript("window.nativeSaveFailed(\(String(data:arg,encoding:.utf8)!)[0])") }
             } else {
                 let panel=NSSavePanel();panel.nameFieldStringValue="拾阶英语学习备份.json";panel.allowedContentTypes=[.json]
                 panel.beginSheetModal(for:window){r in if r == .OK,let url=panel.url {do{try data.write(to:url,options:.atomic);self.notice("备份已导出")}catch{self.notice("导出失败：\(error.localizedDescription)")}}}
