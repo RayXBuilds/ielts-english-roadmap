@@ -12,7 +12,9 @@ def body(p):
  # Reader cannot open arbitrary Markdown; references are in the same unit or U35.
  def link(m):
   is_image,label,url=m.groups()
-  if url.startswith(('https://','http://')):return m[0]
+  if url.startswith(('https://','http://')):
+   if p.name=='SOURCES.md':return f'{label}（联网时复制完整网址到浏览器打开：{url}）'
+   return m[0]
   if is_image:
    target=(p.parent/url).resolve();rel=target.relative_to(ROOT);assert target.is_file()
    return f'![{label}](../../{rel})'
