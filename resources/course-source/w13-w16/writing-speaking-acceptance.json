@@ -1,0 +1,66 @@
+{
+  "scope": "writing-speaking W13-W16 original teaching materials and four SVGs",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T03:09:05.560320+08:00",
+  "freeze_sha256": "7288e728318a006d5d5c98adc3aadb34b53bbbe3611a94f7926b7ce0d5cd10f8",
+  "frozen_files": 71,
+  "counts": {
+    "lesson_items": 24,
+    "student_reference_pages": 48,
+    "writing_models": 12,
+    "writing_model_words": 2761,
+    "speaking_tasks": 12,
+    "full_speaking_tasks": 4,
+    "figures": 4,
+    "prior_files_unchanged": 203
+  },
+  "sub_batches": {
+    "W13": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W14": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W15": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W16": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    }
+  },
+  "blocking_issues": [],
+  "nonblocking_observations": [
+    "OBS-WS13-01",
+    "OBS-WS13-02"
+  ],
+  "evidence": {
+    "snapshot-check.json": "952be056026de79ad190426db8d241ccbdd382e73aac663ccffeaa8c2ea5540c",
+    "checks.json": "f6c32dfb62315e9089731114284da4b60ff8937748733874cfc73b85a48206e0",
+    "manual-review.json": "f60156e18fda45e5dc2e7870f337d48f430064faaf4748333982210e26ec79be",
+    "visual-review.json": "4ff37e1869a84e4c260fa93dd02d48f2a2095c57ab6aa200769c6968369ddc8b",
+    "issues.json": "4e5fbcbacfeb6886b5a1b7ce96506adf05aa6b128b762d47643fe847d1041149",
+    "REPORT.md": "5b875c30067fe42bf612193b4bbc5e969c3514b71b6d72930e97d93e440384cf",
+    "check.py": "76bd955714e75800df4daf56a5b2cf0c98cda26046b6b70947d5c1db2ca49308"
+  },
+  "source_drift": [],
+  "limits": [
+    "No actual learner submission or timing verified",
+    "No human or official score",
+    "W16 is not formal unseen T16",
+    "No audio, integration, release or publishing approval",
+    "Reading/listening patches excluded this turn"
+  ],
+  "write_scope": "curriculum-expansion/qa only"
+}

@@ -1,0 +1,70 @@
+{
+  "scope": "reading W13-W16 QA-R12/R13 targeted recheck",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T04:35:19.039376+08:00",
+  "freeze_sha256": "dd222715adfc407a5807c3e3fb25f23eedc29be6f57deec6127e940f5ede6123",
+  "frozen_files": 77,
+  "closed_issues": [
+    "QA-R12",
+    "QA-R13"
+  ],
+  "remaining_issues": [],
+  "nonblocking_observations": [
+    "OBS-R13-01"
+  ],
+  "parent_acceptance": {
+    "result": "reading-w13-w16/acceptance.json",
+    "sha256": "0e0c38f9c4e01dc9d958a7a170aa7f7237cfff020d93eab989fa421b169e60bf"
+  },
+  "counts": {
+    "passages": 12,
+    "words": 11080,
+    "questions": 160,
+    "weekly_papers": 4,
+    "unchanged_questions": 158,
+    "unchanged_passages": 12,
+    "prior_files": 186,
+    "prior_freezes": 3
+  },
+  "sub_batches": {
+    "W13": {
+      "conclusion": "passed",
+      "questions": 40,
+      "required_minutes": 180
+    },
+    "W14": {
+      "conclusion": "passed",
+      "questions": 40,
+      "required_minutes": 180
+    },
+    "W15": {
+      "conclusion": "passed",
+      "questions": 40,
+      "required_minutes": 180
+    },
+    "W16": {
+      "conclusion": "passed",
+      "questions": 40,
+      "required_minutes": 180
+    }
+  },
+  "evidence": {
+    "snapshot-check.json": "cda2a362105e0e98a7e29114c7489a854781a60f08105f09bb7582809480c516",
+    "checks.json": "6a8d51df57e4e6778605c6ea66b8b4ee9c87e7c4790ec1f303c538d91aa18f4a",
+    "supplement.json": "892cf28b69bacc97e339dfaa9d8f0b50ab0d92d4178a473cad632ebbbad20e05",
+    "patch-checks.json": "c3712cc106ee73ebd00c4764542d8ce54d1ace4b33addd000d1b2f1442f65081",
+    "independent-changes.diff": "9c071300c0c4edcf369f33e3690666a40fe63384b6a40a1640ac00dd3ef57752",
+    "issues.json": "30c25690eae11a7358ac8a2092a8626f3d18e2c67c3c77616cd59c29c8a5704a",
+    "REPORT.md": "681ea796b4e8e319c536903850f349d430e49827033aa8a3512ff3634b8a8db4",
+    "check.py": "cd2a61debca0f172ca3fa1fe3e7befb820551ec32907b1f5382958e0bc40b736",
+    "supplement.py": "65d8665b7400c6cf5a8c5031697280e145327d8c4faf9d52deeaaf8a1e29f880",
+    "patch-check.py": "ee7480caf939fa739281839ceaff8e638c869eaeb08a638092f289635a2f9295"
+  },
+  "source_drift": [],
+  "write_scope": "curriculum-expansion/qa only",
+  "not_approved": [
+    "Actual learner completion/timing",
+    "Formal T16 or human score",
+    "Integration/publication"
+  ]
+}

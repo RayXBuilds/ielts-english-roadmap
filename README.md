@@ -20,6 +20,10 @@
 
 新增12篇长文（10,936词、160题）、24个写说分支课项及4张本地SVG，内容独立验收通过。入口：[U16 第9周](lessons/bridge/u16-week-09.md) · [U17 第10周](lessons/bridge/u17-week-10.md) · [U18 第11周](lessons/bridge/u18-week-11.md) · [U19 第12周](lessons/bridge/u19-week-12.md) · [U20 复盘与反馈](lessons/bridge/u20-feedback.md)。整合图示、导航和参考折叠已通过独立浏览器验收，随客户端0.2.5/课程v0.9提供。新增完整听力仍未完成。
 
+## 第13～16周文字课程（源码预览）
+
+新增12篇长文（11,080词、160题）、24个写说分支课项及4张本地SVG，内容独立验收通过。入口：[U21 第13周](lessons/bridge/u21-week-13.md) · [U22 第14周](lessons/bridge/u22-week-14.md) · [U23 第15周](lessons/bridge/u23-week-15.md) · [U24 第16周](lessons/bridge/u24-week-16.md) · [U25 复盘与反馈](lessons/bridge/u25-feedback.md)。整合GUI验收待完成；当前公开客户端0.2.5/课程v0.9不含本批。新增完整听力仍未完成。
+
 ## 先下载再开始
 
 **12 周的必修材料已全部放入仓库：24 篇原创短文、12 段官方对话 MP3、12 个官方课程 MP4，以及对话全文、练习、答案、12 张口语任务卡与阶段检查。** 获取后可以离线使用，不需要每天打开海外学习网站。
