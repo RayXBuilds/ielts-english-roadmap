@@ -14,16 +14,19 @@ sections.append((ROOT/'lessons/checkpoints.md','checks','阶段检查'))
 ids={f.resolve():id for f,id,title in sections}
 def inline(text,source):
  def link(m):
-  label,url=m.groups()
+  is_image,label,url=m.groups()
   if url.startswith(('https://','http://')):return html.escape(label)+'（原始来源见文档）'
   target=(source.parent/url.split('#')[0]).resolve()
-  if target in ids:return f'<a href="#{ids[target]}">{html.escape(label)}</a>'
+  if not is_image and target in ids:return f'<a href="#{ids[target]}">{html.escape(label)}</a>'
   try:rel=str(target.relative_to(ROOT))
   except ValueError:return html.escape(label)
+  if is_image:
+   assert target.is_file() and target.suffix.lower() in {'.svg','.png','.jpg','.jpeg','.webp'},(source,url)
+   return f'<img src="{html.escape(rel,quote=True)}" alt="{html.escape(label,quote=True)}" loading="lazy" style="display:block;max-width:100%;height:auto;margin:12px auto">'
   return f'<a href="{html.escape(rel,quote=True)}">{html.escape(label)}</a>'
- # Escape all prose; only markdown links and bold are supported.
+ # Escape prose; support local lesson diagrams without external image requests.
  parts=[];last=0
- for m in re.finditer(r'\[([^\]]+)\]\(([^)]+)\)',text):parts.extend([html.escape(text[last:m.start()]),link(m)]);last=m.end()
+ for m in re.finditer(r'(!?)\[([^\]]+)\]\(([^)]+)\)',text):parts.extend([html.escape(text[last:m.start()]),link(m)]);last=m.end()
  parts.append(html.escape(text[last:]));return re.sub(r'\*\*(.+?)\*\*',r'<strong>\1</strong>',''.join(parts))
 def render(text,source):
  out=[];paragraph=[];table=False
