@@ -20,7 +20,7 @@ GitHub 本身的国内连接仍可能不稳定；整包下载后，离线学习�
 
 **[拾阶英语：雅思英语离线学习客户端](client/README.md)** 将现有课程接入桌面应用：84 天计划、阅读、音视频播放、进度、笔记、生词收藏与编辑、JSON 备份恢复。课程与媒体随应用打包，无需登录或在线接口。0.2 版重做界面与折页书本图标，新增全局搜索、专注阅读、字号调整与生词复习筛选。
 
-[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.0)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。
+[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.0)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
 
 ## 新增衔接单元
 
