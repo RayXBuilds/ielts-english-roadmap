@@ -24,7 +24,7 @@ for name in ['first-28-days.md','days-29-84.md']:
    return f'<a href="#{id}">{html.escape(label)}</a>'
   material=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,c[2])
   days.append(dict(day=int(c[0].split()[1]),title=c[1],materials=material,steps=c[3],output=c[4]))
-assert len(lessons)==60 and len({l['id'] for l in lessons})==len(lessons)
+assert len(lessons)==65 and len({l['id'] for l in lessons})==len(lessons)
 assert [d['day'] for d in days]==list(range(1,85))
 ids={l['id'] for l in lessons}
 assert {'u00','u01','u02','u03','u04','u05'} <= ids

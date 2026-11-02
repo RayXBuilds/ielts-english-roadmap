@@ -1,0 +1,315 @@
+{
+  "scope": "W05-W08 accepted original reading and writing-speaking text/SVG",
+  "source_files": [
+    {
+      "path": "reading/R-W05-01/answers.md",
+      "sha256": "91082a82ee5e31d9f17aff095be998b2d2b7982679638541386927389e84bf04"
+    },
+    {
+      "path": "reading/R-W05-01/student.md",
+      "sha256": "1f4803ec5f5a2c37178fb12b67cf62db1dd897c49607379842038b84b7d47590"
+    },
+    {
+      "path": "reading/R-W05-02/answers.md",
+      "sha256": "9d62190877aed86eedd6e05572af83273f0bdb533864007b993b6fcef86a033d"
+    },
+    {
+      "path": "reading/R-W05-02/student.md",
+      "sha256": "8fb655be611aa41b85f0cda84490fe773c53aa1cf25fa4322948f166ddfd635f"
+    },
+    {
+      "path": "reading/R-W05-03/answers.md",
+      "sha256": "8e500e5e8e1982429a92f2c2930eb9420466ea78fb27cccda4f815a949003043"
+    },
+    {
+      "path": "reading/R-W05-03/student.md",
+      "sha256": "b4ca6c4a6d8939c5b5db6802acfd8fc829561b80981fd36fe4374d4d3613d205"
+    },
+    {
+      "path": "reading/R-W06-01/answers.md",
+      "sha256": "6cb9e2330dc0f9d18034cdd2c651c2fd73060d35ece96d1398b25990dba6addc"
+    },
+    {
+      "path": "reading/R-W06-01/student.md",
+      "sha256": "5b0430f12c2c19acadfcc527b8e6b774abaa89be825b8db3ac5d464cb88c6ad5"
+    },
+    {
+      "path": "reading/R-W06-02/answers.md",
+      "sha256": "9a81a867f9412b02353405909f89a2dbb11d68462fa653dcc442d58c1ada791b"
+    },
+    {
+      "path": "reading/R-W06-02/student.md",
+      "sha256": "566058d06039550a5824318e69052d41b5e6f9e4d6ec25f571fe7f0c6d4ef350"
+    },
+    {
+      "path": "reading/R-W06-03/answers.md",
+      "sha256": "f0361bdd072a59d72b623e9bbca1f6083d94caea4c13dbb1277dfb1ef263c2ea"
+    },
+    {
+      "path": "reading/R-W06-03/student.md",
+      "sha256": "efa16d3a4232afdeae61f552ab56f2c4e33b0ba67bc0437e50c16a10c0e0ba42"
+    },
+    {
+      "path": "reading/R-W07-01/answers.md",
+      "sha256": "557f379a9533ceb45203eb2028844777ca72c162c2a7d2b3e98ffc83ea70d72a"
+    },
+    {
+      "path": "reading/R-W07-01/student.md",
+      "sha256": "fb4df32cc9c892bc7a357e179219ef07233b2e4e6880c84daf07433eaffa5dd3"
+    },
+    {
+      "path": "reading/R-W07-02/answers.md",
+      "sha256": "7fed24d9eeb923707362642c144dee36d913e864c36789750307e2e6ebec3563"
+    },
+    {
+      "path": "reading/R-W07-02/student.md",
+      "sha256": "26e918cd77b5b80ee66a6a3f6d59459977547fc9359e40063590dfe1d9a64781"
+    },
+    {
+      "path": "reading/R-W07-03/answers.md",
+      "sha256": "ac1c832fb1d6fe30be4efc5d3b0f2381eb672c208ad8cdb4965fe052533b54f1"
+    },
+    {
+      "path": "reading/R-W07-03/student.md",
+      "sha256": "2eda53b4ebaca02af29925c38f201cbae2390af254d75db807a5c299ea2eb4bf"
+    },
+    {
+      "path": "reading/R-W08-01/answers.md",
+      "sha256": "98cb77235f23142b2364c68048867a16ef30df3be8b09688795e8b19ea83c38c"
+    },
+    {
+      "path": "reading/R-W08-01/student.md",
+      "sha256": "fb2014a8829fb098bb0496594f2227f2d01f1ecd71bd26db7f4918769b17a3a1"
+    },
+    {
+      "path": "reading/R-W08-02/answers.md",
+      "sha256": "96dc75d3c1aff06df335fb4cfe12b00b8517ef28bd8da3e3bd885c0d7299d966"
+    },
+    {
+      "path": "reading/R-W08-02/student.md",
+      "sha256": "57fb8875be79483dc5f8ded962ab586a25d22aa2696aa840d3b85d40dd5be3e9"
+    },
+    {
+      "path": "reading/R-W08-03/answers.md",
+      "sha256": "937df93d93d4c31ca5e3dadb0b5e5483de1a3842380503e704bae44c86418db2"
+    },
+    {
+      "path": "reading/R-W08-03/student.md",
+      "sha256": "872b9bf2d22798c12aa38efe865cd9d657c40bed9d6cc7cdd75050cc13f94500"
+    },
+    {
+      "path": "writing-speaking/W05/s1-reference.md",
+      "sha256": "30bd62fee62da05e4ae500d85c8a14be0dea24cd3f507b6d1f9b664bcdfa1f06"
+    },
+    {
+      "path": "writing-speaking/W05/s1-student.md",
+      "sha256": "393fee7da7f5a5dfc1da3eb9714abe825f7bc516378cd1e5db9acbde71b4eb5f"
+    },
+    {
+      "path": "writing-speaking/W05/s2-reference.md",
+      "sha256": "98e68bce6a522b0c8cc294e84d364a26b961458cd5a84b6292037cecca2dbd8a"
+    },
+    {
+      "path": "writing-speaking/W05/s2-student.md",
+      "sha256": "ba9223a587e763b48c3965972421820c84405b2feb10c9aa176fc510cdd64788"
+    },
+    {
+      "path": "writing-speaking/W05/s3-reference.md",
+      "sha256": "8614004abef9083b82155f16bcd0af7f5f76a1a5a590a75eb949ae58fcc66191"
+    },
+    {
+      "path": "writing-speaking/W05/s3-student.md",
+      "sha256": "1bc81dc8888b21e2384b64ee694a8895c48301103699dcdca1ba20a0cb83612c"
+    },
+    {
+      "path": "writing-speaking/W05/t1a-reference.md",
+      "sha256": "4cbc0c00060e507e2e16ac2e87e5f82ff949ca3f060e90b4d2e38280eeb28390"
+    },
+    {
+      "path": "writing-speaking/W05/t1a-student.md",
+      "sha256": "1d1f0f13d68670c04bd7ba9f9606a29fe177db35391db7c100e31c2b9d96bde2"
+    },
+    {
+      "path": "writing-speaking/W05/t1g-reference.md",
+      "sha256": "dceaffc041b1b3644afa54afca3f0a0715fb182025d578aed9a90cc6f0eb2953"
+    },
+    {
+      "path": "writing-speaking/W05/t1g-student.md",
+      "sha256": "ca206c34e506ea11336605acceea8d24524b89f40461da26bebcd175e9778418"
+    },
+    {
+      "path": "writing-speaking/W05/t2-reference.md",
+      "sha256": "839b3ccb44f8ea88cb37f2df51e608ac16ebf6069887572cc6e04fabe8fc3add"
+    },
+    {
+      "path": "writing-speaking/W05/t2-student.md",
+      "sha256": "1b7bccb27e141e7426cbd929e7c224d548c6a66ad6c7f267927d512fe00a4616"
+    },
+    {
+      "path": "writing-speaking/W06/s1-reference.md",
+      "sha256": "c5b6bb92a44da52ed1ef8e81775afa845b3e175f000e8495fd911429d942d792"
+    },
+    {
+      "path": "writing-speaking/W06/s1-student.md",
+      "sha256": "eb0adb3e76d62651b519144f5c4097a632e27d470d23ca4dfb0fff0fcad3f1cb"
+    },
+    {
+      "path": "writing-speaking/W06/s2-reference.md",
+      "sha256": "7d461a5db997871aa738f5b100fbf85190188a10cec80e41b5c648bf2d5a03a8"
+    },
+    {
+      "path": "writing-speaking/W06/s2-student.md",
+      "sha256": "396fa81e9887cfb058d729b7174de5a84b0c242b641896a6dda4f9396064a1a5"
+    },
+    {
+      "path": "writing-speaking/W06/s3-reference.md",
+      "sha256": "9272af0598ad7db2a8a8c2a40fda522048bdff098231fd38fcec69b3fdfec796"
+    },
+    {
+      "path": "writing-speaking/W06/s3-student.md",
+      "sha256": "3037fa9f2a0e1dfa23cb56050ef21cf5feedd863ade591729923a1510c420ae7"
+    },
+    {
+      "path": "writing-speaking/W06/t1a-reference.md",
+      "sha256": "8e9d0f81f34131491acf08d66ee37241b3abfcecc6baec486da3e0cac9d6974c"
+    },
+    {
+      "path": "writing-speaking/W06/t1a-student.md",
+      "sha256": "4b0c8c3dd960ebd748281d29ddcb44d5b915c93bf79e38344d69bc75b77bfc1d"
+    },
+    {
+      "path": "writing-speaking/W06/t1g-reference.md",
+      "sha256": "a799e705650598ed8863432ba1b9e514dc40f945a15a8f4ea25239ebf99a1cad"
+    },
+    {
+      "path": "writing-speaking/W06/t1g-student.md",
+      "sha256": "e976f107687abd7df7871e1f86dd20a955c561995fb5ca23f7a13e28919196c3"
+    },
+    {
+      "path": "writing-speaking/W06/t2-reference.md",
+      "sha256": "50ed6deb482ddea473f35223b969b3208ec4e89b3b45039845b172b71a8ec592"
+    },
+    {
+      "path": "writing-speaking/W06/t2-student.md",
+      "sha256": "b2a91a053eb154bce611806f8fac6c890bddc57487c91145fd6ff01d17cdb0be"
+    },
+    {
+      "path": "writing-speaking/W07/s1-reference.md",
+      "sha256": "95dd03ef7f3d794fed45a06dd29a700c8e2d4f049b9b3cfb2ccfc2daec7f5b10"
+    },
+    {
+      "path": "writing-speaking/W07/s1-student.md",
+      "sha256": "09d5f0f0e0e84256a32d1577639153fe301531a396262daa29f508d2191c4c01"
+    },
+    {
+      "path": "writing-speaking/W07/s2-reference.md",
+      "sha256": "88ecce779e907b01d920443b8f1302c55984c4acdd9ec29e6c4ba31e3d4ea495"
+    },
+    {
+      "path": "writing-speaking/W07/s2-student.md",
+      "sha256": "f2e9e750953483adeaecf68dc679d45fcb415417826bd406a7a85ff7574b73c2"
+    },
+    {
+      "path": "writing-speaking/W07/s3-reference.md",
+      "sha256": "e5d91a338366b200db42aaeb235a956db61fdb0a6e89a78e03fb0f47042789f8"
+    },
+    {
+      "path": "writing-speaking/W07/s3-student.md",
+      "sha256": "a9f46f401b5f071b6064f48cee17fc14b4c88e65e87c770dd156f6fc6c76cca6"
+    },
+    {
+      "path": "writing-speaking/W07/t1a-reference.md",
+      "sha256": "541c0930056ba788ffe5b9ec5922c1749181dcb86aff526dfa440ff08b2469ed"
+    },
+    {
+      "path": "writing-speaking/W07/t1a-student.md",
+      "sha256": "a6781138b1243515ed6bb01bf03402fb6e144f8d6962a4cb198e4cd1ff524d0d"
+    },
+    {
+      "path": "writing-speaking/W07/t1g-reference.md",
+      "sha256": "b96bcdb32e18123b83c295b0fa81af1e5acc5511b3bb7a2312282ea624af786b"
+    },
+    {
+      "path": "writing-speaking/W07/t1g-student.md",
+      "sha256": "04d76411b864837c6ab8072001b1e4336981da57bfe1bc7b8a04d8f1dceba138"
+    },
+    {
+      "path": "writing-speaking/W07/t2-reference.md",
+      "sha256": "d5765b1b57286b2d343a183e29153121f75e0be11b8a6515e15956b50616b5fd"
+    },
+    {
+      "path": "writing-speaking/W07/t2-student.md",
+      "sha256": "3426a34960d3bc4897027122679860ce9e5a2e5bfdf67557f4cdc148b5e6164b"
+    },
+    {
+      "path": "writing-speaking/W08/s1-reference.md",
+      "sha256": "596d49abcfb833264a4ce9036d4177c67201a4bfa0e3eb89c6bc961b64172f41"
+    },
+    {
+      "path": "writing-speaking/W08/s1-student.md",
+      "sha256": "5a737d099a54fb5b5e2d9f5148130807aaea2bae61f463ef3969138e2b30dae2"
+    },
+    {
+      "path": "writing-speaking/W08/s2-reference.md",
+      "sha256": "6ddb0ba5c96fc74ed2bac57adcc763fe4a2452a9f28ad4feb9a463480f7161ea"
+    },
+    {
+      "path": "writing-speaking/W08/s2-student.md",
+      "sha256": "644629e8cad00129e70981f124f0637089c7985bcacad5341b7e4057c8b29897"
+    },
+    {
+      "path": "writing-speaking/W08/s3-reference.md",
+      "sha256": "79a4b1c4e48fb6eb7291510202e4009c12c2754f7b8f08be44ee53d38597e476"
+    },
+    {
+      "path": "writing-speaking/W08/s3-student.md",
+      "sha256": "42d26417a543816876bec33ee33c737cb5f3afad53cca6a6266ac0f7d6d7f2df"
+    },
+    {
+      "path": "writing-speaking/W08/t1a-reference.md",
+      "sha256": "8acf12b38748198e68ed721d3b451f0d81f81c43b61de759ff2a220bc5058b57"
+    },
+    {
+      "path": "writing-speaking/W08/t1a-student.md",
+      "sha256": "3eb0ee1c7d1c6299686c817d6ee255a453f5390706c80bf2fe7c6f623bced041"
+    },
+    {
+      "path": "writing-speaking/W08/t1g-reference.md",
+      "sha256": "466974ae2c45c9c619fdfc55a10798d417ecc5f55b3ae8e3547df101600ca1de"
+    },
+    {
+      "path": "writing-speaking/W08/t1g-student.md",
+      "sha256": "b9cb01614a103ee0e8141cb8db267a36445b2b6da93b1bdca1a702c9aa04d848"
+    },
+    {
+      "path": "writing-speaking/W08/t2-reference.md",
+      "sha256": "0a60fe8fccfcb91bf93d8664ace243a6beaa3c2431672f6305b856f1bf0b8df7"
+    },
+    {
+      "path": "writing-speaking/W08/t2-student.md",
+      "sha256": "3496af624327e7e87319dd66e6d4b5fa995b7c8d475c28e1b001408812dec439"
+    },
+    {
+      "path": "writing-speaking/W05/assets/figure.svg",
+      "sha256": "287a96a7af2258ebdcda0e6d9e4cfe53aeae53a15aca87d9372311c84b0352a2"
+    },
+    {
+      "path": "writing-speaking/W06/assets/figure.svg",
+      "sha256": "20ef82624b6df0285b1cc3e1eb30c7a7e80426cd108371e359fe8db8b894199d"
+    },
+    {
+      "path": "writing-speaking/W07/assets/figure.svg",
+      "sha256": "cb509358c3f7893aafa57d2a897ae8f170dbeffe4e482f97b14690d6b7670cc0"
+    },
+    {
+      "path": "writing-speaking/W08/assets/figure.svg",
+      "sha256": "7ce4d9ef525ecebfa008d2bc42790ead8440333fbab3aa3515bbdc41e831b2df"
+    },
+    {
+      "path": "writing-speaking/FEEDBACK.md",
+      "sha256": "acb8c05615c52349e0e0c191db4bb473db930da9b247b9a50d564368c0b201ca"
+    }
+  ],
+  "license": "CC BY 4.0 — RayXBuilds and contributors",
+  "audio_included": false
+}
