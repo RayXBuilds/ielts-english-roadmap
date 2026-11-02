@@ -80,3 +80,7 @@
 ## 八周雅思专项扩展
 
 [U00 系统资料指南](../resources/ielts-systematic.md) · [U02 八周任务安排](../lessons/bridge/u02-ielts-eight-weeks.md) · [U03 四项原创工作坊](../lessons/bridge/u03-community-library.md)。基础 84 天之后使用，每周约 6 小时；原有课程编号保持不变，A/G 写作按用途选择。
+
+## 正式备考入口
+
+[U04 24 周训练](../lessons/bridge/u04-exam-preparation.md) · [U05 原创长篇与首轮作业](../lessons/bridge/u05-repair-library.md)。外部 24 套材料为待领取库存，不包含在本地包中。
