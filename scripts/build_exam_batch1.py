@@ -13,6 +13,7 @@ def body(p):
   label,url=m.groups()
   if url.startswith(('https://','http://')):return m[0]
   if 'FEEDBACK.md' in url:return '[反馈协议](u10-feedback.md)'
+  if url.endswith('-student.md'):return label+'（见本节上方学生题）'
   return label+'（本节下方展开参考）'
  s=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,s)
  return re.sub(r'^(#+) ',lambda m:'#'*(len(m[1])+2)+' ',s,flags=re.M).strip()

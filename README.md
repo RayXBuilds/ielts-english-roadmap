@@ -10,7 +10,7 @@
 
 新增9篇长文（7,315词、118题）与4周写作/口语，共24分支课项。已接入源码离线阅读器与客户端课程数据：[第1周 U06](lessons/bridge/u06-week-01.md) · [第2周 U07](lessons/bridge/u07-week-02.md) · [第3周 U08](lessons/bridge/u08-week-03.md) · [第4周 U09](lessons/bridge/u09-week-04.md) · [反馈协议 U10](lessons/bridge/u10-feedback.md)。答案和示例默认折叠。
 
-本轮是文字课程更新；新增完整听力尚未验收，公开下载的0.2.2/v0.6安装包尚未包含本轮内容。原创练习不替代正式陌生卷和独立写说评分。
+本轮是文字课程更新；新增完整听力尚未验收，本轮随客户端0.2.3及课程包v0.7提供。原创练习不替代正式陌生卷和独立写说评分。
 
 ## 先下载再开始
 
@@ -28,7 +28,7 @@ GitHub 本身的国内连接仍可能不稳定；整包下载后，离线学习�
 
 **[拾阶英语：雅思英语离线学习客户端](client/README.md)** 将现有课程接入桌面应用：84 天计划、阅读、音视频播放、进度、笔记、生词收藏与编辑、JSON 备份恢复。课程与媒体随应用打包，无需登录或在线接口。0.2 版重做界面与折页书本图标，新增全局搜索、专注阅读、字号调整与生词复习筛选。
 
-[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.2)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
+[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.3)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
 
 ## 新增八周雅思系统课程
 
