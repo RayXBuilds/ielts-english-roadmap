@@ -28,9 +28,9 @@
 
 新增12篇长文（10,805词、160题）、24个写说分支课项、4张SVG及阶段证据表，内容独立验收通过。入口：[U26 第17周](lessons/bridge/u26-week-17.md) · [U27 第18周](lessons/bridge/u27-week-18.md) · [U28 第19周](lessons/bridge/u28-week-19.md) · [U29 第20周](lessons/bridge/u29-week-20.md) · [U30 复盘与证据](lessons/bridge/u30-feedback.md)。整合图示、导航、参考折叠及阶段证据表已通过独立浏览器验收，随客户端0.2.7/课程v0.11提供。新增完整听力仍未完成。
 
-## 第21～24周文字课程（源码预览）
+## 第21～24周文字课程（已验收）
 
-新增12篇长文（10,618词、160题）、24个写说分支课项、4张SVG和最后阶段证据登记，内容独立验收通过。入口：[U31 第21周](lessons/bridge/u31-week-21.md) · [U32 第22周](lessons/bridge/u32-week-22.md) · [U33 第23周](lessons/bridge/u33-week-23.md) · [U34 第24周](lessons/bridge/u34-week-24.md) · [U35 复盘与证据](lessons/bridge/u35-feedback.md)。24周阅读69篇918题与写作口语材料现已通过内容验收；整合GUI待验，当前公开0.2.7/v0.11不含最后四周。新增完整听力、真实考试界面实操、正式陌生卷及真人反馈仍有缺口，不能据此宣布全科完成或达到分数。
+新增12篇长文（10,618词、160题）、24个写说分支课项、4张SVG和最后阶段证据登记，内容独立验收通过。入口：[U31 第21周](lessons/bridge/u31-week-21.md) · [U32 第22周](lessons/bridge/u32-week-22.md) · [U33 第23周](lessons/bridge/u33-week-23.md) · [U34 第24周](lessons/bridge/u34-week-24.md) · [U35 复盘与证据](lessons/bridge/u35-feedback.md)。24周阅读69篇918题与写作口语材料现已通过内容验收；整合GUI及官方来源网址已独立复验通过，随客户端0.2.8/课程v0.12提供。新增完整听力、真实考试界面实操、正式陌生卷及真人反馈仍有缺口，不能据此宣布全科完成或达到分数。
 
 
 ## 先下载再开始
@@ -49,7 +49,7 @@ GitHub 本身的国内连接仍可能不稳定；整包下载后，离线学习�
 
 **[拾阶英语：雅思英语离线学习客户端](client/README.md)** 将现有课程接入桌面应用：84 天计划、阅读、音视频播放、进度、笔记、生词收藏与编辑、JSON 备份恢复。课程与媒体随应用打包，无需登录或在线接口。0.2 版重做界面与折页书本图标，新增全局搜索、专注阅读、字号调整与生词复习筛选。
 
-[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.7)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
+[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.8)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
 
 ## 新增八周雅思系统课程
 
