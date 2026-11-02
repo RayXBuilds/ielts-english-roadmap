@@ -1,0 +1,61 @@
+{
+  "scope": "reading W09-W12 targeted frozen patch recheck",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T03:24:45.347706+08:00",
+  "freeze_sha256": "ad255500e317565ad3ddaaeb2f6c0477e40a0c78c74ecdcdb018a92bcf5024fe",
+  "frozen_files": 76,
+  "closed_issues": [
+    "QA-R09",
+    "QA-R10",
+    "QA-R11"
+  ],
+  "remaining_issues": [],
+  "parent_acceptance": {
+    "path": "reading-w09-w12/acceptance.json",
+    "sha256": "12153749703e714847a7513ef838fb3cc0d0eff85068d91ece97ee748156c26d",
+    "prior_conclusion": "needs_revision",
+    "inherited_scope": "Unchanged content accepted under the prior review; its historical result remains immutable."
+  },
+  "sub_batches": {
+    "W09": {
+      "conclusion": "passed"
+    },
+    "W10": {
+      "conclusion": "passed"
+    },
+    "W11": {
+      "conclusion": "passed"
+    },
+    "W12": {
+      "conclusion": "passed"
+    }
+  },
+  "evidence": {
+    "snapshot-check.json": "741e67d6b12e29705e360a68241a903438abac12491ad362a2760f47e7e5d24c",
+    "patch.diff": "f6b66459b234742f76ad5ab45909f9ca458169a32efc45c8581ff36620809ecf",
+    "checks.json": "855c25192032d5dc00343cceac7386f9e7925f22b60c379a26915de47a72f865",
+    "patch-checks.json": "0f139ace86aa68881b60788b28dd80dc7062abcc4d124889f476a6104a5abd14",
+    "structure-check.py": "956b244d9ac9a3b9118c925534b48737d9320b985c4d9230087db28d7f6aedb0",
+    "patch-check.py": "ab71137e7b36e8e5a82ec0d4a29a619cae2462b92fb7f65ee874db80a4b7ada8",
+    "issues.json": "880221d4c0390803072535bee0af35de9a8befef515c0a4d41ee70af76310a3c",
+    "REPORT.md": "a9bf04cd3f49c7f0b40f3534ffa493f7a1546ecb221ae73f41aeeac35f427b55"
+  },
+  "source_drift": [],
+  "write_scope": "curriculum-expansion/qa only",
+  "not_approved": [
+    "actual learner completion",
+    "standardized scores",
+    "integration",
+    "release",
+    "publishing"
+  ],
+  "verified_counts": {
+    "passages": 12,
+    "words": 10936,
+    "questions": 160,
+    "changed_questions": 3,
+    "unchanged_questions": 157,
+    "prior_files_unchanged": 110,
+    "weekly_minutes": 180
+  }
+}
