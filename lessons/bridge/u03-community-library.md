@@ -21,7 +21,7 @@
 1. The library stayed open until eight every weekday during the trial.
 2. The trial increased the library's staff budget.
 3. Some volunteers helped visitors use machines.
-4. Every evening visit in the weekly figures represented a different person.
+4. The weekly figures counted individual people rather than visits.
 5. Most evening visitors earned more than daytime visitors.
 6. The library made the new opening hours permanent after twelve weeks.
 
