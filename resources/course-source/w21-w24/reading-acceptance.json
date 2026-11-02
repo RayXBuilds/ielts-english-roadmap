@@ -1,0 +1,89 @@
+{
+  "scope": "reading W21-W24 frozen original materials, questions, answer forms, combined papers and evidence boundaries",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T06:24:34.074098+08:00",
+  "freeze_sha256": "e36e9172af157552c859a1b67a400c2400d8d5805d36cc7e6c02b8b32e9b219c",
+  "frozen_files": 79,
+  "verified_counts": {
+    "passages": 12,
+    "words": 10618,
+    "questions": 160,
+    "weekly_papers": 4,
+    "completion_questions": 40,
+    "accepted_fill_forms": 76,
+    "mcq": 32,
+    "ynng": 52,
+    "matching_info": 36,
+    "QA_comparator_positive_checks": 228,
+    "QA_comparator_negative_checks": 165,
+    "QA_comparator_calls": 393,
+    "student_pages_separate_from_answers": 16,
+    "vocabulary_entries": 48,
+    "long_sentence_examples": 24,
+    "prior_files_unchanged": 338,
+    "prior_freezes_unchanged": 5
+  },
+  "sub_batches": {
+    "W21": {
+      "conclusion": "passed",
+      "passages": 3,
+      "questions": 40,
+      "required_minutes": 180,
+      "optional_minutes_max": 45,
+      "remaining_issues": []
+    },
+    "W22": {
+      "conclusion": "passed",
+      "passages": 3,
+      "questions": 40,
+      "required_minutes": 180,
+      "optional_minutes_max": 45,
+      "remaining_issues": []
+    },
+    "W23": {
+      "conclusion": "passed",
+      "passages": 3,
+      "questions": 40,
+      "required_minutes": 180,
+      "optional_minutes_max": 45,
+      "remaining_issues": []
+    },
+    "W24": {
+      "conclusion": "passed",
+      "passages": 3,
+      "questions": 40,
+      "required_minutes": 180,
+      "optional_minutes_max": 45,
+      "remaining_issues": []
+    }
+  },
+  "remaining_issues": [],
+  "nonblocking_observations": [],
+  "evidence": {
+    "snapshot-check.json": "6f901e39563a40a90875f4fb0497c03a079fef7255cde071898eb9275f34c907",
+    "checks.json": "7d4a94c14ef1eb198081949302f1c4c47fc6b244681aae4bf4e611c2b2907ca7",
+    "supplement.json": "c84f35f1c33b4c12664e418a5e42f7c016a530f09d20e4fcf61536a0bc10a3ca",
+    "manual-review.json": "ca5108d40884cc494a9d2ae805da18215b64eea4b32e3d7cdc97ecc667b2cf36",
+    "fill-review.json": "072fb5f0a07aefa6d76dc7eb552ff9d66b79d3c034e468b4794290a277484d03",
+    "boundaries.json": "89a92cf4fe77158832bed3c22385090a4bb1f94b9d522b0ccc9cb4e4b92c6922",
+    "issues.json": "879c2fd5ea1912032b0617bcf00610dccd8e2f9e3840adca5a8109fdd8b9fda0",
+    "REPORT.md": "487fb2d33adba3b03efcdc462895c2a46ea10bfa9e47bc4dcbc4421d168bd4a4",
+    "snapshot.py": "3e51be18534a927d86698eabd9ad96d7eee379c549fc31fda2361a6a464a54ca",
+    "check.py": "b8e252614eb5afab94b3761939fc3dc7e84d4378f8aad3def3275a33a0e8ff23",
+    "supplement.py": "1d4e049ec558d33ea6f644391786114c078e9bccaa359b8573692d965d4063b8",
+    "manual-check.py": "f64368ef1dcc6af34aa589713c6aa39d5809fbf754ad92be05560b18f639d00a",
+    "fill-check.py": "244f150b7b48224ddc06b4acae90ff88e9fe5203c86186de973a524fbe0b1ec0",
+    "boundary-check.py": "2097a469863e851445d2c6981a5d4598651cb80a16e354b4af1ed80d3bce9e6a"
+  },
+  "source_drift": [],
+  "prior_changes": [],
+  "runtime_scoring_validation": "not performed; QA-only comparator of documented exact whitelist contract",
+  "write_scope": "curriculum-expansion/qa only",
+  "not_approved": [
+    "Actual learner completion or elapsed time",
+    "Real exam interface or operational practice",
+    "Formal T22/T24 completion, official/human scoring or band conversion",
+    "Readiness, target attainment or score guarantee",
+    "Integration or publication"
+  ]
+}

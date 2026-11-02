@@ -1,0 +1,64 @@
+{
+  "scope": "writing-speaking W21-W24 original teaching materials and four SVGs",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T04:41:16.924809+08:00",
+  "freeze_sha256": "ab6a29976b76a36771501e1972eee5d1fcb2c295ca6f9522ae6c10d1a13d51b9",
+  "frozen_files": 73,
+  "counts": {
+    "lesson_items": 24,
+    "student_reference_pages": 48,
+    "writing_models": 12,
+    "writing_model_words": 2750,
+    "speaking_tasks": 12,
+    "full_speaking_tasks": 4,
+    "figures": 4,
+    "prior_files_unchanged": 350
+  },
+  "sub_batches": {
+    "W21": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W22": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W23": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W24": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    }
+  },
+  "blocking_issues": [],
+  "nonblocking_observations": [],
+  "evidence": {
+    "snapshot-check.json": "06d486db178d35d7bde747b1442895fcb622c4c0e129e3d4200b8c90d667c1f4",
+    "checks.json": "f887124fe2d773328ff4ddc3ce3aaa6d1d15ca68530f548e70702738436951b3",
+    "manual-review.json": "af2acc0fd498da6b097a33f18782db5d359467c93a8522d4dfe4622b5f90e5b5",
+    "visual-review.json": "636022d8e09adb58ebdeaabf7226aeadb15d84fc6342d118fb8dc09a2ddb09fd",
+    "issues.json": "cfb95b4eb8bcb3e131663f42edd0bdd7a4ba91174ef97074f7cffdb4c754c13e",
+    "REPORT.md": "f14ec8a99f3f2a08806a6d772420f1dab7da847a22d8b4a1b60a9d9fd192cfe1",
+    "check.py": "92a622461c02d2ae0f1ddaef4f47633a3e32ea69b2548158d6cedd03015116e8"
+  },
+  "source_drift": [],
+  "limits": [
+    "Actual learner work, audio or elapsed time",
+    "Actual exam interface use",
+    "Formal unseen T22/T24 results and goals",
+    "Human assessment or score",
+    "Booking or extension decision",
+    "Integration or release"
+  ],
+  "write_scope": "curriculum-expansion/qa only"
+}
