@@ -1,0 +1,89 @@
+{
+  "scope": "reading W17-W20 original long reading text and four weekly papers",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T05:25:43.640762+08:00",
+  "freeze_sha256": "f0783db5f9f21cdc6161edb784c539f3e6b46ce264954a728f7cefe5333c0e2e",
+  "frozen_file_count": 75,
+  "passages": 12,
+  "words": 10805,
+  "questions": 160,
+  "question_types": {
+    "completion": 40,
+    "mcq": 32,
+    "ynng": 52,
+    "matching_info": 36
+  },
+  "accepted_fill_forms": 78,
+  "weekly_papers": 4,
+  "required_weekly_minutes": 180,
+  "optional_weekly_minutes_max": 45,
+  "sub_batches": {
+    "W17": {
+      "conclusion": "passed",
+      "questions": 40,
+      "issues": []
+    },
+    "W18": {
+      "conclusion": "passed",
+      "questions": 40,
+      "issues": []
+    },
+    "W19": {
+      "conclusion": "passed",
+      "questions": 40,
+      "issues": []
+    },
+    "W20": {
+      "conclusion": "passed",
+      "questions": 40,
+      "issues": []
+    }
+  },
+  "issues": [],
+  "nonblocking_observations": [],
+  "prior_files_checked": 263,
+  "prior_freezes_checked": 4,
+  "prior_file_changes": [],
+  "source_changes_during_review": [],
+  "w17_diagnosis_status": "pending_learner_evidence",
+  "formal_T20_status": "not_selected_not_acquired_not_administered",
+  "evidence": {
+    "snapshot-check.json": "14313f86256c12c4ecd897be387a97699e7b5ce93a80ffa0a813141ef7dc7a9f",
+    "checks.json": "7800f72350eb2ef86f4e14bc2bc2d4c6ecfc950e20c314eb739069b7b291a9ef",
+    "supplement.json": "7c2bc7e65a7f51ae23683f433038794bbe1b0c706bb61609c0e54a9687e28dab",
+    "manual-review.json": "732897e5905c4c2da10d075ca88ea768b355c15e8907481ed4006c41327f412d",
+    "issues.json": "23dd90a2b34d96883de442c44721cfae5b93a2bc59d62c351cff11e45145ece1",
+    "REPORT.md": "0c64b6a3954464c6a982eeee48a7083eb4fdf1276647d4678d1a73d5c853e3b1",
+    "check.py": "b3e68a7cf50aa9c3e15aa647f8efc79fbb23a0fa87c21e47b21c080c8b8a7668",
+    "supplement.py": "b90913f09891620e1db222dc1201c392d9282ec0e79cef6fae25c5de8c457f23",
+    "manual-check.py": "f779604312c7a0c0517ef94bee4e059865faecf4762d4dab4861133e399341ec",
+    "finalize.py": "d6c1e4b05f8c8d68cfe0056805dba605cd3374c6871a8d7a26fa070aa9b1593c"
+  },
+  "prior_acceptance_hashes": {
+    "round4/reading-recheck/acceptance.json": "d7d71c6521b562b858f2cd608c7da88466c6702a0a5a9657cf23fdaf6cc42cab",
+    "round3/acceptance.json": "022a51940c55dffb50c11417db7bcdff1c9aa9763fb2e8b6acf5e1336c244f71",
+    "listening-qa4-fix-v3/acceptance.json": "07e07cad6692d47896f0655cff843dced1f9fabe64ab952e42fb99706a6d0006",
+    "integration-w01-w04/acceptance.json": "81401bd99d738ce14a17a9e95c6fe98a91557c149217124f58a62857a0e93612",
+    "writing-speaking-w05-w08/acceptance.json": "0660b9e790dd707da4efc36e43f503e772539b9f208394f41fb75b25fea2f5b5",
+    "reading-w05-w08-final/acceptance.json": "834cb5df5522afb187b968022a78e63de80fc2224711ee825df7c75c0df25468",
+    "writing-speaking-w09-w12-recheck/acceptance.json": "6dc7ef5b12c4fd138f61cae16def265a538b2f7c5d9b618b20a54938f1f1004e",
+    "integration-w05-w08/acceptance.json": "a81a6fa8d2ac73a6e4b9bfd7d255cbbddfd2ec15dce6c392e3030a469f083099",
+    "reading-w09-w12-recheck/acceptance.json": "cba7fb89817ec9596c41a0884af9b7797863b24c08487cca47791792c852fd85",
+    "listening-w05-w08-recheck/acceptance.json": "9817a135300f466c1b3c20a937dd266cc678f57de83192fe481fe3e713157e60",
+    "writing-speaking-w13-w16/acceptance.json": "a98b2426b1f956bcc54758caada6fcdef134c0cb3d2198396c65456a0b233145",
+    "integration-w09-w12/acceptance.json": "349b281275fecfdaa2df7bb38baf335b2b1777ac4aa96cb8c15db3b8e54642b1",
+    "writing-speaking-w17-w20/acceptance.json": "8450c1e230ecd584d764c5d0bf38f8c02ee75d3d75f52d493114fef0eebba89f",
+    "reading-w13-w16-recheck/acceptance.json": "3ea94160b06f35916c7611f36f93bb5b8b123aad0cd43bc29b2e8b4532d57144",
+    "listening-w09-w12-recheck/acceptance.json": "17cdeff8d021a7702c827d54a9ce8933dfd615122846e3e6150b44249844263e",
+    "writing-speaking-w21-w24/acceptance.json": "ef50f2cafb8f724c60ba2d5563c474157fb67fdead4c5d2d1e8eb967c51e0197",
+    "integration-w13-w16/acceptance.json": "8a7b7461d4954b0a47371170a12f31e3b5bf8b5ac0c06f84b77eba394f8b8dcd"
+  },
+  "publication_authorized_by_this_result": false,
+  "unverified": [
+    "Actual learner responses/completion/timing",
+    "Human scoring or standardized difficulty",
+    "Formal T20 and exam readiness",
+    "Integration/release/audio"
+  ],
+  "write_scope": "curriculum-expansion/qa only"
+}

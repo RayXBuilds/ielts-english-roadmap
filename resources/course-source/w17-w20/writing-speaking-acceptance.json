@@ -1,0 +1,67 @@
+{
+  "scope": "writing-speaking W17-W20 original teaching materials and four SVGs",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T03:55:03.021710+08:00",
+  "freeze_sha256": "2b294e82e30d040be0025a17ce30ab05c3318be40b47c782208eb27ea9c85098",
+  "frozen_files": 72,
+  "counts": {
+    "lesson_items": 24,
+    "student_reference_pages": 48,
+    "writing_models": 12,
+    "writing_model_words": 2760,
+    "speaking_tasks": 12,
+    "full_speaking_tasks": 4,
+    "figures": 4,
+    "prior_files_unchanged": 276
+  },
+  "sub_batches": {
+    "W17": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W18": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W19": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    },
+    "W20": {
+      "conclusion": "passed",
+      "lesson_items": 6,
+      "writing_minutes": 180,
+      "speaking_minutes": 120
+    }
+  },
+  "blocking_issues": [],
+  "nonblocking_observations": [
+    "OBS-WS17-01",
+    "OBS-WS17-02",
+    "OBS-WS17-03"
+  ],
+  "evidence": {
+    "snapshot-check.json": "c89fd9dbe11f56a82f0394b315e152c38218eced0c85ab32c8656690f875f193",
+    "checks.json": "e94bd1de4f0001cbdcec41aa02d861e5a1099464878e9280c55ed09413cd6a38",
+    "manual-review.json": "c330a5f1d3ccdef852c87eba90223bfe92b7a836d86ae0b0b2455c3c09750ebd",
+    "visual-review.json": "d5905b1108e035b6915a38a5fd9218d46eca7dba9790c6ed5d0b2df217958bb2",
+    "issues.json": "e44bc35f63bb42c50cb828836e8d9edeaa49c57556f99a025db809e18e15829e",
+    "REPORT.md": "f1942fec68c273f22df1a631c32e4e59bdb08e6457756f935ea774ae3091f23c",
+    "check.py": "3f866801f15f0a76a28d5c93676c709518559d1b0ff2fedb3863a681da4780fb"
+  },
+  "source_drift": [],
+  "limits": [
+    "No actual learner submission or timing verified",
+    "No human or official score",
+    "Original W20 is not formal unseen T20",
+    "No audio, integration, release or publishing approval",
+    "In-production reading/listening excluded"
+  ],
+  "write_scope": "curriculum-expansion/qa only"
+}
