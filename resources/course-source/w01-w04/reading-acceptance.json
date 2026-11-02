@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "round": 4,
+  "scope": "reading W01-W04 targeted QA-R06/R07 closure with unchanged content inherited from round3",
+  "evaluated_at": "2026-11-02T17:12:53.185082+00:00",
+  "conclusion": "passed",
+  "closed_issues": [
+    "QA-R06",
+    "QA-R07"
+  ],
+  "manual_decisions": [
+    {
+      "lesson_id": "R-W01-02",
+      "question": 10,
+      "w01_question": 24,
+      "answer": "delayed task",
+      "reason": "题干明确询问assessment称呼，且将household case直接说明为该assessment的材料，排除了此前内容/任务混淆。正文F明确named delayed task，其他答案无相同时间/任务名依据。"
+    },
+    {
+      "lesson_id": "R-W04-02",
+      "question": 10,
+      "answer": "visual timetable",
+      "reason": "入口位置和每天早晨检查的联合限定仅E中visual timetable满足；short description在到访前阅读，无这两个条件。"
+    }
+  ],
+  "file_hashes": {
+    "reading/FREEZE.json": "2763a7abe5f2fd913e0b9d9fb8608c3884a593dd02325889bc60faa5fb8eb43c",
+    "reading/QA-RESPONSE.md": "6ec712bbedc719539e150fadf61c43ef49751bc45b321d172a9224bc5ec19e36",
+    "reading/R-W01-01/answers.md": "7a43f2565070484f589e6f85d3f8dbed163065c32cdce257eb1b7ac002d5ac13",
+    "reading/R-W01-01/student.md": "08e35e487de25c71c14d061fe78a67f5b952628e5649177fb3267730a7830f56",
+    "reading/R-W01-02/answers.md": "4caa7286b835f2218d0ec22ab456d0141a7801ce976455056f860f60cdeb466e",
+    "reading/R-W01-02/student.md": "b04c314149cfbcf26171d68f1ef56243a99e476322eddc0e12443d4eb3928195",
+    "reading/R-W01-03/answers.md": "c8c3050c4c455fb3ca3a78ab12a67648e10b0a0d5db2b725209a763a95de2d40",
+    "reading/R-W01-03/student.md": "9f5cbe15fe80b703bbdd7c583f7ba2bf1c54bfb17d59a6479d9cb61e78d5874b",
+    "reading/R-W02-01/answers.md": "33a16cd3254ca16e34fb2c90dcdbd2e519f30a2265315dedd3bc8ff6681c3b0d",
+    "reading/R-W02-01/student.md": "cd45c2b210425e43912612c82e77650b3ac82cf8850f944f6b83c863074ac3bf",
+    "reading/R-W02-02/answers.md": "498372ffbe62767e92759a86477dcfd282688bb448264cf43ae02f22e5060f47",
+    "reading/R-W02-02/student.md": "a9454e8537c4f914d71ec77a5714aceb3591094c04427ec5b119c51a5585ff33",
+    "reading/R-W03-01/answers.md": "a1a5adf9a7ebdab6875f463e13fbb2ce7d83ba27abfa207f043bd66caf8ff0c9",
+    "reading/R-W03-01/student.md": "ef073bee4413deccab0304ed462de1a5a3aaf884a2208a35735f0599c700d373",
+    "reading/R-W03-02/answers.md": "1deb5f0c182abf1333cbc76fc9864850b7b401eccf442089874f4d2088bee413",
+    "reading/R-W03-02/student.md": "72da16428ce028a673b2c89483deb4b4f6c86a199ee9cafa4d254157b9897ad2",
+    "reading/R-W04-01/answers.md": "ab05eee1f0e6f7f9a0a09288dbfe94129dca54a456c492f0757ab07f96dc84a7",
+    "reading/R-W04-01/student.md": "511aeaa872263103a9b5b4f0336c48091ccf1de7d601449e5aa43df2b2340797",
+    "reading/R-W04-02/answers.md": "11c735f9816264ba11448ff98573baf8e0dd457b29f412b63a0bd248ce80267d",
+    "reading/R-W04-02/student.md": "31b74d6150dda0e0c155655e2ca82589e299af683bb0f3f3bc1a967412e67ada",
+    "reading/README.md": "0221259e0c0a141f97b0f457078bc027d7b14e2d32fc98c3b0e962b3601963bd",
+    "reading/STATUS.md": "cd327dfcde4a9f82b9a80f3c806cda01ca7a142ee45a156fad0a0504d2f641d9",
+    "reading/W01-answer-key.json": "0920c351d6ac38a9651ded40b3bb9188794832c369b67f767395d89e74a45b9c",
+    "reading/W01-paper-answers.md": "30bde088caa46abf5cd8e6fc7dcadb3cf01918e6bb502a85acb8eec2daa1b736",
+    "reading/W01-paper-student.md": "dd7ab62aac1c3ddb228365f842028fd82cc3653d6839f0748d27245f6ac5f411",
+    "reading/author.py": "14e16c073a107c9ad0d055ef35c933649cdd56f3a1b4e51a837cea5255d7a8a0",
+    "reading/build.py": "3d064fcf4940559a59a37e9ad3094cf350938e8f03cd27f90d43869505a1f068",
+    "reading/data/R-W01-01.json": "3bd7bc06779f90e0e67ec36f33972d3b0444cddc13b38dc84df5c1ca4f98be81",
+    "reading/data/R-W01-02.json": "59738f99d5b3a97ab21822e7ed3cc1284f45071b9a5c53bde0a683a35705c214",
+    "reading/data/R-W01-03.json": "68e93eddb322fc7de646b5feb29b228cbe34094804dcf88b9831a71cce824ea1",
+    "reading/data/R-W02-01.json": "79ec0bf8b292eaf081839301793f688190bf8afe6389e7b6b2d0f92ed49139a2",
+    "reading/data/R-W02-02.json": "9de94dff54fc177fb515d1dfd0c21fb13d9d48439b2fa413d6d36a29b3eac585",
+    "reading/data/R-W03-01.json": "31a56ed2672453b30e7f3689f84eb7ee59b7f2b120bdf793f053530d2f0c9baa",
+    "reading/data/R-W03-02.json": "e1acf181831eaf56064221279ea22fcf79154afacf3eb8894e66ea239dd2fd3c",
+    "reading/data/R-W04-01.json": "ef6a2752e4176f0ca5b260e8d8b5f2ca0faa795cbffe4099897702bf934ad296",
+    "reading/data/R-W04-02.json": "97cb13b88f15ce43103e7b53e343b766a6816e08f72d9dd8a77a888d41e00bf0",
+    "reading/freeze.py": "aafe2ac78b91fc01da8ea2c757f42809c97626bd565d901e3e6ea0fa4766d99c",
+    "reading/inventory.json": "4dab6432f1111deed83a89415fb5f35c8e66af84afa7dc1412bbd7545b36d93a",
+    "reading/package.py": "66f7095da1618e7b728c85925e39e18e0912f67156c5f8c1ec2137571c4653de",
+    "reading/self-check.json": "0895aef5df6a450f58b8f2f03cd4ac06a0d1b274caa93fa1c2428330554d6912"
+  },
+  "formal_findings": [],
+  "source_checks": [
+    {
+      "id": "R-W01-02",
+      "paragraphs_unchanged": true,
+      "summary_synced": true,
+      "changed_source_keys": [
+        "summary",
+        "blanks"
+      ]
+    },
+    {
+      "id": "R-W04-02",
+      "paragraphs_unchanged": true,
+      "summary_synced": true,
+      "changed_source_keys": [
+        "summary",
+        "blanks"
+      ]
+    }
+  ],
+  "w01_paper_40_mapping": "passed",
+  "unchanged_w01_answer_json": true,
+  "inherited_evidence": [
+    "round3/READING.md",
+    "round3/summary-review.json",
+    "round3/acceptance.json"
+  ],
+  "accepted_total_scope": {
+    "passages": 9,
+    "questions": 118,
+    "words": 7315,
+    "w01_paper_questions": 40,
+    "reading_minutes_by_week": [
+      180,
+      120,
+      120,
+      120
+    ]
+  },
+  "changed_since_snapshot": [],
+  "public_audio_approved": false,
+  "publication_authorized_by_this_result": false,
+  "unverified": [
+    "实际学习耗时与学习效果",
+    "官方T01基线、标准化难度、真实雅思分数",
+    "客户端/HTML整合及发布",
+    "听力媒体与许可",
+    "全科周总预算"
+  ]
+}

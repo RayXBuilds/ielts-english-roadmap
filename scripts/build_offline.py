@@ -2,6 +2,8 @@
 from pathlib import Path
 import html,re
 ROOT=Path(__file__).resolve().parents[1]
+import runpy
+runpy.run_path(str(ROOT/'scripts/build_exam_batch1.py'))
 sections=[]
 for name,title in [('plans/first-28-days.md','Day 1–28'),('plans/days-29-84.md','Day 29–84')]:sections.append((ROOT/name,'plan'+('1' if 'first' in name else '2'),title))
 for folder,prefix in [('readings','r'),('listening','l'),('speaking','s'),('bridge','u')]:
