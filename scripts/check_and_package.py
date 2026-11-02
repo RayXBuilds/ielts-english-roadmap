@@ -28,7 +28,7 @@ for r in manifest:
  f=ROOT/r['path'];assert f.stat().st_size==r['bytes'];assert hashlib.sha256(f.read_bytes()).hexdigest()==r['sha256']
  assert f.stat().st_size<50_000_000,'Unexpected oversized media'
 for mode in ['full','audio']:
- dest=DEST/f'ielts-english-roadmap-v0.8-{mode}.zip'
+ dest=DEST/f'ielts-english-roadmap-v0.9-{mode}.zip'
  assert not dest.exists(),'Use a fresh output directory; do not overwrite published ZIPs'
  with zipfile.ZipFile(dest,'w',zipfile.ZIP_DEFLATED) as z:
   for f in files:
