@@ -1,0 +1,63 @@
+{
+  "status": "published_verified",
+  "validation": "258 frozen candidate entries checked; only version/banner/build naming changes; old85 lesson payloads and84days identical;109items24previews;11state tests passed;3ZIP CRC/source/media comparisons;0.2.9 build11 codesign verified",
+  "approved_audio_sets": 0,
+  "qa_receipt_sha256": "29717e7d5f1de0bab9d73f8e67d3b7fc6011dbbe2d6d6ea1d8e8dbc7d80ab3fa",
+  "changed_from_qa_freeze": [
+    "client/data.js",
+    "offline-audio.html",
+    "offline.html",
+    "scripts/build_offline.py",
+    "scripts/check_and_package.py"
+  ],
+  "target": "53028eb67079347ac06081aeafcb8880232fb569",
+  "receipts": [
+    {
+      "tag": "client-v0.2.9",
+      "path": "/Users/ray/Documents/ChatGPT/github内容长期规划/deliverables/ielts-english-roadmap/client-v0.2.9/Stepwise-English-macOS-arm64-v0.2.9.zip",
+      "name": "Stepwise-English-macOS-arm64-v0.2.9.zip",
+      "bytes": 234922770,
+      "sha256": "aa7d89d71d92a8a7e879935885c742e995dd6a75f83010ab2549170e81841ae9",
+      "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/client-v0.2.9/Stepwise-English-macOS-arm64-v0.2.9.zip"
+    },
+    {
+      "tag": "client-v0.2.9",
+      "path": "/Users/ray/Documents/ChatGPT/github内容长期规划/deliverables/ielts-english-roadmap/client-v0.2.9/SHA256SUMS-client.txt",
+      "name": "SHA256SUMS-client.txt",
+      "bytes": 106,
+      "sha256": "04925c7a281ba42c8220c469d8114fa59709db9a5a71d01c3a2f66de6863aba6",
+      "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/client-v0.2.9/SHA256SUMS-client.txt"
+    },
+    {
+      "tag": "v0.13.0-text-course",
+      "path": "/Users/ray/Documents/ChatGPT/github内容长期规划/deliverables/ielts-english-roadmap/ielts-english-roadmap-v0.13-full.zip",
+      "name": "ielts-english-roadmap-v0.13-full.zip",
+      "bytes": 235974110,
+      "sha256": "e6a69c81850ea6a734ab60291fd9add76bebeb575a2f4b36b3ae277a2c0ff20b",
+      "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/v0.13.0-text-course/ielts-english-roadmap-v0.13-full.zip"
+    },
+    {
+      "tag": "v0.13.0-text-course",
+      "path": "/Users/ray/Documents/ChatGPT/github内容长期规划/deliverables/ielts-english-roadmap/ielts-english-roadmap-v0.13-audio.zip",
+      "name": "ielts-english-roadmap-v0.13-audio.zip",
+      "bytes": 15611149,
+      "sha256": "402d750b62f54e3d88d0369d90e07dbb476c1d11a18049301972529cf9e063ca",
+      "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/v0.13.0-text-course/ielts-english-roadmap-v0.13-audio.zip"
+    },
+    {
+      "tag": "v0.13.0-text-course",
+      "path": "/Users/ray/Documents/ChatGPT/github内容长期规划/deliverables/ielts-english-roadmap/SHA256SUMS-v0.13.txt",
+      "name": "SHA256SUMS-v0.13.txt",
+      "bytes": 207,
+      "sha256": "3cf0e7377295e4c1cfa4ab4527fba93d2c9b67b22a1d8b37b4e5b82049cf34bd",
+      "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/v0.13.0-text-course/SHA256SUMS-v0.13.txt"
+    }
+  ],
+  "cleanup": {
+    "deleted_releases_and_tags": [
+      "client-v0.2.8"
+    ],
+    "retained_old_course": "v0.12.0-text-course",
+    "reason": "Automatic approval rejected irreversible deletion because earlier course cleanup authorization explicitly covered v0.5 only. Await explicit v0.12 approval."
+  }
+}
