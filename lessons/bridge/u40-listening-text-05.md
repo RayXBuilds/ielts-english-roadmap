@@ -1,0 +1,988 @@
+# U40 第5周听力题面与复盘（音频待补）
+
+本页提供已核验的原创题目、参考答案和脚本。配套完整音频尚未验收，当前只能预览题面；不能进行有效的首次听力测试，也不能把读稿作答计作听力成绩或已完成一套听力。
+
+请先保留首次作答机会：批准音频就绪前，不要展开下方答案和脚本。若已读稿，请标记为熟悉材料，之后的练习不能充当陌生题诊断。页面阅读标记只代表看过文字，不代表完成听力。
+
+本材料非雅思真题、非标准化模考，不换算正式分数。计划分钟数不是实测音频时长；学习记录、正式测评和真人反馈须另行完成。
+
+## 学生题面
+
+### L-W05 — Repair, reuse and shared spaces
+> 原创 IELTS-style 技能练习，非真题、非标准化模考，不可换算正式分数。当前只有文字和题目，音频未生成，不能计作已完成听力套题。
+
+共四部分、40 个计分空，每空 1 分。正式首次作答须等待批准音频，先不要打开 script.md 或 answers.md。朗读前先看题；只听一遍后提交首次答案及信心等级，再做精听。当前只能预览题面，不能把读稿作答记作听力成绩。
+
+#### Part 1 — Joining a repair fair
+
+Q1–6: Complete the notes. Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer, using words from the recording. Numeric notation may replace spoken numbers. Do not repeat a printed unit. Q7–10: Choose **ONE letter, A, B or C**.
+
+**Q1.** Item booked for assessment: ____
+
+**Q2.** Day of the public appointment: ____
+
+**Q3.** Booked assessment start (a.m.): ____
+
+**Q4.** Length of initial assessment: ____ minutes
+
+**Q5.** Useful document to bring, if available: ____
+
+**Q6.** Current location detail required for booking: ____
+
+**Q7.** Why is booking useful?
+
+- A. It guarantees a completed repair.
+- B. It reserves time for an examination.
+- C. It guarantees the lowest parts price.
+
+Answer: ____
+
+**Q8.** What happens if a replacement part is needed?
+
+- A. The owner decides whether and where to buy it after receiving details.
+- B. The fair automatically sells the owner a part.
+- C. The owner must buy likely parts before the assessment.
+
+Answer: ____
+
+**Q9.** How are ordinary booking changes mainly communicated?
+
+- A. Through public social-media posts.
+- B. By telephone for every change.
+- C. By email to the visitor.
+
+Answer: ____
+
+**Q10.** What should a child accompanying an owner do?
+
+- A. Wait behind the visitor line with a supervising adult.
+- B. Join the volunteer inside the working area.
+- C. Stay in the activity area as guaranteed childcare.
+
+Answer: ____
+
+#### Part 2 — Repair fair site briefing
+
+Q11–15: Label the map. Write **ONE letter, A–H**, for each destination. Three letters are unused. Q16–20: Choose **ONE letter, A, B or C**.
+
+![Original site map](../../resources/listening-source/L-W05/map.svg)
+
+**Q11.** Registration
+
+Answer: ____
+
+**Q12.** Tool store
+
+Answer: ____
+
+**Q13.** Bicycle assessment
+
+Answer: ____
+
+**Q14.** Children's activity area
+
+Answer: ____
+
+**Q15.** Donation point
+
+Answer: ____
+
+**Q16.** What is the central purpose of the fair?
+
+- A. To finish the largest possible number of repairs.
+- B. To help owners understand the examination and advice.
+- C. To keep every assessment as short as possible.
+
+Answer: ____
+
+**Q17.** A close photograph of a repair requires permission from whom?
+
+- A. Only the owner.
+- B. Only the volunteer.
+- C. Both the owner and the volunteer.
+
+Answer: ____
+
+**Q18.** If an item is declined for examination, what should the owner do?
+
+- A. Try other tables without mentioning the decision.
+- B. Ask the coordinator to clarify the decision and limits.
+- C. Require the volunteer to complete a repair.
+
+Answer: ____
+
+**Q19.** What happens at lunchtime?
+
+- A. Appointments continue while volunteer breaks are staggered.
+- B. The whole site closes at once.
+- C. Visitors may join any shorter queue for their repair.
+
+Answer: ____
+
+**Q20.** What is the feedback card especially intended to assess?
+
+- A. Which volunteer deserves the highest ranking.
+- B. Whether a booking problem needs an immediate response.
+- C. Whether visitors understood the advice.
+
+Answer: ____
+
+#### Part 3 — Evaluating a repair workshop
+
+Q21–26: Match each proposal to the students' **final** positions at the end of that exchange. The tutor is not included. Write **A, B, C or D**. Letters may be reused.
+
+- **A** Maya only
+- **B** Noah only
+- **C** Both students
+- **D** Neither student
+
+Q27–28 and Q29–30: Choose **TWO different letters, A–E**, for each pair. Write one letter in each numbered slot; either order is accepted. Each distinct correct choice earns one point, maximum two. Repeating a letter cannot earn two points. Submit no more than two letters.
+
+**Q21.** At the END of this exchange, who supports: Short exit interviews?
+
+Answer: ____
+
+**Q22.** At the END of this exchange, who supports: The successful-repair total as the ONLY measure of the event?
+
+Answer: ____
+
+**Q23.** At the END of this exchange, who supports: Collecting visitors' exact addresses?
+
+Answer: ____
+
+**Q24.** At the END of this exchange, who supports: Follow-up accounts from owners whose items were not repaired?
+
+Answer: ____
+
+**Q25.** At the END of this exchange, who supports: Observing the waiting area from a fixed position, with organiser agreement?
+
+Answer: ____
+
+**Q26.** At the END of this exchange, who supports: A brief, permitted volunteer quotation in the presentation?
+
+Answer: ____
+
+**Q27–28.** Which TWO additions to the exit interview are selected?
+
+- A. A personal score for the volunteer
+- B. The visitor's intended next step
+- C. The original purchase price
+- D. Advice the visitor found unclear
+- E. The visitor's home address
+
+Answers: Q27 ____ · Q28 ____
+
+**Q29–30.** Which TWO limitations must the conclusion state?
+
+- A. Paper forms were necessarily unreliable.
+- B. The workshop was cancelled.
+- C. Only one event was observed.
+- D. There was no access to the waiting area.
+- E. Willing interviewees may differ from other visitors.
+
+Answers: Q29 ____ · Q30 ____
+
+#### Part 4 — Tracing a repair request
+
+Q31–35: Complete the flow chart below. Q36–40: Complete the notes. Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer, using words from the recording. Numeric notation may replace spoken numbers. Words or units already printed do not belong in the blank. The numbered text below repeats the SVG prompts for readability.
+
+![Original process flow](../../resources/listening-source/L-W05/flow.svg)
+
+**Q31.** Assign an identification ____.
+
+**Q32.** Record the owner's reported ____.
+
+**Q33.** Conduct a ____ inspection.
+
+**Q34.** Obtain the owner's ____.
+
+**Q35.** Record the final ____.
+
+**Q36.** Requests are classified into consistently defined ____.
+
+**Q37.** A missing value is marked as ____.
+
+**Q38.** Example follow-up interval: ____ weeks.
+
+**Q39.** Remove direct ____ before sharing a case publicly.
+
+**Q40.** Review data quality and the ____ of collecting the data.
+
+#### 本周训练安排（音频批准后执行）
+
+- Preview questions without the script：8 分钟。
+- Future continuous first listen, including planned part pauses：32 分钟。
+- Submit first answers and confidence, without a second play：8 分钟。
+- Check answers and classify errors：20 分钟。
+- Four Q-located intensive segments, 15 minutes each：60 分钟。
+- Diagram and opinion retelling：15 分钟。
+- Next-day retry of missed items：15 分钟。
+
+合计 **158 分钟**；最多另用 22 分钟缓冲，总计不超过 180 分钟。暂停、回放与查词均计入精听预算，不能另行无限追加。当前实际已完成听力分钟数为 0。精听区段和步骤见 intensive.md；答案和脚本另页。
+
+<details>
+
+<summary>参考答案与证据（完成首次听力后再展开）</summary>
+
+### L-W05 — Answers and evidence
+> 独立答案页。先提交首次答案，再看本页。当前缺音频，文本验题不能充当实听验收。
+
+每个单空 1 分；双选各 2 分、答案顺序不限、按不同正确选项计分。接受形式仅做大小写和空白规范化；不做模糊词形推断。
+
+#### Q1 — lamp
+
+Accepted answers: lamp / a lamp / the lamp
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q01 (script.md; timestamps unavailable).
+
+> Customer: Hello, I'm hoping to bring a household item to your repair fair, but I'm unsure whether visitors need to book. I've never attended anything like this before, and I don't want to arrive with something your volunteers cannot examine. Adviser: Booking helps us match an item with somebody who has relevant experience. What were you thinking of bringing? Customer: A lamp. The shade and cable look fine, but it stopped working suddenly. I considered bringing my radio too, although I realise that might be asking too much for one visit. Adviser: Let's register the lamp first. Describe the problem without trying to open it yourself.
+
+#### Q2 — Sunday
+
+Accepted answers: Sunday
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q02 (script.md; timestamps unavailable).
+
+> Customer: Your poster says the fair runs at weekends. Is my appointment on Saturday? I need to arrange transport, and a friend has offered to drive me if I give her enough notice. Adviser: Saturday is when we set out the tables and check equipment. Your appointment is on Sunday, when the public event takes place. Several people have confused those dates because an old volunteer notice is still circulating. Customer: Sunday is actually easier for my friend. I'll put that in my diary now and make sure she receives the visitor confirmation, rather than the photograph of the notice that somebody sent me.
+
+#### Q3 — 9.45
+
+Accepted answers: 9.45 / 9:45 / 09.45 / 09:45 / nine forty-five
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q03 (script.md; timestamps unavailable).
+
+> Customer: What time should we aim to arrive? My friend prefers to leave early in case traffic is heavy, but I don't want to be waiting outside before the building opens. Adviser: The doors open at nine, and your booked assessment begins at nine forty-five. Arriving ten minutes before that will give you time to register and carry the lamp to the correct table. Customer: I'll record nine forty-five as the appointment time, then. The earlier arrival is just to complete the formalities. Adviser: Exactly. If the roads delay you, call the number on your confirmation so we know whether to hold the slot.
+
+#### Q4 — 20
+
+Accepted answers: 20 / twenty
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q04 (script.md; timestamps unavailable).
+
+> Customer: How long will the volunteer spend looking at the lamp? I wondered whether to ask my friend to wait or come back later. Adviser: The initial assessment lasts twenty minutes. Within that time, the volunteer will try to identify the problem and explain what might be possible. It doesn't guarantee a completed repair. Customer: That distinction is useful. We shouldn't assume we can leave with a working lamp immediately after the appointment. Adviser: Right. Some simple jobs can be completed, but others need a part we don't have. We'll explain the options before anyone agrees to further work or spends money on a replacement component.
+
+#### Q5 — manual
+
+Accepted answers: manual / the manual / a manual
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q05 (script.md; timestamps unavailable).
+
+> Customer: Should I bring the original box? It's somewhere in the attic, although finding it may take longer than getting here. Adviser: A secure bag or box for transport is enough. The useful thing to bring, if you still have it, is the manual. It may show how the parts fit together or identify the exact model. Customer: I kept the manual in a drawer with the receipt, so that won't be difficult. Adviser: Excellent. Please leave it with the lamp during the assessment and take it home afterwards. A volunteer can make a note of relevant information, but we don't need to keep your original paperwork.
+
+#### Q6 — postcode
+
+Accepted answers: postcode / post code / current postcode / your postcode / the postcode
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q06 (script.md; timestamps unavailable).
+
+> Customer: Do you collect any information about the owner? I'm happy to give contact details, but I don't know the lamp's age because it was a gift. Adviser: An approximate age is sufficient. What we need for the booking is your postcode, so we can distinguish visitors with similar names and understand which neighbourhoods the fair serves. Customer: I'll provide my current postcode; I moved recently, and some of my older documents still show the previous address. Adviser: Thank you. We don't need those documents. Please check the confirmation after this call and tell us if any of the booking information is wrong before the event.
+
+#### Q7 — B
+
+Accepted answers: B
+
+Booking provides an assessment slot, not a promised repair or price.
+
+Evidence locator: Q07 (script.md; timestamps unavailable).
+
+> Customer: I noticed a free electrical advice desk on the poster. Could I simply go there instead of keeping the booked assessment? It might be easier if our journey takes longer than expected. Adviser: You could ask general questions there, but the desk doesn't reserve time to examine an individual item. The appointment gives a volunteer a defined slot for your lamp. It doesn't put you ahead of people with urgent problems or promise a cheaper repair. Customer: So the important difference is having examination time allocated. I'll keep the booking and use the advice desk only if I have a separate general question afterwards.
+
+#### Q8 — A
+
+Accepted answers: A
+
+Advice precedes the owner's purchase decision; the fair does not sell parts.
+
+Evidence locator: Q08 (script.md; timestamps unavailable).
+
+> Customer: If the lamp needs a new switch, will I be asked to buy one from the fair? I'd rather compare prices before committing to anything. Adviser: We don't sell replacement parts. The volunteer may describe the specification you need, but you decide whether to obtain it and where to buy it. Please don't order a component before the assessment just because an online forum mentions a similar fault. Customer: That makes sense. Two lamps can look alike without using the same internal parts. Adviser: Exactly. The point of the assessment is to reduce uncertainty. You should leave understanding the next step, even if you choose not to continue with the repair.
+
+#### Q9 — C
+
+Accepted answers: C
+
+Email is the main route; a call is reserved for urgent changes.
+
+Evidence locator: Q09 (script.md; timestamps unavailable).
+
+> Customer: Will somebody contact me if the event changes? I use my phone constantly for work, but messages from unfamiliar numbers sometimes get lost among automated reminders. Adviser: We'll send changes by email, because we may need to explain a new entrance or attach a revised map. Check the address in your confirmation. We would call only if something urgent happened very close to your appointment. Customer: I'll add your address to my contacts and check my inbox the evening before. Adviser: Good. Please don't rely on a social media post, since a general update may not include the arrangements for your particular booking.
+
+#### Q10 — A
+
+Accepted answers: A
+
+The visitor boundary and adult supervision remain necessary.
+
+Evidence locator: Q10 (script.md; timestamps unavailable).
+
+> Customer: One last question. My friend has a small child who may come with us. Is it all right for them to watch the assessment? Adviser: Children are welcome with a supervising adult, but they must stay on the visitor side of the marked line. The line separates the public area from tools and equipment. It isn't there to stop people asking questions. Customer: Then my friend can supervise while I discuss the lamp with the volunteer. Adviser: That would work. If the child needs a break, there is a separate activity area. Please don't move the line or lift a child over it to get a better view.
+
+#### Q11 — F
+
+Accepted answers: F
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q11 (script.md; timestamps unavailable).
+
+> Welcome to the repair fair. Before the first appointments begin, I'll explain the outdoor layout shown on your map. North is at the top, and the entrance is marked on the southern edge. The central square contains the covered courtyard, which is a fixed landmark rather than a lettered activity area. Registration is in the southwest corner of the site. It is west of the entrance axis and south of the courtyard, not in the area directly south of the courtyard. Visitors should go there first even if they recognise a volunteer elsewhere. Registration confirms which table has been allocated and helps us keep track of belongings moving through the fair.
+
+#### Q12 — A
+
+Accepted answers: A
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q12 (script.md; timestamps unavailable).
+
+> After registering, volunteers who need shared equipment should visit the tool store. On the map, that is the area in the northwest corner, directly north of registration and diagonally northwest of the courtyard. There is another area immediately west of the courtyard, but that is not the store. The arrangement allows equipment to be checked out away from the busiest visitor route. Only a volunteer may collect a tool from the store, and the borrower should return it personally. This avoids a situation where several people assume somebody else has checked that a valuable or potentially hazardous item is back in the correct place.
+
+#### Q13 — E
+
+Accepted answers: E
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q13 (script.md; timestamps unavailable).
+
+> The bicycle assessment area occupies the space directly east of the central courtyard. It is level with the courtyard on the map, not in the northeast corner. Please wheel bicycles rather than ride them anywhere inside the site. The assessment team needs room to turn a bicycle and examine it from both sides, so visitors should wait at the marked edge until invited forward. We have kept this activity away from the tool store because a row of waiting bicycles can obstruct other volunteers. If you have arrived only to ask about a route or a helmet, the general advice desk will be more suitable.
+
+#### Q14 — C
+
+Accepted answers: C
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q14 (script.md; timestamps unavailable).
+
+> The children's activity area is in the northeast corner. It lies north of the bicycle assessment area and east of the space at the northern centre of the map. An earlier plan placed children beside registration, but we changed that arrangement to give families a quieter area with better visibility. Activities there use simple materials and are supervised, although parents or carers remain responsible for their children. Please do not assume that leaving a child in the area provides childcare for the duration of a repair appointment. The helpers can explain an activity, but they cannot accompany children around the rest of the site.
+
+#### Q15 — H
+
+Accepted answers: H
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q15 (script.md; timestamps unavailable).
+
+> Unwanted usable materials can be offered at the donation point in the southeast corner. This is south of the bicycle assessment area and east of the space directly south of the courtyard. Please speak to a helper before unloading anything. We have limited storage and cannot accept every object simply because it may be useful someday. A clear description helps us decide whether another local group can use it. The donation point is deliberately separate from registration, so a visitor carrying a broken item will not accidentally leave it among donated materials. If you are uncertain whether something is yours to collect or ours to redistribute, ask first.
+
+#### Q16 — B
+
+Accepted answers: B
+
+The coordinator prioritises explanation and understanding, including unsuitable repairs.
+
+Evidence locator: Q16 (script.md; timestamps unavailable).
+
+> We expect a busy morning, but the fair is organised around explanation rather than speed. Volunteers are asked to describe what they are checking and invite owners to ask questions. Finishing the largest possible number of repairs would be an easy figure to advertise, yet it would miss much of the event's purpose. An owner who understands why a repair is unsuitable has still gained useful information. Equally, someone who learns a simple maintenance habit may prevent a later problem. Please allow conversations to finish instead of urging the next person forward whenever a tool is put down. A pause can be part of a careful explanation.
+
+#### Q17 — C
+
+Accepted answers: C
+
+A general event notice does not replace the two permissions.
+
+Evidence locator: Q17 (script.md; timestamps unavailable).
+
+> Photography is allowed in general areas, but close photographs of a repair need the permission of both the volunteer and the owner. An object may look anonymous while still revealing a person's name, address or other private detail. We therefore ask visitors to check the whole frame before sharing an image. A sign saying that photographs may be taken at the event is not a substitute for asking about a close view of someone's belongings. Staff will happily suggest a different subject if permission is declined. For our own report, we can photograph an empty workstation or a demonstration item without interrupting a live assessment.
+
+#### Q18 — B
+
+Accepted answers: B
+
+The coordinator can explain the decision but cannot require unsuitable work.
+
+Evidence locator: Q18 (script.md; timestamps unavailable).
+
+> If a volunteer decides that an item should not be examined here, the owner will receive an explanation and, where appropriate, information about another type of service. The decision is not a judgement about whether the item matters to its owner. It reflects the equipment, competence and time available at this event. Please don't move to another table hoping for a different answer without telling the coordinator. That could separate the item from the information already recorded. The coordinator can clarify the decision or arrange an appropriate discussion, but cannot require a volunteer to attempt work they consider outside the safe limits of their role.
+
+#### Q19 — A
+
+Accepted answers: A
+
+Breaks are staggered; demonstration queues serve a different purpose.
+
+Evidence locator: Q19 (script.md; timestamps unavailable).
+
+> At lunchtime, visitors with appointments should still report to registration at their stated time. Volunteer breaks are staggered, so the site does not close completely in the middle of the day. However, a particular specialist may be unavailable for a short period. The registration team can explain that person's schedule. Please don't join an apparently shorter queue without checking what it is for. Some tables are demonstrating techniques rather than assessing visitors' items. A short queue at a demonstration does not mean the repair service is operating unfairly; it may simply involve a different activity with a different purpose and a different timetable.
+
+#### Q20 — C
+
+Accepted answers: C
+
+Clarity is the focus; urgent issues go to the coordinator.
+
+Evidence locator: Q20 (script.md; timestamps unavailable).
+
+> Before leaving, please complete a short feedback card, including one thing that was clear and one thing that could be improved. We are especially interested in whether you understood the advice, not just whether the item was repaired. The card does not ask for the volunteer's name, and it is not used to rank individual volunteers. We review the comments to improve instructions, signage and the range of support available next time. If you need help with an unresolved booking problem, speak to the coordinator instead of relying on the card. Feedback cards are read later and will not produce an immediate response today.
+
+#### Q21 — C
+
+Accepted answers: C
+
+Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q21 (script.md; timestamps unavailable).
+
+> Tutor: Your project asks how visitors experience the workshop. Let's review the proposals one by one, starting with short exit interviews. Maya: I support them because a brief conversation can show whether someone understood the advice, even when the object wasn't repaired. Noah: I was against them at first because I expected a long queue, but limiting each conversation to two minutes changes my view. I now support that version. Tutor: Then record the revised plan, including the limit. Agreement about the method doesn't mean you have to expect the same findings. Your different interests can still shape the questions you ask and the patterns you examine afterwards.
+
+#### Q22 — B
+
+Accepted answers: B
+
+Final stance: Noah only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q22 (script.md; timestamps unavailable).
+
+> Noah: My next proposal is to count every successful repair and use that total as our only measure of the event. Numbers are easier to compare than personal stories, so I still think one clear total is enough. Maya: I don't support making it the only measure. An unsuccessful repair can lead to a useful explanation, and a successful one may fail again later. Tutor: Could you retain the count while changing the claim? Noah: Possibly in a future draft, but for this proposed measure I am still arguing for the single total. Maya: Then my objection remains. Tutor: Make that disagreement visible rather than writing that the group has already reached a decision.
+
+#### Q23 — D
+
+Accepted answers: D
+
+Final stance: Neither student. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q23 (script.md; timestamps unavailable).
+
+> Maya: I suggested recording visitors' exact addresses so we could map where everyone came from. A detailed map might reveal gaps in the area served. Noah: I don't support collecting exact addresses. Broad neighbourhood information should be enough for our question, and detailed records create avoidable privacy concerns. Tutor: What does the additional precision actually help you explain? Maya: Looking at our question again, very little. I withdraw the address proposal and would use broad areas instead. Noah: I agree with dropping it. Tutor: Good. In your notes, distinguish the original suggestion from the position you both hold after considering its purpose. Otherwise a reader may mistake discussion for final endorsement.
+
+#### Q24 — A
+
+Accepted answers: A
+
+Final stance: Maya only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q24 (script.md; timestamps unavailable).
+
+> Maya: I would like to include follow-up accounts from owners whose items were not repaired. They may tell us what happened after receiving advice, which an event-day count cannot show. Noah: I see the interest, but I don't support that proposal for our project. We have little time, and those owners may be difficult to contact. Tutor: Is your concern the value of the evidence or the resources needed to collect it? Noah: The resources. Maya: I still support a small follow-up, even if it includes only a few clearly described cases. Tutor: Then you disagree about what is manageable, not necessarily about whether those experiences matter. State the distinction accurately.
+
+#### Q25 — C
+
+Accepted answers: C
+
+Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q25 (script.md; timestamps unavailable).
+
+> Noah: We also need to observe the waiting area from a fixed position. If we keep moving, our counts may miss people or count them twice. Maya: I support that, provided the position doesn't block visitors or make them feel inspected. We should agree it with the organiser first. Tutor: Would a fixed position prevent you from noticing problems elsewhere? Noah: It limits the view, but that limitation is easier to describe than changing our method unpredictably. Maya: Yes, and we can keep the observations focused on one question. Tutor: You are both supporting the fixed-position method, with a practical condition. Include that condition in the method rather than leaving it in meeting notes.
+
+#### Q26 — A
+
+Accepted answers: A
+
+Final stance: Maya only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q26 (script.md; timestamps unavailable).
+
+> Maya: Finally, I support including a quotation from a volunteer in our presentation, but only after we have checked permission for that use. A short quotation could show how the volunteer explains an uncertain repair decision. Noah: I don't support adding it. We already have too much material for the presentation, and I would prefer to summarise the point in our own words. Tutor: Both approaches could be reasonable. Does hearing Maya's condition change your position? Noah: No. My objection is about the limited presentation time, not permission. Maya: And I still favour one brief quotation. Tutor: Then record your final positions without treating the permission condition as evidence that Noah agrees.
+
+#### Q27–28 — B, D
+
+Accept unordered set: B, D. One point per distinct correct choice, maximum 2.
+
+The next-step question tests understanding; the unclear-advice question identifies a specific gap. Ratings, price and address are rejected.
+
+Evidence locator: Q27, Q28 (script.md; timestamps unavailable).
+
+> Tutor: Now choose two changes to the exit interview itself. The current draft asks whether the visit was useful and then immediately asks the person to rate the fair. Maya: I'd add a question asking the visitor to explain the next step they intend to take. That would test understanding more directly than another satisfaction rating. Noah: I agree. Someone might be pleased with the friendly welcome while remaining uncertain about the advice. Tutor: That's one change selected. What about asking for a score for the individual volunteer? Maya: I would leave that out. Our project examines the visitor's understanding, not staff performance, and people may be uncomfortable assigning a personal score.
+
+> Noah: The other change I want is a question about advice the visitor found unclear. We should let them identify a particular point rather than forcing them to choose from our guesses. Maya: Agreed. We can ask neutrally and make clear that saying everything was clear is acceptable too. Tutor: So those are your two selected additions. You are not asking for the item's purchase price or the visitor's home address, and you are not introducing a personal rating of the volunteer. Noah: Correct. Keeping the interview short means choosing questions that serve our purpose. Maya: We should test the wording before the event to see whether people understand what we are asking.
+
+#### Q29–30 — C, E
+
+Accept unordered set: C, E. One point per distinct correct choice, maximum 2.
+
+The evidence is limited to one event and self-selected respondents; the other proposed obstacles did not apply.
+
+Evidence locator: Q29, Q30 (script.md; timestamps unavailable).
+
+> Tutor: Your draft conclusion makes several claims. Which two limitations must be made explicit? Noah: First, we observed only one event. We cannot assume another venue, season or group of volunteers would produce the same pattern. Maya: I agree. Repeating the same method in different settings would strengthen a later project, but we shouldn't write as though we've already done that. Tutor: Good. The fact that you used paper forms is not automatically a limitation if the records are clear and complete. Nor does a small project become worthless simply because it isn't large. Explain precisely what the evidence can and cannot support instead of adding a general apology.
+
+> Maya: Second, the visitors who agree to an interview may differ from those who leave without speaking to us. People with more time or stronger opinions might be more willing to participate. Noah: Yes, so our responses cannot stand for every visitor. Tutor: Those are the two limitations to carry into the conclusion. The workshop wasn't cancelled, and you did have access to the waiting area, so don't list those as obstacles. Maya: We'll distinguish events that actually affected the method from things that might have happened. Tutor: Exactly. A useful evaluation is specific to the work you carried out and gives the reader enough information to judge the reach of your claims.
+
+#### Q31 — code
+
+Accepted answers: code
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q31 (script.md; timestamps unavailable).
+
+> In this lecture, we will trace a hypothetical repair request through a small community service. The example is designed to show how records support decisions, rather than to describe a particular organisation. The first stage is to give the item an identification code. That code connects the object to its record without requiring the owner's name to appear on every working note. It should remain stable throughout the process, even if the item moves between people. Changing identifiers midway can make a complete set of notes look like several unrelated cases. A clear record begins with consistency, not with collecting the largest possible amount of information.
+
+#### Q32 — symptom
+
+Accepted answers: symptom / behaviour / observed behaviour / behavior / observed behavior
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q32 (script.md; timestamps unavailable).
+
+> The second stage is to record the symptom described by the owner. A symptom is what the person noticed, such as a device stopping after a few minutes, rather than a diagnosis of the underlying cause. The distinction matters because owners may arrive with a confident explanation from an online discussion. Staff can record that explanation separately, but should not substitute it for the observed behaviour. Otherwise a later technician may investigate only the suggested cause and overlook useful evidence. Recording the owner's description accurately also makes it possible to check whether the problem experienced after a repair is genuinely the same as the original one.
+
+#### Q33 — visual
+
+Accepted answers: visual
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q33 (script.md; timestamps unavailable).
+
+> Next, a trained person conducts a visual inspection before deciding whether any further examination is appropriate. This stage may identify obvious damage, missing parts or signs that the item falls outside the service's scope. It is not a promise that an apparently undamaged object is safe or repairable. The result should be recorded in language that distinguishes what was seen from what was inferred. For example, describing a damaged casing is different from asserting that the damage caused the fault. If the item cannot be examined within the service's limits, the record should explain that decision and the information given to the owner.
+
+#### Q34 — consent
+
+Accepted answers: consent
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q34 (script.md; timestamps unavailable).
+
+> When further work appears possible, the next stage is to obtain the owner's consent. Consent should relate to a described action, not to a vague promise that the service will do whatever seems useful. The owner needs to understand likely costs, uncertainties and any relevant limits. This does not require predicting every possible outcome, but it does require making the proposed next step intelligible. A signature alone cannot show that an explanation was understood. Staff may need to invite questions or ask the owner to describe their understanding. The record should show what was agreed and when, so that later decisions do not rely entirely on memory.
+
+#### Q35 — outcome
+
+Accepted answers: outcome
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q35 (script.md; timestamps unavailable).
+
+> The final stage in this simplified flow is to record the outcome after the agreed work. An outcome record should not use the single word finished for situations that differ substantially. An item may have been repaired, returned without repair, or referred elsewhere. Those distinctions affect what the owner needs to do next and how the service evaluates its work. Recording an outcome also closes a gap between an activity taking place and the organisation knowing what happened. If a technician completes a task but nobody updates the record, another person may spend time trying to locate an item that has already been collected by its owner.
+
+#### Q36 — categories
+
+Accepted answers: categories
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q36 (script.md; timestamps unavailable).
+
+> To compare different kinds of work, the service can classify requests into categories. Categories should be defined before staff begin coding a large set of records, and examples should be supplied for difficult cases. Otherwise one person may classify an item by its main material while another uses its function. The resulting totals could look precise without referring to consistent groups. A small trial of the coding system helps reveal these differences. When staff disagree, the aim is not simply to choose a winner. They should examine whether the definition is unclear or whether the case contains information that the current categories fail to represent.
+
+#### Q37 — unknown
+
+Accepted answers: unknown
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q37 (script.md; timestamps unavailable).
+
+> Some records will contain missing information. The service should mark a missing value as unknown rather than silently replacing it with a convenient assumption. An unknown result is different from an unsuccessful repair, just as an unrecorded cost is different from a repair that cost nothing. Mixing these cases can distort both totals and comparisons. The proportion of unknown values is itself useful information about how well the recording system works. If one field is frequently left empty, staff can investigate whether the question is difficult to answer, poorly explained or requested at a point when the relevant person is no longer available.
+
+#### Q38 — four
+
+Accepted answers: four / 4
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q38 (script.md; timestamps unavailable).
+
+> A further check compares initial outcomes with later follow-up information. In this example, owners are contacted after four weeks to ask whether the item is still in use and whether the original problem has returned. Four weeks is a chosen interval for the example, not a universal standard for judging every repair. A longer interval might reveal different problems, while a shorter one could be easier to complete reliably. Whatever interval is used should be stated clearly. The service should also report how many owners responded, since a high success rate among a small group of respondents may not describe the experience of everyone contacted.
+
+#### Q39 — identifiers
+
+Accepted answers: identifiers
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q39 (script.md; timestamps unavailable).
+
+> Before sharing a case publicly, staff remove direct identifiers from the working account. Removing a name alone may be insufficient if other details make the owner recognisable. The level of detail needed for an internal technical record can be different from the level appropriate for a public example. This creates a practical challenge: an account must retain enough information to explain the learning point while avoiding unnecessary personal detail. The decision should be made deliberately, rather than leaving publication staff to guess which parts are sensitive. A separate publication version can help preserve the fuller internal record without exposing every detail to a wider audience.
+
+#### Q40 — burden
+
+Accepted answers: burden
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q40 (script.md; timestamps unavailable).
+
+> Finally, the service should review its recording system with the people who use it. A technically impressive database can fail if staff cannot complete records during ordinary work or cannot retrieve information when they need it. The review should examine both the quality of the data and the burden of collecting them. It may reveal that a short field needs a clearer definition, or that an elaborate question adds little value. Improvement does not always mean adding more fields. A smaller, consistently maintained record can support decisions better than a larger system whose apparent detail conceals gaps, incompatible categories and assumptions that nobody has documented.
+
+</details>
+
+<details>
+
+<summary>完整脚本（提前阅读会失去陌生题首答机会）</summary>
+
+### L-W05 — Repair, reuse and shared spaces: transcript
+> 原创虚构练习，非真题；音频缺失。仅供完成首次作答后的核对或文字审阅。Q 标记与角色名不属于朗读正文。
+
+#### Part 1 — Joining a repair fair
+
+##### Q1 evidence block
+
+**Customer:** Hello, I'm hoping to bring a household item to your repair fair, but I'm unsure whether visitors need to book. I've never attended anything like this before, and I don't want to arrive with something your volunteers cannot examine.
+
+**Adviser:** Booking helps us match an item with somebody who has relevant experience. What were you thinking of bringing?
+
+**Customer:** A lamp. The shade and cable look fine, but it stopped working suddenly. I considered bringing my radio too, although I realise that might be asking too much for one visit.
+
+**Adviser:** Let's register the lamp first. Describe the problem without trying to open it yourself.
+
+##### Q2 evidence block
+
+**Customer:** Your poster says the fair runs at weekends. Is my appointment on Saturday? I need to arrange transport, and a friend has offered to drive me if I give her enough notice.
+
+**Adviser:** Saturday is when we set out the tables and check equipment. Your appointment is on Sunday, when the public event takes place. Several people have confused those dates because an old volunteer notice is still circulating.
+
+**Customer:** Sunday is actually easier for my friend. I'll put that in my diary now and make sure she receives the visitor confirmation, rather than the photograph of the notice that somebody sent me.
+
+##### Q3 evidence block
+
+**Customer:** What time should we aim to arrive? My friend prefers to leave early in case traffic is heavy, but I don't want to be waiting outside before the building opens.
+
+**Adviser:** The doors open at nine, and your booked assessment begins at nine forty-five. Arriving ten minutes before that will give you time to register and carry the lamp to the correct table.
+
+**Customer:** I'll record nine forty-five as the appointment time, then. The earlier arrival is just to complete the formalities.
+
+**Adviser:** Exactly. If the roads delay you, call the number on your confirmation so we know whether to hold the slot.
+
+##### Q4 evidence block
+
+**Customer:** How long will the volunteer spend looking at the lamp? I wondered whether to ask my friend to wait or come back later.
+
+**Adviser:** The initial assessment lasts twenty minutes. Within that time, the volunteer will try to identify the problem and explain what might be possible. It doesn't guarantee a completed repair.
+
+**Customer:** That distinction is useful. We shouldn't assume we can leave with a working lamp immediately after the appointment.
+
+**Adviser:** Right. Some simple jobs can be completed, but others need a part we don't have. We'll explain the options before anyone agrees to further work or spends money on a replacement component.
+
+##### Q5 evidence block
+
+**Customer:** Should I bring the original box? It's somewhere in the attic, although finding it may take longer than getting here.
+
+**Adviser:** A secure bag or box for transport is enough. The useful thing to bring, if you still have it, is the manual. It may show how the parts fit together or identify the exact model.
+
+**Customer:** I kept the manual in a drawer with the receipt, so that won't be difficult.
+
+**Adviser:** Excellent. Please leave it with the lamp during the assessment and take it home afterwards. A volunteer can make a note of relevant information, but we don't need to keep your original paperwork.
+
+##### Q6 evidence block
+
+**Customer:** Do you collect any information about the owner? I'm happy to give contact details, but I don't know the lamp's age because it was a gift.
+
+**Adviser:** An approximate age is sufficient. What we need for the booking is your postcode, so we can distinguish visitors with similar names and understand which neighbourhoods the fair serves.
+
+**Customer:** I'll provide my current postcode; I moved recently, and some of my older documents still show the previous address.
+
+**Adviser:** Thank you. We don't need those documents. Please check the confirmation after this call and tell us if any of the booking information is wrong before the event.
+
+##### Q7 evidence block
+
+**Customer:** I noticed a free electrical advice desk on the poster. Could I simply go there instead of keeping the booked assessment? It might be easier if our journey takes longer than expected.
+
+**Adviser:** You could ask general questions there, but the desk doesn't reserve time to examine an individual item. The appointment gives a volunteer a defined slot for your lamp. It doesn't put you ahead of people with urgent problems or promise a cheaper repair.
+
+**Customer:** So the important difference is having examination time allocated. I'll keep the booking and use the advice desk only if I have a separate general question afterwards.
+
+##### Q8 evidence block
+
+**Customer:** If the lamp needs a new switch, will I be asked to buy one from the fair? I'd rather compare prices before committing to anything.
+
+**Adviser:** We don't sell replacement parts. The volunteer may describe the specification you need, but you decide whether to obtain it and where to buy it. Please don't order a component before the assessment just because an online forum mentions a similar fault.
+
+**Customer:** That makes sense. Two lamps can look alike without using the same internal parts.
+
+**Adviser:** Exactly. The point of the assessment is to reduce uncertainty. You should leave understanding the next step, even if you choose not to continue with the repair.
+
+##### Q9 evidence block
+
+**Customer:** Will somebody contact me if the event changes? I use my phone constantly for work, but messages from unfamiliar numbers sometimes get lost among automated reminders.
+
+**Adviser:** We'll send changes by email, because we may need to explain a new entrance or attach a revised map. Check the address in your confirmation. We would call only if something urgent happened very close to your appointment.
+
+**Customer:** I'll add your address to my contacts and check my inbox the evening before.
+
+**Adviser:** Good. Please don't rely on a social media post, since a general update may not include the arrangements for your particular booking.
+
+##### Q10 evidence block
+
+**Customer:** One last question. My friend has a small child who may come with us. Is it all right for them to watch the assessment?
+
+**Adviser:** Children are welcome with a supervising adult, but they must stay on the visitor side of the marked line. The line separates the public area from tools and equipment. It isn't there to stop people asking questions.
+
+**Customer:** Then my friend can supervise while I discuss the lamp with the volunteer.
+
+**Adviser:** That would work. If the child needs a break, there is a separate activity area. Please don't move the line or lift a child over it to get a better view.
+
+#### Part 2 — Repair fair site briefing
+
+##### Q11 evidence block
+
+**Site coordinator:** Welcome to the repair fair. Before the first appointments begin, I'll explain the outdoor layout shown on your map. North is at the top, and the entrance is marked on the southern edge. The central square contains the covered courtyard, which is a fixed landmark rather than a lettered activity area. Registration is in the southwest corner of the site. It is west of the entrance axis and south of the courtyard, not in the area directly south of the courtyard. Visitors should go there first even if they recognise a volunteer elsewhere. Registration confirms which table has been allocated and helps us keep track of belongings moving through the fair.
+
+##### Q12 evidence block
+
+**Site coordinator:** After registering, volunteers who need shared equipment should visit the tool store. On the map, that is the area in the northwest corner, directly north of registration and diagonally northwest of the courtyard. There is another area immediately west of the courtyard, but that is not the store. The arrangement allows equipment to be checked out away from the busiest visitor route. Only a volunteer may collect a tool from the store, and the borrower should return it personally. This avoids a situation where several people assume somebody else has checked that a valuable or potentially hazardous item is back in the correct place.
+
+##### Q13 evidence block
+
+**Site coordinator:** The bicycle assessment area occupies the space directly east of the central courtyard. It is level with the courtyard on the map, not in the northeast corner. Please wheel bicycles rather than ride them anywhere inside the site. The assessment team needs room to turn a bicycle and examine it from both sides, so visitors should wait at the marked edge until invited forward. We have kept this activity away from the tool store because a row of waiting bicycles can obstruct other volunteers. If you have arrived only to ask about a route or a helmet, the general advice desk will be more suitable.
+
+##### Q14 evidence block
+
+**Site coordinator:** The children's activity area is in the northeast corner. It lies north of the bicycle assessment area and east of the space at the northern centre of the map. An earlier plan placed children beside registration, but we changed that arrangement to give families a quieter area with better visibility. Activities there use simple materials and are supervised, although parents or carers remain responsible for their children. Please do not assume that leaving a child in the area provides childcare for the duration of a repair appointment. The helpers can explain an activity, but they cannot accompany children around the rest of the site.
+
+##### Q15 evidence block
+
+**Site coordinator:** Unwanted usable materials can be offered at the donation point in the southeast corner. This is south of the bicycle assessment area and east of the space directly south of the courtyard. Please speak to a helper before unloading anything. We have limited storage and cannot accept every object simply because it may be useful someday. A clear description helps us decide whether another local group can use it. The donation point is deliberately separate from registration, so a visitor carrying a broken item will not accidentally leave it among donated materials. If you are uncertain whether something is yours to collect or ours to redistribute, ask first.
+
+##### Q16 evidence block
+
+**Site coordinator:** We expect a busy morning, but the fair is organised around explanation rather than speed. Volunteers are asked to describe what they are checking and invite owners to ask questions. Finishing the largest possible number of repairs would be an easy figure to advertise, yet it would miss much of the event's purpose. An owner who understands why a repair is unsuitable has still gained useful information. Equally, someone who learns a simple maintenance habit may prevent a later problem. Please allow conversations to finish instead of urging the next person forward whenever a tool is put down. A pause can be part of a careful explanation.
+
+##### Q17 evidence block
+
+**Site coordinator:** Photography is allowed in general areas, but close photographs of a repair need the permission of both the volunteer and the owner. An object may look anonymous while still revealing a person's name, address or other private detail. We therefore ask visitors to check the whole frame before sharing an image. A sign saying that photographs may be taken at the event is not a substitute for asking about a close view of someone's belongings. Staff will happily suggest a different subject if permission is declined. For our own report, we can photograph an empty workstation or a demonstration item without interrupting a live assessment.
+
+##### Q18 evidence block
+
+**Site coordinator:** If a volunteer decides that an item should not be examined here, the owner will receive an explanation and, where appropriate, information about another type of service. The decision is not a judgement about whether the item matters to its owner. It reflects the equipment, competence and time available at this event. Please don't move to another table hoping for a different answer without telling the coordinator. That could separate the item from the information already recorded. The coordinator can clarify the decision or arrange an appropriate discussion, but cannot require a volunteer to attempt work they consider outside the safe limits of their role.
+
+##### Q19 evidence block
+
+**Site coordinator:** At lunchtime, visitors with appointments should still report to registration at their stated time. Volunteer breaks are staggered, so the site does not close completely in the middle of the day. However, a particular specialist may be unavailable for a short period. The registration team can explain that person's schedule. Please don't join an apparently shorter queue without checking what it is for. Some tables are demonstrating techniques rather than assessing visitors' items. A short queue at a demonstration does not mean the repair service is operating unfairly; it may simply involve a different activity with a different purpose and a different timetable.
+
+##### Q20 evidence block
+
+**Site coordinator:** Before leaving, please complete a short feedback card, including one thing that was clear and one thing that could be improved. We are especially interested in whether you understood the advice, not just whether the item was repaired. The card does not ask for the volunteer's name, and it is not used to rank individual volunteers. We review the comments to improve instructions, signage and the range of support available next time. If you need help with an unresolved booking problem, speak to the coordinator instead of relying on the card. Feedback cards are read later and will not produce an immediate response today.
+
+#### Part 3 — Evaluating a repair workshop
+
+##### Q21 evidence block
+
+**Tutor:** Your project asks how visitors experience the workshop. Let's review the proposals one by one, starting with short exit interviews.
+
+**Maya:** I support them because a brief conversation can show whether someone understood the advice, even when the object wasn't repaired.
+
+**Noah:** I was against them at first because I expected a long queue, but limiting each conversation to two minutes changes my view. I now support that version.
+
+**Tutor:** Then record the revised plan, including the limit. Agreement about the method doesn't mean you have to expect the same findings. Your different interests can still shape the questions you ask and the patterns you examine afterwards.
+
+##### Q22 evidence block
+
+**Noah:** My next proposal is to count every successful repair and use that total as our only measure of the event. Numbers are easier to compare than personal stories, so I still think one clear total is enough.
+
+**Maya:** I don't support making it the only measure. An unsuccessful repair can lead to a useful explanation, and a successful one may fail again later.
+
+**Tutor:** Could you retain the count while changing the claim?
+
+**Noah:** Possibly in a future draft, but for this proposed measure I am still arguing for the single total.
+
+**Maya:** Then my objection remains.
+
+**Tutor:** Make that disagreement visible rather than writing that the group has already reached a decision.
+
+##### Q23 evidence block
+
+**Maya:** I suggested recording visitors' exact addresses so we could map where everyone came from. A detailed map might reveal gaps in the area served.
+
+**Noah:** I don't support collecting exact addresses. Broad neighbourhood information should be enough for our question, and detailed records create avoidable privacy concerns.
+
+**Tutor:** What does the additional precision actually help you explain?
+
+**Maya:** Looking at our question again, very little. I withdraw the address proposal and would use broad areas instead.
+
+**Noah:** I agree with dropping it.
+
+**Tutor:** Good. In your notes, distinguish the original suggestion from the position you both hold after considering its purpose. Otherwise a reader may mistake discussion for final endorsement.
+
+##### Q24 evidence block
+
+**Maya:** I would like to include follow-up accounts from owners whose items were not repaired. They may tell us what happened after receiving advice, which an event-day count cannot show.
+
+**Noah:** I see the interest, but I don't support that proposal for our project. We have little time, and those owners may be difficult to contact.
+
+**Tutor:** Is your concern the value of the evidence or the resources needed to collect it?
+
+**Noah:** The resources.
+
+**Maya:** I still support a small follow-up, even if it includes only a few clearly described cases.
+
+**Tutor:** Then you disagree about what is manageable, not necessarily about whether those experiences matter. State the distinction accurately.
+
+##### Q25 evidence block
+
+**Noah:** We also need to observe the waiting area from a fixed position. If we keep moving, our counts may miss people or count them twice.
+
+**Maya:** I support that, provided the position doesn't block visitors or make them feel inspected. We should agree it with the organiser first.
+
+**Tutor:** Would a fixed position prevent you from noticing problems elsewhere?
+
+**Noah:** It limits the view, but that limitation is easier to describe than changing our method unpredictably.
+
+**Maya:** Yes, and we can keep the observations focused on one question.
+
+**Tutor:** You are both supporting the fixed-position method, with a practical condition. Include that condition in the method rather than leaving it in meeting notes.
+
+##### Q26 evidence block
+
+**Maya:** Finally, I support including a quotation from a volunteer in our presentation, but only after we have checked permission for that use. A short quotation could show how the volunteer explains an uncertain repair decision.
+
+**Noah:** I don't support adding it. We already have too much material for the presentation, and I would prefer to summarise the point in our own words.
+
+**Tutor:** Both approaches could be reasonable. Does hearing Maya's condition change your position?
+
+**Noah:** No. My objection is about the limited presentation time, not permission.
+
+**Maya:** And I still favour one brief quotation.
+
+**Tutor:** Then record your final positions without treating the permission condition as evidence that Noah agrees.
+
+##### Q27 evidence block
+
+**Tutor:** Now choose two changes to the exit interview itself. The current draft asks whether the visit was useful and then immediately asks the person to rate the fair.
+
+**Maya:** I'd add a question asking the visitor to explain the next step they intend to take. That would test understanding more directly than another satisfaction rating.
+
+**Noah:** I agree. Someone might be pleased with the friendly welcome while remaining uncertain about the advice.
+
+**Tutor:** That's one change selected. What about asking for a score for the individual volunteer?
+
+**Maya:** I would leave that out. Our project examines the visitor's understanding, not staff performance, and people may be uncomfortable assigning a personal score.
+
+##### Q28 evidence block
+
+**Noah:** The other change I want is a question about advice the visitor found unclear. We should let them identify a particular point rather than forcing them to choose from our guesses.
+
+**Maya:** Agreed. We can ask neutrally and make clear that saying everything was clear is acceptable too.
+
+**Tutor:** So those are your two selected additions. You are not asking for the item's purchase price or the visitor's home address, and you are not introducing a personal rating of the volunteer.
+
+**Noah:** Correct. Keeping the interview short means choosing questions that serve our purpose.
+
+**Maya:** We should test the wording before the event to see whether people understand what we are asking.
+
+##### Q29 evidence block
+
+**Tutor:** Your draft conclusion makes several claims. Which two limitations must be made explicit?
+
+**Noah:** First, we observed only one event. We cannot assume another venue, season or group of volunteers would produce the same pattern.
+
+**Maya:** I agree. Repeating the same method in different settings would strengthen a later project, but we shouldn't write as though we've already done that.
+
+**Tutor:** Good. The fact that you used paper forms is not automatically a limitation if the records are clear and complete. Nor does a small project become worthless simply because it isn't large. Explain precisely what the evidence can and cannot support instead of adding a general apology.
+
+##### Q30 evidence block
+
+**Maya:** Second, the visitors who agree to an interview may differ from those who leave without speaking to us. People with more time or stronger opinions might be more willing to participate.
+
+**Noah:** Yes, so our responses cannot stand for every visitor.
+
+**Tutor:** Those are the two limitations to carry into the conclusion. The workshop wasn't cancelled, and you did have access to the waiting area, so don't list those as obstacles.
+
+**Maya:** We'll distinguish events that actually affected the method from things that might have happened.
+
+**Tutor:** Exactly. A useful evaluation is specific to the work you carried out and gives the reader enough information to judge the reach of your claims.
+
+#### Part 4 — Tracing a repair request
+
+##### Q31 evidence block
+
+**Lecturer:** In this lecture, we will trace a hypothetical repair request through a small community service. The example is designed to show how records support decisions, rather than to describe a particular organisation. The first stage is to give the item an identification code. That code connects the object to its record without requiring the owner's name to appear on every working note. It should remain stable throughout the process, even if the item moves between people. Changing identifiers midway can make a complete set of notes look like several unrelated cases. A clear record begins with consistency, not with collecting the largest possible amount of information.
+
+##### Q32 evidence block
+
+**Lecturer:** The second stage is to record the symptom described by the owner. A symptom is what the person noticed, such as a device stopping after a few minutes, rather than a diagnosis of the underlying cause. The distinction matters because owners may arrive with a confident explanation from an online discussion. Staff can record that explanation separately, but should not substitute it for the observed behaviour. Otherwise a later technician may investigate only the suggested cause and overlook useful evidence. Recording the owner's description accurately also makes it possible to check whether the problem experienced after a repair is genuinely the same as the original one.
+
+##### Q33 evidence block
+
+**Lecturer:** Next, a trained person conducts a visual inspection before deciding whether any further examination is appropriate. This stage may identify obvious damage, missing parts or signs that the item falls outside the service's scope. It is not a promise that an apparently undamaged object is safe or repairable. The result should be recorded in language that distinguishes what was seen from what was inferred. For example, describing a damaged casing is different from asserting that the damage caused the fault. If the item cannot be examined within the service's limits, the record should explain that decision and the information given to the owner.
+
+##### Q34 evidence block
+
+**Lecturer:** When further work appears possible, the next stage is to obtain the owner's consent. Consent should relate to a described action, not to a vague promise that the service will do whatever seems useful. The owner needs to understand likely costs, uncertainties and any relevant limits. This does not require predicting every possible outcome, but it does require making the proposed next step intelligible. A signature alone cannot show that an explanation was understood. Staff may need to invite questions or ask the owner to describe their understanding. The record should show what was agreed and when, so that later decisions do not rely entirely on memory.
+
+##### Q35 evidence block
+
+**Lecturer:** The final stage in this simplified flow is to record the outcome after the agreed work. An outcome record should not use the single word finished for situations that differ substantially. An item may have been repaired, returned without repair, or referred elsewhere. Those distinctions affect what the owner needs to do next and how the service evaluates its work. Recording an outcome also closes a gap between an activity taking place and the organisation knowing what happened. If a technician completes a task but nobody updates the record, another person may spend time trying to locate an item that has already been collected by its owner.
+
+##### Q36 evidence block
+
+**Lecturer:** To compare different kinds of work, the service can classify requests into categories. Categories should be defined before staff begin coding a large set of records, and examples should be supplied for difficult cases. Otherwise one person may classify an item by its main material while another uses its function. The resulting totals could look precise without referring to consistent groups. A small trial of the coding system helps reveal these differences. When staff disagree, the aim is not simply to choose a winner. They should examine whether the definition is unclear or whether the case contains information that the current categories fail to represent.
+
+##### Q37 evidence block
+
+**Lecturer:** Some records will contain missing information. The service should mark a missing value as unknown rather than silently replacing it with a convenient assumption. An unknown result is different from an unsuccessful repair, just as an unrecorded cost is different from a repair that cost nothing. Mixing these cases can distort both totals and comparisons. The proportion of unknown values is itself useful information about how well the recording system works. If one field is frequently left empty, staff can investigate whether the question is difficult to answer, poorly explained or requested at a point when the relevant person is no longer available.
+
+##### Q38 evidence block
+
+**Lecturer:** A further check compares initial outcomes with later follow-up information. In this example, owners are contacted after four weeks to ask whether the item is still in use and whether the original problem has returned. Four weeks is a chosen interval for the example, not a universal standard for judging every repair. A longer interval might reveal different problems, while a shorter one could be easier to complete reliably. Whatever interval is used should be stated clearly. The service should also report how many owners responded, since a high success rate among a small group of respondents may not describe the experience of everyone contacted.
+
+##### Q39 evidence block
+
+**Lecturer:** Before sharing a case publicly, staff remove direct identifiers from the working account. Removing a name alone may be insufficient if other details make the owner recognisable. The level of detail needed for an internal technical record can be different from the level appropriate for a public example. This creates a practical challenge: an account must retain enough information to explain the learning point while avoiding unnecessary personal detail. The decision should be made deliberately, rather than leaving publication staff to guess which parts are sensitive. A separate publication version can help preserve the fuller internal record without exposing every detail to a wider audience.
+
+##### Q40 evidence block
+
+**Lecturer:** Finally, the service should review its recording system with the people who use it. A technically impressive database can fail if staff cannot complete records during ordinary work or cannot retrieve information when they need it. The review should examine both the quality of the data and the burden of collecting them. It may reveal that a short field needs a clearer definition, or that an elaborate question adds little value. Improvement does not always mean adding more fields. A smaller, consistently maintained record can support decisions better than a larger system whose apparent detail conceals gaps, incompatible categories and assumptions that nobody has documented.
+
+</details>
+
+<details>
+
+<summary>精听与复盘步骤（须有已验收配套音频）</summary>
+
+### L-W05 — Q-based intensive listening
+> 音频尚未生成；以下是未来执行安排，不是已完成记录。不要用文本阅读替代首次听力。无实际时间戳。
+
+周预算：预览 8 + 首听 32 + 交首次答案 8 + 查错 20 + 精听 60 + 复述 15 + 次日重做 15 = **158 分钟**。含暂停/回放；加用缓冲最多 22 分钟，总计≤180。
+
+四段各 15 分钟：先定位并不看稿听 2 分钟；分句回放、写关键词 4 分钟；对照稿找误听与改口 3 分钟；遮稿跟读和复述 3 分钟；重答并记录错误原因 3 分钟。不得把同一段回放另算在周预算之外。
+
+#### Q2–3 — 15 minutes
+
+定位 script.md 的 Q2 evidence block 起至 Q3 evidence block 结束（约 201 词）；音频起止为 null。
+
+目标：Separate setup day, public appointment, doors opening and assessment start.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### Q12–13 — 15 minutes
+
+定位 script.md 的 Q12 evidence block 起至 Q13 evidence block 结束（约 209 词）；音频起止为 null。
+
+目标：Draw north-west and east positions; reject neighbouring corners.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### Q23–24 — 15 minutes
+
+定位 script.md 的 Q23 evidence block 起至 Q24 evidence block 结束（约 210 词）；音频起止为 null。
+
+目标：Track a withdrawn address proposal versus an unresolved follow-up disagreement.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### Q37–38 — 15 minutes
+
+定位 script.md 的 Q37 evidence block 起至 Q38 evidence block 结束（约 208 词）；音频起止为 null。
+
+目标：Distinguish unknown from failure; identify the example interval without treating it as a universal rule.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### 15 分钟复述与 15 分钟次日重做
+
+复述：5 分钟遮住答案口述地图五个位置；5 分钟按人说明三人讨论的最终观点；5 分钟复述流程及一个限制。次日：8 分钟仅重做错题对应 Q 段；4 分钟核对；3 分钟更新错误记录。若仍超时，留下未完成项，不把额外时间隐去。
+
+</details>
+
+## 许可说明
+
+原创文字和图示：RayXBuilds and contributors，CC BY 4.0。本页不包含配套音频；现有基础VOA媒体不能代替本套题的录音。

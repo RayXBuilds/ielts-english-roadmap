@@ -1,0 +1,1099 @@
+{
+  "id": "L-W16",
+  "week": 16,
+  "title": "An original checkpoint and the next learning decision",
+  "version": "W13-W16-text-v1",
+  "status": "text_self_check_pending_independent_QA",
+  "original": true,
+  "stage_check": {
+    "original": true,
+    "replaces_formal_T16": false,
+    "note": "W16 is an original local checkpoint; formal T16 remains separate."
+  },
+  "provenance": "Original fictional practice commissioned for this curriculum; not authentic IELTS, not standardised or score-calibrated. No third-party text or diagrams used.",
+  "license": "CC BY 4.0 for original text and SVG; no audio rights or audio files supplied.",
+  "question_count": 40,
+  "question_objects": 38,
+  "spoken_word_count": 4281,
+  "word_count_method": "Regex word tokens including hyphenated forms; excludes speaker labels, titles, question text and Q locators.",
+  "audio_file": null,
+  "duration_seconds": null,
+  "audio_start_seconds": null,
+  "audio_end_seconds": null,
+  "media_status": "missing_not_generated",
+  "complete_listening_set": false,
+  "planning_only": {
+    "speech_rate_words_per_minute": [
+      140,
+      160
+    ],
+    "speech_minutes_estimate": [
+      26.76,
+      30.58
+    ],
+    "actual_duration_seconds": null,
+    "first_listen_budget_minutes": 32,
+    "note": "Text-based estimate only. Future rendition must fit 32 minutes including part pauses; if not, revise the timetable before release."
+  },
+  "weekly_training": {
+    "minutes": 158,
+    "maximum_minutes": 180,
+    "buffer_minutes": 22,
+    "tasks": [
+      {
+        "task": "Preview questions without the script",
+        "minutes": 8
+      },
+      {
+        "task": "Future continuous first listen, including planned part pauses",
+        "minutes": 32
+      },
+      {
+        "task": "Submit first answers and confidence, without a second play",
+        "minutes": 8
+      },
+      {
+        "task": "Check answers and classify errors",
+        "minutes": 20
+      },
+      {
+        "task": "Four Q-located intensive segments, 15 minutes each",
+        "minutes": 60
+      },
+      {
+        "task": "Diagram and opinion retelling",
+        "minutes": 15
+      },
+      {
+        "task": "Next-day retry of missed items",
+        "minutes": 15
+      }
+    ],
+    "completed_listening_minutes": 0
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "Booking a progress workshop",
+      "roles": [
+        "Adviser",
+        "Learner"
+      ],
+      "question_range": [
+        1,
+        10
+      ],
+      "word_count": 1050,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q01",
+          "question_locator": "Q1",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Adviser",
+              "text": "Learning review centre, hello."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I'd like to attend one of your workshops with a study partner. We don't need somebody to predict an official test score. We want to review what our recent practice shows and decide what to work on next."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Then progress review is the workshop topic to select."
+            },
+            {
+              "speaker": "Learner",
+              "text": "Yes, progress review describes our purpose. We have records from several original classroom tasks, but we're unsure which differences reflect learning and which reflect different conditions."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The session examines that distinction. It uses local examples and doesn't turn classroom marks into an official result or replace any formal assessment you may need to arrange separately."
+            }
+          ]
+        },
+        {
+          "id": "Q02",
+          "question_locator": "Q2",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Adviser",
+              "text": "The workshop is on the twenty-first of November."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I saw the fourteenth in an early programme. Has it moved?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Yes. The twenty-first is the confirmed date after the room arrangement was settled."
+            },
+            {
+              "speaker": "Learner",
+              "text": "That's possible for both of us. I'll replace the older calendar entry and send my partner the current information."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "We will repeat the date in your confirmation."
+            },
+            {
+              "speaker": "Learner",
+              "text": "Good. I want to avoid keeping two versions and then guessing which one was final when we organise transport."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The confirmation is the booking record to use. If another practical change occurs, the update will clearly identify that same booking rather than appear as an unrelated event notice."
+            }
+          ]
+        },
+        {
+          "id": "Q03",
+          "question_locator": "Q3",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Learner",
+              "text": "What time does it start?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "One thirty-five in the afternoon. The building is open from one, but your workshop begins at one thirty-five."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I'll record one thirty-five as the session time and arrive shortly before it to check in."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Thank you. The introduction explains how to use the practice records and what conclusions the exercise cannot support."
+            },
+            {
+              "speaker": "Learner",
+              "text": "We shouldn't miss that and then assume the workshop is a formal test."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. The activity is a guided review of learning evidence. It has a schedule and clear tasks, but those features alone don't make it a standardised assessment or provide an official score interpretation."
+            }
+          ]
+        },
+        {
+          "id": "Q04",
+          "question_locator": "Q4",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Adviser",
+              "text": "How many places should I reserve?"
+            },
+            {
+              "speaker": "Learner",
+              "text": "Two. Three of us discussed attending, but the third person has another commitment."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Two places are available."
+            },
+            {
+              "speaker": "Learner",
+              "text": "We'll collect that person's questions, but we won't reserve a seat that we don't expect them to use."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "If your attendance changes, contact us before transferring a place. The group activity depends on knowing who is coming and how many work areas to prepare."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I'll keep the booking with the two confirmed names and update it through the proper route if necessary."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "That helps us maintain a clear record rather than reconstruct changes from several informal messages on the morning."
+            }
+          ]
+        },
+        {
+          "id": "Q05",
+          "question_locator": "Q5",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Learner",
+              "text": "What is the total cost for the two places?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The introductory booking total is twenty-eight pounds."
+            },
+            {
+              "speaker": "Learner",
+              "text": "Twenty-eight altogether, not for each person?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Correct. It includes the workshop materials. A separate consultation about a longer programme would have different arrangements, but you haven't booked that here."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I'll share the total and the scope with my partner so we both understand what the payment covers."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Check the confirmation before completing payment. If the amount or number of places differs from this conversation, ask us to correct it. A clear explanation now is better than discovering later that each person assumed a different service was included."
+            }
+          ]
+        },
+        {
+          "id": "Q06",
+          "question_locator": "Q6",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Learner",
+              "text": "What should we bring from our practice?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Bring your error log, with the original task references if you have them. The log should distinguish what you first answered, what the feedback said and what you changed afterwards."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I have an error log, although some entries just say careless mistake."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Bring it as it is. We can discuss how to make those entries more informative. You don't need to rewrite the log to make your preparation look better."
+            },
+            {
+              "speaker": "Learner",
+              "text": "That's useful. A record of the difficulty we actually had will probably help more than a polished summary that hides the steps between the first attempt and the correction."
+            }
+          ]
+        },
+        {
+          "id": "Q07",
+          "question_locator": "Q7",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Learner",
+              "text": "Will we take a formal examination during the workshop?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "No. There is an original practice activity to help you examine your review method, but it isn't an official examination or a substitute for a separately required checkpoint."
+            },
+            {
+              "speaker": "Learner",
+              "text": "So its results help us plan learning rather than establish a recognised score."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. The tasks and local criteria are explained for that purpose."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I'll make sure my partner understands the distinction before we arrive."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Good. A structured activity can be useful without claiming the standardisation, security or score interpretation of a formal assessment. We want the conclusions to match the evidence the activity is actually designed to produce."
+            }
+          ]
+        },
+        {
+          "id": "Q08",
+          "question_locator": "Q8",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Learner",
+              "text": "Can we compare our two practice scores directly?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "You can discuss them, but first examine the tasks, timing and help received. A higher total from an easier or more familiar activity may not show the same thing as improvement under comparable conditions."
+            },
+            {
+              "speaker": "Learner",
+              "text": "We should bring those details rather than just the final numbers."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Yes. The workshop looks at the information behind a difference. It doesn't assume every rise proves learning or every fall proves decline."
+            },
+            {
+              "speaker": "Learner",
+              "text": "That could change how we read our logs. We've sometimes written a judgement beside a number without recording whether we repeated a task we already knew or received extra explanation before finishing it."
+            }
+          ]
+        },
+        {
+          "id": "Q09",
+          "question_locator": "Q9",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Learner",
+              "text": "One of us may need a different format for the review sheet. Should we wait until the workshop?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Please describe the practical requirement when replying to the confirmation. We can check the available formats and discuss any limits before the day."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I'll ask my partner which format works rather than guess on their behalf."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Thank you. That gives us a useful request to respond to."
+            },
+            {
+              "speaker": "Learner",
+              "text": "We don't want to arrive assuming that an ordinary printed sheet is the only option, or assume an alternative is guaranteed without discussing it."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. The aim is a clear arrangement that the participant and the teaching team both understand in advance."
+            }
+          ]
+        },
+        {
+          "id": "Q10",
+          "question_locator": "Q10",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Learner",
+              "text": "If we need to change the booking, what should we do?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Reply to the confirmation with the booking reference. For an urgent change close to the session, use the telephone number printed there."
+            },
+            {
+              "speaker": "Learner",
+              "text": "A message in the public workshop comments wouldn't update the attendance list?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Correct. It may not reach the person managing places."
+            },
+            {
+              "speaker": "Learner",
+              "text": "I'll keep the full confirmation, not just a screenshot of the time."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Good. It contains the current instructions and the route for changing them. That helps prevent two people acting on different versions and each assuming the other has already told the centre about a revised plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Learning review centre orientation",
+      "roles": [
+        "Review host"
+      ],
+      "question_range": [
+        11,
+        20
+      ],
+      "word_count": 1078,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q11",
+          "question_locator": "Q11",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "Welcome to the learning review centre. North is at the top of the diagram, the entrance is on the southern edge and the courtyard is the central landmark. Eight lettered spaces surround it. Check-in is directly south of the courtyard, on the entrance axis. It isn't in either southern corner. Please report there before joining an activity. Staff can confirm the room and explain any practical update. The centre hosts several kinds of learning session, so an old plan from another event may not identify today's arrangement. Use the current diagram and ask if a sign appears inconsistent with the instructions in your confirmation."
+            }
+          ]
+        },
+        {
+          "id": "Q12",
+          "question_locator": "Q12",
+          "word_count": 112,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "The individual practice room is in the north-west corner. It is west of the northern central room and diagonally north-west of the courtyard. An earlier plan put the practice activity directly north, but that room now has another function. The practice room is used under a stated timetable, so please wait until the leader explains when to begin. This original activity is a way to examine a learning process, not an official test. Keep the conditions visible in your record, including any agreed support. A local score is only interpretable in relation to the task and procedure that produced it, not by the room's formal appearance or the presence of a timer."
+            }
+          ]
+        },
+        {
+          "id": "Q13",
+          "question_locator": "Q13",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "The discussion room is directly east of the courtyard, level with its centre. It is not the south-east room. Groups use that space to compare interpretations of their practice records after the individual activity. The purpose is to explain what the evidence supports and where members disagree, not to rank people by a single total. A participant with a lower score may have encountered unfamiliar material or received less help, so the number alone doesn't settle the comparison. Please bring the task conditions and relevant examples to the discussion. Those details give the group something specific to examine instead of relying only on a broad judgement such as better or worse."
+            }
+          ]
+        },
+        {
+          "id": "Q14",
+          "question_locator": "Q14",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "The review room is in the north-east corner, directly north of the discussion room. It is also east of the northern central room, since both positions are on the same northern row of the diagram. This is where participants turn their observations into a short plan for the next stage. The plan should identify a priority and the evidence behind it, rather than list every possible weakness. Staff may ask you to explain why a proposed action addresses the difficulty you observed. That question is intended to clarify the reasoning, not to demand certainty about a future result. A useful plan can include a carefully defined uncertainty to investigate."
+            }
+          ]
+        },
+        {
+          "id": "Q15",
+          "question_locator": "Q15",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "The collection point for printed resources is in the south-west area, west of check-in and below the room directly west of the courtyard. Please take the resource that matches the task version named by your leader. Several activities use similar layouts, but their required outputs may differ. A familiar-looking sheet isn't necessarily the correct one. If you find a missing page, report it rather than copy a neighbour's answers and treat that as an independent attempt. The collection point is a practical service, not a second assessment desk. The helper can supply the right material but won't decide which interpretation your response should defend."
+            }
+          ]
+        },
+        {
+          "id": "Q16",
+          "question_locator": "Q16",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "Today's checkpoint is original practice. It cannot replace an official or separately scheduled formal assessment, and its local score should not be converted into an official band or grade. The useful evidence concerns particular actions: whether a requirement was noticed, whether a claim had support and whether time was reserved for checking. Those observations can guide a next learning decision without predicting every future performance. We ask participants to keep that scope visible when discussing the result afterwards. Calling an exercise a checkpoint explains its place in a learning sequence; it doesn't by itself establish that the task has the properties needed for a formal score interpretation."
+            }
+          ]
+        },
+        {
+          "id": "Q17",
+          "question_locator": "Q17",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "Before the activity begins, identify what the task requires and what the stated limit includes. If a response asks for a comparison and a recommendation, completing only the comparison is an incomplete response even if it is detailed. At the same time, adding an unrequested section can consume time needed for a required qualification. The task isn't a contest to write the largest amount. It asks you to allocate effort to the work specified. If an instruction is unclear, follow the clarification process rather than silently invent a requirement. Your later review should be able to distinguish misunderstanding the task from understanding it but running out of time."
+            }
+          ]
+        },
+        {
+          "id": "Q18",
+          "question_locator": "Q18",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "During the review, preserve your first response separately from the corrected version. Otherwise you may remember the improved answer as though it were what you produced independently at the start. The first response provides evidence about the difficulty; the correction provides evidence about what you changed after feedback or further thought. Both are useful, but they answer different questions. If you used an explanation from another person, record that support rather than presenting the revision as unaided work. The aim is an honest learning record, not a display that makes every attempt look successful by removing the parts that would help you understand why improvement was needed."
+            }
+          ]
+        },
+        {
+          "id": "Q19",
+          "question_locator": "Q19",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "A confidence rating can be discussed alongside an answer, but confidence isn't a substitute for evidence. A person may feel certain about an incorrect interpretation or uncertain about a well-supported one. The review can examine the relationship between the rating and the response rather than praising confidence by itself. Explain which clue or reasoning step produced your judgement. If you changed your mind, identify what new information mattered. This makes a confidence record useful for learning: it can reveal a recurring unsupported assumption or a tendency to overlook evidence you actually understood. A bare high-or-low label without that connection may tell the group little about what to change next."
+            }
+          ]
+        },
+        {
+          "id": "Q20",
+          "question_locator": "Q20",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Review host",
+              "text": "The closing plan should name one manageable priority and a way to check it later. You may need more than one improvement over time, but attempting every possible change in the next session can make it difficult to learn which action helped. Record what you will retain as well as what you will revise. The next checkpoint should connect to the plan without simply repeating a familiar answer from memory. A useful sequence includes an attempt, evidence, interpretation and a deliberate next action. It remains open to revision when new evidence arrives, rather than treating one local practice result as a permanent description of a learner's ability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Interpreting two practice attempts",
+      "roles": [
+        "Tutor",
+        "Mina",
+        "Caleb"
+      ],
+      "question_range": [
+        21,
+        30
+      ],
+      "word_count": 1041,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q21",
+          "question_locator": "Q21",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "You completed two original practice attempts last week. Today we're reviewing them before planning the next checkpoint."
+            },
+            {
+              "speaker": "Mina",
+              "text": "I suggest beginning with any required output that was missed. A neat answer can still fail to do everything the task asked."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "I agree. I initially wanted to start with spelling, but an omitted recommendation affects the whole response."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "So you both support reviewing missed requirements first?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "Yes, while keeping the other issues for later."
+            },
+            {
+              "speaker": "Mina",
+              "text": "We can mark the instruction and the corresponding place in the response."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "That gives you a concrete comparison rather than a general impression that one answer seems more complete than another."
+            }
+          ]
+        },
+        {
+          "id": "Q22",
+          "question_locator": "Q22",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Caleb proposes timing the first planning stage separately in the next attempt."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "I support that. We know the overall duration, but we don't know whether the planning stage expanded or whether writing took longer."
+            },
+            {
+              "speaker": "Mina",
+              "text": "I'd keep the same timing record for one more attempt before adding another measurement. A new stage marker might alter how people plan."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could that alteration itself be useful to observe?"
+            },
+            {
+              "speaker": "Mina",
+              "text": "Possibly, but I still prefer to establish the existing pattern first."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "I continue to support the separate timing."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then the proposal isn't shared. Your disagreement is about what the next attempt should investigate, not whether planning time can matter."
+            }
+          ]
+        },
+        {
+          "id": "Q23",
+          "question_locator": "Q23",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "An early note suggests converting the local total into an official band."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "I wrote that because a familiar scale seemed easier to explain."
+            },
+            {
+              "speaker": "Mina",
+              "text": "I don't support it. These tasks don't provide a valid official score conversion."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "You're right. I'll remove the conversion and keep the result on the local scale with its purpose stated."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you withdrawing the proposed official interpretation?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "Yes. A structured original task isn't enough to justify that claim."
+            },
+            {
+              "speaker": "Mina",
+              "text": "We can still identify specific strengths and difficulties."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Exactly. A narrower, justified conclusion is more useful than a familiar number whose meaning the assessment design cannot support."
+            }
+          ]
+        },
+        {
+          "id": "Q24",
+          "question_locator": "Q24",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Mina proposes a short follow-up on uncertain interpretations from the review."
+            },
+            {
+              "speaker": "Mina",
+              "text": "I support asking participants to explain one passage they were unsure about. It could distinguish a misunderstood word from a problem with the underlying reasoning."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "I'd leave that out of the next session and use the time for another independent attempt."
+            },
+            {
+              "speaker": "Mina",
+              "text": "We could keep it brief, but I still think the explanation is worth collecting."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Caleb, does limiting it to one passage change your position?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "Not for this stage. I want to see whether the difficulty recurs without additional help."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Mina supports the follow-up and Caleb remains against including it in this next session."
+            }
+          ]
+        },
+        {
+          "id": "Q25",
+          "question_locator": "Q25",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should you compare attempts only after checking the conditions?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "Yes. We need to know whether the tasks were similarly familiar and what help was available."
+            },
+            {
+              "speaker": "Mina",
+              "text": "I agree. Equal time limits don't make every other condition equivalent."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "What would you do if the conditions differed?"
+            },
+            {
+              "speaker": "Mina",
+              "text": "Describe the difference and narrow the claim, rather than force the totals into a simple improvement story."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "We might still learn something from the examples, but we couldn't attribute every change to the learning plan."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then this is a shared check. It should happen before interpreting the score difference, not appear as a small qualification after a confident conclusion has already been announced."
+            }
+          ]
+        },
+        {
+          "id": "Q26",
+          "question_locator": "Q26",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Do you both want a confidence rating beside each first answer?"
+            },
+            {
+              "speaker": "Mina",
+              "text": "I support it, with a brief note about the evidence behind the rating. It could show where I'm certain for a weak reason."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "I'd record the errors and their causes first without adding ratings. People may use the scale differently, and I don't want to create another difficult comparison."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Would an agreed scale resolve that?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "It would help, but I still prefer to leave ratings out of the next attempt."
+            },
+            {
+              "speaker": "Mina",
+              "text": "I continue to favour them."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Mina supports the proposal and Caleb doesn't. Keep that distinction separate from your shared agreement to preserve the first response."
+            }
+          ]
+        },
+        {
+          "id": "Q27",
+          "question_locator": "Q27",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Which two indicators have you agreed for the stage review?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "First, coverage of the required outputs. We can check whether each requested component is present rather than assume a long answer is complete."
+            },
+            {
+              "speaker": "Mina",
+              "text": "Agreed. The checklist should use the actual instruction for that task."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you using total word count as the main indicator instead?"
+            },
+            {
+              "speaker": "Mina",
+              "text": "No. More words don't necessarily mean better task fulfilment."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "We also rejected a neatness ranking."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then required-output coverage is the first agreed indicator. It doesn't judge every aspect of quality, but it addresses a concrete problem that appeared in the practice and can be examined directly in the response."
+            }
+          ]
+        },
+        {
+          "id": "Q28",
+          "question_locator": "Q28",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What is the second agreed indicator?"
+            },
+            {
+              "speaker": "Mina",
+              "text": "Whether the evidence behind each main claim can be traced. A response may state an attractive conclusion without showing which information supports it."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "Yes. We'll connect the claim to a relevant source detail or reasoning step."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you predicting an official result from that indicator?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "No. We rejected a formal score forecast for this original activity."
+            },
+            {
+              "speaker": "Mina",
+              "text": "The pair is required-output coverage and evidence traceability."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. Those indicators give the review a defined focus. They don't turn it into a complete assessment of every skill, so keep the scope visible when explaining the result to somebody who wasn't part of the exercise."
+            }
+          ]
+        },
+        {
+          "id": "Q29",
+          "question_locator": "Q29",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Which two limitations affect the comparison between last week's attempts?"
+            },
+            {
+              "speaker": "Mina",
+              "text": "The second task was more familiar. Several participants had worked with a similar example before, whereas the first task introduced a new setting."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "Agreed. That familiarity could contribute to a higher total."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does saving both first responses count as a limitation?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "No, it helps us compare the actual work."
+            },
+            {
+              "speaker": "Mina",
+              "text": "And both sessions took place, so cancellation isn't part of the explanation."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then prior familiarity is the first limitation. Explain its relevance to the result rather than listing every difference between the task sheets as though each must have had an equal effect."
+            }
+          ]
+        },
+        {
+          "id": "Q30",
+          "question_locator": "Q30",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What is the second limitation?"
+            },
+            {
+              "speaker": "Caleb",
+              "text": "Participants received different amounts of help. Some had an additional explanation before completing the second response."
+            },
+            {
+              "speaker": "Mina",
+              "text": "Yes. We can't treat that result as entirely independent work or attribute every improvement to the plan we proposed."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "What will change next time?"
+            },
+            {
+              "speaker": "Mina",
+              "text": "Record the assistance consistently and distinguish unaided work from work completed after help."
+            },
+            {
+              "speaker": "Caleb",
+              "text": "We should preserve the earlier records with their limitations rather than edit the help out of the history."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Exactly. The two limitations are task familiarity and unequal assistance. The printed pages were complete, so missing material isn't another problem that affected these particular attempts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "title": "From a checkpoint to a revised learning plan",
+      "roles": [
+        "Lecturer"
+      ],
+      "question_range": [
+        31,
+        40
+      ],
+      "word_count": 1112,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q31",
+          "question_locator": "Q31",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "This lecture describes an original learning checkpoint, not a formal standardised examination. The first stage prepares a rubric. A rubric is a scoring guide that explains which features the local review will examine and how judgements will be made. In this example, the guide focuses on responding to the task and supporting claims with relevant evidence. It does not provide an official score conversion. The team should make the criteria clear before reviewing the responses, so the standard doesn't shift to fit an attractive answer after it has been seen. A useful rubric supports consistent discussion while keeping its limited purpose visible to both participants and reviewers."
+            }
+          ]
+        },
+        {
+          "id": "Q32",
+          "question_locator": "Q32",
+          "word_count": 113,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The second stage preserves the first attempt made under the agreed conditions. The initial response is kept separately from revisions, with the task version, time limit and any support recorded. This gives the review an identifiable object rather than a memory of what the learner probably meant to write. A corrected response may demonstrate useful learning, but it cannot replace the initial response when the question concerns independent performance before feedback. The team should also note a significant interruption rather than pretend the attempt followed the plan exactly. Keeping the record clear is a practical requirement for interpreting later change, not an invitation to treat one attempt as a complete description of ability."
+            }
+          ]
+        },
+        {
+          "id": "Q33",
+          "question_locator": "Q33",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The third stage gathers evidence for each judgement. Evidence includes features of the response that relate to the stated criteria, such as a missing required output or a claim connected to an appropriate source detail. The reviewer should identify the relevant passage rather than rely only on a general impression. A label such as unclear may be a starting observation, but it needs an explanation of what the reader cannot follow and why that matters to the task. The purpose is to make the judgement inspectable. Another reviewer should be able to see the basis for the comment and discuss it, rather than accept an unexplained verdict because it sounds confident."
+            }
+          ]
+        },
+        {
+          "id": "Q34",
+          "question_locator": "Q34",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fourth stage makes a diagnosis of the main difficulty. A diagnosis is a reasoned explanation that connects the observed problem with a plausible learning need. An omitted section could reflect a missed instruction, poor time allocation or uncertainty about the content. The response alone may not distinguish those possibilities, so the reviewer should keep the explanation qualified and use additional information where appropriate. Calling every omission carelessness doesn't identify a useful action. The aim is to formulate a difficulty precisely enough that a later revision can address it, while acknowledging when the evidence supports more than one interpretation. Diagnosis therefore follows evidence rather than replacing the need to examine it."
+            }
+          ]
+        },
+        {
+          "id": "Q35",
+          "question_locator": "Q35",
+          "word_count": 118,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fifth stage plans a revision that addresses the identified difficulty. A revision is a deliberate change, not simply a second attempt made with the hope that more effort will produce a better result. The learner might add a check for required outputs, practise a particular reasoning step or alter the allocation of time. The selected action should connect to the diagnosis and remain manageable within the next session. If several changes are introduced at once, it may be difficult to understand which one helped. The plan can therefore begin with a focused adjustment while keeping other needs recorded for later work. The next attempt will provide new evidence, not a guaranteed confirmation that the plan was correct."
+            }
+          ]
+        },
+        {
+          "id": "Q36",
+          "question_locator": "Q36",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Retention concerns what remains available after a delay. A learner who can repeat an explanation immediately after hearing it may not use the same idea independently a week later. A later check can explore retention, provided its purpose and conditions are clear. The reviewer should not treat any difference as proof that all earlier learning disappeared; the later task may introduce another demand or context. It helps to identify which specific knowledge or procedure the check is intended to examine. That makes the comparison more informative than a broad judgement that the learner either remembers everything or has forgotten the whole lesson based on one response."
+            }
+          ]
+        },
+        {
+          "id": "Q37",
+          "question_locator": "Q37",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Transfer concerns using learning in a different task or setting. A person may recognise the required comparison in a familiar example but miss it when the wording changes. The next stage can examine whether the underlying principle carries across, without simply asking for the same answer again. The team should describe the relevant similarities and differences between tasks. A task that changes every feature at once may make a difficulty hard to interpret, while an almost identical task may mainly reward memory of the earlier response. A useful transfer check is designed around the principle being investigated and keeps the claim narrower than a promise of success in every future situation."
+            }
+          ]
+        },
+        {
+          "id": "Q38",
+          "question_locator": "Q38",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Calibration concerns the relationship between confidence and accuracy. In this example, a learner records confidence before receiving feedback and later compares that rating with the support for the answer. High confidence in a weak interpretation may reveal an assumption worth examining; low confidence in a sound interpretation may reveal overlooked evidence. The review should investigate the pattern rather than simply encourage everyone to sound more certain. Different people may use a rating scale differently, so an agreed description helps. Calibration is a local learning question here, not a diagnosis of personality. Its value depends on linking a rating with an answer and the reasons behind it."
+            }
+          ]
+        },
+        {
+          "id": "Q39",
+          "question_locator": "Q39",
+          "word_count": 114,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The stage review selects a small number of priorities for the next period. These improvement targets should reflect both the importance of a difficulty and the evidence that the proposed action can address it. The most frequent error is not automatically the best first target if it has little effect on the required task. Equally, a striking rare mistake may distract from a repeated omission that prevents completion. The learner and reviewer explain the choice and record what will be deferred. This keeps the plan manageable without pretending that deferred issues have disappeared. Clear priorities make the next session a deliberate test of an improvement idea rather than another attempt to fix everything simultaneously."
+            }
+          ]
+        },
+        {
+          "id": "Q40",
+          "question_locator": "Q40",
+          "word_count": 115,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Finally, the team arranges a checkpoint to review the next attempt. The checkpoint identifies when the evidence will be examined, which criteria remain relevant and what would justify changing the plan. It should not promise a particular score before the learner has done the work. A useful review can lead to retaining the current approach, revising the diagnosis or testing a different action. The record should preserve that decision and its reasons. In this way, an original checkpoint becomes one stage in a continuing learning process. It supports a justified next step while leaving formal assessment requirements separate and avoiding claims that a local exercise can establish every conclusion a learner might want to draw."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

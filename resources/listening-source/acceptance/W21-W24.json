@@ -1,0 +1,293 @@
+{
+  "scope": "listening W21-W24 QA-L15 targeted text/question/scorer recheck, unchanged diagrams; audio excluded",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T09:05:42.624960+08:00",
+  "freeze_sha256": "2934907e19467210dc83e08e995edfd342de3ede96550157917866d627033158",
+  "frozen_files": 70,
+  "parent_acceptance": {
+    "path": "../listening-w21-w24/acceptance.json",
+    "sha256": "bebab54e4808a46eb8be60302a2835078beaf081a735dc2bd5a01afa67cc6699",
+    "conclusion": "needs_revision",
+    "preserved": true
+  },
+  "verified_counts": {
+    "spoken_words": 16897,
+    "scored_blanks": 160,
+    "question_objects": 152,
+    "registered_answer_forms": 295,
+    "registered_single_forms": 279,
+    "changed_blanks": 2,
+    "added_forms": 2,
+    "removed_forms": 0,
+    "unchanged_blanks": 158,
+    "actual_scoring_calls": 6059,
+    "before_patch_calls": 10,
+    "current_patch_calls": 6049,
+    "prior_files_unchanged": 305,
+    "prior_freezes_unchanged": 5,
+    "historical_QA_files_unchanged": 95,
+    "archive_entries_independently_hashed": 95,
+    "unchanged_SVG": 8
+  },
+  "sub_batches": {
+    "W21": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": []
+    },
+    "W22": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": []
+    },
+    "W23": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": [
+        "QA-L15"
+      ]
+    },
+    "W24": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": [
+        "QA-L15"
+      ]
+    }
+  },
+  "closed_issues": [
+    {
+      "id": "QA-L15",
+      "status": "closed",
+      "prior_acceptance_sha256": "bebab54e4808a46eb8be60302a2835078beaf081a735dc2bd5a01afa67cc6699",
+      "changes": [
+        {
+          "lesson": "L-W23",
+          "q": "Q34",
+          "before": [
+            "intervention",
+            "targeted intervention",
+            "planned change",
+            "change"
+          ],
+          "after": [
+            "intervention",
+            "targeted intervention",
+            "planned change",
+            "change",
+            "proposal"
+          ],
+          "added": [
+            "proposal"
+          ],
+          "removed": [],
+          "all_other_question_fields_equal": true
+        },
+        {
+          "lesson": "L-W24",
+          "q": "Q33",
+          "before": [
+            "comparison",
+            "structured comparison"
+          ],
+          "after": [
+            "comparison",
+            "structured comparison",
+            "proposed comparison"
+          ],
+          "added": [
+            "proposed comparison"
+          ],
+          "removed": [],
+          "all_other_question_fields_equal": true
+        }
+      ],
+      "verification": "Two requested additions only; 10 before/after paired variants change 0 to1, all3062 original QA calls replayed (only6 original false rejections change), 40 additional negative variants remain0."
+    }
+  ],
+  "remaining_issues": [],
+  "boundary_decisions": [
+    {
+      "lesson": "L-W22",
+      "q": "Q32",
+      "input": "small sample",
+      "actual": {
+        "valid": true,
+        "points": 0
+      },
+      "decision": "no_definite_defect",
+      "reason": "段落泛称小样本也可能有用；未指示必须选小样本，也未确认所选样本大小。当前拒绝不构成确定误拒。"
+    },
+    {
+      "lesson": "L-W23",
+      "q": "Q32",
+      "input": "recurring pattern",
+      "actual": {
+        "valid": true,
+        "points": 0
+      },
+      "decision": "no_definite_defect",
+      "reason": "原文明确单次不足以建立recurring pattern；不能把观察描述自动升级为已证反复模式。本轮保留拒绝，不列漏收。"
+    }
+  ],
+  "nonblocking_observations": [],
+  "historical_OBS_L17_01": "preserved",
+  "evidence_boundaries": {
+    "W21_real_interface": {
+      "completed": false,
+      "status": "unperformed_unverified",
+      "platform": null,
+      "session_date": null,
+      "evidence": null,
+      "local_practice_prepared": true,
+      "local_practice_completed": false
+    },
+    "W22_formal_boundary": {
+      "original": true,
+      "formal_checkpoint_id": "T22",
+      "replaces_formal_T22": false,
+      "formal_source": null,
+      "formal_administered": false,
+      "formal_result": null,
+      "independent_human_feedback": null,
+      "note": "W22 is an original local checkpoint; formal T22 remains separate."
+    },
+    "W23_personal_evidence": {
+      "requires_real_first_response": true,
+      "learner_evidence": null,
+      "diagnosis": "unknown_not_inferred",
+      "uses_existing_intensive_budget": true
+    },
+    "W24_formal_boundary": {
+      "original": true,
+      "formal_checkpoint_id": "T24",
+      "replaces_formal_T24": false,
+      "formal_source": null,
+      "formal_administered": false,
+      "formal_result": null,
+      "independent_human_feedback": null,
+      "note": "W24 is an original local checkpoint; formal T24 remains separate."
+    },
+    "W24_categories": {
+      "user_target": null,
+      "original_first_response_correct_count": null,
+      "formal_T24_result": null,
+      "familiar_item_retest": null,
+      "readiness": "unknown",
+      "booking_decision": null,
+      "mandatory_extension": null
+    },
+    "time_budget": "Each 158 + maximum22 <=180. W21/22/24 record work replaces 3 minutes of existing 15-minute retelling; W23 substitutions within original60-minute intensive budget. No actual duration/completion claimed.",
+    "prior_W17_W20_independent_acceptance_sha256": "82aac20b0e3c5e546a33782d62780c818b82ba503501d864f6370d7111f6d0c0",
+    "audio_review": "missing_not_reviewed",
+    "actual_completed_minutes": 0,
+    "scope": "No real interface operation, formal assessment administration, human feedback, personal diagnosis or readiness established."
+  },
+  "visual_review": "Unchanged SVG and historical independent render hashes verified; inherit parent actual-view evidence; no new rendering or actual view claimed.",
+  "audio_review": {
+    "conclusion": "not_reviewed_missing",
+    "audio_files": 0,
+    "actual_duration_seconds": null,
+    "completed_playable_listening_sets": 0,
+    "approved": false
+  },
+  "completion_boundary": "Text acceptance is not 24 completed playable listening sets and not all-subject completion.",
+  "source_drift": [],
+  "evidence": {
+    "REPORT.md": "55516a7ebeaf7ca70ece9c634430a84270a38a31f7af6835c67d9aacaae2723d",
+    "before-QA.md": "8f42624566c981734366253702492b231350f90ddf3ada57e67557b1f65a0337",
+    "before-acceptance-index.json": "b4803b75c9119b6b8d882a6da4c7c6ecc79292f16d3f423e8efe1ca1e28a2fa5",
+    "check.py": "e42d249372108f6dc9a6dcbcee4d6b8fca9c1235ccf736a64d41526b358b6aca",
+    "checks.json": "20001f7a07f0f62140b942d82507198167539d87608c603d4b9ccf788db77cc2",
+    "finalize.py": "0fa2d6d4c1c01465610a00bef18b08fb7ef76ac85d8daa97f07593529dc65927",
+    "issues.json": "09a111248fd7492db40b4ca458b5dae555e7ead214fafcdf16f22cc28859c381",
+    "parent-base-replay.json": "fcfaf82a2656a92c58380e1fdd993994229c9f7df0e92ba24f2b8ac3e88eac2a",
+    "parent-history-hashes.json": "aae90f042fb7e57fd491e32804a8ca6465d4f4b2f3aab54bce9600563ef2eb67",
+    "patch-check.py": "0327db4f85a281c9d94fffa71568d9696866f680bb4d9f0bf7619f029611f694",
+    "patch-checks.json": "3c90edc261777de8bba8f1f5a435193817447d26bfffe64e846ce060a74ef5f9",
+    "patch-scoring-calls.json": "a47300fb488c1314a4f8aada3162e694dab7efd78acf1ccea8af7c5ec5cef126",
+    "scoring-calls.json": "c161d4223e4df2b0ec0bce4b2ba1f39bec7c3c004c45e3b29741566c5a405322",
+    "snapshot/FREEZE.json": "2934907e19467210dc83e08e995edfd342de3ede96550157917866d627033158",
+    "snapshot/L-W21/STATUS.md": "abe1e664e8891ff1cfc4d6cf1d76b54d3f17c2bb8a3b4b86297fabdf8c89beb0",
+    "snapshot/L-W21/answers.md": "d80678b56821fbd23b2b6f63a6464aeba279188e5cfee497368059e4d41b064e",
+    "snapshot/L-W21/flow.svg": "06ed36af77ef1ba982d830c3a0aab1286dfc72edc336d478e14b7c57d424106c",
+    "snapshot/L-W21/intensive.md": "09155ba74a512114abc043332570be6e64c2606ebcbd78c8f75fd110d7cf1b9e",
+    "snapshot/L-W21/map.svg": "3f809df8ec08b8d4c63f7a9b55b139f690eab21f64809ef51592152041925b72",
+    "snapshot/L-W21/questions.json": "5080f442206bfadbb2f5978ff1896e2531c209f39445ee532aa13f8353dcfe49",
+    "snapshot/L-W21/script-source.txt": "c468a13aaf167f2746e7afed1807aff2de0285a55a9969fbd8fbbad5fa47200b",
+    "snapshot/L-W21/script.md": "0b64150a0883eb05f571bccd6691ea4917ab9da70ca4ae9de558b52d25753ed4",
+    "snapshot/L-W21/source.json": "220eeccf7e7a8602f84d6a32ca323081abbc8a07642fe4a470486b9d0c13b5fc",
+    "snapshot/L-W21/student.md": "a1f873c151e4805746abce4b168f4d132d2481e34919b7b1e5bf637990564ebe",
+    "snapshot/L-W22/STATUS.md": "4725604b49fdd4804aa6e9cdd71a003b9bfa4199249f184e6bd0077c1d3e3956",
+    "snapshot/L-W22/answers.md": "d6df52f34b6fde49ca8fbaa19cebb2acca04d9ca6445dee5407fad790c0af63f",
+    "snapshot/L-W22/flow.svg": "dd92f220f43a07a920fae115b4f158c2cc801e96c97e8be018628119c5c1cd00",
+    "snapshot/L-W22/intensive.md": "29ec2b77ba98e6e9a7ee4943bc7c84064d191fd91396a7ea22e0b081fc359e7e",
+    "snapshot/L-W22/map.svg": "abf27048f58ace45cc6024023810917abdf9031dff88354fdd7d12c819ddb8d3",
+    "snapshot/L-W22/questions.json": "53058e3cb26e86410b7ac964491a6f7b23bebef681407911c7964fba22374de9",
+    "snapshot/L-W22/script-source.txt": "52bfe0e95e2835b9a1e9a8245b50197c469572edfb5a786fb72a8387aa07e2bf",
+    "snapshot/L-W22/script.md": "2ea194ef568309f5a715ba8dc904cc61aa833da2a3db08011979b42d2c626340",
+    "snapshot/L-W22/source.json": "306334ce332aecaf03d3db40a2aae05e19351192fd3e99bf9472f00edc5c4634",
+    "snapshot/L-W22/student.md": "cd49cf6d24a6e7846054ad4717c0c9659e57cbd38aa6fc8eb11810aa24f43cd3",
+    "snapshot/L-W23/STATUS.md": "49c76a62317ab2d0cb866ab8a471726f7f294c727e12f3d71544863afb2a677b",
+    "snapshot/L-W23/answers.md": "8d6034e376c1a78ca1e25b3df92aa98f3542c627ce1f53fd2f74f2fda3d09f4c",
+    "snapshot/L-W23/flow.svg": "a570a4fdcb661d2d60d8ec9571ec8a7f2a5a0b66d509ee22c7089cca7b45a67f",
+    "snapshot/L-W23/intensive.md": "7b916b022405cf1193d99ed17707c286ec55194585be16d3056eb0481e1515d8",
+    "snapshot/L-W23/map.svg": "8c7642016708e55508fc5eeb2045e4d6cd461c6d76eca223ce2d99a38ce6ac5e",
+    "snapshot/L-W23/questions.json": "24a43ae171b4a3f34cb6ab9fcdab53f8d7f2951ab7a18b312a67490561053cbf",
+    "snapshot/L-W23/script-source.txt": "2e7387f060809c29e4903e40eff7c76ac7522af6a6a72846d649c183fbcc7f56",
+    "snapshot/L-W23/script.md": "25ae32daadfa84ff14b5ad39538dcae703172f634a60d5570f74291f68983d93",
+    "snapshot/L-W23/source.json": "1e2c8ec758c6041fa012dbcf3c983b19982d01be6169cf1f3c2eb897a6c75a40",
+    "snapshot/L-W23/student.md": "ad326d550d2d5a19a4e08586bcfd2e6682230e839edb165260f9bb9df21af2aa",
+    "snapshot/L-W24/STATUS.md": "90c8d0e4af815951bf51a82fb96c2537c85735bbd1a12e95b17981534afbd187",
+    "snapshot/L-W24/answers.md": "853e3271b14a12133b9180407bd5857a57694b4a7e97bcea9ce44cf5c0037f54",
+    "snapshot/L-W24/flow.svg": "2c1634ff28ef918f95d1948ad31c214e4d6e54aa2672ebd69198e1929e611ff2",
+    "snapshot/L-W24/intensive.md": "224bba768f3eb991e2be0b6d79d420ab4f84452004d9ca647bd08cf0e566b434",
+    "snapshot/L-W24/map.svg": "8884a14ba63efaa4cdc98d35b15c304a4dccaeb239ab44c001dd0b18fde13e28",
+    "snapshot/L-W24/questions.json": "a56bdc81a69b694ff81c5dd8cfc31cd64437d433485b07d4ed86fed58d0e4159",
+    "snapshot/L-W24/script-source.txt": "777d5af8f7cff3737e2f56bce789fe6931a067fa58e38ce432059dbb9db85268",
+    "snapshot/L-W24/script.md": "2d0c7c3fafc8388560bdd09591d3c6f23c6ef4e4bd7ce198a53f901154af1cba",
+    "snapshot/L-W24/source.json": "7b9b352c40fb088ef8ae1967a8b0e9d7ead16cc268297c119bfe7b19d90f1925",
+    "snapshot/L-W24/student.md": "7171f1430d9a32165ba5b017f5e59bb36cb74087d0bb6050cfd565ad5ae1b1ae",
+    "snapshot/README.md": "657a1568bd759d9c88d974a7cbd3c8029ad82a8e3336c7948cd0aa623491fd7b",
+    "snapshot/STATUS.md": "187cdd57ebb88b039d4ee528f19c33a1b5349398dc630c0e15cbb58fb1859f77",
+    "snapshot/answer-forms-audit.json": "72ce61de604bdc2ae7452e7b2e0d0856b6a25bedbdfe3bb2b0124992b86ab18c",
+    "snapshot/build_batch.py": "65694a77c64436cee235dd5e0ed3d2659eee31c6e7b641e87d199a096b671ec9",
+    "snapshot/change-manifest.json": "ebf59465e130daf7f13bda93f67e510b50eef970d824f02be839289c93a6a7f8",
+    "snapshot/check_batch.py": "b019b1b12e9a88263df53b44458c9d9bfa5eab61ea01625c3d8d3855f07b920c",
+    "snapshot/design.py": "1a9b94c797595b3b67494449965bbe0516e8a842ec0e6409dac43cd7649e0ab7",
+    "snapshot/editorial-review.md": "fc65c139976a25fba2e86cd4357a61b546592fa382477f5cf9aca37e53a3f027",
+    "snapshot/finalize_batch.py": "40fe1cd37118fef1e4d98a515a26b063a33984c103781bae0ca147e59f4e7ba3",
+    "snapshot/geometry-check.json": "1d992ed61961f832dc7c2ceef997373c2477f1abf1bca82e561633abe5a2c011",
+    "snapshot/history/pre-qa-l15-FREEZE.json": "44a14b1ba6ccb147c7d5c59bd5b0bb4ceeeff412e7b5f4a22a838a3e744ec885",
+    "snapshot/history/qa-l15-evidence-manifest.json": "d453331f519acf499e38443b93522c9e1419ca0e299547327e596ff758b866ea",
+    "snapshot/history/qa-l15-independent-evidence.zip": "b207c2c7fb48a730cbbf253bec86c24608862c53886468977c1a19d7f9052c0e",
+    "snapshot/inventory.json": "765c26fc14ea9936432758dee6ee30547797d4faa6d008024bb0c9ffb0da301e",
+    "snapshot/prior-batch-guards.json": "e0bfed43576f21ec0e5a1da1ae8c531b6c7b7c8014edfe243a3fe7ad14e92031",
+    "snapshot/qa-l15-replay.json": "440911aef0e55345bc9a013b104af0630252c30c28c7592de261688f92b5a1a5",
+    "snapshot/qa-l15-revision.json": "75af1b886eb7452a92adb7962eb4309ce62fcde37796bf95e50c12d518aa45cb",
+    "snapshot/revise_qa_l15.py": "94c234b64c48500e8f8d004a941ff67fcc5b23ffedad39474c82428cd4cc00f5",
+    "snapshot/scoring-check.json": "01663ecb7f3ae2c418ced692ff296027e565a1042fd4fba076bb2c61f5587fc7",
+    "snapshot/scoring.py": "8b44ab911e739df02d0b7b0381cde7475e48c16618bede23224eeb4fba0c0c90",
+    "snapshot/self-check.json": "a65082850f6a306309a5b8021c88c7b81c2d87be0285e8f1b67d8fa833313bf8",
+    "snapshot/visual-qa/L-W21/flow.svg.png": "2b7d9d4fe7325243babeee2ef44bb442d0921bae4c52a8887172e2eafcd4c9e0",
+    "snapshot/visual-qa/L-W21/map.svg.png": "47a3317753af976ce67f7cf6e2ce0007b02411fce66879970af3d403e69cc1c6",
+    "snapshot/visual-qa/L-W22/flow.svg.png": "5f050e30fa178a8c7032100017a6622069b462ba91aebd9c55f40a8cb03da61a",
+    "snapshot/visual-qa/L-W22/map.svg.png": "a0c48298c7679c85ef128617fbdf701df1680ae0b2688c80ef70432ebd0b2a98",
+    "snapshot/visual-qa/L-W23/flow.svg.png": "185d48d131bbe1466f11ec932d7b0f2faf0d1bf3227ef113c2ff3fbdd410b10d",
+    "snapshot/visual-qa/L-W23/map.svg.png": "78b2cca917c5ca70e19379bd5692836d120e0ecaa2dab17d601caeaad0d83316",
+    "snapshot/visual-qa/L-W24/flow.svg.png": "e6a93492f3fb634d6e5e77ec5e23e1fd44db3fce7e45b7ee9d9a70d4245e57b4",
+    "snapshot/visual-qa/L-W24/map.svg.png": "bcda539b6cd8985cf2bd07f5232a395a11fec4dde1849040d2e596975a8134bb",
+    "snapshot/visual-qa/manifest.json": "0a45ef1e62de1401099c3ae96f8ad9072b85e2463f24949bbc36b7d598c6d104",
+    "snapshot-check.json": "d976f01dffae9609ce5f6e5da8e14232ad4ba66807a525115a6c5fb6b18e4e7b",
+    "snapshot.py": "228195a810d97c527e9445475aeb838cf0dca2a1d28f8228afe9f36e539954f5",
+    "supplement.json": "68fbd1a26986c5e52a39a5b174b3306d867ed123c35b765b072e7ad11bba65a6",
+    "supplement.py": "dfc29774fd659998fd6c6da3ff7f02afd840bf3540b7bd6146d578cbb30353df"
+  },
+  "write_scope": "qa/listening-w21-w24-recheck; qa/acceptance-index.json; qa/QA.md",
+  "not_approved": [
+    "Audio/listenability/actual duration",
+    "Interface operation/personal diagnosis/learner completion",
+    "Formal T22/T24/human feedback/readiness/mandatory extension",
+    "Integration/publication/all-subject completion"
+  ]
+}

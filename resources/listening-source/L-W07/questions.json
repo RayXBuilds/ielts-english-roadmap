@@ -1,0 +1,961 @@
+{
+  "lesson_id": "L-W07",
+  "audio_status": "missing",
+  "total_score": 40,
+  "question_count": 40,
+  "question_objects": 38,
+  "normalisation": "Trim outer whitespace; collapse internal whitespace; Unicode casefold. No fuzzy spelling, automatic article deletion, plural stemming or unit deletion. Clock/numeric variants are explicit. Choice letters are case-insensitive. Two-choice items are unordered sets scored by distinct intersection.",
+  "questions": [
+    {
+      "id": "Q01",
+      "numbers": [
+        1
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Main product to be sold: ____",
+      "evidence_blocks": [
+        "Q01"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "bread",
+      "accepted_answers": [
+        "bread"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q02",
+      "numbers": [
+        2
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Chosen day of June: ____",
+      "evidence_blocks": [
+        "Q02"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "19",
+      "accepted_answers": [
+        "19",
+        "19th",
+        "nineteenth",
+        "the nineteenth"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q03",
+      "numbers": [
+        3
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Number of stallholder passes: ____",
+      "evidence_blocks": [
+        "Q03"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "4",
+      "accepted_answers": [
+        "4",
+        "four"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q04",
+      "numbers": [
+        4
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Allocated unloading time (a.m.): ____",
+      "evidence_blocks": [
+        "Q04"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "8.30",
+      "accepted_answers": [
+        "8.30",
+        "8:30",
+        "08.30",
+        "08:30",
+        "eight thirty"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q05",
+      "numbers": [
+        5
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Total stall fee for this community group: £____",
+      "evidence_blocks": [
+        "Q05"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "40",
+      "accepted_answers": [
+        "40",
+        "forty"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q06",
+      "numbers": [
+        6
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Items to attach the display board: ____",
+      "evidence_blocks": [
+        "Q06"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "clips",
+      "accepted_answers": [
+        "clips"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q07",
+      "numbers": [
+        7
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "Why does the organiser suggest an illustrated information sheet?",
+      "evidence_blocks": [
+        "Q07"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "It guarantees programme priority.",
+        "B": "It lets visitors continue reading after a brief conversation.",
+        "C": "It replaces required stall information."
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "The take-away sheet extends a short conversation; it confers no priority."
+    },
+    {
+      "id": "Q08",
+      "numbers": [
+        8
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "What must the friend wishing to sell pottery do first?",
+      "evidence_blocks": [
+        "Q08"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Submit a separate application.",
+        "B": "Use a corner of the existing stall informally.",
+        "C": "Arrive on the morning and claim neighbouring space."
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Responsibility and proposed goods must be recorded for each organisation."
+    },
+    {
+      "id": "Q09",
+      "numbers": [
+        9
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "If all the products sell early, the group should",
+      "evidence_blocks": [
+        "Q09"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "drive away immediately.",
+        "B": "invent an extra performance.",
+        "C": "keep its information display open until the agreed close."
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Selling may stop but the information display remains; vehicle entry is restricted."
+    },
+    {
+      "id": "Q10",
+      "numbers": [
+        10
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "Which plan should volunteers use?",
+      "evidence_blocks": [
+        "Q10"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "The rough early website sketch.",
+        "B": "The numbered plan in the booking confirmation, replaced if revised.",
+        "C": "Any old version provided they telephone each week."
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "Confirmed numbered plans, and direct revisions, govern the stall location."
+    },
+    {
+      "id": "Q11",
+      "numbers": [
+        11
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Tasting tent",
+      "evidence_blocks": [
+        "Q11"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "Use the explicitly stated position relative to the stage, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q12",
+      "numbers": [
+        12
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Drinking-water point",
+      "evidence_blocks": [
+        "Q12"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "F",
+      "accepted_answers": [
+        "F"
+      ],
+      "explanation": "Use the explicitly stated position relative to the stage, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q13",
+      "numbers": [
+        13
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Information and first-aid tent",
+      "evidence_blocks": [
+        "Q13"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Use the explicitly stated position relative to the stage, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q14",
+      "numbers": [
+        14
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Story corner",
+      "evidence_blocks": [
+        "Q14"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "explanation": "Use the explicitly stated position relative to the stage, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q15",
+      "numbers": [
+        15
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Recycling point",
+      "evidence_blocks": [
+        "Q15"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "H",
+      "accepted_answers": [
+        "H"
+      ],
+      "explanation": "Use the explicitly stated position relative to the stage, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q16",
+      "numbers": [
+        16
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "Why are pauses built into the performance programme?",
+      "evidence_blocks": [
+        "Q16"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "To allow movement and equipment checks.",
+        "B": "Because all performers are expected to be late.",
+        "C": "To require stallholders to make sales announcements."
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Pauses support circulation and preparation, not compulsory selling."
+    },
+    {
+      "id": "Q17",
+      "numbers": [
+        17
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "For an identifiable story recorded for the archive, collectors should",
+      "evidence_blocks": [
+        "Q17"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "assume attendance implies consent.",
+        "B": "ask a second volunteer to approach anyone who declines.",
+        "C": "explain the use and record the contributor's decision."
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Contributors choose with an understanding of intended use."
+    },
+    {
+      "id": "Q18",
+      "numbers": [
+        18
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "What is the purpose of activity-trail stamps?",
+      "evidence_blocks": [
+        "Q18"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "To pay for goods at every stall.",
+        "B": "To encourage exploration without requiring purchases.",
+        "C": "To guarantee a free purchase after completion."
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "Stamps are part of an activity trail, not money or a purchase prize."
+    },
+    {
+      "id": "Q19",
+      "numbers": [
+        19
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "How should a story-session change be handled first?",
+      "evidence_blocks": [
+        "Q19"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Post only on the group's personal social account.",
+        "B": "Move to any apparently unused space.",
+        "C": "Report it to the programme desk for coordinated updates."
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "The desk checks and communicates changes across the site."
+    },
+    {
+      "id": "Q20",
+      "numbers": [
+        20
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "What belongs in a shift handover?",
+      "evidence_blocks": [
+        "Q20"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Unresolved requests and relevant confirmed changes.",
+        "B": "Every pleasant conversation in detail.",
+        "C": "A blank whenever nothing needs follow-up."
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "The next volunteer needs actionable information and an explicit indication when no issue remains."
+    },
+    {
+      "id": "Q21",
+      "numbers": [
+        21
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Opening with a visual montage?",
+      "evidence_blocks": [
+        "Q21"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Mira only",
+        "B": "Ethan only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Final stance: Mira only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q22",
+      "numbers": [
+        22
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Recording conversations secretly?",
+      "evidence_blocks": [
+        "Q22"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Mira only",
+        "B": "Ethan only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "explanation": "Final stance: Neither student. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q23",
+      "numbers": [
+        23
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Testing a short pilot clip with classmates unfamiliar with the festival?",
+      "evidence_blocks": [
+        "Q23"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Mira only",
+        "B": "Ethan only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q24",
+      "numbers": [
+        24
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Keeping the quiet interview in the final short film?",
+      "evidence_blocks": [
+        "Q24"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Mira only",
+        "B": "Ethan only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "Final stance: Ethan only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q25",
+      "numbers": [
+        25
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Maintaining a source and permission log?",
+      "evidence_blocks": [
+        "Q25"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Mira only",
+        "B": "Ethan only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q26",
+      "numbers": [
+        26
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Using a split-screen comparison?",
+      "evidence_blocks": [
+        "Q26"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Mira only",
+        "B": "Ethan only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Final stance: Mira only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q27-28",
+      "numbers": [
+        27,
+        28
+      ],
+      "part": 3,
+      "type": "multiple_choice_two",
+      "prompt": "Which TWO clips are selected for the middle section?",
+      "evidence_blocks": [
+        "Q27",
+        "Q28"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "A celebrity's promotional greeting",
+        "B": "A first-time stallholder describing a changed expectation",
+        "C": "Anonymous cheering without clear context",
+        "D": "A child's close recording without the required agreement",
+        "E": "A recycling volunteer explaining sorting"
+      },
+      "answer": [
+        "B",
+        "E"
+      ],
+      "accepted_answers": [
+        "B",
+        "E"
+      ],
+      "accepted_answer_sets": [
+        [
+          "B",
+          "E"
+        ],
+        [
+          "E",
+          "B"
+        ]
+      ],
+      "scoring": {
+        "max_points": 2,
+        "input_limit": 2,
+        "order_matters": false,
+        "rule": "One point per distinct correct choice. Duplicate choices never earn a second point. More than two submitted choices is an invalid response requiring correction, not automatic full credit."
+      },
+      "explanation": "The selected clips develop the theme with usable agreed contributions; the greeting, cheering and unapproved child contribution are not selected."
+    },
+    {
+      "id": "Q29-30",
+      "numbers": [
+        29,
+        30
+      ],
+      "part": 3,
+      "type": "multiple_choice_two",
+      "prompt": "Which TWO caption changes are confirmed?",
+      "evidence_blocks": [
+        "Q29",
+        "Q30"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Use a more decorative typeface",
+        "B": "Shorten every display time",
+        "C": "Increase the font size",
+        "D": "Remove all speaker labels",
+        "E": "Use consistent speaker labels"
+      },
+      "answer": [
+        "C",
+        "E"
+      ],
+      "accepted_answers": [
+        "C",
+        "E"
+      ],
+      "accepted_answer_sets": [
+        [
+          "C",
+          "E"
+        ],
+        [
+          "E",
+          "C"
+        ]
+      ],
+      "scoring": {
+        "max_points": 2,
+        "input_limit": 2,
+        "order_matters": false,
+        "rule": "One point per distinct correct choice. Duplicate choices never earn a second point. More than two submitted choices is an invalid response requiring correction, not automatic full credit."
+      },
+      "explanation": "Larger letters address reading difficulty; consistent labels preserve useful contributor context."
+    },
+    {
+      "id": "Q31",
+      "numbers": [
+        31
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Define a research ____.",
+      "evidence_blocks": [
+        "Q31"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "question",
+      "accepted_answers": [
+        "question"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q32",
+      "numbers": [
+        32
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Record each entry's ____.",
+      "evidence_blocks": [
+        "Q32"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "date",
+      "accepted_answers": [
+        "date"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q33",
+      "numbers": [
+        33
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Standardise quantity ____.",
+      "evidence_blocks": [
+        "Q33"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "units",
+      "accepted_answers": [
+        "units"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q34",
+      "numbers": [
+        34
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Check for ____.",
+      "evidence_blocks": [
+        "Q34"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "duplicates",
+      "accepted_answers": [
+        "duplicates",
+        "the duplicates",
+        "duplicate entries"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q35",
+      "numbers": [
+        35
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Link each entry to its ____.",
+      "evidence_blocks": [
+        "Q35"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "source",
+      "accepted_answers": [
+        "source",
+        "original material"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q36",
+      "numbers": [
+        36
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "A recorded ____ explicitly means none; a blank may mean missing information.",
+      "evidence_blocks": [
+        "Q36"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "zero",
+      "accepted_answers": [
+        "zero",
+        "0"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q37",
+      "numbers": [
+        37
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "The team's main comparison uses ____, rather than money values.",
+      "evidence_blocks": [
+        "Q37"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "quantities",
+      "accepted_answers": [
+        "quantities"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q38",
+      "numbers": [
+        38
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "The issue of which sellers appear in the records is called ____.",
+      "evidence_blocks": [
+        "Q38"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "coverage",
+      "accepted_answers": [
+        "coverage"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q39",
+      "numbers": [
+        39
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "For ambiguous digits, calculate a ____ of possible totals.",
+      "evidence_blocks": [
+        "Q39"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "range",
+      "accepted_answers": [
+        "range"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q40",
+      "numbers": [
+        40
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "The final report includes an account of ____.",
+      "evidence_blocks": [
+        "Q40"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "uncertainty",
+      "accepted_answers": [
+        "uncertainty",
+        "the uncertainty"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    }
+  ]
+}

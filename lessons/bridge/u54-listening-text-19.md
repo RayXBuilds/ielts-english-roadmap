@@ -1,0 +1,1067 @@
+# U54 第19周听力题面与复盘（音频待补）
+
+本页提供已核验的原创题目、参考答案和脚本。配套完整音频尚未验收，当前只能预览题面；不能进行有效的首次听力测试，也不能把读稿作答计作听力成绩或已完成一套听力。
+
+请先保留首次作答机会：批准音频就绪前，不要展开下方答案和脚本。若已读稿，请标记为熟悉材料，之后的练习不能充当陌生题诊断。页面阅读标记只代表看过文字，不代表完成听力。
+
+本材料非雅思真题、非标准化模考，不换算正式分数。计划分钟数不是实测音频时长；学习记录、正式测评和真人反馈须另行完成。
+
+## 学生题面
+
+### L-W19 — Transferring a procedure to an unfamiliar setting
+
+> 原创 IELTS-style 技能练习，非真题、非标准化模考，不可换算正式分数。当前只有文字和题目，音频未生成，不能计作已完成听力套题。
+
+共四部分、40 个计分空，每空 1 分。正式首次作答须等待批准音频，先不要打开 script.md 或 answers.md。朗读前先看题；只听一遍后提交首次答案及信心等级，再做精听。当前只能预览题面，不能把读稿作答记作听力成绩。
+
+#### Part 1 — Booking a route-testing session
+
+Q1–6: Complete the notes. Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer, using words from the recording. Numeric notation may replace spoken numbers. Do not repeat a printed unit. Q7–10: Choose **ONE letter, A, B or C**.
+
+**Q1.** Workshop topic: ____
+
+**Q2.** Confirmed day of September: ____
+
+**Q3.** Teaching start (a.m.): ____
+
+**Q4.** Number of participants: ____
+
+**Q5.** Total group fee: £____
+
+**Q6.** Required planning document: ____
+
+**Q7.** What can the session provide?
+
+- A. A guarantee for every future visitor
+- B. A testing method and a bounded interpretation of a trial
+- C. Proof that all routes have equivalent demands
+
+Answer: ____
+
+**Q8.** If the outdoor practice area cannot be used, the group should
+
+- A. choose an unconfirmed route
+- B. report that the original trial occurred unchanged
+- C. follow the approved update and record the actual activity
+
+Answer: ____
+
+**Q9.** How should a map-format requirement be addressed?
+
+- A. Ask about the specific need before the session
+- B. Assume a photograph is an equivalent file
+- C. Conceal the arrangement in the trial record
+
+Answer: ____
+
+**Q10.** How should a withdrawal be reported?
+
+- A. Through public comments only
+- B. Through the confirmation reference
+- C. By leaving the attendance list unchanged
+
+Answer: ____
+
+#### Part 2 — Orientation at the visitor research centre
+
+Q11–15: Label the map. Write **ONE letter, A–H**, for each destination. Three letters are unused. Q16–20: Choose **ONE letter, A, B or C**.
+
+![Original site map](../../resources/listening-source/L-W19/map.svg)
+
+**Q11.** Reception
+
+Answer: ____
+
+**Q12.** Briefing room
+
+Answer: ____
+
+**Q13.** Map collection desk
+
+Answer: ____
+
+**Q14.** Observation room
+
+Answer: ____
+
+**Q15.** Return desk
+
+Answer: ____
+
+**Q16.** What should happen before using left or right?
+
+- A. Assume everyone faces the same way
+- B. Switch silently between viewpoints
+- C. Establish and preserve the reference frame
+
+Answer: ____
+
+**Q17.** If the approved route is unavailable, participants should
+
+- A. ask the leader about the stated alternative
+- B. enter an unconfirmed area to finish the sheet
+- C. claim the original route was tested
+
+Answer: ____
+
+**Q18.** How should an observer handle a pause?
+
+- A. Automatically record it as failure
+- B. Describe it before interpreting the cause
+- C. Erase it if the destination is reached
+
+Answer: ____
+
+**Q19.** What should guide revision of the route material?
+
+- A. The output required by the brief
+- B. Decorative detail alone
+- C. All available building history
+
+Answer: ____
+
+**Q20.** What belongs in the closing report?
+
+- A. A future test presented as completed
+- B. A universal guarantee from one arrival
+- C. Actual actions, support and remaining uncertainty
+
+Answer: ____
+
+#### Part 3 — Planning a second route trial
+
+Q21–26: Match each proposal to the students' **final** positions at the end of that exchange. The tutor is not included. Write **A, B, C or D**. Letters may be reused.
+
+- **A** Nia only
+- **B** Sam only
+- **C** Both students
+- **D** Neither student
+
+Q27–28 and Q29–30: Choose **TWO different letters, A–E**, for each pair. Write one letter in each numbered slot; either order is accepted. Each distinct correct choice earns one point, maximum two. Repeating a letter cannot earn two points. Submit no more than two letters.
+
+**Q21.** At the END of this exchange, who supports: Using a different building for the very next trial?
+
+Answer: ____
+
+**Q22.** At the END of this exchange, who supports: Preserving the exact instruction wording for one more comparison?
+
+Answer: ____
+
+**Q23.** At the END of this exchange, who supports: Including a fixed reference landmark on every map?
+
+Answer: ____
+
+**Q24.** At the END of this exchange, who supports: Keeping left/right descriptions without a stated viewpoint?
+
+Answer: ____
+
+**Q25.** At the END of this exchange, who supports: Adding a diagram at the second decision point?
+
+Answer: ____
+
+**Q26.** At the END of this exchange, who supports: Limiting the report to the observed route and conditions?
+
+Answer: ____
+
+**Q27–28.** Which TWO preparation actions are agreed?
+
+- A. Fix the starting position and orientation
+- B. Collect all visitors' full names
+- C. Record obstacles affecting the route
+- D. Predict an official language score
+- E. Remove pauses from the records
+
+Answers: Q27 ____ · Q28 ____
+
+**Q29–30.** Which TWO limitations affected last week's comparison?
+
+- A. Both trials were cancelled
+- B. The routes differed in complexity
+- C. A map page was missing
+- D. An observer gave a hint in one attempt
+- E. No time records existed
+
+Answers: Q29 ____ · Q30 ____
+
+#### Part 4 — Deciding what can carry across
+
+Q31–35: Complete the flow chart below. Q36–40: Complete the notes. Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer, using words from the recording. Numeric notation may replace spoken numbers. Words or units already printed do not belong in the blank. The numbered text below repeats the SVG prompts for readability.
+
+![Original process flow](../../resources/listening-source/L-W19/flow.svg)
+
+**Q31.** Identify the ____ underlying the earlier procedure.
+
+**Q32.** Identify the ____ relevant to the new setting.
+
+**Q33.** Build the ____ between the relevant elements.
+
+**Q34.** Decide on the ____ required by new conditions.
+
+**Q35.** Complete the ____ of the new attempt.
+
+**Q36.** Establish the ____ before evaluating a directional turn.
+
+**Q37.** Additional processing demands contribute to ____.
+
+**Q38.** Test the ____ between familiar and new settings.
+
+**Q39.** Describe the ____ that restrict where a procedure is useful.
+
+**Q40.** Plan ____ of the defined observation method.
+
+#### 本周训练安排（音频批准后执行）
+
+- Preview questions without the script：8 分钟。
+- Future continuous first listen, including planned part pauses：32 分钟。
+- Submit first answers and confidence, without a second play：8 分钟。
+- Check answers and classify errors：20 分钟。
+- Four Q-located intensive segments, 15 minutes each：60 分钟。
+- Diagram and opinion retelling：15 分钟。
+- Next-day retry of missed items：15 分钟。
+
+合计 **158 分钟**；最多另用 22 分钟缓冲，总计不超过 180 分钟。暂停、回放与查词均计入精听预算，不能另行无限追加。当前实际已完成听力分钟数为 0。精听区段和步骤见 intensive.md；答案和脚本另页。
+
+<details>
+
+<summary>参考答案与证据（完成首次听力后再展开）</summary>
+
+### L-W19 — Answers and evidence
+> 独立答案页。先提交首次答案，再看本页。当前缺音频，文本验题不能充当实听验收。
+
+每个单空 1 分；双选各 2 分、答案顺序不限、按不同正确选项计分。接受形式仅做大小写和空白规范化；不做模糊词形推断。
+
+#### Q1 — route testing
+
+Accepted answers: route testing
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q01 (script.md; timestamps unavailable).
+
+> Receptionist: Visitor research centre, good morning. Organiser: Our volunteers are preparing directions for a small exhibition, and we'd like to test whether newcomers can follow them. We saw a course on exhibition design, but we aren't choosing the objects or display cases. Receptionist: Route testing is the session you need. Organiser: Please record route testing as our topic. We have a draft route but haven't yet watched anyone unfamiliar with the building use it. Receptionist: Then the session can help you decide what to observe and how to separate a problem in the directions from a difference in the conditions under which they are followed.
+
+#### Q2 — 16
+
+Accepted answers: 16 / 16th / sixteenth / the sixteenth / the 16th
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q02 (script.md; timestamps unavailable).
+
+> Organiser: Is the session on the ninth of September? Receptionist: That was a provisional date. The confirmed session is on the sixteenth of September. Organiser: The sixteenth is possible for our group. I'll replace the older notice in our planning folder. Receptionist: Use the confirmation we send today when arranging the visit. Organiser: I'll forward the whole message, including the session title, because another volunteer mentioned a different activity at the centre. Receptionist: That's sensible. A familiar date can be copied into a new plan without anyone noticing that it belongs to another booking, especially when several activities are described under one general programme heading.
+
+#### Q3 — 11.20
+
+Accepted answers: 11.20 / 11:20 / eleven twenty
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q03 (script.md; timestamps unavailable).
+
+> Organiser: What time does the session begin? Receptionist: Eleven twenty in the morning. The reception area opens at eleven, but the teaching begins at eleven twenty. Organiser: So eleven is the opening time rather than the start of our workshop. Receptionist: Correct. Arrive shortly before the session to check in. Organiser: I'll keep the suggested arrival and teaching time separate in our travel note. Receptionist: Thank you. The initial briefing establishes which route can be used and how the observer should respond if a participant becomes uncertain. Missing that explanation could lead to an informal intervention that changes what the later record appears to show about the directions.
+
+#### Q4 — 5
+
+Accepted answers: 5 / five
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q04 (script.md; timestamps unavailable).
+
+> Receptionist: How many participants should I expect? Organiser: Seven volunteers helped write the draft, but five can attend. Please reserve five places. Receptionist: Five are available. Will those participants include someone who knows how the draft was produced? Organiser: Yes, although we also want to hear from people who didn't choose the wording. Receptionist: That combination can support discussion, provided you don't describe an experienced member as a newcomer. Organiser: We'll record the relevant experience. The two absent volunteers will send questions, but they won't be counted as attendees. Receptionist: If the group changes, update the booking rather than assuming a spare place can be transferred without telling us.
+
+#### Q5 — 65
+
+Accepted answers: 65 / 65.00 / sixty-five / sixty five
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q05 (script.md; timestamps unavailable).
+
+> Organiser: What is the total booking fee? Receptionist: Sixty-five pounds for the five places altogether. Organiser: Sixty-five for the whole group, not for each person? Receptionist: Correct. It includes the practice maps and observation sheets. A later site visit to your own exhibition would be arranged separately and isn't included in this booking. Organiser: I'll explain the total and the scope to our coordinator. Receptionist: Please check both on the confirmation before payment. If the number of places or the amount differs, ask for a correction rather than treating an unexplained difference as a service someone may have requested in another conversation.
+
+#### Q6 — route plan
+
+Accepted answers: route plan / plan / the plan / a plan
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q06 (script.md; timestamps unavailable).
+
+> Organiser: Which document should we bring? Receptionist: Bring your route plan, showing the start, destination and any conditions that affect the directions. A photograph of the exhibition is optional. Organiser: I'll bring the route plan with its current version label. Receptionist: Good. The plan should show what a participant would actually receive, not a later version improved after the group has discussed it here. Organiser: We can keep our suggested changes on a separate page. Receptionist: Exactly. That preserves the distinction between the route being tested and the route you might produce afterwards, so the observation record refers to a clear, identifiable set of instructions.
+
+#### Q7 — B
+
+Accepted answers: B
+
+A small trial can support practical improvement without a universal guarantee.
+
+Evidence locator: Q07 (script.md; timestamps unavailable).
+
+> Organiser: Will this session establish that our route works for every visitor? Receptionist: No. It introduces a testing method and helps you interpret a limited trial. Different visitors and conditions may reveal other issues. Organiser: Then we should avoid treating one successful walk as a universal guarantee. Receptionist: Yes. You can still make a practical improvement from a small observation if you state its scope. Organiser: Our main aim is to identify what to examine next. Receptionist: That's appropriate. The session can help you connect a revision with evidence, but it cannot replace a broader review of the arrangements at your own site or predict every circumstance a visitor may encounter.
+
+#### Q8 — C
+
+Accepted answers: C
+
+A changed setting can be useful but is not an identical trial.
+
+Evidence locator: Q08 (script.md; timestamps unavailable).
+
+> Organiser: What happens if the outdoor practice area can't be used on the day? Receptionist: Follow the update linked to your confirmation. The leader will identify the approved alternative activity or explain any change to the schedule. Don't choose another outdoor route yourselves and assume it provides an equivalent exercise. Organiser: We'll check the message before travelling. Receptionist: The conditions are part of the task, so a substantial change needs to remain visible. An indoor comparison may be useful, but it answers a different practical question from following signs outside. Organiser: We can record the activity actually completed rather than using the original plan as though nothing changed.
+
+#### Q9 — A
+
+Accepted answers: A
+
+The centre checks suitable formats; relevant arrangements are recorded.
+
+Evidence locator: Q09 (script.md; timestamps unavailable).
+
+> Organiser: One participant needs a digital map that works with their usual reading application. Should we raise that now? Receptionist: Yes. Describe the format requirement in advance so we can check the available material and confirm any limitations. Organiser: I'll ask the participant for the practical details rather than guess. Receptionist: Thank you. A photograph of a printed map is not necessarily an equivalent format. Organiser: We should also record the arrangement in the trial notes. Receptionist: If it affects a relevant condition, certainly. Clear records help you understand what was tested without treating an agreed way of accessing the task as something that must be hidden.
+
+#### Q10 — B
+
+Accepted answers: B
+
+The designated contact updates the booking.
+
+Evidence locator: Q10 (script.md; timestamps unavailable).
+
+> Organiser: If a volunteer withdraws, can I post the change below the public event announcement? Receptionist: Please reply to the confirmation with its booking reference. Public comments don't update our attendance record. For an urgent issue, use the contact number in that message. Organiser: I'll keep the latest complete confirmation in the group folder. Receptionist: Good. It contains the start time, entrance information and any approved update. Organiser: I'll also remind everyone to bring the current plan rather than an older copy that happens to look cleaner. Receptionist: That will make the discussion more useful because the group will be examining the same route under the same stated instructions.
+
+#### Q11 — H
+
+Accepted answers: H
+
+Use the explicitly stated position relative to the garden, not an earlier layout or adjacent area.
+
+Evidence locator: Q11 (script.md; timestamps unavailable).
+
+> Welcome to the visitor research centre. North is at the top of the diagram, with the entrance on the southern edge. The garden in the centre is our reference landmark. Reception is directly south of the garden, in line with the entrance. It is not in either southern corner. Please check in before joining a teaching group. Staff will confirm the route-testing session and any current update. The letters identify spaces on this plan rather than the initials of their functions. Keep the diagram facing the same way while listening, so that a spoken direction and a remembered turn from a previous visit don't become mixed together.
+
+#### Q12 — A
+
+Accepted answers: A
+
+Use the explicitly stated position relative to the garden, not an earlier layout or adjacent area.
+
+Evidence locator: Q12 (script.md; timestamps unavailable).
+
+> The briefing room is directly north of the garden, in the northern central position. An earlier programme placed the introduction in the north-west room, but the briefing now uses the space directly north. The opening task compares a written direction with the reference frame it assumes. A phrase such as turn left may be clear only if the person's starting orientation is known. Don't begin the route exercise before the leader has explained those conditions. A participant who improvises a different starting point may still reach the destination, but that would not show whether the supplied instructions work from the position the task was designed to test.
+
+#### Q13 — E
+
+Accepted answers: E
+
+Use the explicitly stated position relative to the garden, not an earlier layout or adjacent area.
+
+Evidence locator: Q13 (script.md; timestamps unavailable).
+
+> The map collection desk is in the south-west corner. It is west of reception and directly south of the room on the western side of the garden. Collect the map version named in the briefing. Several layouts resemble one another but place the destination differently, so a familiar-looking sheet isn't necessarily the correct resource. The desk helper can confirm the version without telling you the route answer. If a page is missing, report it rather than copying a neighbour's marked sheet. The first attempt should preserve what the participant could work out from the material supplied, not what they could reproduce from somebody else's completed route.
+
+#### Q14 — G
+
+Accepted answers: G
+
+Use the explicitly stated position relative to the garden, not an earlier layout or adjacent area.
+
+Evidence locator: Q14 (script.md; timestamps unavailable).
+
+> The observation room is in the north-east corner. It lies directly east of the briefing room, since both are in the northern row, and directly north of the space east of the garden. Notice that north-east of the whole site is not the same relation as north-east of the briefing room. From the briefing room, the observation room is east. In that room, groups review notes about where a participant paused or requested help. A pause is an observation, not automatically an error. The discussion should ask what the participant was doing and which features of the instructions or setting might explain it before assigning a cause.
+
+#### Q15 — C
+
+Accepted answers: C
+
+Use the explicitly stated position relative to the garden, not an earlier layout or adjacent area.
+
+Evidence locator: Q15 (script.md; timestamps unavailable).
+
+> The return desk is directly west of the garden, level with its centre. It is north of the map collection desk and is not the north-west room. Return reusable maps there after the activity, while keeping your own observation notes. If a direction seemed unclear, identify the actual phrase and the position at which the difficulty occurred. Saying the whole route was confusing gives the team less to examine. The helper can pass a specific issue to the leader. This final location completes the five places you need today, and its relationship to the collection desk should help you avoid treating collection and return as the same service point.
+
+#### Q16 — C
+
+Accepted answers: C
+
+Bodily directions depend on orientation; map north provides a fixed relation.
+
+Evidence locator: Q16 (script.md; timestamps unavailable).
+
+> Before using relative directions, establish the reference frame. Left and right depend on orientation, while the map's north arrow provides a fixed relation within the diagram. A person entering from the south and a person looking back from the north may use opposite bodily directions for the same place. The activity asks you to preserve the stated viewpoint, not switch silently between those perspectives. If a direction seems inconsistent, first check what it is relative to. A route can contain accurate individual phrases and still become unusable when the listener is expected to infer an unstated change of frame halfway through the sequence.
+
+#### Q17 — A
+
+Accepted answers: A
+
+Access and comparison conditions must be respected and recorded.
+
+Evidence locator: Q17 (script.md; timestamps unavailable).
+
+> If the approved practice route is unavailable, stop and ask the leader about the stated alternative. Don't lead participants through an unconfirmed area merely to complete the observation sheet. A changed route may introduce different landmarks, distances or decisions, and those differences affect what the trial can show. Record the activity that actually took place. A useful adaptation can still support learning if its purpose is clear, but it should not be presented as an unchanged repetition of the original task. The centre's practical directions govern where the group may go; the exercise does not authorise participants to improvise access to another part of the site.
+
+#### Q18 — B
+
+Accepted answers: B
+
+Pauses can have several causes; any hint must also be recorded.
+
+Evidence locator: Q18 (script.md; timestamps unavailable).
+
+> Observers should record a pause before interpreting it. A participant may stop to check the destination, compare the map with a sign or wait for another person to pass. Those actions need not represent the same difficulty. If the observer supplies a hint, note when and what was said. The participant's eventual arrival can then be understood in relation to that support. Without the note, the record may imply that the route was followed independently. Observation is useful because it preserves relevant details about the attempt, not because it produces a tidy success-or-failure label that removes the conditions under which the result occurred.
+
+#### Q19 — A
+
+Accepted answers: A
+
+The starting point, decisions and destination must serve the newcomer task.
+
+Evidence locator: Q19 (script.md; timestamps unavailable).
+
+> During revision, return to the required output. If the task asks for directions a newcomer can use, an attractive drawing alone doesn't fulfil it. The group should check the starting point, decision points and destination against the brief. Additional history about the building may be interesting, but it should not displace a condition needed to follow the route. This does not require every direction to use identical wording. It requires the choices to be justified by what the visitor needs to do. A revision should solve an observed or clearly specified problem rather than add detail merely because the team has room on the page.
+
+#### Q20 — C
+
+Accepted answers: C
+
+Completed evidence is distinct from a planned transfer test.
+
+Evidence locator: Q20 (script.md; timestamps unavailable).
+
+> The closing report should distinguish the completed trial from the next planned test. Record what participants actually did, what support they received and what remains uncertain about the route. A proposed comparison at another site is not evidence that the procedure already transfers there. You can explain why the comparison would be useful without predicting its result. Keep the report's claim proportional to the observations available. One successful attempt may justify retaining a feature for further testing, while a difficulty may identify a specific revision. Neither outcome requires a permanent judgement about every future visitor or every route the team might later design.
+
+#### Q21 — B
+
+Accepted answers: B
+
+Final stance: Sam only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q21 (script.md; timestamps unavailable).
+
+> Tutor: You observed the first route trial last week. Where should the next one take place? Sam: In a different building with the same kind of decision points. That would show whether our instruction procedure carries beyond a familiar setting. Nia: I'd first repeat it here with new participants, so we can check the revised wording without changing the location too. Tutor: Sam, would you describe the second building as an equivalent test? Sam: No, we'd record its differences, but I still support using it next. Nia: I remain in favour of this site. Tutor: Then Sam supports moving the next trial, while Nia prefers to isolate the wording change first.
+
+#### Q22 — A
+
+Accepted answers: A
+
+Final stance: Nia only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q22 (script.md; timestamps unavailable).
+
+> Tutor: Nia wants to preserve the exact instruction wording for one more comparison. Nia: Yes. If we change every phrase at once, we may not know which difference affected the response. Sam: I would revise the two ambiguous phrases before another attempt. Keeping them could reproduce a difficulty we already understand. Tutor: Does that mean you disagree about every part of the instructions? Sam: No. The proposal concerns preserving the complete wording unchanged. I don't support that. Nia: I still do for one narrowly defined comparison. Tutor: Then Nia supports this proposal and Sam doesn't; a shared wish for clear evidence doesn't eliminate the difference between the procedures you prefer.
+
+#### Q23 — C
+
+Accepted answers: C
+
+Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q23 (script.md; timestamps unavailable).
+
+> Tutor: Should every map include a fixed reference landmark? Sam: Yes. I initially thought the start arrow would be enough, but the observation notes show that participants lost track of the frame after turning. Nia: I agree. A named landmark could help them reconnect the instruction with the diagram. Tutor: Would it replace the need to state the starting point? Nia: No. We need both, and should explain their roles. Sam: That's the arrangement I support. Tutor: Good. You both favour the landmark, with the qualification that it supports rather than replaces a clear starting orientation. Make that condition visible in the revised task instructions.
+
+#### Q24 — D
+
+Accepted answers: D
+
+Final stance: Neither student. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q24 (script.md; timestamps unavailable).
+
+> Tutor: An early draft describes every destination as on your left or on your right, without stating a viewpoint. Sam: I wrote that before walking through the sequence. It becomes inconsistent once the person turns. Nia: I don't support retaining those phrases without a reference frame. Sam: Neither do I now. I'll revise them rather than assume the visitor is always facing the same direction. Tutor: Are you abandoning relative directions altogether? Nia: No, only the unsupported wording in this proposal. Sam: Agreed. Tutor: Then neither of you supports the original description. The withdrawal concerns an unstated frame, not a claim that left and right can never be useful instructions.
+
+#### Q25 — B
+
+Accepted answers: B
+
+Final stance: Sam only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q25 (script.md; timestamps unavailable).
+
+> Tutor: Sam proposes an additional diagram at the second decision point. Sam: I support that. The observation notes show several people rereading the same paragraph there. Nia: I'd first simplify the paragraph and test it without another diagram. More visual material could create a different comparison problem. Tutor: Could a small diagram reduce that cost? Nia: Perhaps, but for the next trial I still prefer the wording change alone. Sam: I continue to favour adding the diagram. Tutor: Then Sam supports the specific proposal and Nia retains an alternative. The evidence identifies a place worth investigating, but it doesn't automatically select one solution before either revision has been tested.
+
+#### Q26 — C
+
+Accepted answers: C
+
+Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q26 (script.md; timestamps unavailable).
+
+> Tutor: How broadly should the report describe the result? Nia: It should refer to this route and the conditions we observed. We haven't tested a general navigation method for every building. Sam: I agree. My first summary said the procedure works anywhere, which goes beyond the trial. Tutor: Will narrowing the statement remove its practical value? Sam: No. We can identify which features appeared useful and what a later comparison should examine. Nia: And preserve any difficulty rather than treating a completed route as proof that every instruction was understood. Tutor: Then both of you support a bounded claim that separates the observation from the wider question of transfer.
+
+#### Q27–28 — A, C
+
+Accept unordered set: A, C. One point per distinct correct choice, maximum 2.
+
+Starting frame and obstacles preserve relevant conditions; the other actions are not selected.
+
+Evidence locator: Q27, Q28 (script.md; timestamps unavailable).
+
+> Tutor: Which two preparation actions are agreed? Nia: First, establish the same starting position and orientation for each attempt in a particular comparison. Sam: I agree. Otherwise a difference in turning may reflect where the participant began, rather than the wording. Tutor: Do you need to keep every route at exactly the same physical distance? Sam: Not for every future study, but relevant differences must be recorded. Nia: We aren't selecting equal distance as one of this trial's two preparation actions. Tutor: Good. Keep the chosen action precise: a clear and consistent starting frame for the comparison, rather than a general promise that every feature of every route will be identical.
+
+> Tutor: What is the second preparation action? Sam: Record obstacles or changes that affect the route while it is being tested. Nia: Agreed. A temporary sign or blocked passage could change how a person interprets the instruction. Tutor: Are you collecting visitors' full names or predicting an official language score? Nia: Neither is needed for this question. Sam: Nor do we need to remove all pauses from the record to make the route look successful. Tutor: Then the two selected actions are fixing the starting frame and recording relevant obstacles. Both preserve conditions needed to interpret the attempt, instead of adding information that does not address the task's purpose.
+
+#### Q29–30 — B, D
+
+Accept unordered set: B, D. One point per distinct correct choice, maximum 2.
+
+An extra decision point and unequal assistance limit attribution to wording alone.
+
+Evidence locator: Q29, Q30 (script.md; timestamps unavailable).
+
+> Tutor: What limits the comparison you completed last week? Sam: The routes were not equally complex. One contained an extra decision point, so it wasn't simply a longer copy of the other. Nia: That means a difference in errors could reflect the structure of the route as well as the instructions. Tutor: Was a whole session cancelled? Nia: No, both happened and their records are available. The limitation concerns comparability, not missing events. Sam: We should describe the decision points rather than report distance alone. Tutor: That will let a reader see which demand changed and why the observed difference cannot be attributed to one preferred explanation without qualification.
+
+> Tutor: Was support identical in the two trials? Nia: No. An observer gave a hint during one attempt, and the note records when it happened. Sam: So reaching the destination after that hint isn't evidence of completely independent performance. Tutor: Does that make the record useless? Nia: No. It still shows the difficulty and what help was supplied, but it supports a narrower conclusion. Sam: The maps were complete; a missing page wasn't the issue. Tutor: Then route complexity and the unequal hint are the two limitations to retain. Don't replace them with a generic list of possible problems that obscures what actually differed in the completed observation.
+
+#### Q31 — principle
+
+Accepted answers: principle / underlying principle / relationship
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q31 (script.md; timestamps unavailable).
+
+> Consider a fictional team transferring a procedure from one visitor task to another. The first stage identifies the underlying principle. A principle describes the relationship the procedure depends on, such as connecting a direction to a stable reference frame. It is different from a surface feature like the colour of an arrow. The team asks what function the successful feature served in the original task. Without that question, transfer can become copying a familiar layout into a setting where it no longer helps. Identifying the principle gives the comparison something meaningful to preserve while leaving room for the form of the response to change with the new task.
+
+#### Q32 — features
+
+Accepted answers: features / relevant features
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q32 (script.md; timestamps unavailable).
+
+> The second stage identifies relevant features of the new setting. These features may include the reader's starting knowledge, the available landmarks and the number of decisions required. The team distinguishes them from similarities that are easy to notice but unrelated to the procedure's purpose. Two maps may use the same colours while asking the reader to solve different problems. Conversely, a very different-looking diagram may require the same relationship between evidence and action. The feature review should explain why each selected detail matters. A long list of observations is not automatically useful if it fails to connect those observations with the principle the team hopes to carry across.
+
+#### Q33 — mapping
+
+Accepted answers: mapping / explicit mapping / connection / proposed connection
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q33 (script.md; timestamps unavailable).
+
+> The third stage builds an explicit mapping between the relevant elements of the two tasks. Mapping states which feature in the new setting plays the role served by a feature in the original one. This connection should be argued rather than assumed from a shared name. A central landmark on one map may guide orientation, while a similarly named object on another is barely visible from the route. The team tests whether the proposed connection preserves the function that matters. An explicit mapping can also reveal a missing counterpart. Recognising that gap is useful because it identifies where straightforward copying would fail and where a different arrangement may be needed.
+
+#### Q34 — adaptation
+
+Accepted answers: adaptation / deliberate change / change
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q34 (script.md; timestamps unavailable).
+
+> The fourth stage decides on the adaptation required by the new conditions. An adaptation is a deliberate change that preserves the relevant principle while adjusting its application. The team might replace a distant landmark with a more visible reference or divide a long instruction at a genuine decision point. This is different from changing details merely to make the new version look original. The reason for the change should be connected to a documented demand in the setting. The team also records what was retained, because an adaptation can only be interpreted clearly when the relationship between the earlier procedure and the new attempt remains visible.
+
+#### Q35 — evaluation
+
+Accepted answers: evaluation / structured review / review
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q35 (script.md; timestamps unavailable).
+
+> The fifth stage completes an evaluation of the new attempt. This structured review considers whether the adapted procedure served the intended task under the conditions observed. It should examine difficulties as well as successful completion, since arriving at a destination may conceal repeated requests for help. The evaluation compares the actual response with the requirement and records any support that changed the process. A favourable result can justify further use within a stated scope, but it does not establish that the principle has been transferred successfully to every possible context. The review ends with a decision and its reasons, rather than a universal claim based on one local attempt.
+
+#### Q36 — reference frame
+
+Accepted answers: reference frame / frame / fixed frame / viewpoint
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q36 (script.md; timestamps unavailable).
+
+> A reference frame is especially important when the task includes direction. The frame determines what a phrase such as left of or ahead of is relative to. In a diagram, a north arrow can provide a fixed frame even when the viewer changes position. In spoken instructions, the frame may depend on a person's stated orientation. A switch between these systems should be explicit. Otherwise, two individually reasonable phrases may lead to different interpretations when combined. The team should establish the reference frame before evaluating whether a particular turn was correct, rather than blame the participant for failing to infer a viewpoint that the instruction never made clear.
+
+#### Q37 — cognitive load
+
+Accepted answers: cognitive load / load
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q37 (script.md; timestamps unavailable).
+
+> Cognitive load concerns the demands placed on attention and processing during the task. Adding another diagram may help a person locate a landmark but also require them to compare two sources while moving through a sequence. The team should examine the function of the added information, not assume that more detail always makes a task easier. This load depends on the material, the procedure and the person's familiarity with relevant conventions. A small trial can reveal a point at which participants pause or lose their place, but it cannot establish a universal limit for every learner. The useful question is which demand the proposed revision is intended to reduce.
+
+#### Q38 — analogy
+
+Accepted answers: analogy
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q38 (script.md; timestamps unavailable).
+
+> An analogy can suggest a way to understand the new setting through a familiar one. The analogy is useful when the relationship being compared is relevant to the task. It can mislead when a surface similarity encourages the team to import an arrangement that doesn't serve the same function. The review should identify both what corresponds and what does not. A familiar example may help explain a principle without proving that the same procedure will work unchanged. Treating the analogy as a question to examine keeps it open to correction, whereas treating it as a complete answer can hide the very difference the new setting was meant to reveal.
+
+#### Q39 — boundary conditions
+
+Accepted answers: boundary conditions / conditions / limits
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q39 (script.md; timestamps unavailable).
+
+> Boundary conditions describe where a procedure's usefulness may change. These limits can concern the task, the available information or the support a participant receives. A method that works with a visible landmark may need revision when that landmark is obscured. The team should state the relevant boundary conditions rather than present the original success as unconditional. Identifying a limit does not make the procedure worthless; it clarifies the circumstances under which a recommendation is defensible. A later study can investigate another condition deliberately, with its difference recorded, instead of discovering only after failure that an essential feature had silently been removed from the task.
+
+#### Q40 — replication
+
+Accepted answers: replication / repetition
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q40 (script.md; timestamps unavailable).
+
+> Finally, the team plans replication of the defined observation method. Replication means repeating a procedure clearly enough to examine whether the broad pattern appears again under described conditions. It does not mean repeating the old answer until everyone remembers it. The team preserves the decisions needed to interpret the new attempt, including any changes to participants, setting or support. This repetition can reveal whether an earlier result depended on an unusual circumstance, although it cannot settle every causal explanation on its own. The stage review carries forward a method worth checking and an explicit account of what remains uncertain about applying it beyond the setting already observed.
+
+</details>
+
+<details>
+
+<summary>完整脚本（提前阅读会失去陌生题首答机会）</summary>
+
+### L-W19 — Transferring a procedure to an unfamiliar setting: transcript
+> 原创虚构练习，非真题；音频缺失。仅供完成首次作答后的核对或文字审阅。Q 标记与角色名不属于朗读正文。
+
+#### Part 1 — Booking a route-testing session
+
+##### Q1 evidence block
+
+**Receptionist:** Visitor research centre, good morning.
+
+**Organiser:** Our volunteers are preparing directions for a small exhibition, and we'd like to test whether newcomers can follow them. We saw a course on exhibition design, but we aren't choosing the objects or display cases.
+
+**Receptionist:** Route testing is the session you need.
+
+**Organiser:** Please record route testing as our topic. We have a draft route but haven't yet watched anyone unfamiliar with the building use it.
+
+**Receptionist:** Then the session can help you decide what to observe and how to separate a problem in the directions from a difference in the conditions under which they are followed.
+
+##### Q2 evidence block
+
+**Organiser:** Is the session on the ninth of September?
+
+**Receptionist:** That was a provisional date. The confirmed session is on the sixteenth of September.
+
+**Organiser:** The sixteenth is possible for our group. I'll replace the older notice in our planning folder.
+
+**Receptionist:** Use the confirmation we send today when arranging the visit.
+
+**Organiser:** I'll forward the whole message, including the session title, because another volunteer mentioned a different activity at the centre.
+
+**Receptionist:** That's sensible. A familiar date can be copied into a new plan without anyone noticing that it belongs to another booking, especially when several activities are described under one general programme heading.
+
+##### Q3 evidence block
+
+**Organiser:** What time does the session begin?
+
+**Receptionist:** Eleven twenty in the morning. The reception area opens at eleven, but the teaching begins at eleven twenty.
+
+**Organiser:** So eleven is the opening time rather than the start of our workshop.
+
+**Receptionist:** Correct. Arrive shortly before the session to check in.
+
+**Organiser:** I'll keep the suggested arrival and teaching time separate in our travel note.
+
+**Receptionist:** Thank you. The initial briefing establishes which route can be used and how the observer should respond if a participant becomes uncertain. Missing that explanation could lead to an informal intervention that changes what the later record appears to show about the directions.
+
+##### Q4 evidence block
+
+**Receptionist:** How many participants should I expect?
+
+**Organiser:** Seven volunteers helped write the draft, but five can attend. Please reserve five places.
+
+**Receptionist:** Five are available. Will those participants include someone who knows how the draft was produced?
+
+**Organiser:** Yes, although we also want to hear from people who didn't choose the wording.
+
+**Receptionist:** That combination can support discussion, provided you don't describe an experienced member as a newcomer.
+
+**Organiser:** We'll record the relevant experience. The two absent volunteers will send questions, but they won't be counted as attendees.
+
+**Receptionist:** If the group changes, update the booking rather than assuming a spare place can be transferred without telling us.
+
+##### Q5 evidence block
+
+**Organiser:** What is the total booking fee?
+
+**Receptionist:** Sixty-five pounds for the five places altogether.
+
+**Organiser:** Sixty-five for the whole group, not for each person?
+
+**Receptionist:** Correct. It includes the practice maps and observation sheets. A later site visit to your own exhibition would be arranged separately and isn't included in this booking.
+
+**Organiser:** I'll explain the total and the scope to our coordinator.
+
+**Receptionist:** Please check both on the confirmation before payment. If the number of places or the amount differs, ask for a correction rather than treating an unexplained difference as a service someone may have requested in another conversation.
+
+##### Q6 evidence block
+
+**Organiser:** Which document should we bring?
+
+**Receptionist:** Bring your route plan, showing the start, destination and any conditions that affect the directions. A photograph of the exhibition is optional.
+
+**Organiser:** I'll bring the route plan with its current version label.
+
+**Receptionist:** Good. The plan should show what a participant would actually receive, not a later version improved after the group has discussed it here.
+
+**Organiser:** We can keep our suggested changes on a separate page.
+
+**Receptionist:** Exactly. That preserves the distinction between the route being tested and the route you might produce afterwards, so the observation record refers to a clear, identifiable set of instructions.
+
+##### Q7 evidence block
+
+**Organiser:** Will this session establish that our route works for every visitor?
+
+**Receptionist:** No. It introduces a testing method and helps you interpret a limited trial. Different visitors and conditions may reveal other issues.
+
+**Organiser:** Then we should avoid treating one successful walk as a universal guarantee.
+
+**Receptionist:** Yes. You can still make a practical improvement from a small observation if you state its scope.
+
+**Organiser:** Our main aim is to identify what to examine next.
+
+**Receptionist:** That's appropriate. The session can help you connect a revision with evidence, but it cannot replace a broader review of the arrangements at your own site or predict every circumstance a visitor may encounter.
+
+##### Q8 evidence block
+
+**Organiser:** What happens if the outdoor practice area can't be used on the day?
+
+**Receptionist:** Follow the update linked to your confirmation. The leader will identify the approved alternative activity or explain any change to the schedule. Don't choose another outdoor route yourselves and assume it provides an equivalent exercise.
+
+**Organiser:** We'll check the message before travelling.
+
+**Receptionist:** The conditions are part of the task, so a substantial change needs to remain visible. An indoor comparison may be useful, but it answers a different practical question from following signs outside.
+
+**Organiser:** We can record the activity actually completed rather than using the original plan as though nothing changed.
+
+##### Q9 evidence block
+
+**Organiser:** One participant needs a digital map that works with their usual reading application. Should we raise that now?
+
+**Receptionist:** Yes. Describe the format requirement in advance so we can check the available material and confirm any limitations.
+
+**Organiser:** I'll ask the participant for the practical details rather than guess.
+
+**Receptionist:** Thank you. A photograph of a printed map is not necessarily an equivalent format.
+
+**Organiser:** We should also record the arrangement in the trial notes.
+
+**Receptionist:** If it affects a relevant condition, certainly. Clear records help you understand what was tested without treating an agreed way of accessing the task as something that must be hidden.
+
+##### Q10 evidence block
+
+**Organiser:** If a volunteer withdraws, can I post the change below the public event announcement?
+
+**Receptionist:** Please reply to the confirmation with its booking reference. Public comments don't update our attendance record. For an urgent issue, use the contact number in that message.
+
+**Organiser:** I'll keep the latest complete confirmation in the group folder.
+
+**Receptionist:** Good. It contains the start time, entrance information and any approved update.
+
+**Organiser:** I'll also remind everyone to bring the current plan rather than an older copy that happens to look cleaner.
+
+**Receptionist:** That will make the discussion more useful because the group will be examining the same route under the same stated instructions.
+
+#### Part 2 — Orientation at the visitor research centre
+
+##### Q11 evidence block
+
+**Centre host:** Welcome to the visitor research centre. North is at the top of the diagram, with the entrance on the southern edge. The garden in the centre is our reference landmark. Reception is directly south of the garden, in line with the entrance. It is not in either southern corner. Please check in before joining a teaching group. Staff will confirm the route-testing session and any current update. The letters identify spaces on this plan rather than the initials of their functions. Keep the diagram facing the same way while listening, so that a spoken direction and a remembered turn from a previous visit don't become mixed together.
+
+##### Q12 evidence block
+
+**Centre host:** The briefing room is directly north of the garden, in the northern central position. An earlier programme placed the introduction in the north-west room, but the briefing now uses the space directly north. The opening task compares a written direction with the reference frame it assumes. A phrase such as turn left may be clear only if the person's starting orientation is known. Don't begin the route exercise before the leader has explained those conditions. A participant who improvises a different starting point may still reach the destination, but that would not show whether the supplied instructions work from the position the task was designed to test.
+
+##### Q13 evidence block
+
+**Centre host:** The map collection desk is in the south-west corner. It is west of reception and directly south of the room on the western side of the garden. Collect the map version named in the briefing. Several layouts resemble one another but place the destination differently, so a familiar-looking sheet isn't necessarily the correct resource. The desk helper can confirm the version without telling you the route answer. If a page is missing, report it rather than copying a neighbour's marked sheet. The first attempt should preserve what the participant could work out from the material supplied, not what they could reproduce from somebody else's completed route.
+
+##### Q14 evidence block
+
+**Centre host:** The observation room is in the north-east corner. It lies directly east of the briefing room, since both are in the northern row, and directly north of the space east of the garden. Notice that north-east of the whole site is not the same relation as north-east of the briefing room. From the briefing room, the observation room is east. In that room, groups review notes about where a participant paused or requested help. A pause is an observation, not automatically an error. The discussion should ask what the participant was doing and which features of the instructions or setting might explain it before assigning a cause.
+
+##### Q15 evidence block
+
+**Centre host:** The return desk is directly west of the garden, level with its centre. It is north of the map collection desk and is not the north-west room. Return reusable maps there after the activity, while keeping your own observation notes. If a direction seemed unclear, identify the actual phrase and the position at which the difficulty occurred. Saying the whole route was confusing gives the team less to examine. The helper can pass a specific issue to the leader. This final location completes the five places you need today, and its relationship to the collection desk should help you avoid treating collection and return as the same service point.
+
+##### Q16 evidence block
+
+**Centre host:** Before using relative directions, establish the reference frame. Left and right depend on orientation, while the map's north arrow provides a fixed relation within the diagram. A person entering from the south and a person looking back from the north may use opposite bodily directions for the same place. The activity asks you to preserve the stated viewpoint, not switch silently between those perspectives. If a direction seems inconsistent, first check what it is relative to. A route can contain accurate individual phrases and still become unusable when the listener is expected to infer an unstated change of frame halfway through the sequence.
+
+##### Q17 evidence block
+
+**Centre host:** If the approved practice route is unavailable, stop and ask the leader about the stated alternative. Don't lead participants through an unconfirmed area merely to complete the observation sheet. A changed route may introduce different landmarks, distances or decisions, and those differences affect what the trial can show. Record the activity that actually took place. A useful adaptation can still support learning if its purpose is clear, but it should not be presented as an unchanged repetition of the original task. The centre's practical directions govern where the group may go; the exercise does not authorise participants to improvise access to another part of the site.
+
+##### Q18 evidence block
+
+**Centre host:** Observers should record a pause before interpreting it. A participant may stop to check the destination, compare the map with a sign or wait for another person to pass. Those actions need not represent the same difficulty. If the observer supplies a hint, note when and what was said. The participant's eventual arrival can then be understood in relation to that support. Without the note, the record may imply that the route was followed independently. Observation is useful because it preserves relevant details about the attempt, not because it produces a tidy success-or-failure label that removes the conditions under which the result occurred.
+
+##### Q19 evidence block
+
+**Centre host:** During revision, return to the required output. If the task asks for directions a newcomer can use, an attractive drawing alone doesn't fulfil it. The group should check the starting point, decision points and destination against the brief. Additional history about the building may be interesting, but it should not displace a condition needed to follow the route. This does not require every direction to use identical wording. It requires the choices to be justified by what the visitor needs to do. A revision should solve an observed or clearly specified problem rather than add detail merely because the team has room on the page.
+
+##### Q20 evidence block
+
+**Centre host:** The closing report should distinguish the completed trial from the next planned test. Record what participants actually did, what support they received and what remains uncertain about the route. A proposed comparison at another site is not evidence that the procedure already transfers there. You can explain why the comparison would be useful without predicting its result. Keep the report's claim proportional to the observations available. One successful attempt may justify retaining a feature for further testing, while a difficulty may identify a specific revision. Neither outcome requires a permanent judgement about every future visitor or every route the team might later design.
+
+#### Part 3 — Planning a second route trial
+
+##### Q21 evidence block
+
+**Tutor:** You observed the first route trial last week. Where should the next one take place?
+
+**Sam:** In a different building with the same kind of decision points. That would show whether our instruction procedure carries beyond a familiar setting.
+
+**Nia:** I'd first repeat it here with new participants, so we can check the revised wording without changing the location too.
+
+**Tutor:** Sam, would you describe the second building as an equivalent test?
+
+**Sam:** No, we'd record its differences, but I still support using it next.
+
+**Nia:** I remain in favour of this site.
+
+**Tutor:** Then Sam supports moving the next trial, while Nia prefers to isolate the wording change first.
+
+##### Q22 evidence block
+
+**Tutor:** Nia wants to preserve the exact instruction wording for one more comparison.
+
+**Nia:** Yes. If we change every phrase at once, we may not know which difference affected the response.
+
+**Sam:** I would revise the two ambiguous phrases before another attempt. Keeping them could reproduce a difficulty we already understand.
+
+**Tutor:** Does that mean you disagree about every part of the instructions?
+
+**Sam:** No. The proposal concerns preserving the complete wording unchanged. I don't support that.
+
+**Nia:** I still do for one narrowly defined comparison.
+
+**Tutor:** Then Nia supports this proposal and Sam doesn't; a shared wish for clear evidence doesn't eliminate the difference between the procedures you prefer.
+
+##### Q23 evidence block
+
+**Tutor:** Should every map include a fixed reference landmark?
+
+**Sam:** Yes. I initially thought the start arrow would be enough, but the observation notes show that participants lost track of the frame after turning.
+
+**Nia:** I agree. A named landmark could help them reconnect the instruction with the diagram.
+
+**Tutor:** Would it replace the need to state the starting point?
+
+**Nia:** No. We need both, and should explain their roles.
+
+**Sam:** That's the arrangement I support.
+
+**Tutor:** Good. You both favour the landmark, with the qualification that it supports rather than replaces a clear starting orientation. Make that condition visible in the revised task instructions.
+
+##### Q24 evidence block
+
+**Tutor:** An early draft describes every destination as on your left or on your right, without stating a viewpoint.
+
+**Sam:** I wrote that before walking through the sequence. It becomes inconsistent once the person turns.
+
+**Nia:** I don't support retaining those phrases without a reference frame.
+
+**Sam:** Neither do I now. I'll revise them rather than assume the visitor is always facing the same direction.
+
+**Tutor:** Are you abandoning relative directions altogether?
+
+**Nia:** No, only the unsupported wording in this proposal.
+
+**Sam:** Agreed.
+
+**Tutor:** Then neither of you supports the original description. The withdrawal concerns an unstated frame, not a claim that left and right can never be useful instructions.
+
+##### Q25 evidence block
+
+**Tutor:** Sam proposes an additional diagram at the second decision point.
+
+**Sam:** I support that. The observation notes show several people rereading the same paragraph there.
+
+**Nia:** I'd first simplify the paragraph and test it without another diagram. More visual material could create a different comparison problem.
+
+**Tutor:** Could a small diagram reduce that cost?
+
+**Nia:** Perhaps, but for the next trial I still prefer the wording change alone.
+
+**Sam:** I continue to favour adding the diagram.
+
+**Tutor:** Then Sam supports the specific proposal and Nia retains an alternative. The evidence identifies a place worth investigating, but it doesn't automatically select one solution before either revision has been tested.
+
+##### Q26 evidence block
+
+**Tutor:** How broadly should the report describe the result?
+
+**Nia:** It should refer to this route and the conditions we observed. We haven't tested a general navigation method for every building.
+
+**Sam:** I agree. My first summary said the procedure works anywhere, which goes beyond the trial.
+
+**Tutor:** Will narrowing the statement remove its practical value?
+
+**Sam:** No. We can identify which features appeared useful and what a later comparison should examine.
+
+**Nia:** And preserve any difficulty rather than treating a completed route as proof that every instruction was understood.
+
+**Tutor:** Then both of you support a bounded claim that separates the observation from the wider question of transfer.
+
+##### Q27 evidence block
+
+**Tutor:** Which two preparation actions are agreed?
+
+**Nia:** First, establish the same starting position and orientation for each attempt in a particular comparison.
+
+**Sam:** I agree. Otherwise a difference in turning may reflect where the participant began, rather than the wording.
+
+**Tutor:** Do you need to keep every route at exactly the same physical distance?
+
+**Sam:** Not for every future study, but relevant differences must be recorded.
+
+**Nia:** We aren't selecting equal distance as one of this trial's two preparation actions.
+
+**Tutor:** Good. Keep the chosen action precise: a clear and consistent starting frame for the comparison, rather than a general promise that every feature of every route will be identical.
+
+##### Q28 evidence block
+
+**Tutor:** What is the second preparation action?
+
+**Sam:** Record obstacles or changes that affect the route while it is being tested.
+
+**Nia:** Agreed. A temporary sign or blocked passage could change how a person interprets the instruction.
+
+**Tutor:** Are you collecting visitors' full names or predicting an official language score?
+
+**Nia:** Neither is needed for this question.
+
+**Sam:** Nor do we need to remove all pauses from the record to make the route look successful.
+
+**Tutor:** Then the two selected actions are fixing the starting frame and recording relevant obstacles. Both preserve conditions needed to interpret the attempt, instead of adding information that does not address the task's purpose.
+
+##### Q29 evidence block
+
+**Tutor:** What limits the comparison you completed last week?
+
+**Sam:** The routes were not equally complex. One contained an extra decision point, so it wasn't simply a longer copy of the other.
+
+**Nia:** That means a difference in errors could reflect the structure of the route as well as the instructions.
+
+**Tutor:** Was a whole session cancelled?
+
+**Nia:** No, both happened and their records are available. The limitation concerns comparability, not missing events.
+
+**Sam:** We should describe the decision points rather than report distance alone.
+
+**Tutor:** That will let a reader see which demand changed and why the observed difference cannot be attributed to one preferred explanation without qualification.
+
+##### Q30 evidence block
+
+**Tutor:** Was support identical in the two trials?
+
+**Nia:** No. An observer gave a hint during one attempt, and the note records when it happened.
+
+**Sam:** So reaching the destination after that hint isn't evidence of completely independent performance.
+
+**Tutor:** Does that make the record useless?
+
+**Nia:** No. It still shows the difficulty and what help was supplied, but it supports a narrower conclusion.
+
+**Sam:** The maps were complete; a missing page wasn't the issue.
+
+**Tutor:** Then route complexity and the unequal hint are the two limitations to retain. Don't replace them with a generic list of possible problems that obscures what actually differed in the completed observation.
+
+#### Part 4 — Deciding what can carry across
+
+##### Q31 evidence block
+
+**Lecturer:** Consider a fictional team transferring a procedure from one visitor task to another. The first stage identifies the underlying principle. A principle describes the relationship the procedure depends on, such as connecting a direction to a stable reference frame. It is different from a surface feature like the colour of an arrow. The team asks what function the successful feature served in the original task. Without that question, transfer can become copying a familiar layout into a setting where it no longer helps. Identifying the principle gives the comparison something meaningful to preserve while leaving room for the form of the response to change with the new task.
+
+##### Q32 evidence block
+
+**Lecturer:** The second stage identifies relevant features of the new setting. These features may include the reader's starting knowledge, the available landmarks and the number of decisions required. The team distinguishes them from similarities that are easy to notice but unrelated to the procedure's purpose. Two maps may use the same colours while asking the reader to solve different problems. Conversely, a very different-looking diagram may require the same relationship between evidence and action. The feature review should explain why each selected detail matters. A long list of observations is not automatically useful if it fails to connect those observations with the principle the team hopes to carry across.
+
+##### Q33 evidence block
+
+**Lecturer:** The third stage builds an explicit mapping between the relevant elements of the two tasks. Mapping states which feature in the new setting plays the role served by a feature in the original one. This connection should be argued rather than assumed from a shared name. A central landmark on one map may guide orientation, while a similarly named object on another is barely visible from the route. The team tests whether the proposed connection preserves the function that matters. An explicit mapping can also reveal a missing counterpart. Recognising that gap is useful because it identifies where straightforward copying would fail and where a different arrangement may be needed.
+
+##### Q34 evidence block
+
+**Lecturer:** The fourth stage decides on the adaptation required by the new conditions. An adaptation is a deliberate change that preserves the relevant principle while adjusting its application. The team might replace a distant landmark with a more visible reference or divide a long instruction at a genuine decision point. This is different from changing details merely to make the new version look original. The reason for the change should be connected to a documented demand in the setting. The team also records what was retained, because an adaptation can only be interpreted clearly when the relationship between the earlier procedure and the new attempt remains visible.
+
+##### Q35 evidence block
+
+**Lecturer:** The fifth stage completes an evaluation of the new attempt. This structured review considers whether the adapted procedure served the intended task under the conditions observed. It should examine difficulties as well as successful completion, since arriving at a destination may conceal repeated requests for help. The evaluation compares the actual response with the requirement and records any support that changed the process. A favourable result can justify further use within a stated scope, but it does not establish that the principle has been transferred successfully to every possible context. The review ends with a decision and its reasons, rather than a universal claim based on one local attempt.
+
+##### Q36 evidence block
+
+**Lecturer:** A reference frame is especially important when the task includes direction. The frame determines what a phrase such as left of or ahead of is relative to. In a diagram, a north arrow can provide a fixed frame even when the viewer changes position. In spoken instructions, the frame may depend on a person's stated orientation. A switch between these systems should be explicit. Otherwise, two individually reasonable phrases may lead to different interpretations when combined. The team should establish the reference frame before evaluating whether a particular turn was correct, rather than blame the participant for failing to infer a viewpoint that the instruction never made clear.
+
+##### Q37 evidence block
+
+**Lecturer:** Cognitive load concerns the demands placed on attention and processing during the task. Adding another diagram may help a person locate a landmark but also require them to compare two sources while moving through a sequence. The team should examine the function of the added information, not assume that more detail always makes a task easier. This load depends on the material, the procedure and the person's familiarity with relevant conventions. A small trial can reveal a point at which participants pause or lose their place, but it cannot establish a universal limit for every learner. The useful question is which demand the proposed revision is intended to reduce.
+
+##### Q38 evidence block
+
+**Lecturer:** An analogy can suggest a way to understand the new setting through a familiar one. The analogy is useful when the relationship being compared is relevant to the task. It can mislead when a surface similarity encourages the team to import an arrangement that doesn't serve the same function. The review should identify both what corresponds and what does not. A familiar example may help explain a principle without proving that the same procedure will work unchanged. Treating the analogy as a question to examine keeps it open to correction, whereas treating it as a complete answer can hide the very difference the new setting was meant to reveal.
+
+##### Q39 evidence block
+
+**Lecturer:** Boundary conditions describe where a procedure's usefulness may change. These limits can concern the task, the available information or the support a participant receives. A method that works with a visible landmark may need revision when that landmark is obscured. The team should state the relevant boundary conditions rather than present the original success as unconditional. Identifying a limit does not make the procedure worthless; it clarifies the circumstances under which a recommendation is defensible. A later study can investigate another condition deliberately, with its difference recorded, instead of discovering only after failure that an essential feature had silently been removed from the task.
+
+##### Q40 evidence block
+
+**Lecturer:** Finally, the team plans replication of the defined observation method. Replication means repeating a procedure clearly enough to examine whether the broad pattern appears again under described conditions. It does not mean repeating the old answer until everyone remembers it. The team preserves the decisions needed to interpret the new attempt, including any changes to participants, setting or support. This repetition can reveal whether an earlier result depended on an unusual circumstance, although it cannot settle every causal explanation on its own. The stage review carries forward a method worth checking and an explicit account of what remains uncertain about applying it beyond the setting already observed.
+
+</details>
+
+<details>
+
+<summary>精听与复盘步骤（须有已验收配套音频）</summary>
+
+### L-W19 — Q-based intensive listening
+> 音频尚未生成；以下是未来执行安排，不是已完成记录。不要用文本阅读替代首次听力。无实际时间戳。
+
+周预算：预览 8 + 首听 32 + 交首次答案 8 + 查错 20 + 精听 60 + 复述 15 + 次日重做 15 = **158 分钟**。含暂停/回放；加用缓冲最多 22 分钟，总计≤180。
+
+四段各 15 分钟：先定位并不看稿听 2 分钟；分句回放、写关键词 4 分钟；对照稿找误听与改口 3 分钟；遮稿跟读和复述 3 分钟；重答并记录错误原因 3 分钟。不得把同一段回放另算在周预算之外。
+
+#### Q2–3 — 15 minutes
+
+定位 script.md 的 Q2 evidence block 起至 Q3 evidence block 结束（约 201 词）；音频起止为 null。
+
+目标：Resolve old date and distinguish building opening from teaching start.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### Q12–15 — 15 minutes
+
+定位 script.md 的 Q12 evidence block 起至 Q15 evidence block 结束（约 429 词）；音频起止为 null。
+
+目标：Use named references rather than bodily left/right and reject former locations.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### Q21–24 — 15 minutes
+
+定位 script.md 的 Q21 evidence block 起至 Q24 evidence block 结束（约 407 词）；音频起止为 null。
+
+目标：Keep Nia=A and Sam=B despite Sam speaking first; distinguish conditional support from withdrawal.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### Q31–35 — 15 minutes
+
+定位 script.md 的 Q31 evidence block 起至 Q35 evidence block 结束（约 541 词）；音频起止为 null。
+
+目标：Map a principle across settings, then separate adaptation from its evaluation.
+
+留痕：首次答案 → 听到的原词 → 干扰来源 → 修正答案 → 一句英文复述。
+
+#### 15 分钟复述与 15 分钟次日重做
+
+复述：5 分钟遮住答案口述地图五个位置；5 分钟按人说明三人讨论的最终观点；5 分钟复述流程及一个限制。次日：8 分钟仅重做错题对应 Q 段；4 分钟核对；3 分钟更新错误记录。若仍超时，留下未完成项，不把额外时间隐去。
+
+</details>
+
+## 许可说明
+
+原创文字和图示：RayXBuilds and contributors，CC BY 4.0。本页不包含配套音频；现有基础VOA媒体不能代替本套题的录音。

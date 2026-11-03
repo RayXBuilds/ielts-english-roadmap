@@ -1,0 +1,1066 @@
+{
+  "id": "L-W08",
+  "week": 8,
+  "title": "Shared work and useful information",
+  "version": "W05-W08-text-v2-qa-l07-l09",
+  "status": "text_self_check_pending_independent_QA",
+  "original": true,
+  "provenance": "Original fictional practice commissioned for this curriculum; not authentic IELTS, not standardised or score-calibrated. No third-party text or diagrams used.",
+  "license": "CC BY 4.0 for original text and SVG; no audio rights or audio files supplied.",
+  "question_count": 40,
+  "question_objects": 38,
+  "spoken_word_count": 4145,
+  "word_count_method": "Regex word tokens including hyphenated forms; excludes speaker labels, titles, question text and Q locators.",
+  "audio_file": null,
+  "duration_seconds": null,
+  "audio_start_seconds": null,
+  "audio_end_seconds": null,
+  "media_status": "missing_not_generated",
+  "complete_listening_set": false,
+  "planning_only": {
+    "speech_rate_words_per_minute": [
+      140,
+      160
+    ],
+    "speech_minutes_estimate": [
+      25.91,
+      29.61
+    ],
+    "actual_duration_seconds": null,
+    "first_listen_budget_minutes": 32,
+    "note": "Text-based estimate only. Future rendition must fit 32 minutes including part pauses; if not, revise the timetable before release."
+  },
+  "weekly_training": {
+    "minutes": 158,
+    "maximum_minutes": 180,
+    "buffer_minutes": 22,
+    "tasks": [
+      {
+        "task": "Preview questions without the script",
+        "minutes": 8
+      },
+      {
+        "task": "Future continuous first listen, including planned part pauses",
+        "minutes": 32
+      },
+      {
+        "task": "Submit first answers and confidence, without a second play",
+        "minutes": 8
+      },
+      {
+        "task": "Check answers and classify errors",
+        "minutes": 20
+      },
+      {
+        "task": "Four Q-located intensive segments, 15 minutes each",
+        "minutes": 60
+      },
+      {
+        "task": "Diagram and opinion retelling",
+        "minutes": 15
+      },
+      {
+        "task": "Next-day retry of missed items",
+        "minutes": 15
+      }
+    ],
+    "completed_listening_minutes": 0
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "Reserving a shared workspace",
+      "roles": [
+        "Receptionist",
+        "Applicant"
+      ],
+      "question_range": [
+        1,
+        10
+      ],
+      "word_count": 1007,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q01",
+          "question_locator": "Q1",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "Hello, Riverside Workspace. How can I help?"
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'm looking for somewhere to work one day a week. My home is usually quiet, but occasionally I need a separate place to concentrate."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Are you looking for a permanent private office?"
+            },
+            {
+              "speaker": "Applicant",
+              "text": "No, that's more than I need. I'd like to reserve a desk in the shared area. I don't expect to receive clients there."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "A desk booking should suit that pattern. We also have meeting rooms, but those are booked separately."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Good. Please start with a desk, and I can ask about the other facilities if my work changes later."
+            }
+          ]
+        },
+        {
+          "id": "Q02",
+          "question_locator": "Q2",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "Do you have a preferred weekday?"
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I was considering Tuesday because I used to have a regular appointment on Wednesday. That appointment has finished, though, and Wednesday now fits my schedule better."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "We have space on either day at present. Shall I put Wednesday on the application?"
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Yes. Tuesday would leave me rushing from another commitment, whereas Wednesday gives me a full working day."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "I'll record Wednesday as your regular day. If you need an occasional different day, you can check availability without changing the whole arrangement."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "That's useful, but I'd like to start with a predictable routine."
+            }
+          ]
+        },
+        {
+          "id": "Q03",
+          "question_locator": "Q3",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "What date do you want your first booking to be?"
+            },
+            {
+              "speaker": "Applicant",
+              "text": "The notice I saw mentioned September the fifth, but I assume that was an example. I'd like to begin on the twelfth of September."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The twelfth is available. We will send an introductory message before that date with the entrance instructions."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Thank you. I won't be in town the week before, so beginning on the fifth wouldn't work for me."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Then the twelfth is the date to put in your calendar. Your welcome message will repeat it, along with the day and the type of space you have reserved."
+            }
+          ]
+        },
+        {
+          "id": "Q04",
+          "question_locator": "Q4",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "How much is a single day? I saw two different prices on a leaflet."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The eighteen-pound figure is for an evening session. Your daytime desk booking is twenty-four pounds."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Does that mean twenty-four pounds for each hour?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "No, for the day. Extra meeting-room bookings have their own charges, but they aren't part of the desk price."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll use the daytime option and record twenty-four pounds in my budget."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Fine. We'll show the booking type and total clearly in the confirmation, so you can check them before paying. Contact us if that document doesn't match what we've arranged today."
+            }
+          ]
+        },
+        {
+          "id": "Q05",
+          "question_locator": "Q5",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "What should I bring on the first visit? I can carry my laptop and charger, but I'd rather not pack unnecessary equipment."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "If you intend to listen to recordings or join an online session, please bring headphones. Sound should not play through speakers in the shared work area."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I have headphones, so that's easy. Is a separate monitor compulsory?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "No. Some people prefer one, but you can work with your laptop alone."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll bring the headphones and keep the rest simple. If I find that I need a different arrangement after trying the space, I can ask about available options."
+            }
+          ]
+        },
+        {
+          "id": "Q06",
+          "question_locator": "Q6",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "We can provide a locker for the day if you want somewhere to leave a coat or bag while you work."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "That would help. Is there a separate key?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The locker uses a four-digit code that you choose when you arrive. Please don't include it in your public desk label or share it in the general chat."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "So I need to choose four digits, and the desk booking number isn't the locker code?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Correct. They're separate. The booking number identifies your reservation; the four-digit code opens your locker. We'll explain the process in person, so you don't need to invent one during this call."
+            }
+          ]
+        },
+        {
+          "id": "Q07",
+          "question_locator": "Q7",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "I sometimes need to make a short phone call. Can I do that at the shared desk?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Please use the designated call room when it's available. Even a brief conversation can disturb nearby people who are concentrating."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Do I have to reserve a full meeting room for every call?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "No, the call room is intended for short individual calls. Longer meetings with several participants need a different booking."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Then I'll check the call room before answering."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That's the best approach. The shared desk is for quiet work, and the call room lets us accommodate ordinary calls without turning the whole area into a conversation space."
+            }
+          ]
+        },
+        {
+          "id": "Q08",
+          "question_locator": "Q8",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "What happens if I need to change my regular day for one week?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Use the booking page to check availability and request the change. A note left on your desk won't reach the team reliably, and another user can't transfer your reservation by simply taking your place."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Will the page immediately guarantee any day I select?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "It shows the available options and sends a confirmation when the change is completed. Keep that confirmation."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "So the important step is using the booking system, rather than assuming a message to another user has changed the record."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Exactly. That helps us keep the desk allocation accurate."
+            }
+          ]
+        },
+        {
+          "id": "Q09",
+          "question_locator": "Q9",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "May I leave my equipment on the desk overnight?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Day bookings don't include overnight storage at the workstation. Please clear the desk when you leave. A different person may have it the next morning."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "What about putting a note on the screen saying I'll return next week?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That wouldn't reserve it. If you need storage beyond the day, ask us about the separate arrangements before leaving anything."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Understood. I'll plan to carry my equipment home."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "You can still use the day locker during your visit; just remember that its temporary use doesn't extend the booking into the following day."
+            }
+          ]
+        },
+        {
+          "id": "Q10",
+          "question_locator": "Q10",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "Is there a way to tell whether the space will suit me before making a long commitment?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Start with the day booking we've arranged and review how it worked afterwards. We don't require you to choose a long package during this call."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I was worried I would have to decide immediately to keep the price."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The day option is a complete option in its own right. You can assess the working environment and ask questions before considering anything longer."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "That makes sense. I'll try the first day, note what I need, and then decide whether a regular arrangement is useful for my work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Workspace building orientation",
+      "roles": [
+        "Workspace host"
+      ],
+      "question_range": [
+        11,
+        20
+      ],
+      "word_count": 1054,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q11",
+          "question_locator": "Q11",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "Welcome to the workspace orientation. Our building diagram is schematic, with north at the top. The entrance is on the southern edge, and the open atrium is the central reference point. Eight lettered areas surround it. First, reception is directly south of the atrium, between that central space and the entrance. Don't confuse it with the south-east room, which has a separate function. Everyone attending an introductory visit should check in at reception before going to a desk. This lets us confirm the booking and answer practical questions without interrupting somebody else's working session. Use the letter on the map to mark that location in your notes."
+            }
+          ]
+        },
+        {
+          "id": "Q12",
+          "question_locator": "Q12",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "The quiet work room is in the north-west area. That puts it above and to the left of the atrium on the diagram. Some older information called the room directly north the quiet area, but the arrangement changed when we created additional meeting space. Today you need the north-west room. Calls and group conversations should take place elsewhere, even if only a few desks in that room are occupied. A quiet room works because users can expect the same conditions throughout the day. The location matters particularly for visitors who have selected the space because they need an uninterrupted period of individual work."
+            }
+          ]
+        },
+        {
+          "id": "Q13",
+          "question_locator": "Q13",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "The call room is directly east of the atrium, level with its centre. It is not the room in the north-east corner. We located it close to the shared work area so people can move out for a short call without crossing the whole building. Please check whether it is occupied before entering, and follow the displayed arrangements for use. The room is designed for individual calls rather than a gathering of several colleagues. If somebody asks you where it is, direct them to the eastern area beside the atrium, not vaguely to the right-hand side, which contains more than one room."
+            }
+          ]
+        },
+        {
+          "id": "Q14",
+          "question_locator": "Q14",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "The project meeting room is directly north of the atrium. This is the room mentioned in the older leaflet as a quiet work area, so the revised function is worth remembering. Teams can book it for scheduled discussions and collaborative sessions. It is separate from the call room to the east. The tables can be arranged in several ways, but the booking team needs to know about special arrangements beforehand. For the map exercise, mark the northern room as the project meeting room. The room to its east is not an extension of it, even though the two appear close together in the simplified diagram."
+            }
+          ]
+        },
+        {
+          "id": "Q15",
+          "question_locator": "Q15",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "The kitchenette is in the south-west area, below and to the left of the atrium. You can prepare a drink there and use the labelled shared shelves during your booking. The south-east room is not another kitchen, and reception directly south of the atrium does not have facilities for preparing food. We ask users to leave the kitchenette ready for the next person and take away their own containers when they finish. If something needs attention, tell reception rather than leaving an unclear note for an unknown future user. On your diagram, the south-west letter identifies the kitchenette and completes the five locations in today's exercise."
+            }
+          ]
+        },
+        {
+          "id": "Q16",
+          "question_locator": "Q16",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "The atrium has informal seating, but it isn't a substitute for a reserved meeting room. A brief exchange is fine; a scheduled team session can make the area difficult for people passing through. The purpose of this distinction is to keep shared circulation space usable while giving longer discussions a suitable setting. It isn't a rule that colleagues must avoid talking to one another. If a conversation grows into a meeting, check room availability. Reception can explain the options. You should not promise clients that they can attend an unrestricted meeting in the atrium simply because you saw empty chairs there during a quiet moment."
+            }
+          ]
+        },
+        {
+          "id": "Q17",
+          "question_locator": "Q17",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "The community noticeboard displays information about workshops and shared projects. Before adding a notice, submit it through the workspace form so the team can check the date, contact details and available space. A notice attached directly over somebody else's sheet may hide information that is still current. We remove expired items as part of the regular update. This process helps the board remain useful rather than becoming a permanent collection of unrelated advertisements. Submitting a notice does not guarantee that the workspace endorses the activity. The display is an information service, and the notice should make clear who is organising the event and how to contact them."
+            }
+          ]
+        },
+        {
+          "id": "Q18",
+          "question_locator": "Q18",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "If you discover that a booked room is occupied, speak to reception and show your confirmation. Avoid resolving the problem by entering another apparently empty room, because it may be reserved for somebody arriving shortly. Reception can compare the bookings and arrange a solution using the current record. A printed name on an old door sign may be out of date, which is another reason to check the system. You don't need to argue with the other group about whose meeting is more important. The useful information is the room, the booked time and your confirmation, not a judgement about the value of another user's work."
+            }
+          ]
+        },
+        {
+          "id": "Q19",
+          "question_locator": "Q19",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "We collect feedback about the workspace at the end of a trial visit. Specific observations are especially helpful. For example, tell us which instruction was difficult to find and where you looked for it. A general statement that everything should be clearer gives us much less to investigate. Feedback is not limited to complaints; an explanation of what worked well can help us preserve a useful feature during changes. You may leave your name if you want a reply, but the ordinary feedback form does not require it. Urgent booking problems should still go directly to reception rather than waiting in the routine feedback collection."
+            }
+          ]
+        },
+        {
+          "id": "Q20",
+          "question_locator": "Q20",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Workspace host",
+              "text": "Before leaving, check that you have cleared your desk, collected your belongings and followed the checkout instructions. Checkout tells the team that the space is available for its next use and helps identify forgotten items promptly. It isn't an invitation to evaluate other users or report how much work they completed. If you have borrowed equipment, return it through the stated process rather than placing it on an empty desk. A quick check prevents the next user from searching for something recorded as available but left elsewhere. Reception can help with an uncertainty; simply leaving the building without asking may make a small issue harder to resolve later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Testing a visitor information page",
+      "roles": [
+        "Tutor",
+        "Sam",
+        "Priya"
+      ],
+      "question_range": [
+        21,
+        30
+      ],
+      "word_count": 1021,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q21",
+          "question_locator": "Q21",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Let's plan your study of the visitor information page."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I suggest testing it with people who haven't used the building before. Familiar users already know where things are."
+            },
+            {
+              "speaker": "Priya",
+              "text": "I agree. They may skip unclear instructions because they can fill the gaps from experience."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Do you both support recruiting first-time visitors for this study?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Yes, while explaining that our findings will concern that group."
+            },
+            {
+              "speaker": "Priya",
+              "text": "Yes. We can study experienced users later with a different question."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. That defines the group without pretending one sample tells you everything about every user."
+            },
+            {
+              "speaker": "Sam",
+              "text": "We'll put the first-time visitor requirement in our recruitment description."
+            }
+          ]
+        },
+        {
+          "id": "Q22",
+          "question_locator": "Q22",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should participants be required to think aloud while finding information?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "I favour that. Hearing what they are looking for could reveal why a heading confuses them."
+            },
+            {
+              "speaker": "Priya",
+              "text": "I would rather let them work silently and ask questions afterwards. Speaking might change the way they search."
+            },
+            {
+              "speaker": "Sam",
+              "text": "We can remind them gently and avoid giving clues. I still support asking them to think aloud."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Priya, does that adjustment change your view?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "No. For this first study I continue to prefer silent task completion followed by questions."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then your current positions differ. We'll compare the practical consequences before deciding which procedure the study will use."
+            }
+          ]
+        },
+        {
+          "id": "Q23",
+          "question_locator": "Q23",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Your draft mentions names on every response sheet."
+            },
+            {
+              "speaker": "Priya",
+              "text": "I included that because I thought it would help match the sheets, but participant codes can do the matching."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I don't support collecting names for this exercise. We don't need them to answer the research question."
+            },
+            {
+              "speaker": "Priya",
+              "text": "I agree now, and I withdraw the name requirement."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "To be clear, neither of you supports putting participant names on the response sheets at the end of this discussion?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Correct."
+            },
+            {
+              "speaker": "Priya",
+              "text": "Correct. We'll keep the study code separate from any recruitment contact arrangements, and the analysis sheet will use the code. That gives us the link we need without the unnecessary field."
+            }
+          ]
+        },
+        {
+          "id": "Q24",
+          "question_locator": "Q24",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What about varying the order of the two tasks between participants?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "I support alternating the order. Otherwise the first task might teach everyone something that makes the second easier."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I understand that concern, but I would keep the same order for everyone in this small pilot. It makes the procedure easier to run consistently."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could a prepared schedule handle the alternation?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "Yes, and that is what I propose."
+            },
+            {
+              "speaker": "Sam",
+              "text": "Even with a schedule, I still prefer one fixed order for the pilot."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "So Priya supports alternating, and Sam does not at present. We'll record both the reason and the unresolved choice."
+            }
+          ]
+        },
+        {
+          "id": "Q25",
+          "question_locator": "Q25",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Will you record wrong turns, or only whether each task is eventually completed?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "We should record wrong turns as well. Someone might reach the answer after several confusing steps."
+            },
+            {
+              "speaker": "Priya",
+              "text": "I agree. A completion tick alone would hide that difficulty."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "How will you avoid guessing what counts as a wrong turn?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "Define it before testing, using observable actions such as opening an unrelated section and then returning."
+            },
+            {
+              "speaker": "Sam",
+              "text": "Yes, we both support recording those actions under a consistent definition."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. Keep interpretation separate from the observation. A participant may explore deliberately, so you should not automatically label every extra click as proof of confusion without further evidence."
+            }
+          ]
+        },
+        {
+          "id": "Q26",
+          "question_locator": "Q26",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should you set a strict time limit for each task?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "I favour a limit, so sessions remain manageable and every participant has the same maximum time."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I would let people finish and record the elapsed time in this pilot. A cut-off could stop us seeing how they recover from a wrong turn."
+            },
+            {
+              "speaker": "Priya",
+              "text": "We could choose a generous limit, but I still support having one."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Sam?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "I remain against a strict limit at this stage. We can arrange sessions with enough space between them."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Priya supports the proposal and Sam doesn't. That distinction concerns the pilot procedure, not whether recording time is useful."
+            }
+          ]
+        },
+        {
+          "id": "Q27",
+          "question_locator": "Q27",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "You have agreed to test two information-finding tasks. What is the first?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Finding how to change an existing desk reservation. The answer is on the page, but people must choose the relevant heading."
+            },
+            {
+              "speaker": "Priya",
+              "text": "Yes, that's one of our selected tasks. We rejected asking participants to state the year the building opened because it doesn't reflect an ordinary booking need."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "And the question about recognising the organisation's logo?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "Also rejected. It would test a different kind of recognition."
+            },
+            {
+              "speaker": "Sam",
+              "text": "We want actions a visitor might reasonably need to take. Finding the reservation-change instructions is the first agreed task, regardless of our remaining decisions about the testing procedure."
+            }
+          ]
+        },
+        {
+          "id": "Q28",
+          "question_locator": "Q28",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "And the second task?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "Finding where to report a missing item. That instruction appears in the visitor information section, and it has a clear practical purpose."
+            },
+            {
+              "speaker": "Sam",
+              "text": "Agreed. We aren't asking participants to guess an unlisted staff member's private telephone number. That was never information the page was meant to provide."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "So the two selected tasks are changing a reservation and reporting a missing item?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "Exactly. The logo question and the building-history question aren't included."
+            },
+            {
+              "speaker": "Sam",
+              "text": "We'll write realistic short scenarios for the two selected tasks without using the exact heading words, since copying those words into the prompt would make the search artificially easy."
+            }
+          ]
+        },
+        {
+          "id": "Q29",
+          "question_locator": "Q29",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "The trial has now revealed problems. Which revisions are confirmed?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "First, replace vague headings with action-based headings. People didn't understand that 'Your arrangements' contained the booking-change instructions."
+            },
+            {
+              "speaker": "Sam",
+              "text": "We agree to use a heading that tells visitors the action they can take."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you also adding more decorative photographs?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "No. That suggestion doesn't address the difficulty we observed."
+            },
+            {
+              "speaker": "Priya",
+              "text": "Nor are we replacing all the text with icons. Some icons would need explanation and could introduce another problem. The confirmed heading change follows directly from the trial: participants searched for an action, but our wording concealed where the relevant instructions began."
+            }
+          ]
+        },
+        {
+          "id": "Q30",
+          "question_locator": "Q30",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What is the other confirmed revision?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Move the missing-item contact details beside the instruction to report an item. Participants found the instruction but had to search elsewhere for the contact route."
+            },
+            {
+              "speaker": "Priya",
+              "text": "Agreed. Keeping related information together should reduce that extra search."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Did you decide to reduce the text size to fit everything on one screen?"
+            },
+            {
+              "speaker": "Priya",
+              "text": "No, that could make the page harder to read, and we rejected it."
+            },
+            {
+              "speaker": "Sam",
+              "text": "Our two agreed revisions are clearer action-based headings and placing contact details beside the relevant instruction. We'll test the revised page with new participants before claiming those changes have solved the observed problems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "title": "Investigating room bookings",
+      "roles": [
+        "Lecturer"
+      ],
+      "question_range": [
+        31,
+        40
+      ],
+      "word_count": 1063,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q31",
+          "question_locator": "Q31",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Consider a fictional workspace manager investigating whether meeting-room bookings reflect actual use. The first stage is to define occupancy for the study. Does a room count as occupied when someone leaves a bag there, or only when a person is present? Different definitions produce different results, so the team must choose and document one before collecting observations. In this exercise, occupancy means at least one person present during the scheduled observation. That definition does not capture every aspect of usefulness, but it gives observers a consistent rule. Starting with the rule prevents the team from adjusting its meaning afterwards to make the figures support a preferred conclusion."
+            }
+          ]
+        },
+        {
+          "id": "Q32",
+          "question_locator": "Q32",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The next stage is to assign an identifier to each room. Descriptions such as the bright room or the room near the stairs may be understandable to one observer but ambiguous to another. A stable identifier connects observations with the appropriate booking record even if a room's display name changes. The team makes a reference list and checks it against the building plan. The identifier is not a score of quality or a ranking of popularity; it is simply a way to refer to the same space consistently. Any later change to the list is documented so that old and new records can still be related correctly."
+            }
+          ]
+        },
+        {
+          "id": "Q33",
+          "question_locator": "Q33",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The third stage sets the observation interval. In this fictional pilot, observers check the rooms at regular intervals of fifteen minutes during the study period. They do not claim that each brief check describes every moment between checks. The interval determines what the method is likely to notice and what it may miss. A meeting that begins and ends between observations could be absent from the observation record. The team therefore states the interval clearly when reporting results. Choosing a regular schedule also reduces the chance that observers visit only when they expect rooms to be busy, which would make the sample difficult to interpret."
+            }
+          ]
+        },
+        {
+          "id": "Q34",
+          "question_locator": "Q34",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fourth stage matches each observation to the relevant booking. Matching uses the room identifier and the observation time, not merely a similar meeting title. A booking may span several checks, and an observation can fall outside any reserved period. Both situations should be represented explicitly in the working table. If a record cannot be matched because a time is missing, the team marks the issue instead of forcing a link. The aim is a traceable comparison between two kinds of evidence: what the booking system says was reserved and what the observer recorded at a particular moment. Neither record should silently overwrite the other."
+            }
+          ]
+        },
+        {
+          "id": "Q35",
+          "question_locator": "Q35",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fifth stage flags a discrepancy for review. A discrepancy occurs when the records do not agree under the study's defined comparison rule. For example, a room might be booked but appear empty at a scheduled check. The flag asks for examination; it does not by itself prove that a user behaved improperly. The booking could have changed, the observation time could be wrong, or the room could have been used between checks. Keeping the flag distinct from an explanation prevents the team from turning an unresolved difference into an accusation. A review note can later record what additional evidence, if any, clarifies the case."
+            }
+          ]
+        },
+        {
+          "id": "Q36",
+          "question_locator": "Q36",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Cancellations are a useful category to examine. If a booking was cancelled but the cancellation did not appear in the exported file, the table may make an available room look reserved. The team therefore records when the booking data were extracted and which version was used. A later export may contain a correction that the earlier version lacked. This is a data-history problem before it is a question about room demand. Researchers should not count every apparent empty reservation as the same kind of event. Checking cancellations can explain some differences, while leaving other cases unresolved. The analysis should preserve those distinctions rather than combining them for a simpler headline."
+            }
+          ]
+        },
+        {
+          "id": "Q37",
+          "question_locator": "Q37",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The comparison also needs attention to the time of day. A room that is busy in the morning and quiet in the afternoon could have a moderate overall average that describes neither period particularly well. Grouping observations by time can reveal that pattern, provided the grouping is chosen and reported clearly. The team should not repeatedly try many groupings and show only the one that looks most dramatic. Here, morning and afternoon were defined before the pilot began. Their separate summaries help the manager consider scheduling questions without assuming that one daily average gives a complete account of when people actually need a room."
+            }
+          ]
+        },
+        {
+          "id": "Q38",
+          "question_locator": "Q38",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "A percentage must have a clear denominator. If the team reports that a certain percentage of observations showed occupancy, readers need to know how many valid observations were included. Missed checks should not quietly count as empty rooms, and cancelled study periods should not remain in the total as if observations had occurred. The denominator therefore consists of the valid checks under the stated rule. The report gives both the percentage and the underlying count. This makes it easier to recognise a result based on very little evidence and to compare periods whose observation totals differ. A percentage alone can conceal those differences behind a familiar-looking number."
+            }
+          ]
+        },
+        {
+          "id": "Q39",
+          "question_locator": "Q39",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The manager should also understand the distinction between occupancy and satisfaction. Seeing somebody in a room does not tell an observer whether the person found the space comfortable or suitable. A room could be heavily used because alternatives were unavailable, even if users disliked it. Satisfaction would require separate evidence, such as appropriately designed questions about the experience. The occupancy study can inform decisions about use, but it should not be renamed a satisfaction survey after the data are collected. Keeping the terms distinct helps the team explain what its method measures and prevents a useful narrow study from being stretched into claims it cannot support."
+            }
+          ]
+        },
+        {
+          "id": "Q40",
+          "question_locator": "Q40",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Finally, the team should repeat the study before treating a single week as a stable pattern. The pilot week may contain unusual events, staff absences or deadlines that affect bookings. Repetition under a comparable procedure can show whether the same broad pattern appears again. It cannot guarantee that future demand will remain unchanged, but it provides more context than one short observation period. The final recommendation therefore includes another planned round of checks and a review of the method's practical burden. The manager receives a provisional interpretation with clear next steps, rather than a permanent allocation rule presented as certain on the basis of one limited sample."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

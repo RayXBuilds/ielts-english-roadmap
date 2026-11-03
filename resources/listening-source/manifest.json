@@ -1,0 +1,1580 @@
+{
+  "schema_version": 1,
+  "scope": "24 original listening text sets; no audio supplied or approved",
+  "state": "integrated_unpublished_candidate",
+  "license": "Original text and diagrams CC BY 4.0; no third-party audio included",
+  "lesson_ids": [
+    "L-W01",
+    "L-W02",
+    "L-W03",
+    "L-W04",
+    "L-W05",
+    "L-W06",
+    "L-W07",
+    "L-W08",
+    "L-W09",
+    "L-W10",
+    "L-W11",
+    "L-W12",
+    "L-W13",
+    "L-W14",
+    "L-W15",
+    "L-W16",
+    "L-W17",
+    "L-W18",
+    "L-W19",
+    "L-W20",
+    "L-W21",
+    "L-W22",
+    "L-W23",
+    "L-W24"
+  ],
+  "approved_audio_sets": 0,
+  "source_files": [
+    {
+      "path": "L-W01/answers.md",
+      "sha256": "06fcf2bc8348f60ed3d7bb1905c6f9c3afbb41dfd48dbd4567db79f5055262a2",
+      "bytes": 24660,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/content.txt",
+      "sha256": "ae1e5b9e0c6046d6dc85b28e76b30de321551039c874a9376cd6b3f8b7c1b5ef",
+      "bytes": 22017,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/intensive.md",
+      "sha256": "35c78eb0149c69d39243363724b03d1d4df610621271833d0daa3ce40048ef16",
+      "bytes": 1173,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/questions.json",
+      "sha256": "c4c0928da32d82e80fcae4979c298b01e726ee3fbb7f19e88ed23d01743b46fd",
+      "bytes": 38222,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/script.md",
+      "sha256": "55475a800dcad92afc8352547cb06f95476178fedb11960064cab73c56cb7339",
+      "bytes": 22039,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/source.json",
+      "sha256": "847ff7e89f251c96f66328fe50f3adf3a5fbbef2b26c7c3d34799c16ce1a8f7d",
+      "bytes": 40796,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/student.md",
+      "sha256": "0aaa59c67a2ed233cf77a16bda1a8872bbf8fd113b88e33f73749ad3f61d5465",
+      "bytes": 3057,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/text-check.json",
+      "sha256": "6c177aa5450c0073533763201009393f1ef9a7e67e74d2fb80cbcdce41390868",
+      "bytes": 331,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W01/voice-plan.json",
+      "sha256": "bfa3e406d162cf59869906dc80040ddd2500667d602132ad626c15e418e0b88f",
+      "bytes": 36733,
+      "lesson_id": "L-W01",
+      "week": 1
+    },
+    {
+      "path": "L-W02/answers.md",
+      "sha256": "f93307d530ffc55d71eb320d7309522431333769a6c3bb35cb7f4f485fd98757",
+      "bytes": 25277,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/content.txt",
+      "sha256": "9e9489d8a9fdcf695cce3a86346efc591fb61d802a5ea9b651d50af19f326025",
+      "bytes": 22520,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/intensive.md",
+      "sha256": "9127ac1ac32d1a2485def34cffbb029a98be16494ccc5e45f700a1f12c4d723c",
+      "bytes": 1173,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/questions.json",
+      "sha256": "d6897201221440dcf68c70a9acca143cada429f5f19551751b48273960ee8b9e",
+      "bytes": 38932,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/script.md",
+      "sha256": "9b8499b7b98b9a61a45fc5bd0a6d9103a35c54085f7b41b83c92e6d00c4c9069",
+      "bytes": 22498,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/source.json",
+      "sha256": "8251d90cb21274346f5af5f53d9a30634de3adae7a9d348970b98fa7e76b8d97",
+      "bytes": 41496,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/student.md",
+      "sha256": "cc5a3b1b1ab40d54e1e0c38a2edf50ce3810c131cf9e9d68f2d83c53c916507c",
+      "bytes": 3025,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/text-check.json",
+      "sha256": "ff40c82a33b722284cf27a8ede7d1ce2174f66f32fd901b6f8c215cdb17298fd",
+      "bytes": 331,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W02/voice-plan.json",
+      "sha256": "49270fa95beb45431da7b0152893aaf46f4e39d9b553de3a65941191ce7d18c5",
+      "bytes": 37398,
+      "lesson_id": "L-W02",
+      "week": 2
+    },
+    {
+      "path": "L-W03/answers.md",
+      "sha256": "80c97a70fff1509f2fd1af38de455835e4b2991d9ea43d9ca64e995ff57bf5b1",
+      "bytes": 25816,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/content.txt",
+      "sha256": "155dc9a67d07056fd7b809d5b443723bb329f74320bfc9c2fbb4451b99c0e14b",
+      "bytes": 23148,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/intensive.md",
+      "sha256": "67ffe5a1b65783b1e8047122f50934719d501c8909903adfc6646a6ddf6969f8",
+      "bytes": 1173,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/questions.json",
+      "sha256": "3e0937e8085ef1dbe0616073a2b402114ac1152d0d38a5a3bc899f8a34721af1",
+      "bytes": 39416,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/script.md",
+      "sha256": "8d36ec5a7683ff50d59b0a82ba00498f3241f469511822272ee4ceca83d843e1",
+      "bytes": 23158,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/source.json",
+      "sha256": "db2894f66a9ae8ca6035958a9e23d5479e4c970a62c0ae530fef2dbcdec4b6a3",
+      "bytes": 41996,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/student.md",
+      "sha256": "d49b955616e563d045c0558a83b9c14fe49d5e62ac41a8801795383458c2aabe",
+      "bytes": 3056,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/text-check.json",
+      "sha256": "8d680d6d12ff8c6ce37cec603a17680c1399044625823c50a09b36622d155880",
+      "bytes": 331,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W03/voice-plan.json",
+      "sha256": "eca4b00ec798b81190d7d504469815fd649c45ba1feffc3b309d6f9bf0359a27",
+      "bytes": 38028,
+      "lesson_id": "L-W03",
+      "week": 3
+    },
+    {
+      "path": "L-W04/answers.md",
+      "sha256": "a4645f7b4ee9d472642cf851c26e857b8b1604172c757820f34ac811572bbd59",
+      "bytes": 26164,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/content.txt",
+      "sha256": "e1697b16bcbf8ef75051c7bba69c6cc6edaeff97bd9698c42bdd7a06a4feb64e",
+      "bytes": 23604,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/intensive.md",
+      "sha256": "4eaeb495ae57109a59cb4eaf9b9a09ac2864ef028d85d378cecf105bf4d45aa9",
+      "bytes": 1173,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/questions.json",
+      "sha256": "074ecc23f930b04826d855bc2cd457f4514806366fd9fa01775bbc7a2be7e0d2",
+      "bytes": 39946,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/script.md",
+      "sha256": "83e3e08e16ffb96ff6c0b5fb3210b8f2d346f8ed330fd56c73988f1c4ba73b02",
+      "bytes": 23537,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/source.json",
+      "sha256": "6a055014f2d515be0e3fc2998b7ab80999daa2d9c910974a9ff427fa958aef4b",
+      "bytes": 42530,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/student.md",
+      "sha256": "a884385726134c75ff0762bb094211d5111a7fcb7f8cc1058d6017652d87f987",
+      "bytes": 3146,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/text-check.json",
+      "sha256": "2748b194782fcb4edbffbfb123e08058fd89d00c1c6d2031d1ac86a3be89a738",
+      "bytes": 331,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W04/voice-plan.json",
+      "sha256": "e34f6c0bfa7f8f95f1916e4378975a3b7d841f73a72cbdd5775909a7201888ad",
+      "bytes": 38596,
+      "lesson_id": "L-W04",
+      "week": 4
+    },
+    {
+      "path": "L-W05/answers.md",
+      "sha256": "0291288c91c7a290b08a483035c3af1f2340dc718a463b38f63c2b86d1405b41",
+      "bytes": 34646,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/flow.svg",
+      "sha256": "64c5c134c524f32b8ce8be354a99424846ecdd4a853398f631809cf8a15ce5be",
+      "bytes": 2169,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/intensive.md",
+      "sha256": "6fd4e4e7adb463b2dfd67ccd7f57a328135d820f46667a993b346952f2abdc10",
+      "bytes": 2336,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/map.svg",
+      "sha256": "3230a1990a159c64b756ecb7cbf7c5766b3f311d04fcf7a0720b87ee79ed7aa5",
+      "bytes": 3350,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/questions.json",
+      "sha256": "2995d0189721d0ab6657cb80ff9b9f9d8770492016f2cae5fb5cadcb2747ccab",
+      "bytes": 26228,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/script-source.txt",
+      "sha256": "d32d3c5b2ff72deb1b485e7ccebeb2772302910efb7cab04f6a73259cefd1a67",
+      "bytes": 26374,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/script.md",
+      "sha256": "aedb9ae80a0c04b369697c38d3ad71b344977fb450b82e609b6868d9885d0ca3",
+      "bytes": 28393,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/source.json",
+      "sha256": "cc2463be621813bd5993a7d82aa696d634d3b40b35b8f0da85faaf3f6ecd48c7",
+      "bytes": 46865,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W05/student.md",
+      "sha256": "f0b008301f973f8eb7467125c0a9c016ef234038c0dc6a6f14ab1587c7046270",
+      "bytes": 7012,
+      "lesson_id": "L-W05",
+      "week": 5
+    },
+    {
+      "path": "L-W06/answers.md",
+      "sha256": "a1dbb3f24cee7850c5db6f6bb54312027bb2ed313229f45aaddbcafc0905f58f",
+      "bytes": 35456,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/flow.svg",
+      "sha256": "87f2aaa8be1dd146a6ed66f21fe3a6e8b69d2a0d0c8b616d2b925c3cd4b3e466",
+      "bytes": 2162,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/intensive.md",
+      "sha256": "865bd09198daf8461cc3c5b9cab95afef3572018efeb4a0c9bc7b0eab75cfe4d",
+      "bytes": 2321,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/map.svg",
+      "sha256": "35238200f11090058f180265e22c26055685b443ef8badde7b8364bb4794af95",
+      "bytes": 3334,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/questions.json",
+      "sha256": "62e52b6539cfcf8d1becabaf2b02faae698a545a2c42e4de58ab87546ecf9fcd",
+      "bytes": 26366,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/script-source.txt",
+      "sha256": "15124a4a4284a5d99814526e526189ad45d0e3aa444e2fe0329d1d65c780f017",
+      "bytes": 27248,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/script.md",
+      "sha256": "b3073e72a95f33d6613e02d42a538dbf5ad519987172b092184db434917dd8b7",
+      "bytes": 29262,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/source.json",
+      "sha256": "673c5209db65c4ada8fdf288b51308823fc8c2aaf97dcea0a1009224619e810b",
+      "bytes": 48255,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W06/student.md",
+      "sha256": "bf289d026ea76969b36e4c3211230999a11a88f1e2e4076a2c1e24f7114c6409",
+      "bytes": 7259,
+      "lesson_id": "L-W06",
+      "week": 6
+    },
+    {
+      "path": "L-W07/answers.md",
+      "sha256": "d74478ca0410f4bdbf2ddb5da64e0d59507b9fefea3279ede4b673d16bb2f9b2",
+      "bytes": 34406,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/flow.svg",
+      "sha256": "0e74d254e4df3ee33f653ab3a7d40db724c6c94b48b7063b2abac94d8026b8ca",
+      "bytes": 2146,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/intensive.md",
+      "sha256": "332269df16dc3e25ddfcbac23efade16876b132de90088dc14f61ebe252a1679",
+      "bytes": 2320,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/map.svg",
+      "sha256": "2050ff1001607117ea649079069cece377c6b5eca4e79190dd98578d59039a69",
+      "bytes": 3346,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/questions.json",
+      "sha256": "1d86db3ea48266fb75cdfe8c93c41ddbf3a5e943c9cd79b3c7b95781eceb36d7",
+      "bytes": 26202,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/script-source.txt",
+      "sha256": "2970b511f3849acce602bf76dd46f4b5005685bea0bdc681a6367614cc8a2539",
+      "bytes": 26224,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/script.md",
+      "sha256": "060eabce0124328453a37e3ea26801c15fc59afedb263aea4a85dcc8e6e6f3d4",
+      "bytes": 28388,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/source.json",
+      "sha256": "ca8dd4a5cd5a2af5a0420b94cc79b9877b6de58163ff66fd319801567117de2c",
+      "bytes": 48434,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W07/student.md",
+      "sha256": "50a1e2df39d9a38581c4096a6d07bb9755251db3ad7058959759b637b9620dc5",
+      "bytes": 7107,
+      "lesson_id": "L-W07",
+      "week": 7
+    },
+    {
+      "path": "L-W08/answers.md",
+      "sha256": "f876e01700be3122470a99dbcd707cba3eaacefccb287fe345a5e8456f191bbc",
+      "bytes": 34865,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/flow.svg",
+      "sha256": "a796ed35ddfe7bbb74ae3b2ebbb57036e9d9c8cd765b9f4a566ff35cd8987e23",
+      "bytes": 2203,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/intensive.md",
+      "sha256": "37bc965c250df7ac2953d9f66dd897f26f820a98d37c397b7f75946ac06fbf46",
+      "bytes": 2337,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/map.svg",
+      "sha256": "eb3e96392f6021b103654da16ad084f2f244c88fa1b88e752662066053d4dc72",
+      "bytes": 3347,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/questions.json",
+      "sha256": "86566b0997d6b8c6638a29cbfa62a0d0de37aa84b859873606ce23c1b3fce1d9",
+      "bytes": 26478,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/script-source.txt",
+      "sha256": "0337613dec6bf67fd9571bdc65e82783b9e0fd9dfd47919a02db5037b32aaf17",
+      "bytes": 26602,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/script.md",
+      "sha256": "b7d9bc0b707b7a15693d6b21f5f2ef3d291c6700b7d2fb083eb938da95a047d0",
+      "bytes": 28761,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/source.json",
+      "sha256": "fce07739d4ece6189b7c84cc3248e634e3187be039479ff75866a6ab1eaa3764",
+      "bytes": 49630,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W08/student.md",
+      "sha256": "1c8bd5650aa55f80815a6e971168d3d29e958e340b5bcf73f5eaaaa9347ae9f2",
+      "bytes": 7289,
+      "lesson_id": "L-W08",
+      "week": 8
+    },
+    {
+      "path": "L-W09/answers.md",
+      "sha256": "d4c6b376211103e9c858fc3e5b69ffb2bd554d78015579a930c63774df9cdb94",
+      "bytes": 35724,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/flow.svg",
+      "sha256": "a48ab1137ecf959ac8f5260af7dc02f3dee3854dc426bae2bda190f927c294e3",
+      "bytes": 2197,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/intensive.md",
+      "sha256": "1a2bc6fa7f6dca494ba2df2e69e024159c6175338aa82a30f6e1f1b00881eed3",
+      "bytes": 2421,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/map.svg",
+      "sha256": "49c86e44df14ca37a6e8a117e5cee6a47b24cb0c6d9ed5ab75cd674be9506e51",
+      "bytes": 3353,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/questions.json",
+      "sha256": "e9b7aeb7494124ae9abadc327d73eb983d92e11fcff88b70745d379b332fa4d7",
+      "bytes": 26744,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/script-source.txt",
+      "sha256": "659f7d6383f1a651771ae1541873f21c4643e9156a7a10addddb0a5566d76838",
+      "bytes": 27219,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/script.md",
+      "sha256": "13fa83562ab9f77b23dde1279906b08aaf6ad67c828fc8e12b15808a0b27ffb4",
+      "bytes": 29333,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/source.json",
+      "sha256": "d70e67d655d21242fd8ce17e7917763c4e8a01e6a88d9e2ea313fc52e46095e4",
+      "bytes": 49811,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W09/student.md",
+      "sha256": "c306bbd03ce01e520523979c51b62f3b38513e3f85a3a90583e8ed2153f8709d",
+      "bytes": 7273,
+      "lesson_id": "L-W09",
+      "week": 9
+    },
+    {
+      "path": "L-W10/answers.md",
+      "sha256": "0318e19334e7bf1be47ff13bacc50d6a3edc418c2b665e9c54689f7435719b9a",
+      "bytes": 35685,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/flow.svg",
+      "sha256": "d8f0e691d76b7feecc4ef3318c1b6b5a0f2b9dabd42be9143abcca80a5d6f08f",
+      "bytes": 2211,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/intensive.md",
+      "sha256": "678bd48875c842e36763e8233acfa24154460b0486764620feb7f0d2fa2d89d1",
+      "bytes": 2358,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/map.svg",
+      "sha256": "6c431a5340eb14a6a98b6b3f7a19a1437a3bedde80050a553e8483147fa21bb0",
+      "bytes": 3346,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/questions.json",
+      "sha256": "a148318b0c654eb513ba6e33b43ba3587bfc0a2bde9874b3db70a824bb8ea394",
+      "bytes": 26679,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/script-source.txt",
+      "sha256": "a339f02629ed68761a5fe3fd6b2d4360d05f188f22b821a6fe471f035b249708",
+      "bytes": 27208,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/script.md",
+      "sha256": "61782e4cc9096e0d533cbabc35d369fa977c14a8452ee938e83b3c9547a44a53",
+      "bytes": 29357,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/source.json",
+      "sha256": "6214e9960bd729370c317b1e6958e5219909b221b60333de5ab53883795fccb0",
+      "bytes": 50221,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W10/student.md",
+      "sha256": "23ac8ebbdf43515e7700c1a8c82f6934c43877f58e7888086cf038410dc25a1b",
+      "bytes": 7177,
+      "lesson_id": "L-W10",
+      "week": 10
+    },
+    {
+      "path": "L-W11/answers.md",
+      "sha256": "5107bcf40a6ee808f793f0cc7de8dc9f58768ff7358ee80b432431a29df86ef6",
+      "bytes": 36499,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/flow.svg",
+      "sha256": "e1cdf706c2da6963db819c548c5615371201fd8e3c83f73ccf407802b822e323",
+      "bytes": 2209,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/intensive.md",
+      "sha256": "d2a151237f53fa61919c4adbd494e37ec49b0e9f922d1213f3314b2a88cbd67b",
+      "bytes": 2367,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/map.svg",
+      "sha256": "84e3bf69b36ccb685e19c620f1d5fb1b481b385f09a7b9d84dcfbba8e4c46595",
+      "bytes": 3347,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/questions.json",
+      "sha256": "329e07ec44da162084a61f6273841d02ba1bfe40e82889b554637ba4f785cacf",
+      "bytes": 26701,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/script-source.txt",
+      "sha256": "0227089d3160f6fdca33515a30140a993132085e643c312c4c522e433d76dcc2",
+      "bytes": 27965,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/script.md",
+      "sha256": "1744f29d4b6d8feac68ff4e6a198e806e8c3c9002d46de889839b7f1c25bd96b",
+      "bytes": 30204,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/source.json",
+      "sha256": "e0966d6eb69da7d9224299fb01399669aac88c4578a0bdbc8832317be7966710",
+      "bytes": 51669,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W11/student.md",
+      "sha256": "a2797c5bb1556b85c01acc267250987716c72f33553eda0bde038afb5f1ba983",
+      "bytes": 7115,
+      "lesson_id": "L-W11",
+      "week": 11
+    },
+    {
+      "path": "L-W12/answers.md",
+      "sha256": "63a9a75e3b56056c0d44bb39aa52c19871138a6f448e6ee6f3b9e5c9feb9c811",
+      "bytes": 36256,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/flow.svg",
+      "sha256": "ff1f4cc52fcbc84423c046962fedc5340191a4a26bdbcb64e9293ce271008229",
+      "bytes": 2189,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/intensive.md",
+      "sha256": "2e3398d7fc4f6eb28389355d15d5271c0f5ac4da60e8fb0451375ad960bccd5c",
+      "bytes": 2365,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/map.svg",
+      "sha256": "f5d908f7a9d490f4d35d1046a6a2fe1fb0e5ac1fd0e57090001cd64f9b99711a",
+      "bytes": 3347,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/questions.json",
+      "sha256": "0f35795a1271d83199192bcc8fe955680bbb49160e510ebfbb4974fa91f4b455",
+      "bytes": 26745,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/script-source.txt",
+      "sha256": "b503efdc8a99a79e73015df5e4f3b33bccbe1d088491141db499d7f058e0828f",
+      "bytes": 27823,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/script.md",
+      "sha256": "0d0a711090d22c8f339e0a41c8a581179fdb05cbb4025ca27630ed3e91be86f6",
+      "bytes": 30027,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/source.json",
+      "sha256": "8d96806e27a3e8ba7df6af3c0861c182082c29147dc49fd6ca420098717b2235",
+      "bytes": 51413,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W12/student.md",
+      "sha256": "530c237f7766e8dc3c6270d09005aa8c3b4fd403b904abb2a885d09a9556ceea",
+      "bytes": 7345,
+      "lesson_id": "L-W12",
+      "week": 12
+    },
+    {
+      "path": "L-W13/answers.md",
+      "sha256": "555c7905bebec1fe3be222c634a379a558c599de2a58f7223b62908eed5e16ed",
+      "bytes": 35918,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/flow.svg",
+      "sha256": "4943b74ed5ae0745742f9df18b8e33b21078017acdd9920dfa4b24873dd41f5d",
+      "bytes": 2233,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/intensive.md",
+      "sha256": "c1d53f645af44ba6335593556202ea50fbdb80011004472506342ad0e7781521",
+      "bytes": 2366,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/map.svg",
+      "sha256": "f84439256f8b1f85a6e2f302240c7cc4da3e69d8388bc8d6d67dab952ebf6127",
+      "bytes": 3346,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/questions.json",
+      "sha256": "15fa3e32674ba6ff86ab8ec0c2d68a85bf34525e8f2d38bcec621aac2e5ef55b",
+      "bytes": 26797,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/script-source.txt",
+      "sha256": "91775ac9047cf1f0a29d3ceae9f5c801897e69f29fc9e1b1cb7feae0ba55d98f",
+      "bytes": 27468,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/script.md",
+      "sha256": "ec1bdf8440a25926942ef6c008eca4605b8409fe8302675fa35ad08b20dc7842",
+      "bytes": 29567,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/source.json",
+      "sha256": "19df4d4bd68dfbfcf2214a79786055c6a86cda95c8fca29d9a607a4aec38c0a8",
+      "bytes": 50441,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W13/student.md",
+      "sha256": "0950a53ea5155ef0a89477d385beb695f7efa5210f07583e57d3a63f4a766baa",
+      "bytes": 7096,
+      "lesson_id": "L-W13",
+      "week": 13
+    },
+    {
+      "path": "L-W14/answers.md",
+      "sha256": "d63f1125e85921b616e6c3825e4f5c9555c07d4edc93c31b2d0ea2d6791de118",
+      "bytes": 36178,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/flow.svg",
+      "sha256": "d805270eb927a070fedb97bded4fcba1b27d7d2cadf4992c0a72040aedc61d1d",
+      "bytes": 2251,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/intensive.md",
+      "sha256": "d4da15d5171b9117878f895b4c105a3a172c9806b5a013376aed364972493407",
+      "bytes": 2383,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/map.svg",
+      "sha256": "80b9129cdffeb83b95c860c881c47203d456e3102a87b522f7e6199cb052ab24",
+      "bytes": 3346,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/questions.json",
+      "sha256": "afc413e139412337a7c7920c0fe878e047771451d781c9233c2f4343b0b7ac09",
+      "bytes": 26942,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/script-source.txt",
+      "sha256": "033543baf7d73e94522ce9eda701a1e3506f0b96d55611900bd1e71652053175",
+      "bytes": 27742,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/script.md",
+      "sha256": "138e286782e2b4f8bc73bf670c4593ffe73b6497dc4b2e59d2e0bb5c3569b56d",
+      "bytes": 29896,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/source.json",
+      "sha256": "d96f081bd924c9016477eeea0d8ce6bfe55c30f1d0ae59f6ab96af5ec36cb443",
+      "bytes": 51153,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W14/student.md",
+      "sha256": "382bb9e0c6c2f6aa00a38db670d89ceef706e5a8e688d0d1343906cd55a46d85",
+      "bytes": 7223,
+      "lesson_id": "L-W14",
+      "week": 14
+    },
+    {
+      "path": "L-W15/answers.md",
+      "sha256": "11af7532ee6560280350fc9281d69f8e4a9becea47f16c18ac7ff1bc66f44c7d",
+      "bytes": 36674,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/flow.svg",
+      "sha256": "799bf213e602201a8675dd1bb960b9ba56dd89dc4f81178b8684e43aa96310b9",
+      "bytes": 2235,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/intensive.md",
+      "sha256": "153aa09f0c2af5f49f0688de5697cd775b592e780305517a48696278f0526741",
+      "bytes": 2363,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/map.svg",
+      "sha256": "076087b7980d3988c0f2d0ec6a9905c172d148761f781a4424e76fe6d5bbbe26",
+      "bytes": 3345,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/questions.json",
+      "sha256": "774f0561e634a788599bded5858d9e17ab145bd58c761ef1f932cfc0d05ac5c1",
+      "bytes": 27066,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/script-source.txt",
+      "sha256": "d9a39347d9a29e53e1f622f4d2d443ed4ccaa0b9ca8c0a6bcbc737db3c81978c",
+      "bytes": 28075,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/script.md",
+      "sha256": "7c0f0cf73c42677ca298f881f7ca26af6b5e283b76683fd6fd55ccfdbc55f03c",
+      "bytes": 30264,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/source.json",
+      "sha256": "85440ed5576fa81110312a4a6e4a178ef15911c4fab90123c455a1261f0e16bd",
+      "bytes": 51748,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W15/student.md",
+      "sha256": "0495471b0f621cf6bf89a7e6cb480374c4c523ea4e3f06bf355a736614e9658f",
+      "bytes": 7180,
+      "lesson_id": "L-W15",
+      "week": 15
+    },
+    {
+      "path": "L-W16/answers.md",
+      "sha256": "de132d52c1ae34f3de71316ec2b9ea8a51d9f98a86c5ffd5e3156213fcb2a039",
+      "bytes": 36726,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/flow.svg",
+      "sha256": "9c86d73e172312672d6bbfc987ab478c251a6a4b3cea5109f3fde57231e8f7bf",
+      "bytes": 2222,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/intensive.md",
+      "sha256": "7f8b1d6b48d3076a0061b7995a0769d5d2a74c944bfb61b4cfec4ad85989d867",
+      "bytes": 2423,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/map.svg",
+      "sha256": "5fe979e839decd917e20174c4c6948afa2a5d87fb3eb3ce29cea0005a3c7a1e3",
+      "bytes": 3350,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/questions.json",
+      "sha256": "ff7aa31dde2e50e120c5e1d32919283a6f0f5b3868aa05a74259d30e1cf0923a",
+      "bytes": 27117,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/script-source.txt",
+      "sha256": "905a4b1c77b4a7d0c333628e62d0aad3b423478d0d415aeb18c5157c06510be1",
+      "bytes": 28047,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/script.md",
+      "sha256": "165ad5cf393ee3180f926a332dbc098bd556115c0b14277b31a07ffd4d9eb950",
+      "bytes": 30211,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/source.json",
+      "sha256": "b733175db7bb1685798484523228520cb5a863002e7f13fbd57050c20e0630c6",
+      "bytes": 51752,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W16/student.md",
+      "sha256": "acf92531d01a5f456618eaaee61a7dcea2942574310041ead972c62930560d6a",
+      "bytes": 7176,
+      "lesson_id": "L-W16",
+      "week": 16
+    },
+    {
+      "path": "L-W17/answers.md",
+      "sha256": "11222c5377714314bb829d43e16916f1e3109018f48b646ce7972afc795f77aa",
+      "bytes": 35476,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/flow.svg",
+      "sha256": "1156412d11b64130fd5f6b59f90985eb63cd866dfaf446bd2b60f76c4c8770c9",
+      "bytes": 2202,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/intensive.md",
+      "sha256": "a95521e790050e61fcd6d05f6eeea6dd7d136726897fa74603c344bcbad6e035",
+      "bytes": 2676,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/map.svg",
+      "sha256": "6bfcbe6eb8fb2eab6b905accf5d7df539952b52321cde1670fe8f7756ec50cd5",
+      "bytes": 3347,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/questions.json",
+      "sha256": "dcf9d2468b4f661062fee29c67c788df162bef3a80bb16e5b6c11896e26df0b0",
+      "bytes": 26613,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/script-source.txt",
+      "sha256": "2854b4aafba9f333e319579e28e34c9fd07f01fee284145c99f79993613d56c5",
+      "bytes": 27108,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/script.md",
+      "sha256": "283863085287ad9fd6eefde8f1094b00154ec57a0f36d79eca0143431b376f45",
+      "bytes": 29272,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/source.json",
+      "sha256": "4483e0662c92d7439775e194e96f6b12d11df32df25e3119098abeb7cb1aa9a3",
+      "bytes": 50860,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W17/student.md",
+      "sha256": "5e6cb822041bba8617792bc6a768355c99406ebd17a4a22e582201e43639e2eb",
+      "bytes": 7433,
+      "lesson_id": "L-W17",
+      "week": 17
+    },
+    {
+      "path": "L-W18/answers.md",
+      "sha256": "a948d3161c452670b4d12f4d708004a107a21854ae7712be13ccd6f1b99c77c5",
+      "bytes": 35773,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/flow.svg",
+      "sha256": "6227b753d7da5e5cdc76900774e84e553ddb2ae5d054661e27f5fab6c731d8aa",
+      "bytes": 2200,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/intensive.md",
+      "sha256": "ae442f19a206234e256ae2e3c2d67008f7ab129e3f6d139fcfe2194eb5996aa9",
+      "bytes": 2361,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/map.svg",
+      "sha256": "496541dc770161d08ade9a0185498bd4a6a8462ead814f457296843be4a5aad4",
+      "bytes": 3347,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/questions.json",
+      "sha256": "3f020b3181e566e3c1b3ddb75db09b936cddf67b940dd7e2bf09705ee6ad6d9e",
+      "bytes": 26644,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/script-source.txt",
+      "sha256": "336aad69196b54b0ef83567e31b3ba101e5a5e8c788af81eb6e312803015852b",
+      "bytes": 27367,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/script.md",
+      "sha256": "3420650858e59c29f19f4739e99ba7ff089a2bf0196e53361f9aa9adf154190c",
+      "bytes": 29531,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/source.json",
+      "sha256": "b7c2c47593643c98b2796dd8316f9564b26da24937c7c2daf75db66d8caaf1f3",
+      "bytes": 50968,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W18/student.md",
+      "sha256": "0af26a2e8a2accacb9a6f71f25d3228805cd125e26ffddd2a1ab9fd941c77cce",
+      "bytes": 6926,
+      "lesson_id": "L-W18",
+      "week": 18
+    },
+    {
+      "path": "L-W19/answers.md",
+      "sha256": "4db2c39ce577ed8ba9dc853b8716bd07bd3f385ec6dde487f56cd34dad4818d7",
+      "bytes": 35803,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/flow.svg",
+      "sha256": "8e4cf7252ff00a94c628ab3a5c1049be3c7b5f6dd336a7aec92c8fbdc7a7955c",
+      "bytes": 2249,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/intensive.md",
+      "sha256": "e68e85f00f081c419eabc8203b3b465c10393275f7280d5d88c7e05fcd552edc",
+      "bytes": 2338,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/map.svg",
+      "sha256": "ac186c4c24570b9af7eb88bb58326a89361d6ebfab1ca3551873f8d773c5c4e3",
+      "bytes": 3347,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/questions.json",
+      "sha256": "8504ec482d2d8706c49084a7b81dcf52a705f4a539f798008cb5f74f097151cf",
+      "bytes": 26597,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/script-source.txt",
+      "sha256": "7fd84e091778b361adfb28a7e02dd63ae7d4be88bbe15854413019347acbf0dd",
+      "bytes": 27452,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/script.md",
+      "sha256": "398e26f97dcb6d1f482c6bd210ed1ba08d5d0ff5cb44460d5424f2c517e0da1c",
+      "bytes": 29616,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/source.json",
+      "sha256": "6ae9ec239fefc7e61a9d4c3a58f41c3c572556d36d4d0851e60ef9b1e3347116",
+      "bytes": 51053,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W19/student.md",
+      "sha256": "654c872f0cb8c26989f89478f3d271464c91c8633c1cf21c5b12fe5b4770c034",
+      "bytes": 6961,
+      "lesson_id": "L-W19",
+      "week": 19
+    },
+    {
+      "path": "L-W20/answers.md",
+      "sha256": "54c81762a25472b4c8304ab1b844311f68fe15d3da0e994a841f969f051e6a84",
+      "bytes": 36028,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/flow.svg",
+      "sha256": "dfdcc9900edd1603ba97d74328c757ffad137c3c704fb2b3b168fa7ea6c61ae3",
+      "bytes": 2237,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/intensive.md",
+      "sha256": "936ccf7b44fae1247dd282ccd6c8bda29878938ae0b7a270cf03460f8cdcb142",
+      "bytes": 2691,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/map.svg",
+      "sha256": "ebe5278e43c9c2ebb10c04bd69c7afb6f1ba667a19a11c5cbab9ffa45436bd51",
+      "bytes": 3346,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/questions.json",
+      "sha256": "7d6d2a497534ff5ca0dea1df7d33393772118c347de9ef948fabde956aada754",
+      "bytes": 26817,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/script-source.txt",
+      "sha256": "8db6e40398ce61fa463760649e4a7e0c2d44a6c71ba06572f14f25407f228762",
+      "bytes": 27535,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/script.md",
+      "sha256": "362b615d0bf3e9fd2e3b09d8913592517603c431c6b271749be90eb6b151982d",
+      "bytes": 29709,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/source.json",
+      "sha256": "546f7ed54afb3c0c2216e9ff2266e9b0618855ce4cf601c4f792d331490c99d4",
+      "bytes": 51428,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W20/student.md",
+      "sha256": "07322f77d1539d555feb664f1c789d78330b7c715772f4c4c224c1b1ed4c4f6e",
+      "bytes": 7064,
+      "lesson_id": "L-W20",
+      "week": 20
+    },
+    {
+      "path": "L-W21/answers.md",
+      "sha256": "d80678b56821fbd23b2b6f63a6464aeba279188e5cfee497368059e4d41b064e",
+      "bytes": 35793,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/flow.svg",
+      "sha256": "06ed36af77ef1ba982d830c3a0aab1286dfc72edc336d478e14b7c57d424106c",
+      "bytes": 2218,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/intensive.md",
+      "sha256": "09155ba74a512114abc043332570be6e64c2606ebcbd78c8f75fd110d7cf1b9e",
+      "bytes": 2588,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/map.svg",
+      "sha256": "3f809df8ec08b8d4c63f7a9b55b139f690eab21f64809ef51592152041925b72",
+      "bytes": 3346,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/questions.json",
+      "sha256": "5080f442206bfadbb2f5978ff1896e2531c209f39445ee532aa13f8353dcfe49",
+      "bytes": 26404,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/script-source.txt",
+      "sha256": "c468a13aaf167f2746e7afed1807aff2de0285a55a9969fbd8fbbad5fa47200b",
+      "bytes": 27509,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/script.md",
+      "sha256": "0b64150a0883eb05f571bccd6691ea4917ab9da70ca4ae9de558b52d25753ed4",
+      "bytes": 29693,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/source.json",
+      "sha256": "220eeccf7e7a8602f84d6a32ca323081abbc8a07642fe4a470486b9d0c13b5fc",
+      "bytes": 51671,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W21/student.md",
+      "sha256": "a1f873c151e4805746abce4b168f4d132d2481e34919b7b1e5bf637990564ebe",
+      "bytes": 7254,
+      "lesson_id": "L-W21",
+      "week": 21
+    },
+    {
+      "path": "L-W22/answers.md",
+      "sha256": "d6df52f34b6fde49ca8fbaa19cebb2acca04d9ca6445dee5407fad790c0af63f",
+      "bytes": 36720,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/flow.svg",
+      "sha256": "dd92f220f43a07a920fae115b4f158c2cc801e96c97e8be018628119c5c1cd00",
+      "bytes": 2209,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/intensive.md",
+      "sha256": "29ec2b77ba98e6e9a7ee4943bc7c84064d191fd91396a7ea22e0b081fc359e7e",
+      "bytes": 2678,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/map.svg",
+      "sha256": "abf27048f58ace45cc6024023810917abdf9031dff88354fdd7d12c819ddb8d3",
+      "bytes": 3345,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/questions.json",
+      "sha256": "53058e3cb26e86410b7ac964491a6f7b23bebef681407911c7964fba22374de9",
+      "bytes": 26513,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/script-source.txt",
+      "sha256": "52bfe0e95e2835b9a1e9a8245b50197c469572edfb5a786fb72a8387aa07e2bf",
+      "bytes": 28322,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/script.md",
+      "sha256": "2ea194ef568309f5a715ba8dc904cc61aa833da2a3db08011979b42d2c626340",
+      "bytes": 30496,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/source.json",
+      "sha256": "306334ce332aecaf03d3db40a2aae05e19351192fd3e99bf9472f00edc5c4634",
+      "bytes": 52382,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W22/student.md",
+      "sha256": "cd49cf6d24a6e7846054ad4717c0c9659e57cbd38aa6fc8eb11810aa24f43cd3",
+      "bytes": 6841,
+      "lesson_id": "L-W22",
+      "week": 22
+    },
+    {
+      "path": "L-W23/answers.md",
+      "sha256": "8d6034e376c1a78ca1e25b3df92aa98f3542c627ce1f53fd2f74f2fda3d09f4c",
+      "bytes": 36709,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/flow.svg",
+      "sha256": "a570a4fdcb661d2d60d8ec9571ec8a7f2a5a0b66d509ee22c7089cca7b45a67f",
+      "bytes": 2208,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/intensive.md",
+      "sha256": "7b916b022405cf1193d99ed17707c286ec55194585be16d3056eb0481e1515d8",
+      "bytes": 2592,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/map.svg",
+      "sha256": "8c7642016708e55508fc5eeb2045e4d6cd461c6d76eca223ce2d99a38ce6ac5e",
+      "bytes": 3346,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/questions.json",
+      "sha256": "24a43ae171b4a3f34cb6ab9fcdab53f8d7f2951ab7a18b312a67490561053cbf",
+      "bytes": 26933,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/script-source.txt",
+      "sha256": "2e7387f060809c29e4903e40eff7c76ac7522af6a6a72846d649c183fbcc7f56",
+      "bytes": 28160,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/script.md",
+      "sha256": "25ae32daadfa84ff14b5ad39538dcae703172f634a60d5570f74291f68983d93",
+      "bytes": 30344,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/source.json",
+      "sha256": "1e2c8ec758c6041fa012dbcf3c983b19982d01be6169cf1f3c2eb897a6c75a40",
+      "bytes": 52233,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W23/student.md",
+      "sha256": "ad326d550d2d5a19a4e08586bcfd2e6682230e839edb165260f9bb9df21af2aa",
+      "bytes": 7333,
+      "lesson_id": "L-W23",
+      "week": 23
+    },
+    {
+      "path": "L-W24/answers.md",
+      "sha256": "853e3271b14a12133b9180407bd5857a57694b4a7e97bcea9ce44cf5c0037f54",
+      "bytes": 36508,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/flow.svg",
+      "sha256": "2c1634ff28ef918f95d1948ad31c214e4d6e54aa2672ebd69198e1929e611ff2",
+      "bytes": 2230,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/intensive.md",
+      "sha256": "224bba768f3eb991e2be0b6d79d420ab4f84452004d9ca647bd08cf0e566b434",
+      "bytes": 2699,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/map.svg",
+      "sha256": "8884a14ba63efaa4cdc98d35b15c304a4dccaeb239ab44c001dd0b18fde13e28",
+      "bytes": 3350,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/questions.json",
+      "sha256": "a56bdc81a69b694ff81c5dd8cfc31cd64437d433485b07d4ed86fed58d0e4159",
+      "bytes": 26785,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/script-source.txt",
+      "sha256": "777d5af8f7cff3737e2f56bce789fe6931a067fa58e38ce432059dbb9db85268",
+      "bytes": 28075,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/script.md",
+      "sha256": "2d0c7c3fafc8388560bdd09591d3c6f23c6ef4e4bd7ce198a53f901154af1cba",
+      "bytes": 30229,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/source.json",
+      "sha256": "7b9b352c40fb088ef8ae1967a8b0e9d7ead16cc268297c119bfe7b19d90f1925",
+      "bytes": 52079,
+      "lesson_id": "L-W24",
+      "week": 24
+    },
+    {
+      "path": "L-W24/student.md",
+      "sha256": "7171f1430d9a32165ba5b017f5e59bb36cb74087d0bb6050cfd565ad5ae1b1ae",
+      "bytes": 7603,
+      "lesson_id": "L-W24",
+      "week": 24
+    }
+  ],
+  "acceptance_receipts": [
+    {
+      "batch": "W01-W04",
+      "path": "acceptance/W01-W04.json",
+      "sha256": "07e07cad6692d47896f0655cff843dced1f9fabe64ab952e42fb99706a6d0006"
+    },
+    {
+      "batch": "W05-W08",
+      "path": "acceptance/W05-W08.json",
+      "sha256": "9817a135300f466c1b3c20a937dd266cc678f57de83192fe481fe3e713157e60"
+    },
+    {
+      "batch": "W09-W12",
+      "path": "acceptance/W09-W12.json",
+      "sha256": "17cdeff8d021a7702c827d54a9ce8933dfd615122846e3e6150b44249844263e"
+    },
+    {
+      "batch": "W13-W16",
+      "path": "acceptance/W13-W16.json",
+      "sha256": "e868f21206c58e1a414023c26ea316a47f8c67594a6692d4463562e1a4a7b2ae"
+    },
+    {
+      "batch": "W17-W20",
+      "path": "acceptance/W17-W20.json",
+      "sha256": "82aac20b0e3c5e546a33782d62780c818b82ba503501d864f6370d7111f6d0c0"
+    },
+    {
+      "batch": "W21-W24",
+      "path": "acceptance/W21-W24.json",
+      "sha256": "36748fec896c824dfcfae00733294e38658433cde549bcbb400d91561167d30a"
+    }
+  ],
+  "independent_integration_qa": "revision_pending_recheck"
+}

@@ -1,0 +1,977 @@
+{
+  "lesson_id": "L-W14",
+  "audio_status": "missing",
+  "total_score": 40,
+  "question_count": 40,
+  "question_objects": 38,
+  "spelling_policy": "Only explicit per-item forms are accepted. For W14 Q40, follow-up, followup and follow up are accepted spellings of the same noun; follow up uses two words. No general hyphen deletion, stemming or fuzzy synonym rule.",
+  "normalisation": "Trim outer whitespace; collapse internal whitespace; Unicode casefold. No fuzzy spelling, automatic article deletion, plural stemming or unit deletion. Clock/numeric variants are explicit. Choice letters are case-insensitive. Two-choice items are unordered sets scored by distinct intersection.",
+  "questions": [
+    {
+      "id": "Q01",
+      "numbers": [
+        1
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Workshop selected: ____",
+      "evidence_blocks": [
+        "Q01"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "leaflet design",
+      "accepted_answers": [
+        "leaflet design"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q02",
+      "numbers": [
+        2
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Confirmed day of June: ____",
+      "evidence_blocks": [
+        "Q02"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "24",
+      "accepted_answers": [
+        "24",
+        "24th",
+        "twenty-fourth",
+        "the twenty-fourth",
+        "twenty fourth",
+        "the 24th"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q03",
+      "numbers": [
+        3
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Teaching start (p.m.): ____",
+      "evidence_blocks": [
+        "Q03"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "2.10",
+      "accepted_answers": [
+        "2.10",
+        "2:10",
+        "02.10",
+        "02:10",
+        "14.10",
+        "14:10",
+        "two ten"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q04",
+      "numbers": [
+        4
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Number of places: ____",
+      "evidence_blocks": [
+        "Q04"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "4",
+      "accepted_answers": [
+        "4",
+        "four"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q05",
+      "numbers": [
+        5
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Total group fee: £____",
+      "evidence_blocks": [
+        "Q05"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "48",
+      "accepted_answers": [
+        "48",
+        "48.00",
+        "forty-eight",
+        "forty eight"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q06",
+      "numbers": [
+        6
+      ],
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Essential document to bring: ____",
+      "evidence_blocks": [
+        "Q06"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "brief",
+      "accepted_answers": [
+        "brief",
+        "the brief",
+        "a brief"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Use the final confirmed detail in this exchange; the printed unit or date context is already supplied."
+    },
+    {
+      "id": "Q07",
+      "numbers": [
+        7
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "What should participants expect from the workshop?",
+      "evidence_blocks": [
+        "Q07"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "A commissioned complete rewrite",
+        "B": "Support in making and explaining their own revisions",
+        "C": "A guaranteed finished publication"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "The workshop teaches a method and discusses examples; it is not a commissioned design service."
+    },
+    {
+      "id": "Q08",
+      "numbers": [
+        8
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "Which photographs should the group bring?",
+      "evidence_blocks": [
+        "Q08"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Material it may use for the intended purpose, with conditions clear",
+        "B": "Any private image that makes the page attractive",
+        "C": "Images assumed cleared for every later use by workshop attendance"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Workshop use does not itself establish public publication rights."
+    },
+    {
+      "id": "Q09",
+      "numbers": [
+        9
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "How should a digital-format requirement be discussed?",
+      "evidence_blocks": [
+        "Q09"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Assume a larger printed sheet is the only option",
+        "B": "Assume every alternative is guaranteed",
+        "C": "Describe the practical format need in advance"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "The team checks available formats and limits against the actual requirement."
+    },
+    {
+      "id": "Q10",
+      "numbers": [
+        10
+      ],
+      "part": 1,
+      "type": "single_choice",
+      "prompt": "Which joining instructions should the group use?",
+      "evidence_blocks": [
+        "Q10"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "A combination of convenient details from old versions",
+        "B": "The current numbered confirmation and direct revision",
+        "C": "The first public notice regardless of later updates"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "One current version prevents conflicting room and entrance information."
+    },
+    {
+      "id": "Q11",
+      "numbers": [
+        11
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Reception",
+      "evidence_blocks": [
+        "Q11"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "G",
+      "accepted_answers": [
+        "G"
+      ],
+      "explanation": "Use the explicitly stated position relative to the court, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q12",
+      "numbers": [
+        12
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Briefing room",
+      "evidence_blocks": [
+        "Q12"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "explanation": "Use the explicitly stated position relative to the court, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q13",
+      "numbers": [
+        13
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Sample display",
+      "evidence_blocks": [
+        "Q13"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Use the explicitly stated position relative to the court, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q14",
+      "numbers": [
+        14
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Reader-testing room",
+      "evidence_blocks": [
+        "Q14"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Use the explicitly stated position relative to the court, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q15",
+      "numbers": [
+        15
+      ],
+      "part": 2,
+      "type": "map_label",
+      "prompt": "Resource collection point",
+      "evidence_blocks": [
+        "Q15"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "map.svg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": "E",
+      "accepted_answers": [
+        "E"
+      ],
+      "explanation": "Use the explicitly stated position relative to the court, not an earlier layout or adjacent area."
+    },
+    {
+      "id": "Q16",
+      "numbers": [
+        16
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "What should participants distinguish in a brief?",
+      "evidence_blocks": [
+        "Q16"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Compulsory requirements from possible suggestions",
+        "B": "Every example as a compulsory instruction",
+        "C": "Requirements as optional design preferences"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Requirements and suggestions have different roles; genuine ambiguity calls for clarification."
+    },
+    {
+      "id": "Q17",
+      "numbers": [
+        17
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "What should determine the allocation of page space?",
+      "evidence_blocks": [
+        "Q17"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "The amount of interesting history available",
+        "B": "The intended reader and action",
+        "C": "A rule that every section must have equal length"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "Relevance depends on purpose and reader, not merely on interesting or accurate facts."
+    },
+    {
+      "id": "Q18",
+      "numbers": [
+        18
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "If a figure lacks a reliable source, the team should",
+      "evidence_blocks": [
+        "Q18"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "invent a plausible number",
+        "B": "hide the gap to complete the page",
+        "C": "mark the gap and qualify, remove or investigate the claim"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Uncertainty should remain visible; hypothetical examples must not become apparent facts."
+    },
+    {
+      "id": "Q19",
+      "numbers": [
+        19
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "What should happen after a reader opens the wrong section?",
+      "evidence_blocks": [
+        "Q19"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Assume the heading caused it",
+        "B": "Record the action and ask a neutral follow-up",
+        "C": "Tell the reader what criticism the team wants"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "The observation and its possible explanation must be distinguished."
+    },
+    {
+      "id": "Q20",
+      "numbers": [
+        20
+      ],
+      "part": 2,
+      "type": "single_choice",
+      "prompt": "What belongs in the final review?",
+      "evidence_blocks": [
+        "Q20"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "A comparison with the brief and a record of remaining limitations",
+        "B": "A declaration that improved appearance means completion",
+        "C": "Only spelling changes, regardless of missing outputs"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "A clearer draft may still omit required information; the next check should address an identified uncertainty."
+    },
+    {
+      "id": "Q21",
+      "numbers": [
+        21
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Including every fact in the background pack?",
+      "evidence_blocks": [
+        "Q21"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Saira only",
+        "B": "Tom only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Final stance: Saira only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q22",
+      "numbers": [
+        22
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Stating the intended audience explicitly?",
+      "evidence_blocks": [
+        "Q22"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Saira only",
+        "B": "Tom only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q23",
+      "numbers": [
+        23
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Using an invented attendance figure as an established fact?",
+      "evidence_blocks": [
+        "Q23"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Saira only",
+        "B": "Tom only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "explanation": "Final stance: Neither student. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q24",
+      "numbers": [
+        24
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Requesting clarification of the length criterion before revision?",
+      "evidence_blocks": [
+        "Q24"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Saira only",
+        "B": "Tom only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "explanation": "Final stance: Tom only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q25",
+      "numbers": [
+        25
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Adding a short opening summary?",
+      "evidence_blocks": [
+        "Q25"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Saira only",
+        "B": "Tom only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "explanation": "Final stance: Saira only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q26",
+      "numbers": [
+        26
+      ],
+      "part": 3,
+      "type": "speaker_opinion_matching",
+      "prompt": "At the END of this exchange, who supports: Keeping a nearby uncertainty label with shortened wording if appropriate?",
+      "evidence_blocks": [
+        "Q26"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Saira only",
+        "B": "Tom only",
+        "C": "Both students",
+        "D": "Neither student"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "explanation": "Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option."
+    },
+    {
+      "id": "Q27-28",
+      "numbers": [
+        27,
+        28
+      ],
+      "part": 3,
+      "type": "multiple_choice_two",
+      "prompt": "Which TWO revision checks are agreed?",
+      "evidence_blocks": [
+        "Q27",
+        "Q28"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Use all supplied background notes",
+        "B": "Add an unrequested decorative chart",
+        "C": "Separate requirements from suggestions",
+        "D": "Link each section to a stated criterion",
+        "E": "Predict a formal score for each section"
+      },
+      "answer": [
+        "C",
+        "D"
+      ],
+      "accepted_answers": [
+        "C",
+        "D"
+      ],
+      "accepted_answer_sets": [
+        [
+          "C",
+          "D"
+        ],
+        [
+          "D",
+          "C"
+        ]
+      ],
+      "scoring": {
+        "max_points": 2,
+        "input_limit": 2,
+        "order_matters": false,
+        "rule": "One point per distinct correct choice. Duplicate choices never earn a second point. More than two submitted choices is an invalid response requiring correction, not automatic full credit."
+      },
+      "explanation": "The shared checks address brief interpretation and output coverage; the other options are not agreed actions."
+    },
+    {
+      "id": "Q29-30",
+      "numbers": [
+        29,
+        30
+      ],
+      "part": 3,
+      "type": "multiple_choice_two",
+      "prompt": "Which TWO limitations affect the reader sessions?",
+      "evidence_blocks": [
+        "Q29",
+        "Q30"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "options": {
+        "A": "Volunteers were not from the intended audience",
+        "B": "Black-and-white printing necessarily made the task invalid",
+        "C": "The testing room was unavailable",
+        "D": "Both sessions were cancelled",
+        "E": "The client changed the brief between sessions"
+      },
+      "answer": [
+        "A",
+        "E"
+      ],
+      "accepted_answers": [
+        "A",
+        "E"
+      ],
+      "accepted_answer_sets": [
+        [
+          "A",
+          "E"
+        ],
+        [
+          "E",
+          "A"
+        ]
+      ],
+      "scoring": {
+        "max_points": 2,
+        "input_limit": 2,
+        "order_matters": false,
+        "rule": "One point per distinct correct choice. Duplicate choices never earn a second point. More than two submitted choices is an invalid response requiring correction, not automatic full credit."
+      },
+      "explanation": "Audience mismatch and a changed requirement restrict causal claims about wording revisions."
+    },
+    {
+      "id": "Q31",
+      "numbers": [
+        31
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Define the response's ____ for its intended reader.",
+      "evidence_blocks": [
+        "Q31"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "purpose",
+      "accepted_answers": [
+        "purpose"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q32",
+      "numbers": [
+        32
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Identify compulsory ____ in the brief.",
+      "evidence_blocks": [
+        "Q32"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "requirements",
+      "accepted_answers": [
+        "requirements",
+        "elements"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q33",
+      "numbers": [
+        33
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Check the ____ supporting each claim.",
+      "evidence_blocks": [
+        "Q33"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "evidence",
+      "accepted_answers": [
+        "evidence",
+        "information",
+        "support"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q34",
+      "numbers": [
+        34
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Produce a ____ organised around the reader's task.",
+      "evidence_blocks": [
+        "Q34"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "draft",
+      "accepted_answers": [
+        "draft",
+        "working version",
+        "version"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q35",
+      "numbers": [
+        35
+      ],
+      "part": 4,
+      "type": "flow_completion",
+      "prompt": "Carry out a final ____ against the brief.",
+      "evidence_blocks": [
+        "Q35"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "diagram": "flow.svg",
+      "answer": "validation",
+      "accepted_answers": [
+        "validation",
+        "check",
+        "validation check"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "Complete the named stage in the stated process order; retain any word already printed around the blank."
+    },
+    {
+      "id": "Q36",
+      "numbers": [
+        36
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Information's connection to the task is its ____.",
+      "evidence_blocks": [
+        "Q36"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "relevance",
+      "accepted_answers": [
+        "relevance"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q37",
+      "numbers": [
+        37
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "The relative attention given to points concerns ____.",
+      "evidence_blocks": [
+        "Q37"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "proportionality",
+      "accepted_answers": [
+        "proportionality"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q38",
+      "numbers": [
+        38
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Record key ____ that affect the response.",
+      "evidence_blocks": [
+        "Q38"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "assumptions",
+      "accepted_answers": [
+        "assumptions"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q39",
+      "numbers": [
+        39
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "State the ____ on what the evidence can establish.",
+      "evidence_blocks": [
+        "Q39"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "limitations",
+      "accepted_answers": [
+        "limitations",
+        "boundary"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    },
+    {
+      "id": "Q40",
+      "numbers": [
+        40
+      ],
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Plan a ____ to check whether the revision worked.",
+      "evidence_blocks": [
+        "Q40"
+      ],
+      "audio_start_seconds": null,
+      "audio_end_seconds": null,
+      "answer": "follow-up",
+      "accepted_answers": [
+        "follow-up",
+        "followup",
+        "follow up",
+        "later check",
+        "check"
+      ],
+      "word_limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "explanation": "The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar."
+    }
+  ]
+}

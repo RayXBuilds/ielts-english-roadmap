@@ -1,0 +1,978 @@
+[
+  {
+    "number": 1,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "The customer wants a ____ bicycle.",
+    "answer": "hybrid",
+    "evidence": [
+      {
+        "role": "Customer",
+        "text": "Hello, I'm staying in town for a week and would like to hire a bicycle. I usually ride on roads, but I'd also like to try the riverside path. Would a mountain bike be necessary?"
+      },
+      {
+        "role": "Adviser",
+        "text": "Not for that route. A hybrid would be more comfortable for the mixture you describe. It has slightly wider tyres than a road bike, but it isn't designed for rough mountain trails."
+      },
+      {
+        "role": "Customer",
+        "text": "That sounds suitable. I'm interested in exploring, not racing, so comfort matters most."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "hybrid"
+    ],
+    "evidence_locator": "script.md#q1-证据段"
+  },
+  {
+    "number": 2,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "Hire will last ____ days.",
+    "answer": "3",
+    "evidence": [
+      {
+        "role": "Adviser",
+        "text": "How many days would you like it for? We offer a weekly rate, although you don't have to keep it for the whole visit."
+      },
+      {
+        "role": "Customer",
+        "text": "I originally thought of four days, but the forecast for the last day looks poor. Let's make it three days. I can always walk around the galleries if it rains later."
+      },
+      {
+        "role": "Adviser",
+        "text": "That's fine. We'll count the hire from tomorrow morning, so you don't lose a day just because you're making the booking this afternoon."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "3",
+      "three"
+    ],
+    "evidence_locator": "script.md#q2-证据段"
+  },
+  {
+    "number": 3,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "Daily hire costs £____.",
+    "answer": "18",
+    "evidence": [
+      {
+        "role": "Customer",
+        "text": "What is the daily price for that type of bike? I saw a sign saying fifteen pounds, but perhaps that applies to a different model."
+      },
+      {
+        "role": "Adviser",
+        "text": "It does. The basic city bike is fifteen pounds, while the hybrid is eighteen pounds per day. A lock and helmet are included. We don't charge extra for those because we want everybody to use them."
+      },
+      {
+        "role": "Customer",
+        "text": "Eighteen is within my budget. Please include the helmet; I didn't bring mine because I hadn't planned on cycling."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "18",
+      "eighteen"
+    ],
+    "evidence_locator": "script.md#q3-证据段"
+  },
+  {
+    "number": 4,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "Refundable deposit: £____.",
+    "answer": "50",
+    "evidence": [
+      {
+        "role": "Customer",
+        "text": "Will you need a deposit as well as the hire charge? I want to make sure there's enough money available on my card before I arrive."
+      },
+      {
+        "role": "Adviser",
+        "text": "Yes, the refundable deposit is fifty pounds. We return it after checking that the bicycle and equipment have come back in the same condition. Ordinary marks from normal use aren't a problem."
+      },
+      {
+        "role": "Customer",
+        "text": "That's clear. I assume you'll show me any existing scratches before I leave, so neither of us has to remember them afterwards."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "50",
+      "fifty"
+    ],
+    "evidence_locator": "script.md#q4-证据段"
+  },
+  {
+    "number": 5,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "Customers must show photo ____.",
+    "answer": "identification",
+    "evidence": [
+      {
+        "role": "Adviser",
+        "text": "Exactly. We complete a condition record together and give you a copy. You'll also need to show photo identification when collecting the bicycle. A passport or driving licence is fine. We only need to check it; we don't keep the original while you're riding."
+      },
+      {
+        "role": "Customer",
+        "text": "Good, because I'll need my passport at the hotel. I'll bring it with me and keep it safely in my bag afterwards. Is there anything else I should prepare before coming to the shop?"
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "identification"
+    ],
+    "evidence_locator": "script.md#q5-证据段"
+  },
+  {
+    "number": 6,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "Collection is from the ____ entrance.",
+    "answer": "side",
+    "evidence": [
+      {
+        "role": "Adviser",
+        "text": "There's nothing else you need to complete in advance. When you arrive, use the side entrance, where the hire desk is located. The front door opens into the repair workshop, and staff there may be working on customers' bikes."
+      },
+      {
+        "role": "Customer",
+        "text": "Is the side entrance easy to find from the main road?"
+      },
+      {
+        "role": "Adviser",
+        "text": "Yes. Follow the short path beside the building. There's a sign above the door and a covered area where you can adjust the saddle before setting off."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "side"
+    ],
+    "evidence_locator": "script.md#q6-证据段"
+  },
+  {
+    "number": 7,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "The recommended first route goes to the ____.",
+    "answer": "reservoir",
+    "evidence": [
+      {
+        "role": "Customer",
+        "text": "Could you suggest a route for the first morning? I'd like somewhere quiet while I get used to the bicycle."
+      },
+      {
+        "role": "Adviser",
+        "text": "The route to the reservoir is a good choice. It begins on a marked cycle lane and then follows a broad path away from traffic. The beach route is attractive too, but it includes a steep climb."
+      },
+      {
+        "role": "Customer",
+        "text": "I'll save that for another visit. A steady ride with somewhere to stop and look around sounds ideal for the first day."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "reservoir"
+    ],
+    "evidence_locator": "script.md#q7-证据段"
+  },
+  {
+    "number": 8,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "The bridge is currently closed on ____.",
+    "answer": "Wednesdays",
+    "evidence": [
+      {
+        "role": "Customer",
+        "text": "Are there any closures on the reservoir route? An online review mentioned a bridge being shut, though the review didn't give a clear date."
+      },
+      {
+        "role": "Adviser",
+        "text": "The bridge is currently closed on Wednesdays for maintenance. On other days it's open as usual. If you're riding on Wednesday, follow the signed diversion through the park."
+      },
+      {
+        "role": "Customer",
+        "text": "I'll probably go on Thursday, but I'll take the map in case my plans change. Online information can be confusing when temporary arrangements are described without a date."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "Wednesdays",
+      "Wednesday"
+    ],
+    "evidence_locator": "script.md#q8-证据段"
+  },
+  {
+    "number": 9,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "For a mechanical problem, phone the ____.",
+    "answer": "shop",
+    "evidence": [
+      {
+        "role": "Customer",
+        "text": "What should I do if the bicycle develops a problem some distance from town? I'm comfortable pumping up a tyre, but I wouldn't know how to fix the gears."
+      },
+      {
+        "role": "Adviser",
+        "text": "Phone the shop first. The number is printed on the hire agreement and attached to the bicycle. Explain where you are and what has happened. Please don't arrange a repair elsewhere without speaking to us."
+      },
+      {
+        "role": "Customer",
+        "text": "Understood. I'll save the number in my phone, so I don't have to search through my bag beside the road."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "shop"
+    ],
+    "evidence_locator": "script.md#q9-证据段"
+  },
+  {
+    "number": 10,
+    "part": 1,
+    "type": "note_completion",
+    "prompt": "Return the bicycle by ____ p.m.",
+    "answer": "5",
+    "evidence": [
+      {
+        "role": "Customer",
+        "text": "And what time must I return it on the last day? We have dinner booked in the town centre, so I could drop it off before that."
+      },
+      {
+        "role": "Adviser",
+        "text": "Bring it back by five in the afternoon. The workshop stays open later, but the hire desk closes at five, and somebody needs to check the equipment with you."
+      },
+      {
+        "role": "Customer",
+        "text": "I'll aim for half past four to leave a little margin. Thanks for your help. I'll come to the side entrance tomorrow morning with my identification."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "5",
+      "five",
+      "5.00",
+      "5:00"
+    ],
+    "evidence_locator": "script.md#q10-证据段"
+  },
+  {
+    "number": 11,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "The museum was originally a ____.",
+    "answer": "warehouse",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Welcome to the harbour museum. Before you explore, I'll explain a few features of the building and the activities available today. This building was originally a warehouse, used for goods arriving by boat. It wasn't a passenger station, although people sometimes assume that because of the large entrance hall. The wide doors and heavy floor were designed for moving and storing cargo. During the conversion, the architects retained these features so that the building itself could help tell the story of the harbour."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "warehouse"
+    ],
+    "evidence_locator": "script.md#q11-证据段"
+  },
+  {
+    "number": 12,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "The oldest exhibits are on the ____ floor.",
+    "answer": "ground",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "The oldest exhibits are on the ground floor. They show how small boats connected settlements before the harbour became a major trading place. You can follow the displays in date order, but you don't have to. Each section has a short introduction that makes sense on its own. If you're visiting with somebody who prefers a different pace, agree where to meet rather than feeling you must read every label together. The seating area near the entrance is a convenient meeting point."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "ground"
+    ],
+    "evidence_locator": "script.md#q12-证据段"
+  },
+  {
+    "number": 13,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "Visitors may handle objects on the ____ table.",
+    "answer": "discovery",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Most objects are behind glass, but those on the discovery table may be handled. A volunteer will explain how to lift and examine them safely. These particular objects were selected because touching them helps visitors understand their weight or texture without damaging a fragile surface. Please don't assume the same permission applies elsewhere. A small wooden object in another room may look robust but have cracks that aren't visible. If you're uncertain, ask a member of staff before reaching for anything."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "discovery"
+    ],
+    "evidence_locator": "script.md#q13-证据段"
+  },
+  {
+    "number": 14,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "The guided tour begins at ____ a.m.",
+    "answer": "11.30",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Our guided tour begins at eleven thirty this morning. You don't need to book, but please gather near the large clock a few minutes beforehand. The tour lasts about half an hour and concentrates on a few objects rather than covering every room. This means you'll still have time to explore independently afterwards. If you miss the beginning, you're welcome to join quietly. However, the guide may not be able to repeat the introduction while moving the rest of the group through a narrow gallery."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "11.30",
+      "11:30",
+      "eleven thirty"
+    ],
+    "evidence_locator": "script.md#q14-证据段"
+  },
+  {
+    "number": 15,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "The temporary exhibition concerns harbour ____.",
+    "answer": "workers",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "The temporary exhibition upstairs concerns harbour workers. Instead of concentrating on famous ships, it looks at the people who loaded goods, maintained equipment and organised movements along the waterfront. Some displays include personal accounts, while others use workplace records. These sources do different things: a record may tell us how many hours were worked, whereas a personal account can describe how the work felt. Neither gives a complete picture alone. The exhibition invites visitors to compare them and notice both agreements and gaps."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "workers"
+    ],
+    "evidence_locator": "script.md#q15-证据段"
+  },
+  {
+    "number": 16,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "The lift is opposite the ____.",
+    "answer": "cloakroom",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "If you prefer not to use the stairs, the lift is opposite the cloakroom. It serves both public floors. The corridor leading to it is quite narrow, so please keep bags and pushchairs out of the passage. Staff can suggest a place to leave bulky items if necessary. We want visitors to move around independently wherever possible, but somebody is always available to help with directions. The floor plan uses the same room names as the signs, which should make it easier to follow."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "cloakroom"
+    ],
+    "evidence_locator": "script.md#q16-证据段"
+  },
+  {
+    "number": 17,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "The family activity uses a paper ____.",
+    "answer": "passport",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Families can collect a paper passport from the information desk. Children add a stamp after completing a short activity in each section. There's no prize for finishing quickly, and the questions are intended to encourage discussion rather than test what children already know. Some answers require looking closely at an object; others invite a choice with a reason. Adults are welcome to join in, but please allow children time to explore their own ideas before explaining what you think the display means."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "passport"
+    ],
+    "evidence_locator": "script.md#q17-证据段"
+  },
+  {
+    "number": 18,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "Food may be eaten in the ____.",
+    "answer": "courtyard",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Food may be eaten in the courtyard, where there are tables and covered benches. Please keep it out of the galleries, including food brought from home. Crumbs and spills create problems around historical objects even when the objects are inside cases. Drinks with secure lids are permitted in the entrance area, but not beside the displays. If the weather becomes unpleasant, ask at the desk about an indoor alternative. We can usually suggest somewhere nearby without asking you to leave your belongings unattended."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "courtyard"
+    ],
+    "evidence_locator": "script.md#q18-证据段"
+  },
+  {
+    "number": 19,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "The shop sells prints by local ____.",
+    "answer": "artists",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Before leaving, you may want to visit the small shop. Alongside books about the harbour, it sells prints by local artists. These are contemporary interpretations of the waterfront, not reproductions of objects from our collection. The distinction is indicated on the labels. Purchasing something is entirely optional; your visit is not expected to end with a purchase. If you simply want to remember a detail, photography without flash is allowed in the permanent galleries, subject to signs beside individual items."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "artists"
+    ],
+    "evidence_locator": "script.md#q19-证据段"
+  },
+  {
+    "number": 20,
+    "part": 2,
+    "type": "note_completion",
+    "prompt": "Feedback cards should go in the ____ box.",
+    "answer": "wooden",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Finally, we'd appreciate comments about your visit. Feedback cards are available by the exit, and completed cards should go in the wooden box beside the door. Please be specific if something was difficult to find or understand. A comment naming a particular label is easier for us to act on than a general statement that the building needs improvement. You don't need to provide your name. We review the cards regularly and use them when planning changes to displays and visitor information."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "wooden"
+    ],
+    "evidence_locator": "script.md#q20-证据段"
+  },
+  {
+    "number": 21,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "The students will study use of the campus ____.",
+    "answer": "courtyard",
+    "evidence": [
+      {
+        "role": "Tutor",
+        "text": "Tell me about your proposed fieldwork. Have you settled on a space to observe?"
+      },
+      {
+        "role": "Student one",
+        "text": "We considered the library entrance, but access might be awkward during busy periods. We'd now like to study the campus courtyard."
+      },
+      {
+        "role": "Student two",
+        "text": "It's used for eating, walking through and meeting friends, so we can compare several activities in one place."
+      },
+      {
+        "role": "Tutor",
+        "text": "That's a workable focus. Make sure your question concerns how the space is used, rather than assuming that every person there has the same reason for visiting."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "courtyard"
+    ],
+    "evidence_locator": "script.md#q21-证据段"
+  },
+  {
+    "number": 22,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "The main comparison will be between different ____ of day.",
+    "answer": "times",
+    "evidence": [
+      {
+        "role": "Student two",
+        "text": "I wanted to compare first-year students with final-year students, but we couldn't identify them reliably just by watching."
+      },
+      {
+        "role": "Tutor",
+        "text": "Exactly. You would need to ask, which changes the method. What can you compare through observation alone?"
+      },
+      {
+        "role": "Student one",
+        "text": "Different times of day. The courtyard seems quiet early on and crowded around lunch."
+      },
+      {
+        "role": "Tutor",
+        "text": "Good. Define the observation periods in advance. Then you'll have a clear comparison rather than deciding afterwards which moments happen to make the most interesting story."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "times"
+    ],
+    "evidence_locator": "script.md#q22-证据段"
+  },
+  {
+    "number": 23,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "Each observation session will last ____ minutes.",
+    "answer": "20",
+    "evidence": [
+      {
+        "role": "Student one",
+        "text": "Would an hour at each time be enough? That would give us lots of detail, but it may be difficult to fit around our lectures."
+      },
+      {
+        "role": "Tutor",
+        "text": "Start with sessions of twenty minutes. Consistent shorter sessions are preferable to longer ones that you cannot complete reliably."
+      },
+      {
+        "role": "Student two",
+        "text": "We can repeat those on several days."
+      },
+      {
+        "role": "Tutor",
+        "text": "Yes. Record the exact start and finish, and avoid extending a session simply because something interesting happens near the end. Otherwise your periods won't be directly comparable."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "20",
+      "twenty"
+    ],
+    "evidence_locator": "script.md#q23-证据段"
+  },
+  {
+    "number": 24,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "The recording sheet should include the ____.",
+    "answer": "weather",
+    "evidence": [
+      {
+        "role": "Student two",
+        "text": "Our sheet has spaces for the time, number of people and the activities we observe. Is anything important missing?"
+      },
+      {
+        "role": "Tutor",
+        "text": "Include the weather. A nearly empty courtyard on a wet afternoon doesn't necessarily mean students dislike the space."
+      },
+      {
+        "role": "Student one",
+        "text": "We'll use simple categories and add a brief note if conditions change during a session."
+      },
+      {
+        "role": "Tutor",
+        "text": "That should work. The aim isn't to become weather specialists. It's to preserve enough context to interpret the observations instead of treating each count as an isolated fact."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "weather"
+    ],
+    "evidence_locator": "script.md#q24-证据段"
+  },
+  {
+    "number": 25,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "Observers will divide the courtyard into ____.",
+    "answer": "zones",
+    "evidence": [
+      {
+        "role": "Student one",
+        "text": "At lunchtime I find it hard to count everyone without losing track. People cross each other's paths and some leave almost immediately."
+      },
+      {
+        "role": "Student two",
+        "text": "Could we divide the courtyard into zones and each cover a separate area?"
+      },
+      {
+        "role": "Tutor",
+        "text": "That's sensible, provided the boundaries are clear. Draw them on your plan before starting."
+      },
+      {
+        "role": "Student one",
+        "text": "We'll use the planters and the steps as boundaries."
+      },
+      {
+        "role": "Tutor",
+        "text": "Good. Also decide what happens when someone crosses a boundary, so the same person isn't accidentally recorded twice in a single count."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "zones"
+    ],
+    "evidence_locator": "script.md#q25-证据段"
+  },
+  {
+    "number": 26,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "They will practise agreeing on activity ____.",
+    "answer": "categories",
+    "evidence": [
+      {
+        "role": "Student two",
+        "text": "I've labelled some people as waiting, but my partner described the same behaviour as socialising. We weren't deliberately using different definitions."
+      },
+      {
+        "role": "Tutor",
+        "text": "That's why you need to practise agreeing on activity categories before collecting the main data. Observe a short session together and compare your decisions."
+      },
+      {
+        "role": "Student one",
+        "text": "If we can't tell what somebody is doing, we should have an uncertain category."
+      },
+      {
+        "role": "Tutor",
+        "text": "Exactly. Uncertainty recorded honestly is better than confident guesses. Your classification system should reflect what you can actually observe from your position."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "categories"
+    ],
+    "evidence_locator": "script.md#q26-证据段"
+  },
+  {
+    "number": 27,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "They will avoid recording people's ____.",
+    "answer": "names",
+    "evidence": [
+      {
+        "role": "Student one",
+        "text": "A few people in the courtyard may be classmates. Should we write their names so that we can ask them questions afterwards?"
+      },
+      {
+        "role": "Tutor",
+        "text": "No, avoid recording people's names in this observation project. You don't need them to answer your question, and identifiable notes create unnecessary complications."
+      },
+      {
+        "role": "Student two",
+        "text": "We'll keep the record about activities and locations instead."
+      },
+      {
+        "role": "Tutor",
+        "text": "Follow the department's ethics process as well. If you later add interviews, that will need a separate plan explaining recruitment, consent and how responses will be stored."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "names"
+    ],
+    "evidence_locator": "script.md#q27-证据段"
+  },
+  {
+    "number": 28,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "Their graph will show percentages rather than raw ____.",
+    "answer": "totals",
+    "evidence": [
+      {
+        "role": "Student two",
+        "text": "One session had twice as many people as another. If we draw bars for each activity, the busier session dominates the whole graph."
+      },
+      {
+        "role": "Tutor",
+        "text": "You can show percentages rather than raw totals when comparing the distribution of activities. But keep the underlying counts available."
+      },
+      {
+        "role": "Student one",
+        "text": "So the reader can see whether a large percentage came from only a few people."
+      },
+      {
+        "role": "Tutor",
+        "text": "Precisely. A percentage is useful for one kind of comparison, but it doesn't remove the need to explain how much evidence lies behind it."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "totals"
+    ],
+    "evidence_locator": "script.md#q28-证据段"
+  },
+  {
+    "number": 29,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "They must distinguish observation from ____.",
+    "answer": "interpretation",
+    "evidence": [
+      {
+        "role": "Student one",
+        "text": "In my notes I wrote that the benches were unpopular because they were uncomfortable. Is that too strong?"
+      },
+      {
+        "role": "Tutor",
+        "text": "Yes. You observed that few people used them. The explanation about comfort is an interpretation, and there may be other explanations. Perhaps the benches were wet or in shade."
+      },
+      {
+        "role": "Student two",
+        "text": "We can separate what we saw from what we think it might mean."
+      },
+      {
+        "role": "Tutor",
+        "text": "Do that throughout the report. Readers should be able to follow how you move from a recorded observation to a possible explanation."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "interpretation",
+      "explanation",
+      "interpretations",
+      "explanations",
+      "an interpretation",
+      "possible explanation"
+    ],
+    "evidence_locator": "script.md#q29-证据段"
+  },
+  {
+    "number": 30,
+    "part": 3,
+    "type": "note_completion",
+    "prompt": "The first draft is due on ____.",
+    "answer": "Thursday",
+    "evidence": [
+      {
+        "role": "Student two",
+        "text": "We can finish the observation sessions early next week. Would Friday be a suitable day to send the report?"
+      },
+      {
+        "role": "Tutor",
+        "text": "I need the first draft on Thursday if you want feedback before the next workshop. It doesn't have to look polished, but it should include your method and at least one clear graph."
+      },
+      {
+        "role": "Student one",
+        "text": "We'll reserve Wednesday afternoon for writing."
+      },
+      {
+        "role": "Tutor",
+        "text": "Good. Include any unexpected difficulties too. Reflecting on a method's weaknesses is part of learning to conduct research, not an admission that the project was pointless."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "Thursday"
+    ],
+    "evidence_locator": "script.md#q30-证据段"
+  },
+  {
+    "number": 31,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "The lecture focuses on product ____.",
+    "answer": "repair",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "This lecture considers product repair as a process involving design, information and organisation. It's tempting to think that repairing an object is simply a matter of finding someone with the right practical skills. Those skills matter, but the task can become impossible if a component cannot be reached or a replacement cannot be identified. We'll examine a hypothetical household appliance to see how several small decisions made before sale can influence what happens when something eventually stops working."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "repair"
+    ],
+    "evidence_locator": "script.md#q31-证据段"
+  },
+  {
+    "number": 32,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "The first obstacle is access to internal ____.",
+    "answer": "components",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "The first obstacle is access to internal components. A case held together with ordinary screws can usually be opened without destroying it. A case permanently bonded along every edge presents a different problem. The technician may be able to identify the fault but still be unable to reach it safely. Ease of opening is therefore not merely a convenience. It can determine whether repair is a realistic option at all. Design evaluation needs to consider the whole sequence of opening, working and reassembling."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "components"
+    ],
+    "evidence_locator": "script.md#q32-证据段"
+  },
+  {
+    "number": 33,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "Standard fasteners reduce the need for specialist ____.",
+    "answer": "tools",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Standard fasteners can reduce the need for specialist tools. This doesn't mean that every repair should be attempted by an inexperienced owner. Some equipment requires training and appropriate precautions. The point is that unnecessary variation can make even a routine professional task slower or more expensive. If a service centre needs a different tool for every model, maintaining its equipment becomes harder. A design that uses familiar fasteners may support repair while still making clear which procedures require qualified assistance."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "tools"
+    ],
+    "evidence_locator": "script.md#q33-证据段"
+  },
+  {
+    "number": 34,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "A clear diagram helps identify the correct ____.",
+    "answer": "part",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Once the case is open, a clear diagram helps identify the correct part. Similar-looking components may perform different functions or belong to different versions of the same product. Ordering by appearance alone can lead to errors and further delays. Useful documentation links a component's position to a reliable identifier. It should also explain whether a replacement is compatible with older models. Information that makes sense only to the original designer is not necessarily sufficient for somebody maintaining the product several years later."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "part"
+    ],
+    "evidence_locator": "script.md#q34-证据段"
+  },
+  {
+    "number": 35,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "Replacement supplies depend on a reliable ____.",
+    "answer": "inventory",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Replacement supplies depend on a reliable inventory. A manufacturer may advertise that parts are available, yet a repair still fails if the required item cannot be located or ordered. Inventory records connect physical stock with the information seen by service staff. Inaccurate records can produce repeated unsuccessful orders and damage confidence in repair. Keeping every possible part forever may be impractical, but the period of support should be clear. Customers need realistic expectations rather than a broad promise with no stated conditions."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "inventory"
+    ],
+    "evidence_locator": "script.md#q35-证据段"
+  },
+  {
+    "number": 36,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "Repair cost includes the technician's ____.",
+    "answer": "labour",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Repair cost includes the technician's labour as well as the price of the component. A very inexpensive switch may be costly to replace if reaching it requires dismantling most of the appliance. This connects repair economics directly to design. Reducing the number of unnecessary steps can matter more than reducing the price of a small spare part. Any comparison with buying a replacement product should therefore use the full repair cost, while recognising that prices and available services differ between locations."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "labour",
+      "labor"
+    ],
+    "evidence_locator": "script.md#q36-证据段"
+  },
+  {
+    "number": 37,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "Owners may reject repair because of ____.",
+    "answer": "inconvenience",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Owners may reject repair because of inconvenience, even when the quoted price seems reasonable. They may need the appliance every day, lack transport to a service centre, or be uncertain about how long the work will take. A repair service that gives clear appointments and realistic completion estimates addresses a different barrier from one that merely lowers prices. Researchers studying decisions should ask about these practical circumstances instead of assuming that every refusal shows indifference to waste or lack of understanding."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "inconvenience"
+    ],
+    "evidence_locator": "script.md#q37-证据段"
+  },
+  {
+    "number": 38,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "A shared workshop can support informal ____.",
+    "answer": "learning",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "A shared workshop can support informal learning. Participants see how an experienced person approaches a fault, asks questions and tests possible explanations. This differs from watching a short video that moves directly from problem to solution. In a workshop, uncertainty and unsuccessful attempts are visible too. However, such events require boundaries: volunteers should not be expected to work on equipment beyond their competence. Successful learning includes recognising when to stop and seek qualified help, rather than treating persistence as the answer to every problem."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "learning"
+    ],
+    "evidence_locator": "script.md#q38-证据段"
+  },
+  {
+    "number": 39,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "Evaluation should track how long repairs ____.",
+    "answer": "last",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "Evaluation should track how long repairs last. Counting the number of objects repaired during an event provides a useful immediate measure, but it doesn't establish whether those objects remain in use. Follow-up can reveal recurring faults or replacements that fail quickly. It can also be difficult, because participants may not respond later. Researchers should report that loss of information instead of assuming every unreported repair remains successful. A modest conclusion supported by follow-up is stronger than an impressive total whose meaning has never been checked."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "last"
+    ],
+    "evidence_locator": "script.md#q39-证据段"
+  },
+  {
+    "number": 40,
+    "part": 4,
+    "type": "note_completion",
+    "prompt": "The proposed policy starts with a limited ____.",
+    "answer": "trial",
+    "evidence": [
+      {
+        "role": "Speaker",
+        "text": "The proposed policy therefore starts with a limited trial involving a defined group of products and service providers. The trial should record costs, waiting times and outcomes, including unsuccessful attempts. It can help reveal which barriers are most significant locally and whether changing one creates pressure elsewhere. For example, greater demand may be encouraging but exceed the capacity of available technicians. The purpose is to learn how the system operates before expanding it, with explicit criteria for deciding what should be retained or changed."
+      }
+    ],
+    "audio_start": null,
+    "audio_end": null,
+    "accepted_answers": [
+      "trial"
+    ],
+    "evidence_locator": "script.md#q40-证据段"
+  }
+]

@@ -1,0 +1,1096 @@
+{
+  "id": "L-W19",
+  "week": 19,
+  "title": "Transferring a procedure to an unfamiliar setting",
+  "version": "W17-W20-text-v1",
+  "status": "text_self_check_pending_independent_QA",
+  "original": true,
+  "personal_remediation": null,
+  "stage_check": null,
+  "provenance": "Original fictional practice commissioned for this curriculum; not authentic IELTS, not standardised or score-calibrated. No third-party text or diagrams used.",
+  "license": "CC BY 4.0 for original text and SVG; no audio rights or audio files supplied.",
+  "question_count": 40,
+  "question_objects": 38,
+  "spoken_word_count": 4164,
+  "word_count_method": "Regex word tokens including hyphenated forms; excludes speaker labels, titles, question text and Q locators.",
+  "audio_file": null,
+  "duration_seconds": null,
+  "audio_start_seconds": null,
+  "audio_end_seconds": null,
+  "media_status": "missing_not_generated",
+  "complete_listening_set": false,
+  "planning_only": {
+    "speech_rate_words_per_minute": [
+      140,
+      160
+    ],
+    "speech_minutes_estimate": [
+      26.02,
+      29.74
+    ],
+    "actual_duration_seconds": null,
+    "first_listen_budget_minutes": 32,
+    "note": "Text-based estimate only. Future rendition must fit 32 minutes including part pauses; if not, revise the timetable before release."
+  },
+  "weekly_training": {
+    "minutes": 158,
+    "maximum_minutes": 180,
+    "buffer_minutes": 22,
+    "tasks": [
+      {
+        "task": "Preview questions without the script",
+        "minutes": 8
+      },
+      {
+        "task": "Future continuous first listen, including planned part pauses",
+        "minutes": 32
+      },
+      {
+        "task": "Submit first answers and confidence, without a second play",
+        "minutes": 8
+      },
+      {
+        "task": "Check answers and classify errors",
+        "minutes": 20
+      },
+      {
+        "task": "Four Q-located intensive segments, 15 minutes each",
+        "minutes": 60
+      },
+      {
+        "task": "Diagram and opinion retelling",
+        "minutes": 15
+      },
+      {
+        "task": "Next-day retry of missed items",
+        "minutes": 15
+      }
+    ],
+    "completed_listening_minutes": 0
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "Booking a route-testing session",
+      "roles": [
+        "Receptionist",
+        "Organiser"
+      ],
+      "question_range": [
+        1,
+        10
+      ],
+      "word_count": 1010,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q01",
+          "question_locator": "Q1",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "Visitor research centre, good morning."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Our volunteers are preparing directions for a small exhibition, and we'd like to test whether newcomers can follow them. We saw a course on exhibition design, but we aren't choosing the objects or display cases."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Route testing is the session you need."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Please record route testing as our topic. We have a draft route but haven't yet watched anyone unfamiliar with the building use it."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Then the session can help you decide what to observe and how to separate a problem in the directions from a difference in the conditions under which they are followed."
+            }
+          ]
+        },
+        {
+          "id": "Q02",
+          "question_locator": "Q2",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "Is the session on the ninth of September?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That was a provisional date. The confirmed session is on the sixteenth of September."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "The sixteenth is possible for our group. I'll replace the older notice in our planning folder."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Use the confirmation we send today when arranging the visit."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll forward the whole message, including the session title, because another volunteer mentioned a different activity at the centre."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That's sensible. A familiar date can be copied into a new plan without anyone noticing that it belongs to another booking, especially when several activities are described under one general programme heading."
+            }
+          ]
+        },
+        {
+          "id": "Q03",
+          "question_locator": "Q3",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "What time does the session begin?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Eleven twenty in the morning. The reception area opens at eleven, but the teaching begins at eleven twenty."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "So eleven is the opening time rather than the start of our workshop."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Correct. Arrive shortly before the session to check in."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll keep the suggested arrival and teaching time separate in our travel note."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Thank you. The initial briefing establishes which route can be used and how the observer should respond if a participant becomes uncertain. Missing that explanation could lead to an informal intervention that changes what the later record appears to show about the directions."
+            }
+          ]
+        },
+        {
+          "id": "Q04",
+          "question_locator": "Q4",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "How many participants should I expect?"
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Seven volunteers helped write the draft, but five can attend. Please reserve five places."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Five are available. Will those participants include someone who knows how the draft was produced?"
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Yes, although we also want to hear from people who didn't choose the wording."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That combination can support discussion, provided you don't describe an experienced member as a newcomer."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We'll record the relevant experience. The two absent volunteers will send questions, but they won't be counted as attendees."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "If the group changes, update the booking rather than assuming a spare place can be transferred without telling us."
+            }
+          ]
+        },
+        {
+          "id": "Q05",
+          "question_locator": "Q5",
+          "word_count": 96,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "What is the total booking fee?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Sixty-five pounds for the five places altogether."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Sixty-five for the whole group, not for each person?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Correct. It includes the practice maps and observation sheets. A later site visit to your own exhibition would be arranged separately and isn't included in this booking."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll explain the total and the scope to our coordinator."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Please check both on the confirmation before payment. If the number of places or the amount differs, ask for a correction rather than treating an unexplained difference as a service someone may have requested in another conversation."
+            }
+          ]
+        },
+        {
+          "id": "Q06",
+          "question_locator": "Q6",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "Which document should we bring?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Bring your route plan, showing the start, destination and any conditions that affect the directions. A photograph of the exhibition is optional."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll bring the route plan with its current version label."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Good. The plan should show what a participant would actually receive, not a later version improved after the group has discussed it here."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We can keep our suggested changes on a separate page."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Exactly. That preserves the distinction between the route being tested and the route you might produce afterwards, so the observation record refers to a clear, identifiable set of instructions."
+            }
+          ]
+        },
+        {
+          "id": "Q07",
+          "question_locator": "Q7",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "Will this session establish that our route works for every visitor?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "No. It introduces a testing method and helps you interpret a limited trial. Different visitors and conditions may reveal other issues."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Then we should avoid treating one successful walk as a universal guarantee."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Yes. You can still make a practical improvement from a small observation if you state its scope."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Our main aim is to identify what to examine next."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That's appropriate. The session can help you connect a revision with evidence, but it cannot replace a broader review of the arrangements at your own site or predict every circumstance a visitor may encounter."
+            }
+          ]
+        },
+        {
+          "id": "Q08",
+          "question_locator": "Q8",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "What happens if the outdoor practice area can't be used on the day?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Follow the update linked to your confirmation. The leader will identify the approved alternative activity or explain any change to the schedule. Don't choose another outdoor route yourselves and assume it provides an equivalent exercise."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We'll check the message before travelling."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The conditions are part of the task, so a substantial change needs to remain visible. An indoor comparison may be useful, but it answers a different practical question from following signs outside."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We can record the activity actually completed rather than using the original plan as though nothing changed."
+            }
+          ]
+        },
+        {
+          "id": "Q09",
+          "question_locator": "Q9",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "One participant needs a digital map that works with their usual reading application. Should we raise that now?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Yes. Describe the format requirement in advance so we can check the available material and confirm any limitations."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll ask the participant for the practical details rather than guess."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Thank you. A photograph of a printed map is not necessarily an equivalent format."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We should also record the arrangement in the trial notes."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "If it affects a relevant condition, certainly. Clear records help you understand what was tested without treating an agreed way of accessing the task as something that must be hidden."
+            }
+          ]
+        },
+        {
+          "id": "Q10",
+          "question_locator": "Q10",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "If a volunteer withdraws, can I post the change below the public event announcement?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Please reply to the confirmation with its booking reference. Public comments don't update our attendance record. For an urgent issue, use the contact number in that message."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll keep the latest complete confirmation in the group folder."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Good. It contains the start time, entrance information and any approved update."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll also remind everyone to bring the current plan rather than an older copy that happens to look cleaner."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That will make the discussion more useful because the group will be examining the same route under the same stated instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Orientation at the visitor research centre",
+      "roles": [
+        "Centre host"
+      ],
+      "question_range": [
+        11,
+        20
+      ],
+      "word_count": 1056,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q11",
+          "question_locator": "Q11",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Welcome to the visitor research centre. North is at the top of the diagram, with the entrance on the southern edge. The garden in the centre is our reference landmark. Reception is directly south of the garden, in line with the entrance. It is not in either southern corner. Please check in before joining a teaching group. Staff will confirm the route-testing session and any current update. The letters identify spaces on this plan rather than the initials of their functions. Keep the diagram facing the same way while listening, so that a spoken direction and a remembered turn from a previous visit don't become mixed together."
+            }
+          ]
+        },
+        {
+          "id": "Q12",
+          "question_locator": "Q12",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The briefing room is directly north of the garden, in the northern central position. An earlier programme placed the introduction in the north-west room, but the briefing now uses the space directly north. The opening task compares a written direction with the reference frame it assumes. A phrase such as turn left may be clear only if the person's starting orientation is known. Don't begin the route exercise before the leader has explained those conditions. A participant who improvises a different starting point may still reach the destination, but that would not show whether the supplied instructions work from the position the task was designed to test."
+            }
+          ]
+        },
+        {
+          "id": "Q13",
+          "question_locator": "Q13",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The map collection desk is in the south-west corner. It is west of reception and directly south of the room on the western side of the garden. Collect the map version named in the briefing. Several layouts resemble one another but place the destination differently, so a familiar-looking sheet isn't necessarily the correct resource. The desk helper can confirm the version without telling you the route answer. If a page is missing, report it rather than copying a neighbour's marked sheet. The first attempt should preserve what the participant could work out from the material supplied, not what they could reproduce from somebody else's completed route."
+            }
+          ]
+        },
+        {
+          "id": "Q14",
+          "question_locator": "Q14",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The observation room is in the north-east corner. It lies directly east of the briefing room, since both are in the northern row, and directly north of the space east of the garden. Notice that north-east of the whole site is not the same relation as north-east of the briefing room. From the briefing room, the observation room is east. In that room, groups review notes about where a participant paused or requested help. A pause is an observation, not automatically an error. The discussion should ask what the participant was doing and which features of the instructions or setting might explain it before assigning a cause."
+            }
+          ]
+        },
+        {
+          "id": "Q15",
+          "question_locator": "Q15",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The return desk is directly west of the garden, level with its centre. It is north of the map collection desk and is not the north-west room. Return reusable maps there after the activity, while keeping your own observation notes. If a direction seemed unclear, identify the actual phrase and the position at which the difficulty occurred. Saying the whole route was confusing gives the team less to examine. The helper can pass a specific issue to the leader. This final location completes the five places you need today, and its relationship to the collection desk should help you avoid treating collection and return as the same service point."
+            }
+          ]
+        },
+        {
+          "id": "Q16",
+          "question_locator": "Q16",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Before using relative directions, establish the reference frame. Left and right depend on orientation, while the map's north arrow provides a fixed relation within the diagram. A person entering from the south and a person looking back from the north may use opposite bodily directions for the same place. The activity asks you to preserve the stated viewpoint, not switch silently between those perspectives. If a direction seems inconsistent, first check what it is relative to. A route can contain accurate individual phrases and still become unusable when the listener is expected to infer an unstated change of frame halfway through the sequence."
+            }
+          ]
+        },
+        {
+          "id": "Q17",
+          "question_locator": "Q17",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "If the approved practice route is unavailable, stop and ask the leader about the stated alternative. Don't lead participants through an unconfirmed area merely to complete the observation sheet. A changed route may introduce different landmarks, distances or decisions, and those differences affect what the trial can show. Record the activity that actually took place. A useful adaptation can still support learning if its purpose is clear, but it should not be presented as an unchanged repetition of the original task. The centre's practical directions govern where the group may go; the exercise does not authorise participants to improvise access to another part of the site."
+            }
+          ]
+        },
+        {
+          "id": "Q18",
+          "question_locator": "Q18",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Observers should record a pause before interpreting it. A participant may stop to check the destination, compare the map with a sign or wait for another person to pass. Those actions need not represent the same difficulty. If the observer supplies a hint, note when and what was said. The participant's eventual arrival can then be understood in relation to that support. Without the note, the record may imply that the route was followed independently. Observation is useful because it preserves relevant details about the attempt, not because it produces a tidy success-or-failure label that removes the conditions under which the result occurred."
+            }
+          ]
+        },
+        {
+          "id": "Q19",
+          "question_locator": "Q19",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "During revision, return to the required output. If the task asks for directions a newcomer can use, an attractive drawing alone doesn't fulfil it. The group should check the starting point, decision points and destination against the brief. Additional history about the building may be interesting, but it should not displace a condition needed to follow the route. This does not require every direction to use identical wording. It requires the choices to be justified by what the visitor needs to do. A revision should solve an observed or clearly specified problem rather than add detail merely because the team has room on the page."
+            }
+          ]
+        },
+        {
+          "id": "Q20",
+          "question_locator": "Q20",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The closing report should distinguish the completed trial from the next planned test. Record what participants actually did, what support they received and what remains uncertain about the route. A proposed comparison at another site is not evidence that the procedure already transfers there. You can explain why the comparison would be useful without predicting its result. Keep the report's claim proportional to the observations available. One successful attempt may justify retaining a feature for further testing, while a difficulty may identify a specific revision. Neither outcome requires a permanent judgement about every future visitor or every route the team might later design."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Planning a second route trial",
+      "roles": [
+        "Tutor",
+        "Nia",
+        "Sam"
+      ],
+      "question_range": [
+        21,
+        30
+      ],
+      "word_count": 1020,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q21",
+          "question_locator": "Q21",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "You observed the first route trial last week. Where should the next one take place?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "In a different building with the same kind of decision points. That would show whether our instruction procedure carries beyond a familiar setting."
+            },
+            {
+              "speaker": "Nia",
+              "text": "I'd first repeat it here with new participants, so we can check the revised wording without changing the location too."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Sam, would you describe the second building as an equivalent test?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "No, we'd record its differences, but I still support using it next."
+            },
+            {
+              "speaker": "Nia",
+              "text": "I remain in favour of this site."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Sam supports moving the next trial, while Nia prefers to isolate the wording change first."
+            }
+          ]
+        },
+        {
+          "id": "Q22",
+          "question_locator": "Q22",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Nia wants to preserve the exact instruction wording for one more comparison."
+            },
+            {
+              "speaker": "Nia",
+              "text": "Yes. If we change every phrase at once, we may not know which difference affected the response."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I would revise the two ambiguous phrases before another attempt. Keeping them could reproduce a difficulty we already understand."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that mean you disagree about every part of the instructions?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "No. The proposal concerns preserving the complete wording unchanged. I don't support that."
+            },
+            {
+              "speaker": "Nia",
+              "text": "I still do for one narrowly defined comparison."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Nia supports this proposal and Sam doesn't; a shared wish for clear evidence doesn't eliminate the difference between the procedures you prefer."
+            }
+          ]
+        },
+        {
+          "id": "Q23",
+          "question_locator": "Q23",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should every map include a fixed reference landmark?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Yes. I initially thought the start arrow would be enough, but the observation notes show that participants lost track of the frame after turning."
+            },
+            {
+              "speaker": "Nia",
+              "text": "I agree. A named landmark could help them reconnect the instruction with the diagram."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Would it replace the need to state the starting point?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "No. We need both, and should explain their roles."
+            },
+            {
+              "speaker": "Sam",
+              "text": "That's the arrangement I support."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. You both favour the landmark, with the qualification that it supports rather than replaces a clear starting orientation. Make that condition visible in the revised task instructions."
+            }
+          ]
+        },
+        {
+          "id": "Q24",
+          "question_locator": "Q24",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "An early draft describes every destination as on your left or on your right, without stating a viewpoint."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I wrote that before walking through the sequence. It becomes inconsistent once the person turns."
+            },
+            {
+              "speaker": "Nia",
+              "text": "I don't support retaining those phrases without a reference frame."
+            },
+            {
+              "speaker": "Sam",
+              "text": "Neither do I now. I'll revise them rather than assume the visitor is always facing the same direction."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you abandoning relative directions altogether?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "No, only the unsupported wording in this proposal."
+            },
+            {
+              "speaker": "Sam",
+              "text": "Agreed."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then neither of you supports the original description. The withdrawal concerns an unstated frame, not a claim that left and right can never be useful instructions."
+            }
+          ]
+        },
+        {
+          "id": "Q25",
+          "question_locator": "Q25",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Sam proposes an additional diagram at the second decision point."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I support that. The observation notes show several people rereading the same paragraph there."
+            },
+            {
+              "speaker": "Nia",
+              "text": "I'd first simplify the paragraph and test it without another diagram. More visual material could create a different comparison problem."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could a small diagram reduce that cost?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "Perhaps, but for the next trial I still prefer the wording change alone."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I continue to favour adding the diagram."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Sam supports the specific proposal and Nia retains an alternative. The evidence identifies a place worth investigating, but it doesn't automatically select one solution before either revision has been tested."
+            }
+          ]
+        },
+        {
+          "id": "Q26",
+          "question_locator": "Q26",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "How broadly should the report describe the result?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "It should refer to this route and the conditions we observed. We haven't tested a general navigation method for every building."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I agree. My first summary said the procedure works anywhere, which goes beyond the trial."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Will narrowing the statement remove its practical value?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "No. We can identify which features appeared useful and what a later comparison should examine."
+            },
+            {
+              "speaker": "Nia",
+              "text": "And preserve any difficulty rather than treating a completed route as proof that every instruction was understood."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then both of you support a bounded claim that separates the observation from the wider question of transfer."
+            }
+          ]
+        },
+        {
+          "id": "Q27",
+          "question_locator": "Q27",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Which two preparation actions are agreed?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "First, establish the same starting position and orientation for each attempt in a particular comparison."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I agree. Otherwise a difference in turning may reflect where the participant began, rather than the wording."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Do you need to keep every route at exactly the same physical distance?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Not for every future study, but relevant differences must be recorded."
+            },
+            {
+              "speaker": "Nia",
+              "text": "We aren't selecting equal distance as one of this trial's two preparation actions."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. Keep the chosen action precise: a clear and consistent starting frame for the comparison, rather than a general promise that every feature of every route will be identical."
+            }
+          ]
+        },
+        {
+          "id": "Q28",
+          "question_locator": "Q28",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What is the second preparation action?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Record obstacles or changes that affect the route while it is being tested."
+            },
+            {
+              "speaker": "Nia",
+              "text": "Agreed. A temporary sign or blocked passage could change how a person interprets the instruction."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you collecting visitors' full names or predicting an official language score?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "Neither is needed for this question."
+            },
+            {
+              "speaker": "Sam",
+              "text": "Nor do we need to remove all pauses from the record to make the route look successful."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then the two selected actions are fixing the starting frame and recording relevant obstacles. Both preserve conditions needed to interpret the attempt, instead of adding information that does not address the task's purpose."
+            }
+          ]
+        },
+        {
+          "id": "Q29",
+          "question_locator": "Q29",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What limits the comparison you completed last week?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "The routes were not equally complex. One contained an extra decision point, so it wasn't simply a longer copy of the other."
+            },
+            {
+              "speaker": "Nia",
+              "text": "That means a difference in errors could reflect the structure of the route as well as the instructions."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Was a whole session cancelled?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "No, both happened and their records are available. The limitation concerns comparability, not missing events."
+            },
+            {
+              "speaker": "Sam",
+              "text": "We should describe the decision points rather than report distance alone."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "That will let a reader see which demand changed and why the observed difference cannot be attributed to one preferred explanation without qualification."
+            }
+          ]
+        },
+        {
+          "id": "Q30",
+          "question_locator": "Q30",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Was support identical in the two trials?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "No. An observer gave a hint during one attempt, and the note records when it happened."
+            },
+            {
+              "speaker": "Sam",
+              "text": "So reaching the destination after that hint isn't evidence of completely independent performance."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that make the record useless?"
+            },
+            {
+              "speaker": "Nia",
+              "text": "No. It still shows the difficulty and what help was supplied, but it supports a narrower conclusion."
+            },
+            {
+              "speaker": "Sam",
+              "text": "The maps were complete; a missing page wasn't the issue."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then route complexity and the unequal hint are the two limitations to retain. Don't replace them with a generic list of possible problems that obscures what actually differed in the completed observation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "title": "Deciding what can carry across",
+      "roles": [
+        "Lecturer"
+      ],
+      "question_range": [
+        31,
+        40
+      ],
+      "word_count": 1078,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q31",
+          "question_locator": "Q31",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Consider a fictional team transferring a procedure from one visitor task to another. The first stage identifies the underlying principle. A principle describes the relationship the procedure depends on, such as connecting a direction to a stable reference frame. It is different from a surface feature like the colour of an arrow. The team asks what function the successful feature served in the original task. Without that question, transfer can become copying a familiar layout into a setting where it no longer helps. Identifying the principle gives the comparison something meaningful to preserve while leaving room for the form of the response to change with the new task."
+            }
+          ]
+        },
+        {
+          "id": "Q32",
+          "question_locator": "Q32",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The second stage identifies relevant features of the new setting. These features may include the reader's starting knowledge, the available landmarks and the number of decisions required. The team distinguishes them from similarities that are easy to notice but unrelated to the procedure's purpose. Two maps may use the same colours while asking the reader to solve different problems. Conversely, a very different-looking diagram may require the same relationship between evidence and action. The feature review should explain why each selected detail matters. A long list of observations is not automatically useful if it fails to connect those observations with the principle the team hopes to carry across."
+            }
+          ]
+        },
+        {
+          "id": "Q33",
+          "question_locator": "Q33",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The third stage builds an explicit mapping between the relevant elements of the two tasks. Mapping states which feature in the new setting plays the role served by a feature in the original one. This connection should be argued rather than assumed from a shared name. A central landmark on one map may guide orientation, while a similarly named object on another is barely visible from the route. The team tests whether the proposed connection preserves the function that matters. An explicit mapping can also reveal a missing counterpart. Recognising that gap is useful because it identifies where straightforward copying would fail and where a different arrangement may be needed."
+            }
+          ]
+        },
+        {
+          "id": "Q34",
+          "question_locator": "Q34",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fourth stage decides on the adaptation required by the new conditions. An adaptation is a deliberate change that preserves the relevant principle while adjusting its application. The team might replace a distant landmark with a more visible reference or divide a long instruction at a genuine decision point. This is different from changing details merely to make the new version look original. The reason for the change should be connected to a documented demand in the setting. The team also records what was retained, because an adaptation can only be interpreted clearly when the relationship between the earlier procedure and the new attempt remains visible."
+            }
+          ]
+        },
+        {
+          "id": "Q35",
+          "question_locator": "Q35",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fifth stage completes an evaluation of the new attempt. This structured review considers whether the adapted procedure served the intended task under the conditions observed. It should examine difficulties as well as successful completion, since arriving at a destination may conceal repeated requests for help. The evaluation compares the actual response with the requirement and records any support that changed the process. A favourable result can justify further use within a stated scope, but it does not establish that the principle has been transferred successfully to every possible context. The review ends with a decision and its reasons, rather than a universal claim based on one local attempt."
+            }
+          ]
+        },
+        {
+          "id": "Q36",
+          "question_locator": "Q36",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "A reference frame is especially important when the task includes direction. The frame determines what a phrase such as left of or ahead of is relative to. In a diagram, a north arrow can provide a fixed frame even when the viewer changes position. In spoken instructions, the frame may depend on a person's stated orientation. A switch between these systems should be explicit. Otherwise, two individually reasonable phrases may lead to different interpretations when combined. The team should establish the reference frame before evaluating whether a particular turn was correct, rather than blame the participant for failing to infer a viewpoint that the instruction never made clear."
+            }
+          ]
+        },
+        {
+          "id": "Q37",
+          "question_locator": "Q37",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Cognitive load concerns the demands placed on attention and processing during the task. Adding another diagram may help a person locate a landmark but also require them to compare two sources while moving through a sequence. The team should examine the function of the added information, not assume that more detail always makes a task easier. This load depends on the material, the procedure and the person's familiarity with relevant conventions. A small trial can reveal a point at which participants pause or lose their place, but it cannot establish a universal limit for every learner. The useful question is which demand the proposed revision is intended to reduce."
+            }
+          ]
+        },
+        {
+          "id": "Q38",
+          "question_locator": "Q38",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "An analogy can suggest a way to understand the new setting through a familiar one. The analogy is useful when the relationship being compared is relevant to the task. It can mislead when a surface similarity encourages the team to import an arrangement that doesn't serve the same function. The review should identify both what corresponds and what does not. A familiar example may help explain a principle without proving that the same procedure will work unchanged. Treating the analogy as a question to examine keeps it open to correction, whereas treating it as a complete answer can hide the very difference the new setting was meant to reveal."
+            }
+          ]
+        },
+        {
+          "id": "Q39",
+          "question_locator": "Q39",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Boundary conditions describe where a procedure's usefulness may change. These limits can concern the task, the available information or the support a participant receives. A method that works with a visible landmark may need revision when that landmark is obscured. The team should state the relevant boundary conditions rather than present the original success as unconditional. Identifying a limit does not make the procedure worthless; it clarifies the circumstances under which a recommendation is defensible. A later study can investigate another condition deliberately, with its difference recorded, instead of discovering only after failure that an essential feature had silently been removed from the task."
+            }
+          ]
+        },
+        {
+          "id": "Q40",
+          "question_locator": "Q40",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Finally, the team plans replication of the defined observation method. Replication means repeating a procedure clearly enough to examine whether the broad pattern appears again under described conditions. It does not mean repeating the old answer until everyone remembers it. The team preserves the decisions needed to interpret the new attempt, including any changes to participants, setting or support. This repetition can reveal whether an earlier result depended on an unusual circumstance, although it cannot settle every causal explanation on its own. The stage review carries forward a method worth checking and an explicit account of what remains uncertain about applying it beyond the setting already observed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

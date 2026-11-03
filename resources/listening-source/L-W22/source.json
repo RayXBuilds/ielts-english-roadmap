@@ -1,0 +1,1113 @@
+{
+  "id": "L-W22",
+  "week": 22,
+  "title": "An original checkpoint in comparing evidence",
+  "version": "W21-W24-text-v1",
+  "status": "text_self_check_pending_independent_QA",
+  "original": true,
+  "personal_remediation": null,
+  "stage_check": {
+    "original": true,
+    "formal_checkpoint_id": "T22",
+    "replaces_formal_T22": false,
+    "formal_source": null,
+    "formal_administered": false,
+    "formal_result": null,
+    "independent_human_feedback": null,
+    "note": "W22 is an original local checkpoint; formal T22 remains separate."
+  },
+  "provenance": "Original fictional practice commissioned for this curriculum; not authentic IELTS, not standardised or score-calibrated. No third-party text or diagrams used.",
+  "license": "CC BY 4.0 for original text and SVG; no audio rights or audio files supplied.",
+  "question_count": 40,
+  "question_objects": 38,
+  "spoken_word_count": 4224,
+  "word_count_method": "Regex word tokens including hyphenated forms; excludes speaker labels, titles, question text and Q locators.",
+  "audio_file": null,
+  "duration_seconds": null,
+  "audio_start_seconds": null,
+  "audio_end_seconds": null,
+  "media_status": "missing_not_generated",
+  "complete_listening_set": false,
+  "planning_only": {
+    "speech_rate_words_per_minute": [
+      140,
+      160
+    ],
+    "speech_minutes_estimate": [
+      26.4,
+      30.17
+    ],
+    "actual_duration_seconds": null,
+    "first_listen_budget_minutes": 32,
+    "note": "Text-based estimate only. Future rendition must fit 32 minutes including part pauses; if not, revise the timetable before release."
+  },
+  "weekly_training": {
+    "minutes": 158,
+    "maximum_minutes": 180,
+    "buffer_minutes": 22,
+    "tasks": [
+      {
+        "task": "Preview questions without the script",
+        "minutes": 8
+      },
+      {
+        "task": "Future continuous first listen, including planned part pauses",
+        "minutes": 32
+      },
+      {
+        "task": "Submit first answers and confidence, without a second play",
+        "minutes": 8
+      },
+      {
+        "task": "Check answers and classify errors",
+        "minutes": 20
+      },
+      {
+        "task": "Four Q-located intensive segments, 15 minutes each",
+        "minutes": 60
+      },
+      {
+        "task": "Diagram and opinion retelling",
+        "minutes": 15
+      },
+      {
+        "task": "Next-day retry of missed items",
+        "minutes": 15
+      }
+    ],
+    "completed_listening_minutes": 0
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "Booking a comparison workshop",
+      "roles": [
+        "Receptionist",
+        "Organiser"
+      ],
+      "question_range": [
+        1,
+        10
+      ],
+      "word_count": 1015,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q01",
+          "question_locator": "Q1",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "Community research centre, good morning."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Our volunteers have records from a small exhibition trial and want help comparing them. We saw courses on chart design and evidence comparison. The second sounds closer to our question."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Evidence comparison is the appropriate workshop if you want to examine what a difference can support."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Please book evidence comparison. We don't want someone simply to make the more successful session look impressive."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The workshop uses an original local checkpoint to practise interpretation. It doesn't replace a separately required formal assessment, and the exercise's score has no established official conversion. Keep those purposes distinct when describing what the group has completed."
+            }
+          ]
+        },
+        {
+          "id": "Q02",
+          "question_locator": "Q2",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "Is the session on the fifteenth of June?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That was the first proposed date. The confirmed workshop is on the twenty-second of June."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "The twenty-second suits our group. I'll replace the old entry in the calendar."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The confirmation will identify this workshop by name as well as date."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll forward the complete message, because another volunteer saved a notice for the chart course."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Good. A practical detail can be correct for one event and wrong for another. Keeping the source attached to the information is useful even before you begin the workshop, rather than combining familiar fragments into a booking that no one actually confirmed."
+            }
+          ]
+        },
+        {
+          "id": "Q03",
+          "question_locator": "Q3",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "When does the teaching begin?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Nine thirty-five in the morning. The building opens at nine, but your session begins at nine thirty-five."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Then nine is not the time of the first exercise."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Correct. Please arrive shortly before teaching so you can check in."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll distinguish the start from our planned arrival in the travel note."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "The opening explanation defines what the local checkpoint will examine. Missing it could leave someone comparing totals without noticing that the task also asks them to state a limitation. A complete response needs to address that requirement, not merely report which number is larger."
+            }
+          ]
+        },
+        {
+          "id": "Q04",
+          "question_locator": "Q4",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Receptionist",
+              "text": "How many places do you need?"
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Four volunteers discussed attending, but one cannot come. Please reserve three places."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Three are available. Will the participants know how the records were collected?"
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Yes. One observed the first session, one managed the second and one prepared the summary."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That should help you explain differences in the procedure."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We'll collect the absent volunteer's questions without counting that person as an attendee."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "If someone else comes instead, update the booking. A current list helps us organise the discussion and avoid assuming that every participant has the same first-hand knowledge of both observation periods."
+            }
+          ]
+        },
+        {
+          "id": "Q05",
+          "question_locator": "Q5",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "What is the total fee?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Fifty-seven pounds for the three places altogether."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Fifty-seven for the whole booking, rather than for each person?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Correct. That includes the practice materials. A separate visit to your exhibition would be a different arrangement and isn't included."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll tell our coordinator the total and what it covers."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Please check those details on the confirmation before payment. If the number of places or amount differs, ask for a correction rather than assume an unexplained change represents extra analysis."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "That will help us keep the booking record consistent with the decision the group actually made."
+            }
+          ]
+        },
+        {
+          "id": "Q06",
+          "question_locator": "Q6",
+          "word_count": 97,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "What document is essential?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Bring the brief that defined the trial's purpose and requested outputs. A chart of the results is useful but optional."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll bring the brief with any later changes marked separately."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Good. We need to know what the comparison was intended to answer before deciding which figures matter."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "Some volunteers remember a broader aim than the written brief contains."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Preserve that difference rather than quietly rewriting the document. A later interpretation of the purpose should not be presented as though it governed the original observation. The distinction will make the workshop discussion more precise."
+            }
+          ]
+        },
+        {
+          "id": "Q07",
+          "question_locator": "Q7",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "Will a strong result in the local checkpoint count as our formal stage assessment?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "No. The checkpoint is an original teaching exercise. Any separately required formal assessment must have its own appropriate material, conditions and record."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "So we can describe what we answered correctly here without assigning an official band."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Exactly. A local count may guide discussion of a skill, but its formal meaning has not been established."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We'll keep the records separate."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That allows the workshop to be useful without claiming more than it provides. Clear scoring alone does not make an original practice set equivalent to an unfamiliar formal assessment."
+            }
+          ]
+        },
+        {
+          "id": "Q08",
+          "question_locator": "Q8",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "Can we bring copies of individual visitor responses?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Use only material you may share for the workshop purpose and remove identifying details that aren't needed. You can also prepare a summary that preserves the relevant definitions and gaps."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll check the conditions rather than assume possession of a copy permits every use."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Thank you. The fictional examples supplied here are enough to learn the method if your own material cannot be shared."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "We should not replace missing observations with made-up figures to make our table complete."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Correct. A clearly marked gap preserves information about the evidence that an invented number would conceal."
+            }
+          ]
+        },
+        {
+          "id": "Q09",
+          "question_locator": "Q9",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "One participant needs an accessible digital version of the examples. Should we request it before the day?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Please describe the practical format requirement now so we can check what is available."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll ask the participant for the details rather than guess."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Good. A larger printed page may not address the same need. Record the arrangement actually used if it matters to a comparison, without treating all forms of support as identical."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "That makes the conditions easier to interpret later."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Exactly. A result becomes more useful when its relevant circumstances are visible, rather than when the record gives an inaccurate impression that everyone encountered precisely the same task."
+            }
+          ]
+        },
+        {
+          "id": "Q10",
+          "question_locator": "Q10",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Organiser",
+              "text": "How should we report a withdrawal?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Reply to the current confirmation with its reference. Comments beneath the public programme don't update our attendance record. For an urgent issue, use the contact number in the same message."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll keep the latest complete confirmation in our group folder."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "It includes the entrance and the required document."
+            },
+            {
+              "speaker": "Organiser",
+              "text": "I'll also remind everyone that the session examines evidence rather than promising a preferred conclusion."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "That's the right expectation. You may discover that the comparison supports a limited observation and a better next question, rather than the simple explanation the group originally hoped the figures would prove."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Orientation at the research centre",
+      "roles": [
+        "Centre host"
+      ],
+      "question_range": [
+        11,
+        20
+      ],
+      "word_count": 1081,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q11",
+          "question_locator": "Q11",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Welcome to the research centre. North is at the top of the map, and the entrance is on the southern edge. The hall in the centre is our fixed landmark. Reception is directly west of the hall, level with its centre. It isn't the space directly south that you pass after entering. Please check in at reception before going to the workshop. The letters identify positions, not room initials. If an older plan places an activity elsewhere, follow today's briefing and ask about any inconsistency. A remembered route can be convenient, but it is not a substitute for the current arrangement when the same building hosts several different teaching groups."
+            }
+          ]
+        },
+        {
+          "id": "Q12",
+          "question_locator": "Q12",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The briefing room is directly north of the hall, in the northern central position. An earlier programme put the introduction in the north-west room, but today's briefing uses the space directly north. The first activity asks you to identify a comparison question before inspecting the chart. A striking difference can distract the group from the outcome it originally intended to examine. Keep the brief beside the results so that a convenient number does not silently become the purpose of the study. A comparison may reveal something unexpected, but that should be described as a new observation rather than presented as an answer to a question that was never specified."
+            }
+          ]
+        },
+        {
+          "id": "Q13",
+          "question_locator": "Q13",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The example display is in the north-east corner. It is directly east of the briefing room and north of the space directly east of the hall. The two northern rooms share a row, so the display is east of the briefing room rather than north-east of that room. Several fictional records show how different definitions can produce figures with the same heading. Read the definition before comparing values. Two columns labelled completion may concern different tasks or different points in a sequence. The display is intended to make those distinctions visible, not to supply one attractive chart that every group should copy regardless of what its own information represents."
+            }
+          ]
+        },
+        {
+          "id": "Q14",
+          "question_locator": "Q14",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The observation room is in the south-east corner. It lies south of the space directly east of the hall and east of the southern central room. Groups use it to examine a short fictional visitor task. Record what the visitor does before deciding why it happened. A pause may reflect reading, waiting or uncertainty, and the action alone may not settle the explanation. If an observer gives help, note the timing and content of that help. The eventual outcome should then be interpreted in relation to it. An accurate account of support is more informative than a simple success label that makes an assisted response appear independent."
+            }
+          ]
+        },
+        {
+          "id": "Q15",
+          "question_locator": "Q15",
+          "word_count": 113,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The resource desk is in the south-west corner. It is directly south of reception and west of the southern central room. Collect the worksheet version named in the briefing. The sheets distinguish observations, possible explanations and proposed next steps, so check the headings rather than filling a familiar table from memory. If a page is missing, ask the helper instead of copying another group's completed interpretation. The resource desk supplies the materials but does not choose the conclusion for you. A well-supported uncertainty is acceptable when the records don't distinguish competing accounts. The task is to explain the evidence clearly, not to invent certainty simply because every row has a blank to fill."
+            }
+          ]
+        },
+        {
+          "id": "Q16",
+          "question_locator": "Q16",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The local checkpoint requires both a finding and a limitation. Reporting that one count is higher does not complete the task if the instruction also asks what the comparison cannot establish. Begin by identifying the required outputs and the stated word limit. Additional background may be interesting but can displace the qualification that gives the finding its proper scope. The review will examine the response against this brief, not against a different task that seems easier to answer. This is an original teaching activity. Its structured instructions make the work inspectable, but they do not give its score an official interpretation or replace a separate formal assessment requirement."
+            }
+          ]
+        },
+        {
+          "id": "Q17",
+          "question_locator": "Q17",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Check definitions before comparing results. If one session records arrival and another records completed visits, the totals answer different questions even if they appear in matching columns. The team should describe the start and end of the measure, the relevant period and any exclusions. A precise calculation cannot repair an undefined outcome. Where the records cannot support a direct comparison, state the mismatch rather than hide it in a note after a strong conclusion. That does not make the observations useless. It clarifies what can be described now and what a later collection would need to preserve before the team could ask a more specific question about change."
+            }
+          ]
+        },
+        {
+          "id": "Q18",
+          "question_locator": "Q18",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Keep missing information visible. A blank observation is not automatically a zero, and replacing it with a convenient value would create evidence the trial did not produce. The group may discuss a clearly labelled analytical assumption, but it should distinguish that choice from a recorded fact. The local checkpoint asks you to explain the basis for a conclusion, including relevant gaps. A complete-looking table can be less informative than an honest incomplete one if it conceals uncertainty. If the group decides that another observation is needed, record that as planned work rather than placing an imagined result in the current comparison and treating the question as settled."
+            }
+          ]
+        },
+        {
+          "id": "Q19",
+          "question_locator": "Q19",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "When two explanations remain plausible, identify what evidence would help distinguish them. A new layout might affect how visitors move, but a different visitor group or a changed schedule could also contribute to the result. Simply repeating the higher count more confidently does not resolve those alternatives. The team should connect a proposed next study with a specific uncertainty. It needn't investigate every imaginable cause before making any practical decision, but it should explain why the selected next step is relevant. A limited trial can support a cautious improvement while leaving a stronger causal claim unresolved, provided the report keeps those levels of conclusion distinct."
+            }
+          ]
+        },
+        {
+          "id": "Q20",
+          "question_locator": "Q20",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "At the end, preserve the first response and record any later revision separately. An original checkpoint can show what was produced under its stated conditions, while a corrected answer can show what changed after feedback. Neither should be used to stand in for a formal assessment that has not occurred. The review should retain the source, timing and help received so the record remains interpretable. A high local correct count may be encouraging, but it does not establish an official result or readiness for a separate test. The next decision should be supported by the evidence actually available, with missing formal evidence left explicitly unverified."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Reviewing a visitor-layout trial",
+      "roles": [
+        "Tutor",
+        "Tess",
+        "Noah"
+      ],
+      "question_range": [
+        21,
+        30
+      ],
+      "word_count": 1023,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q21",
+          "question_locator": "Q21",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "You reviewed the two visitor sessions last week. Should the outcome definition remain fixed for the next comparison?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "Yes. If completion means something different after the change, the totals won't answer the same question."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I agree. I initially wanted to count any visitor who reached the display, but the brief specifies a completed information task."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you ruling out collecting another measure?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "No, but it would be labelled separately."
+            },
+            {
+              "speaker": "Tess",
+              "text": "That's the distinction I support."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then both of you favour retaining the defined outcome for the comparison, while allowing an additional observation to answer a different, clearly identified question."
+            }
+          ]
+        },
+        {
+          "id": "Q22",
+          "question_locator": "Q22",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Noah proposes adding a comparison area that keeps the old layout."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I support it. That could help us examine whether the change is specific to the redesigned area."
+            },
+            {
+              "speaker": "Tess",
+              "text": "I'd improve the records in the current area first. The other space may attract different visitors for reasons we can't measure well."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Would an exploratory label change your position?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "It would make the limitation clearer, but I still prefer to defer it."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I continue to favour adding the area next."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Noah supports the specific proposal and Tess doesn't support it for this stage, even though both recognise that comparisons can be useful when their differences are recorded."
+            }
+          ]
+        },
+        {
+          "id": "Q23",
+          "question_locator": "Q23",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Tess suggests interviewing a few visitors after the task."
+            },
+            {
+              "speaker": "Tess",
+              "text": "Yes. Their explanations could help us understand whether a pause reflected reading or uncertainty about the next action."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I'd first use the observation notes. An interview may introduce memories shaped by the outcome rather than the decision at the time."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could you make that limitation explicit?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "Certainly, and I still support the interview."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I understand, but for the next trial I would leave it out."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Tess supports that additional source and Noah prefers another sequence. The disagreement concerns what to collect next, not whether a visitor's account could ever contribute to a careful interpretation."
+            }
+          ]
+        },
+        {
+          "id": "Q24",
+          "question_locator": "Q24",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Your draft report says the new layout caused every improvement."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I wrote that before checking the differences between the sessions. I don't think we can defend it now."
+            },
+            {
+              "speaker": "Tess",
+              "text": "I don't support the statement either. The visitor groups and the day of observation changed."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I'll replace the causal claim with the observed difference and its limitations."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does either of you want to keep the original sentence as a summary?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "No. A shorter sentence doesn't justify a stronger claim than the evidence supports."
+            },
+            {
+              "speaker": "Noah",
+              "text": "Agreed."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then neither student supports the original explanation, even though it appeared confidently in an earlier version of the report."
+            }
+          ]
+        },
+        {
+          "id": "Q25",
+          "question_locator": "Q25",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should missing observations remain marked as missing?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "Yes. A blank doesn't tell us that no event occurred."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I agree. I initially thought zero would make the table easier to calculate, but that would change the meaning of the record."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could you discuss an assumption separately?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "Yes, provided it is labelled and its effect examined rather than presented as observed data."
+            },
+            {
+              "speaker": "Tess",
+              "text": "That is the approach I support."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then both of you favour preserving the missing status in the record. A convenient calculation is not a reason to turn an absence of information into a fact the trial never established."
+            }
+          ]
+        },
+        {
+          "id": "Q26",
+          "question_locator": "Q26",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Noah wants another session during a busy period."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I support that. Both completed observations were relatively quiet, so we don't know whether the same difficulty appears when more people arrive."
+            },
+            {
+              "speaker": "Tess",
+              "text": "I'd first repeat a quiet session using the revised definitions, so we can check the procedure before changing demand."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could the busy session be treated as a different question?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "Yes, and I still favour it next."
+            },
+            {
+              "speaker": "Tess",
+              "text": "I would keep it for later."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Noah supports the busy-period observation and Tess doesn't support that timing for the next stage. Preserve the order you each propose rather than report agreement merely because both activities might eventually be useful."
+            }
+          ]
+        },
+        {
+          "id": "Q27",
+          "question_locator": "Q27",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Which two preparation actions are agreed?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "Preserve the outcome definition in the next observation sheet."
+            },
+            {
+              "speaker": "Noah",
+              "text": "Agreed. The record should identify exactly what counts as completion, including the point at which the observer marks it."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you selecting a universal target score for the workshop?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "No. That would not help define this measure."
+            },
+            {
+              "speaker": "Tess",
+              "text": "Nor should we alter the definition afterwards to make a preferred result easier to report."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then the first agreed action concerns the meaning of the outcome. Keep that meaning with the numbers so a later reader can understand what was counted rather than infer it from an attractive heading."
+            }
+          ]
+        },
+        {
+          "id": "Q28",
+          "question_locator": "Q28",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What is the second preparation action?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "Record the conditions that could affect the comparison, including the schedule and relevant visitor characteristics."
+            },
+            {
+              "speaker": "Tess",
+              "text": "Yes. We don't need unnecessary personal details, but the conditions must be clear enough to explain the scope of the observation."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that include inventing a value for every missing field?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "No. Unknown information stays unknown."
+            },
+            {
+              "speaker": "Noah",
+              "text": "We also don't need to rank the volunteers by the neatness of their charts."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. The two selected actions are preserving the outcome definition and recording relevant conditions. Both support interpretation of the actual comparison rather than decorating a result before its meaning has been checked."
+            }
+          ]
+        },
+        {
+          "id": "Q29",
+          "question_locator": "Q29",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What limits the comparison already completed?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "The visitor groups differed in previous experience with the exhibition."
+            },
+            {
+              "speaker": "Tess",
+              "text": "Some people in the second session knew the task from an earlier visit, which may have affected completion."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Were records from the whole first session lost?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "No. The records are available. The limitation concerns who participated, not a missing event."
+            },
+            {
+              "speaker": "Noah",
+              "text": "We should describe that difference rather than assume that equal group sizes make the groups equivalent."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "That will help the report distinguish what happened in these sessions from a claim about how any new visitor would respond to the revised layout under otherwise identical conditions."
+            }
+          ]
+        },
+        {
+          "id": "Q30",
+          "question_locator": "Q30",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Was the observation period comparable?"
+            },
+            {
+              "speaker": "Tess",
+              "text": "One session was on a weekday and the other at the weekend. The surrounding activities and arrival pattern differed."
+            },
+            {
+              "speaker": "Noah",
+              "text": "That gives another possible contribution to the result besides the layout."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that mean the redesign had no effect?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "No. It means this comparison doesn't isolate its effect."
+            },
+            {
+              "speaker": "Tess",
+              "text": "Neither session was cancelled and the pages weren't incomplete."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then retain the differences in visitor experience and observation period as the two limitations. The report can still state the observed pattern, provided it doesn't quietly convert a qualified comparison into proof of a single cause that the design cannot separate from the alternatives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "title": "Interpreting a small comparison responsibly",
+      "roles": [
+        "Lecturer"
+      ],
+      "question_range": [
+        31,
+        40
+      ],
+      "word_count": 1105,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q31",
+          "question_locator": "Q31",
+          "word_count": 112,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Consider a fictional team evaluating an exhibition change. The first stage defines a research question. This focused question identifies the outcome and comparison the team intends to examine. It should not be chosen only after a striking result has appeared in the table. A question about completing an information task differs from a question about how long visitors remain in the room, even when both can be observed during one visit. The team may investigate both, but each needs a clear purpose. Defining the question keeps the later report connected to the enquiry that guided collection, while allowing unexpected observations to be recorded as new questions rather than disguised as planned findings."
+            }
+          ]
+        },
+        {
+          "id": "Q32",
+          "question_locator": "Q32",
+          "word_count": 112,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The second stage selects a visitor sample. The sample must be described in terms relevant to the comparison, such as prior exposure to the exhibition and the time of attendance. A small sample can support useful local observation, but it should not be treated as though it automatically represents every future visitor. The team records who could enter the sample and how participation occurred. Those details matter even when the selected sample contains the same number of people in each session. Equal counts do not establish equivalent experience, needs or conditions. This stage therefore concerns the basis of the comparison, not merely filling two columns with matching totals before the analysis begins."
+            }
+          ]
+        },
+        {
+          "id": "Q33",
+          "question_locator": "Q33",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The third stage prepares a written protocol. The protocol is the procedure the observers will follow, including definitions, recording points and the handling of missing information. A written procedure makes it possible to examine whether the two sessions were conducted in comparable ways. It should be specific enough to guide a decision without pretending that every unexpected event can be predicted. If the procedure changes, the change belongs in the record. A later report should not describe a revised method as though it governed an earlier session. Keeping the protocol identifiable allows the team to distinguish a difference in the observed process from a difference in how that process was recorded."
+            }
+          ]
+        },
+        {
+          "id": "Q34",
+          "question_locator": "Q34",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fourth stage makes a structured comparison. The comparison examines the outcome alongside the relevant conditions rather than treating two totals as self-explanatory. The team checks whether the measures use the same definitions and whether the groups encountered comparable demands. Where the information cannot support a direct contrast, the mismatch remains visible. This does not require abandoning every useful description. It requires explaining what the contrast actually represents. A structured comparison may identify an unresolved alternative that the original plan did not consider. That is a reason to qualify the next claim and refine the enquiry, rather than hide the difference because it complicates an otherwise tidy account of improvement."
+            }
+          ]
+        },
+        {
+          "id": "Q35",
+          "question_locator": "Q35",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fifth stage records an interpretation supported by the observations. This qualified interpretation connects the pattern with an explanation while preserving alternatives the design cannot rule out. The explanation should not become certain merely because it is plausible or because the team prefers it. A small trial may justify retaining a feature for further investigation without establishing a general causal conclusion. The report should identify the observation, the reasoning and the limit as related but distinct parts of the account. A reader can then see what the evidence supports now and what another study would need to examine before the team could responsibly make a stronger statement about the change."
+            }
+          ]
+        },
+        {
+          "id": "Q36",
+          "question_locator": "Q36",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The named selection process in which people decide for themselves whether to participate is self-selection. In this fictional example, visitors who volunteer for a task may differ from those who pass through without joining. That difference could concern familiarity, interest or available time. The term identifies the entry process, not a conclusion that every voluntary sample is useless. The team should describe how participation occurred and consider which claims the resulting sample can support. A larger number does not automatically remove the issue if entry follows the same process. The review can still use the observations while keeping the relation between the participating group and the wider audience explicit."
+            }
+          ]
+        },
+        {
+          "id": "Q37",
+          "question_locator": "Q37",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Measurement is the named process of assigning a recorded value according to a stated rule. In this example, the rule determines when a visitor's task begins, when it ends and what counts as completion. Changing those boundaries can change the number even if the visitor's experience remains similar. The team therefore checks the procedure as well as the value in the table. Precision in recording is useful only when the measure has a clear meaning. A result written to several decimal places does not establish that two sessions used compatible definitions. The review asks what was measured and how, before treating the numerical difference as evidence about the exhibition itself."
+            }
+          ]
+        },
+        {
+          "id": "Q38",
+          "question_locator": "Q38",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "A competing influence associated with both the exposure being studied and the outcome is called a confounder here. The lecture also uses the term confounding factor for that same role. In the fictional comparison, a difference in visitor experience could affect both which session people attended and how they completed the task. The team should examine the proposed connection rather than attach the label to every difference it notices. A possible confounder is a reason to qualify a causal claim and improve the next design. It does not by itself prove that the preferred explanation is false or identify exactly how much of the observed difference belongs to the competing influence."
+            }
+          ]
+        },
+        {
+          "id": "Q39",
+          "question_locator": "Q39",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The named term for what would have happened without the change is the counterfactual. The same people cannot be observed both with and without that change at the same moment under otherwise identical conditions. A comparison or model therefore supports reasoning about the alternative, with assumptions that need to remain visible. A convenient group is not automatically a perfect substitute for the unobserved situation. The team should explain the important similarities and differences rather than rely on the appearance of two matching columns. The concept sharpens the causal question, but naming it does not give a small local trial information that its design and records do not actually contain."
+            }
+          ]
+        },
+        {
+          "id": "Q40",
+          "question_locator": "Q40",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Before claiming that the layout caused the observed difference, the team states the relevant limitations. Limitations identify what the comparison cannot establish and why. They should refer to the actual task, sample and conditions rather than operate as a generic apology for having limited time. A narrow but well-supported observation can still inform a useful next action. The review may propose another session, a clearer definition or a different source of evidence. Those are plans, not results already obtained. The original checkpoint assesses whether the response makes that distinction; it does not replace formal assessment, provide an official score conversion or establish a learner's readiness from the local correct count alone."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

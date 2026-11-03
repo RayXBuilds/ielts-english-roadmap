@@ -1,0 +1,72 @@
+{
+  "scope": "listening W05-W08 targeted frozen patch recheck",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T03:24:45.347706+08:00",
+  "freeze_sha256": "f9c6aa3be35b8a857ecd0183b75104254d294f0789e49e935f6c2e35d193acff",
+  "frozen_files": 64,
+  "closed_issues": [
+    "QA-L07",
+    "QA-L08",
+    "QA-L09"
+  ],
+  "remaining_issues": [],
+  "parent_acceptance": {
+    "path": "listening-w05-w08/acceptance.json",
+    "sha256": "aa5cf90589e36dabe61ae42612580454b42da71811e092fdae495c60de54175e",
+    "prior_conclusion": "needs_revision",
+    "inherited_scope": "Unchanged content accepted under the prior review; its historical result remains immutable."
+  },
+  "sub_batches": {
+    "W05": {
+      "conclusion": "passed"
+    },
+    "W06": {
+      "conclusion": "passed"
+    },
+    "W07": {
+      "conclusion": "passed"
+    },
+    "W08": {
+      "conclusion": "passed"
+    }
+  },
+  "evidence": {
+    "snapshot-check.json": "eb8ae5d9348555eaea7ca1c7ee7b5e9bc868e1e80dc2f7e4202d1b10b94d8cbc",
+    "patch.diff": "e5dac3fe1f1633ad0e9f5f621714283536928e83327a5d86eaadf9bb0189cf83",
+    "checks.json": "40f04db098feb80ea8f100be766b514c2d250dfdc33251c310dceb0686aa13d5",
+    "patch-checks.json": "612e60d65fb9191b236d64117a04c52e9deb7ee051c1df53e22767a48d82d4fc",
+    "structure-check.py": "208c1fff2f2b898c39f93f3e245239f02777dad7ef9853af9fd752d5f781710e",
+    "patch-check.py": "05d21b3d295664148197c547e29ce9a93d461de3077d9da0230bace5b5dc77ce",
+    "issues.json": "51ba0de8c2569eb6b671ab3b3dddfe47d20ea1c1504ed49d556fd45a14ffe2dd",
+    "REPORT.md": "2095eac0350e3b5bb24dd2024368c0fb049b62c5b4a5da78db528a20e9a7aa3e"
+  },
+  "source_drift": [],
+  "write_scope": "curriculum-expansion/qa only",
+  "not_approved": [
+    "actual learner completion",
+    "standardized scores",
+    "integration",
+    "release",
+    "publishing",
+    "audio"
+  ],
+  "verified_counts": {
+    "words": 16755,
+    "scored_slots": 160,
+    "question_objects": 152,
+    "accepted_forms": 221,
+    "new_forms": 17,
+    "unchanged_slots": 146,
+    "unchanged_script_blocks": 159,
+    "unchanged_SVG": 8,
+    "prior_files_unchanged": 36,
+    "positive_variant_calls": 68,
+    "negative_calls": 43,
+    "structural_scoring_calls": 637
+  },
+  "audio_review": {
+    "conclusion": "not_reviewed",
+    "media_missing": true,
+    "completed_playable_listening_sets": 0
+  }
+}

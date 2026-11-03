@@ -1,0 +1,816 @@
+{
+  "revision": "qa4-fix-v2",
+  "bound_media": null,
+  "turns": [
+    {
+      "question": 1,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "I'd like to book a guided walk for two people. We're reasonably fit, but we don't know the area and would prefer a route with somebody who can explain what we're seeing.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 1,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "We offer a woodland walk and a coastal walk. The woodland route is shorter, but the coastal one includes several interesting viewpoints.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 1,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "Let's choose the coastal walk. We spend a lot of time in woods at home, so it would be nice to explore a different landscape while we're here.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 2,
+      "part": 1,
+      "turn": 1,
+      "role": "Adviser",
+      "text": "Which day would suit you? The same route runs twice this week, but the group sizes are slightly different.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 2,
+      "part": 1,
+      "turn": 2,
+      "role": "Customer",
+      "text": "We first thought about Sunday. However, we've just arranged to visit friends then, so Saturday would be better.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 2,
+      "part": 1,
+      "turn": 3,
+      "role": "Adviser",
+      "text": "There are still two places on Saturday. I'll reserve those while we go through the details.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 2,
+      "part": 1,
+      "turn": 4,
+      "role": "Customer",
+      "text": "Thank you. We can organise the rest of our weekend around that. It's helpful to have one activity fixed before deciding what to do with the remaining time.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 3,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "Where does everybody meet? We're staying near the harbour, but we can walk across town if necessary.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 3,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "Meet outside the old station. It no longer has trains, but the building is easy to recognise and there is shelter if the weather is poor. Don't go to the modern bus station, which is on the other side of town.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 3,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "I think we passed the old building yesterday. There was a small exhibition in the waiting room, so we should be able to find it again.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 4,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "What time should we be there? I don't want to confuse the meeting time with the time the walk actually starts.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 4,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "Please arrive at nine fifteen. The guide will check the group and explain the route before you leave at half past nine. That preparation is part of the activity, so arriving just as the group sets off isn't ideal.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 4,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "We'll aim for a little earlier. Our accommodation serves breakfast from eight, which should leave enough time to eat and walk over comfortably.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 5,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "How far will we walk altogether? We can manage a fair distance, but my friend would appreciate knowing before deciding which shoes to bring.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 5,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "The route is eight kilometres. It includes gentle climbs and some uneven ground, so it takes longer than the same distance on a pavement. We stop regularly to look at features along the way.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 5,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "That sounds manageable. We're interested in the guide's explanations, so a route with pauses is more appealing than trying to cover as much ground as possible.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 6,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "And what's the price for each adult? The website mentioned a discount, though I couldn't tell whether that applied to this route.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 6,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "It's twenty-four pounds per adult. The discount is for groups booking six or more places together, so it wouldn't apply to your booking. The price includes the guide, but not lunch or transport back into town.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 6,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "That's clear. We're only booking for two, and we'd rather know the ordinary price than rely on an offer that doesn't apply to us.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 7,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "What should we bring apart from walking shoes and water? The forecast looks dry, but I know conditions can change quickly near the sea.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 7,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "Carry a waterproof, even if the morning is sunny. The exposed sections can feel very different from the sheltered town. A heavy umbrella isn't useful on the narrow path, particularly if it becomes windy.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 7,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "We'll put lightweight jackets in our bags. They don't take up much room, and we'd prefer to carry them unnecessarily than discover halfway round that we need them.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 8,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "Is there a cafe where the group stops for lunch, or should we bring food with us?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 8,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "Bring a packed lunch. We'll stop near the lighthouse, where there are benches overlooking the bay. There's no cafe at that point, and the small shop on the route isn't always open.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 8,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "We'll buy something before leaving town. The stop sounds lovely, and carrying lunch means we won't have to worry about whether a shop has enough food for the whole group.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 9,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "Does the walk finish where it begins? If not, we need to know how to get back, because we won't have a car.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 9,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "The walk finishes in the next village, and the return journey is by bus. The guide will show you the stop and check the current timetable before the group leaves town. You buy that ticket separately.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 9,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "Fine. We might spend a little time in the village first, provided there is a later service. We'll confirm that with the guide on the day.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 10,
+      "part": 1,
+      "turn": 1,
+      "role": "Customer",
+      "text": "One final question: what happens if conditions are too poor for the walk to go ahead? We would understand a cancellation, but we'd need to adjust our plans.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 10,
+      "part": 1,
+      "turn": 2,
+      "role": "Adviser",
+      "text": "If the organiser cancels, customers receive a full refund. We'll contact you using the details on your booking. Cancellation by a customer has different conditions, which are explained in the confirmation.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 10,
+      "part": 1,
+      "turn": 3,
+      "role": "Customer",
+      "text": "Please send those through. I'll read them before paying, and I'll make sure my phone is switched on while we're away.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 11,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Welcome to the community theatre. Many visitors remember this building as a cinema, and several features of that earlier use are still visible. The sloping floor and small projection window were retained when the space was converted. Today we use the building for performances, rehearsals and practical workshops. The organisation is supported by a mixture of paid staff and volunteers. This introduction is for people considering a volunteer role, so I'll focus on what happens behind the scenes as well as in the auditorium.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 12,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Every new volunteer begins with an induction session. Previous theatre experience is welcome, but it doesn't replace learning how this particular building works. The session covers entrances, evacuation arrangements, communication and the limits of each role. You won't be expected to remember everything immediately; written guidance is provided afterwards. Please ask if a direction seems unclear. It's much easier to resolve a question in advance than during a busy evening when audience members are arriving and several things need attention at once.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 13,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Our current priority is recruiting ushers. These volunteers help audience members find seats, answer straightforward questions and alert the duty manager if a problem occurs. We also have people helping with costumes and scenery, but those teams have enough members for the next production. Being an usher doesn't require detailed knowledge of theatre. It does require patience, a clear understanding of your responsibilities and willingness to ask for help rather than improvise when a situation falls outside the guidance you've been given.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 14,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Volunteers receive their rota by email. We try to send it well before the performance week so that people can check their availability. Please reply even if all your assigned dates are suitable; otherwise we don't know whether the message reached you. If you need to swap a shift, contact the coordinator rather than relying on an informal arrangement with a friend. The final rota must show who is actually expected, because the duty manager uses it when allocating positions before the doors open.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 15,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Personal belongings should be stored in the lockers near the staff entrance. Bags left under seats or beside doors can obstruct movement, particularly when the lights are low. The lockers are small, so bring only what you need for the shift. Keep essential items with you if the coordinator advises it, but don't carry a large bag while helping people through the auditorium. At the end of the evening, check that you've collected everything so the space is ready for the next group.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 16,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Questions about access arrangements should go to the duty manager. Ushers can explain the location of facilities, but they shouldn't promise an arrangement they aren't authorised to provide. Some visitors will have contacted the theatre in advance, while others may raise a need on arrival. Listen carefully and pass on the relevant information without making assumptions about what help a person wants. The aim is to make the visit work for that individual, rather than automatically offering the same response to everyone.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 17,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "For the next production, the interval lasts twenty minutes. Ushers help people return to their seats before the second half begins. Please use the agreed announcement rather than shouting individual reminders across the room. A calm, consistent approach makes the process easier for both staff and visitors. Some audience members may need more time to move, so keep the route clear and follow the manager's directions. The performance team needs to know when the auditorium is ready before the lights are lowered again.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 18,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "The backstage area requires a pass. Even if you're volunteering elsewhere in the building, you shouldn't enter simply because you recognise somebody going through the door. Performers and technicians may be moving equipment or preparing for a cue, and an unexpected visitor can create a distraction. If an audience member asks to leave something for a performer, take the request to the duty manager. Do not guide them backstage yourself. There is a procedure for messages and deliveries that keeps the working area clear.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 19,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Volunteer feedback is discussed at a monthly meeting. You don't have to wait until then to report an urgent problem, but the meeting is useful for reviewing patterns across several performances. Perhaps a sign is repeatedly missed, or visitors ask the same question every night. Those observations can suggest a practical improvement. Try to describe what happened before proposing a solution. A clear account helps the group understand whether the difficulty comes from information, the building layout or the way a task is organised.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 20,
+      "part": 2,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "The next practical workshop covers lighting. It is an introduction to how lighting choices affect a scene, rather than permission to operate equipment during performances. Participants will see demonstrations and discuss examples with a technician. Places are limited because the working area is small, so register separately even if you've already applied to volunteer. If the first workshop fills up, we'll keep a waiting list for a later date. Thank you for coming; we'll now walk through the public areas together before visiting the staff entrance.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 21,
+      "part": 3,
+      "turn": 1,
+      "role": "Tutor",
+      "text": "Your proposal mentioned several possible topics. Which one have you chosen for the podcast?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 21,
+      "part": 3,
+      "turn": 2,
+      "role": "Student one",
+      "text": "We were interested in food, but the initial interviews kept returning to housing. Students talked about how their accommodation affected study and friendships.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 21,
+      "part": 3,
+      "turn": 3,
+      "role": "Student two",
+      "text": "We'd like to make housing the main topic and use food only where it's relevant to that experience.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 21,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "That gives you a clearer focus. Remember that a coherent short programme usually works better than trying to include every interesting comment you collected.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 22,
+      "part": 3,
+      "turn": 1,
+      "role": "Student two",
+      "text": "Should we explain basic terms about renting, or would that make the programme too simple?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 22,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "It depends on your intended audience. Who do you expect to listen?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 22,
+      "part": 3,
+      "turn": 3,
+      "role": "Student one",
+      "text": "New students who haven't arranged accommodation yet. Some may be arriving from another country.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 22,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "Then explain terms that experienced residents take for granted. You can do that briefly without turning the podcast into a lecture. Think about the decisions listeners face and what information they need in order to understand your examples.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 23,
+      "part": 3,
+      "turn": 1,
+      "role": "Student one",
+      "text": "I wrote an opening with several statistics, but it sounds rather formal when I read it aloud.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 23,
+      "part": 3,
+      "turn": 2,
+      "role": "Student two",
+      "text": "Perhaps we could begin with the short story about arriving at a flat and discovering that the journey to campus took much longer than expected.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 23,
+      "part": 3,
+      "turn": 3,
+      "role": "Tutor",
+      "text": "That would give listeners a concrete situation. Use the story, then explain the wider question it introduces. Avoid treating one person's experience as evidence that the same thing happens to everyone. The opening should invite interest without overstating what you know.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 24,
+      "part": 3,
+      "turn": 1,
+      "role": "Student two",
+      "text": "We added quiet background music throughout the draft. I thought it would make the programme sound more professional.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 24,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "During interviews, remove it. Some words are already difficult to hear, and the music makes listeners work harder.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 24,
+      "part": 3,
+      "turn": 3,
+      "role": "Student one",
+      "text": "We can use a short musical transition between sections instead.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 24,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "Only if you have the necessary permission for the recording. Production choices should support understanding, and any music you retain needs a documented source and suitable licence rather than an assumption that a short extract is harmless.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 25,
+      "part": 3,
+      "turn": 1,
+      "role": "Student one",
+      "text": "The interviewees agreed to help with our assignment. Do we need to contact them again if the finished podcast goes on the department website?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 25,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "Yes. Check consent for public distribution. Agreeing to a classroom exercise isn't automatically agreement to an online publication. Explain the intended use clearly.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 25,
+      "part": 3,
+      "turn": 3,
+      "role": "Student two",
+      "text": "We'll send them the relevant extract and the distribution details.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 25,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "Good. Keep a record of the response, and have an alternative plan if someone prefers their contribution to remain within the class.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 26,
+      "part": 3,
+      "turn": 1,
+      "role": "Student two",
+      "text": "Some interviews contain the same question twice because I wasn't sure the recorder had captured the first answer. Should both versions remain so that the conversation is complete?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 26,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "Repeated questions can usually be cut during editing, provided the change doesn't distort the speaker's meaning.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 26,
+      "part": 3,
+      "turn": 3,
+      "role": "Student one",
+      "text": "We'll listen to the surrounding sentences after each cut.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 26,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "Exactly. An edit that looks neat on a screen can sound abrupt. It can also remove a qualification that changes how a statement should be understood.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 27,
+      "part": 3,
+      "turn": 1,
+      "role": "Student one",
+      "text": "We're preparing a transcript for people who prefer reading or cannot use the audio. Is it enough to put all the words into paragraphs?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 27,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "The transcript must identify each speaker. A listener may distinguish voices, but a reader needs another way to follow the exchange.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 27,
+      "part": 3,
+      "turn": 3,
+      "role": "Student two",
+      "text": "We'll use consistent labels and mark relevant sounds where they affect meaning.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 27,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "Good. Check the transcript against the final edited recording, not an earlier version. Otherwise it may contain material that no longer appears or miss a correction.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 28,
+      "part": 3,
+      "turn": 1,
+      "role": "Student two",
+      "text": "It sounds clear through the studio monitors. Does that mean the audio quality is ready for release?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 28,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "Test it in a more typical listening situation. Ask your pilot listeners to use ordinary headphones.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 28,
+      "part": 3,
+      "turn": 3,
+      "role": "Student one",
+      "text": "We can also ask whether they had to change the volume between sections.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 28,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "Yes. Listen for consistency as well as individual clarity. A programme can contain several clean recordings that become tiring together because one voice is much louder than the next or transitions arrive unexpectedly.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 29,
+      "part": 3,
+      "turn": 1,
+      "role": "Student one",
+      "text": "Our feedback form asks whether the topic was interesting and whether the length felt appropriate. What else should we include?",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 29,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "Ask about confusing terms. Since the programme is aimed at new students, you need to know where assumed knowledge creates a gap.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 29,
+      "part": 3,
+      "turn": 3,
+      "role": "Student two",
+      "text": "We'll leave space for listeners to write the exact word or phrase.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 29,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "That will help. A general question about clarity often produces a polite answer, while a request for a particular example can identify something you can actually revise.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 30,
+      "part": 3,
+      "turn": 1,
+      "role": "Student two",
+      "text": "The current version is nearly sixteen minutes. We could cut some material, but we're worried about losing useful advice.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 30,
+      "part": 3,
+      "turn": 2,
+      "role": "Tutor",
+      "text": "The completed episode should last twelve minutes, as specified in the brief. Prioritise the central question and remove repetition before cutting explanations that listeners need.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 30,
+      "part": 3,
+      "turn": 3,
+      "role": "Student one",
+      "text": "We'll make a revised outline before editing again.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 30,
+      "part": 3,
+      "turn": 4,
+      "role": "Tutor",
+      "text": "Sensible. Deciding what each section contributes will help you make deliberate cuts. Simply shortening every interview by the same amount could damage the strongest material while preserving weaker passages.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 31,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Today we'll examine public signs as tools for guiding movement. A sign may seem like a small design object, but its usefulness depends on where a person encounters it and what decision they need to make at that moment. A beautifully drawn arrow has little value if it appears after the relevant junction. We'll consider how wording, placement and consistency interact, using an imaginary transport building as an example. The aim is to understand a method of evaluation, not to prescribe one style for every place.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 32,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "A route usually contains several decision points. These are places where a traveller must choose between possible directions, such as a junction, doorway or change of level. Mapping those points is a useful first step because it reveals where information is required. It also prevents designers from placing signs only where there happens to be an empty wall. The route should be examined from the traveller's perspective, including what is visible on approach and whether other people or objects may block the view.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 33,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Inconsistent destination names can create confusion even when each individual sign is easy to read. If a ticket calls a place the central hall, one sign says main concourse and another says public lobby, a visitor may not know that they refer to the same space. Local staff often overlook this problem because the equivalence is familiar to them. Reviewing terminology across tickets, maps and physical signs can reveal inconsistencies that are invisible when each item is assessed separately by its own production team.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 34,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "High contrast improves text legibility, although contrast alone cannot solve every reading problem. Letter size, viewing distance and lighting conditions also matter. A sample that looks clear on a designer's bright screen may behave differently in a dim corridor or beside a reflective window. Evaluation therefore needs realistic conditions. This is one reason to test a physical sample in position before ordering an entire system. Small adjustments made early can prevent an expensive replacement once all the signs have been installed.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 35,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Symbols can reduce the amount of text, but they may still require cultural knowledge. A familiar symbol feels obvious to people who have encountered it repeatedly. That familiarity should not be mistaken for universal understanding. Testing with a varied group can reveal interpretations the design team did not anticipate. Where the meaning is important, combining a symbol with clear words may be more helpful than relying on the image alone. The appropriate balance depends on the setting and the decisions users are expected to make.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 36,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "A user test should record wrong turns, not merely whether participants eventually arrive. Someone may reach the destination after several unnecessary detours and still report that the task was manageable. Recording the route reveals where uncertainty occurred. Observers should avoid directing participants unless assistance is required, because a helpful hint can hide the very problem being investigated. The test must also make clear that the information system is being evaluated. Participants should not feel that a mistake reflects their intelligence or ability to navigate.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 37,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Asking participants to think aloud can reveal what they notice and how they interpret it, but the method may change normal behaviour. A person explaining every choice may slow down and inspect signs more carefully than an ordinary traveller would. This doesn't make the method useless. It means its findings should be interpreted alongside other evidence. Researchers can combine verbal accounts with route observations or follow-up questions. Each method illuminates part of the process while introducing its own limitations, which should be described rather than concealed.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 38,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Temporary notices can cause visual clutter when they accumulate around permanent directions. A maintenance message, event poster and promotional display may each be reasonable in isolation, yet together they compete with information needed for navigation. Managing signs is therefore an ongoing responsibility rather than a task completed on installation day. Someone needs to review what remains relevant, remove expired notices and consider how new material affects the whole view. Without that process, even a carefully designed system can become difficult to use over time.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 39,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Maintenance records should include a sign's location as well as its wording and condition. A list saying that three arrows need replacement is not very useful if staff cannot identify which arrows are meant. A simple plan or stable location code can connect the record to the physical object. This also helps when a destination moves and several signs need updating together. Consistency must be maintained across the route; replacing one sign while leaving contradictory information elsewhere can increase confusion rather than reduce it.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    },
+    {
+      "question": 40,
+      "part": 4,
+      "turn": 1,
+      "role": "Speaker",
+      "text": "Finally, success should be measured with more than travel time. A faster route may be desirable, but confidence, accessibility and the number of requests for assistance can also matter. Different users may prioritise these outcomes differently. A system that works well for frequent commuters may still be difficult for a first-time visitor carrying luggage. The evaluation should therefore state whose experience it concerns and which outcomes were measured. Clear scope makes the results useful without pretending that one successful test establishes effectiveness for every person and circumstance.",
+      "assigned_voice": null,
+      "status": "not_synthesized_for_this_revision"
+    }
+  ]
+}

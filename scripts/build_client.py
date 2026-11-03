@@ -12,7 +12,9 @@ for id,body in re.findall(r'<section id="([^"]+)">(.*?)</section>',s,re.S):
  body=body.replace('<a href="#">回到顶部</a>','')
  body=re.sub(r'<p><a href="assets/.*?</p>','',body,flags=re.S)
  body=re.sub(r'(href|src)="(?!#)([^"]+)"',r'\1="../\2"',body)
- lessons.append(dict(id=id,title=title,html=body,type='reading' if id.startswith('r') else 'listening' if id.startswith('l') else 'speaking' if id.startswith('s') else 'bridge' if id.startswith('u') else 'check'))
+ lesson=dict(id=id,title=title,html=body,type='reading' if id.startswith('r') else 'listening' if id.startswith('l') else 'speaking' if id.startswith('s') else 'bridge' if id.startswith('u') else 'check')
+ if id in {f'u{n}' for n in range(36,60)}:lesson['previewOnly']=True
+ lessons.append(lesson)
 days=[]
 for name in ['first-28-days.md','days-29-84.md']:
  for line in (ROOT/'plans'/name).read_text().splitlines():
@@ -24,7 +26,7 @@ for name in ['first-28-days.md','days-29-84.md']:
    return f'<a href="#{id}">{html.escape(label)}</a>'
   material=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,c[2])
   days.append(dict(day=int(c[0].split()[1]),title=c[1],materials=material,steps=c[3],output=c[4]))
-assert len(lessons)==85 and len({l['id'] for l in lessons})==len(lessons)
+assert len(lessons)==109 and len({l['id'] for l in lessons})==len(lessons)
 assert [d['day'] for d in days]==list(range(1,85))
 ids={l['id'] for l in lessons}
 assert {'u00','u01','u02','u03','u04','u05'} <= ids

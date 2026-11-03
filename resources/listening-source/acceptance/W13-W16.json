@@ -1,0 +1,89 @@
+{
+  "scope": "listening W13-W16 QA-L12/L13 targeted answer-form patch; text/questions/scorer unchanged-content regression; audio excluded",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T06:37:17.264965+08:00",
+  "freeze_sha256": "72c3c97996cb6081b9b5528213cbaa1d0f167f66787ee4f8f4406011d176f670",
+  "frozen_files": 68,
+  "parent_acceptance": {
+    "path": "../listening-w13-w16/acceptance.json",
+    "sha256": "e3ce3c10e7709d925e652788efdd6589ab8a96b8b224eb1dec56972b83060b3d",
+    "conclusion_retained": "needs_revision"
+  },
+  "verified_counts": {
+    "text_sets": 4,
+    "parts": 16,
+    "spoken_words": 17121,
+    "scored_blanks": 160,
+    "question_objects": 152,
+    "changed_question_objects": 8,
+    "unchanged_scored_blanks": 152,
+    "added_forms": 8,
+    "removed_forms": 1,
+    "registered_answer_forms": 282,
+    "registered_single_forms": 266,
+    "unchanged_SVG_with_parent_visual_review": 8,
+    "actual_scoring_calls": 3138,
+    "after_patch_scoring_calls": 3093,
+    "before_patch_control_calls": 45,
+    "prior_files_unchanged": 168,
+    "parent_QA_files_unchanged": 89
+  },
+  "sub_batches": {
+    "W13": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "remaining_issues": []
+    },
+    "W14": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "remaining_issues": []
+    },
+    "W15": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "remaining_issues": []
+    },
+    "W16": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "remaining_issues": []
+    }
+  },
+  "closed_issues": [
+    "QA-L12",
+    "QA-L13"
+  ],
+  "remaining_issues": [],
+  "nonblocking_observations": [],
+  "audio_review": {
+    "conclusion": "not_reviewed_missing",
+    "audio_files": 0,
+    "actual_duration_seconds": null,
+    "completed_playable_listening_sets": 0,
+    "approved": false
+  },
+  "evidence": {
+    "snapshot-check.json": "e5a69767f471afcbbfa8b81afd3787d1ba32f67df51af1d4040df26ff8371b0b",
+    "parent-history-hashes.json": "c4551bc4bea0f64550a76fa5e67863b2206fdabdb4e4b923f8984ce620353ea4",
+    "checks.json": "a981360c1cb46f472e709cd23ad218306b13cc56f664c89cf1040fc57d4fde81",
+    "scoring-calls.json": "e179b862683aa1f2af07ee106761139e2c5f46027d3553113078fe18c5694f8d",
+    "patch-checks.json": "d663ffe1bfe066b4378b45f98a034efbf0b42aef9edd77b3fe0988a8c2d86856",
+    "patch-scoring-calls.json": "9a7f30057b62570031427b11297886a51e83ed1202d8f2269073e846b612988e",
+    "supplement.json": "65d33a180d2f8c631a76f736580280784f2fe9cd0aa3fa117c17249a30be6bf8",
+    "issues.json": "e72e4dd616977a42f9df058a5fe367d6d6d6aa7a591d80f07db167b5f01c194f",
+    "REPORT.md": "8bbe52635cd1c65d44c06b50b1c39cad92f7fbafca4360e65fe9e0671289d4b1",
+    "snapshot.py": "9ea4287f762e75f22b94e2fc11b020f41642809eff1b118109bb0f0e15ab0f01",
+    "check.py": "a11d1b90fd592ea744aef78c00274738d9c70a53f1459d8b074a67175a0c04df",
+    "patch-check.py": "75adfefcefc0f335904bd3f39ce4c76aad3e1735c2f6d7a222cc1136ba844ad4",
+    "supplement.py": "d3f927a657310a6d3d1fd213548fe8bc0af3845982afe1979802b103dcee60ea"
+  },
+  "source_drift": [],
+  "write_scope": "curriculum-expansion/qa only",
+  "not_approved": [
+    "Audio/playback",
+    "Actual learner completion or elapsed time",
+    "Formal T16/official/human scoring",
+    "Integration/publication"
+  ]
+}

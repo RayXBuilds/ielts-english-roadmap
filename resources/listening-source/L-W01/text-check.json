@@ -1,0 +1,16 @@
+{
+  "revision": "qa4-fix-v2",
+  "questions": 40,
+  "part_counts": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "word_count_excluding_roles": 3220,
+  "ordered_evidence": true,
+  "accepted_answers_all_questions": true,
+  "audio_timestamps": null,
+  "type_coverage": "note completion only",
+  "status": "self_checked_pending_QA_recheck"
+}

@@ -32,6 +32,24 @@ test('0.1 backup migrates without losing progress, words, notes or audio',()=>{
  h.run('window.restoreBackup(JSON.stringify(old))');
  assert.equal(h.run('state.preferences.fontSize'),18);assert.equal(h.run('state.notes.r01'),'旧版笔记');assert.equal(h.run('state.completed.r01'),true);assert.equal(h.run('state.words[0].reviewed'),true);assert.equal(h.run('state.media.l01'),9.5);
 });
+test('text previews survive backup separately from training completion, including earlier candidate marks',()=>{
+ const h=harness();h.run("const legacy=blank();legacy.completed.r01=true;legacy.completed.u36=true;legacy.previewRead.u59=true;legacy.previewRead.r02=true;legacy.notes.u36='预览笔记';window.restoreBackup(JSON.stringify(legacy))");
+ assert.equal(h.run('state.completed.r01'),true);
+ assert.equal(h.run('state.completed.u36'),undefined);
+ assert.equal(h.run('state.previewRead.u36'),true);
+ assert.equal(h.run('state.previewRead.u59'),true);
+ assert.equal(h.run('state.previewRead.r02'),undefined);
+ assert.equal(h.run('completedCount()'),1);
+ assert.equal(h.run('trainingLessons().length'),85);
+ h.c.raw=h.writes.at(-1).payload;h.run('window.restoreBackup(raw)');
+ assert.equal(h.run('state.previewRead.u59'),true);
+ assert.equal(h.run('state.notes.u36'),'预览笔记');
+ assert.equal(h.run('completedCount()'),1);
+});
+test('invalid optional preview records do not replace existing learning data',()=>{
+ const h=harness();h.run("state.notes.r01='keep';const bad=blank();bad.previewRead=[];window.restoreBackup(JSON.stringify(bad))");
+ assert.equal(h.run('state.notes.r01'),'keep');assert.equal(h.writes.length,0);
+});
 test('font preferences round trip and invalid values fall back',()=>{
  const h=harness();assert.equal(h.run('const p=blank();p.preferences.fontSize=21;validate(p).preferences.fontSize'),21);
  assert.equal(h.run('p.preferences.fontSize=999;validate(p).preferences.fontSize'),18);

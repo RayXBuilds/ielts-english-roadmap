@@ -1,0 +1,280 @@
+{
+  "scope": "listening W17-W20 original text, questions, reference scorer, unchanged diagrams: QA-L14 targeted recheck; audio excluded",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T07:50:46.608218+08:00",
+  "freeze_sha256": "a6024ca1e1bfdec84c6f775c85288b29aed5743fdb0663092779033fefaafe78",
+  "frozen_files": 69,
+  "parent_acceptance": {
+    "path": "../listening-w17-w20/acceptance.json",
+    "sha256": "32e5afae0126cbacc06cdfbe7251ee20e39b9a6248415e5614c255427917e8b2",
+    "conclusion": "needs_revision",
+    "preserved": true
+  },
+  "verified_counts": {
+    "spoken_words": 16653,
+    "scored_blanks": 160,
+    "question_objects": 152,
+    "registered_answer_forms": 284,
+    "changed_blanks": 4,
+    "added_forms": 5,
+    "removed_forms": 0,
+    "unchanged_blanks": 156,
+    "actual_scoring_calls": 6017,
+    "before_patch_calls": 25,
+    "current_patch_calls": 5992,
+    "prior_files_unchanged": 236,
+    "historical_QA_files_unchanged": 93,
+    "unchanged_SVG": 8
+  },
+  "sub_batches": {
+    "W17": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": []
+    },
+    "W18": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": [
+        "QA-L14"
+      ]
+    },
+    "W19": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": [
+        "QA-L14"
+      ]
+    },
+    "W20": {
+      "conclusion": "passed",
+      "remaining_issues": [],
+      "closed_issues": []
+    }
+  },
+  "closed_issues": [
+    {
+      "id": "QA-L14",
+      "status": "closed",
+      "prior_acceptance_sha256": "32e5afae0126cbacc06cdfbe7251ee20e39b9a6248415e5614c255427917e8b2",
+      "fix": "Only 4 accepted_answers arrays add the 5 requested same-block forms; all old forms retained.",
+      "changes": [
+        {
+          "lesson": "L-W18",
+          "q": "Q31",
+          "before": [
+            "claim",
+            "main claim"
+          ],
+          "after": [
+            "claim",
+            "main claim",
+            "proposition"
+          ],
+          "added": [
+            "proposition"
+          ],
+          "removed": [],
+          "all_other_question_fields_equal": true
+        },
+        {
+          "lesson": "L-W18",
+          "q": "Q32",
+          "before": [
+            "scope",
+            "stated scope"
+          ],
+          "after": [
+            "scope",
+            "stated scope",
+            "boundary",
+            "intended boundary"
+          ],
+          "added": [
+            "boundary",
+            "intended boundary"
+          ],
+          "removed": [],
+          "all_other_question_fields_equal": true
+        },
+        {
+          "lesson": "L-W18",
+          "q": "Q34",
+          "before": [
+            "qualification",
+            "clear qualification",
+            "limitation"
+          ],
+          "after": [
+            "qualification",
+            "clear qualification",
+            "limitation",
+            "boundary"
+          ],
+          "added": [
+            "boundary"
+          ],
+          "removed": [],
+          "all_other_question_fields_equal": true
+        },
+        {
+          "lesson": "L-W19",
+          "q": "Q36",
+          "before": [
+            "reference frame",
+            "frame",
+            "fixed frame"
+          ],
+          "after": [
+            "reference frame",
+            "frame",
+            "fixed frame",
+            "viewpoint"
+          ],
+          "added": [
+            "viewpoint"
+          ],
+          "removed": [],
+          "all_other_question_fields_equal": true
+        }
+      ],
+      "verification": "25 before/after paired variants: before 0, after 1; 106 original candidate calls and 2889 original base calls replayed; 68 additional negative variants remain 0."
+    }
+  ],
+  "remaining_issues": [],
+  "nonblocking_observations": [
+    {
+      "id": "OBS-L17-01",
+      "blocking": false,
+      "title": "两处宽题干的解释边界",
+      "items": [
+        {
+          "lesson": "L-W19",
+          "q": "Q38",
+          "input": "relationship",
+          "actual": {
+            "valid": true,
+            "points": 0
+          },
+          "decision": "nonblocking_ambiguity_observation",
+          "reason": "原文relationship being compared是类比中被比较的关系；是否可作为跨场景analogy答案有解释空间，本轮不据此判阻断。"
+        },
+        {
+          "lesson": "L-W20",
+          "q": "Q31",
+          "input": "feature",
+          "actual": {
+            "valid": true,
+            "points": 0
+          },
+          "decision": "nonblocking_ambiguity_observation",
+          "reason": "criterion states the feature区分标准与所考察特征；宽题干可产生竞争理解。建议后续明确术语提示或说明边界，本轮未把该形式判为必须加入。"
+        }
+      ],
+      "note": "这些形式仅记录为可进一步澄清的边界，未并入5种确定漏收或要求必须加入。"
+    }
+  ],
+  "visual_review": "8 SVG and historical independent renders unchanged; inherit parent actual-view evidence, no new render/actual-view claimed",
+  "audio_review": {
+    "conclusion": "not_reviewed_missing",
+    "audio_files": 0,
+    "actual_duration_seconds": null,
+    "completed_playable_listening_sets": 0,
+    "approved": false
+  },
+  "source_drift": [],
+  "evidence": {
+    "REPORT.md": "a411f548a6e936d7d1f33f7af8603aa4a1e43a2c54941aded90d0b8925bc0e0f",
+    "before-QA.md": "df628f97f987c3335e9d73e8787789ac24eec72fa73d951bb248bd03e38cdc65",
+    "before-acceptance-index.json": "156b545f55287bd8b4f531e60fa6f8b84a91c89fe3f0e4f99b480e9527873aae",
+    "check.py": "bc6c698cc1a34545d427efb9cc178324b1131c6050b52db37c590b3bad782fc9",
+    "checks.json": "1f9865d02c405d95e59ba3f731aeaf501fb80f9d26358fcba7fb6e0a0a409c61",
+    "finalize.py": "f1b387323d42a5a5668bf6724ab1029ad5ebd5c88543a527e9aafe9177ed0dd3",
+    "issues.json": "cec1e7be90fa21370780ba0cd7c9617858442a4876e8994a3a3ac3e9cb6f26a2",
+    "parent-base-replay.json": "0c4f411525409c4b6d35c20a97e217f39824ebe2fa6e4c32f26885f87dd6892a",
+    "parent-history-hashes.json": "17cea26a17874cadf1a28b26ab3c7566734ed83ee16409fbc1f9a12c8833e3d2",
+    "patch-check.py": "a09aa677b455fae3a6cedbcdc7bc4784a58c3fcd26e5781dc4da1c8d890b082a",
+    "patch-checks.json": "f947018ab265b9bad4dc0473fe744f92316b273371220b207d1f995024e1df9a",
+    "patch-scoring-calls.json": "f6a2a0e75ad603e2c62a699922cd6c13b7cabc8a128ed32ad8c579097e88e94f",
+    "scoring-calls.json": "5d3df0b18e7bb2658c1751bfcb020df8e0f25c8f4af5e275855c9f739289b91e",
+    "snapshot/FREEZE.json": "a6024ca1e1bfdec84c6f775c85288b29aed5743fdb0663092779033fefaafe78",
+    "snapshot/L-W17/STATUS.md": "2e71b08e64ec2ab37884047020c8e0ea9194725e70da12ae9ed3b6aa51dafc8f",
+    "snapshot/L-W17/answers.md": "11222c5377714314bb829d43e16916f1e3109018f48b646ce7972afc795f77aa",
+    "snapshot/L-W17/flow.svg": "1156412d11b64130fd5f6b59f90985eb63cd866dfaf446bd2b60f76c4c8770c9",
+    "snapshot/L-W17/intensive.md": "a95521e790050e61fcd6d05f6eeea6dd7d136726897fa74603c344bcbad6e035",
+    "snapshot/L-W17/map.svg": "6bfcbe6eb8fb2eab6b905accf5d7df539952b52321cde1670fe8f7756ec50cd5",
+    "snapshot/L-W17/questions.json": "dcf9d2468b4f661062fee29c67c788df162bef3a80bb16e5b6c11896e26df0b0",
+    "snapshot/L-W17/script-source.txt": "2854b4aafba9f333e319579e28e34c9fd07f01fee284145c99f79993613d56c5",
+    "snapshot/L-W17/script.md": "283863085287ad9fd6eefde8f1094b00154ec57a0f36d79eca0143431b376f45",
+    "snapshot/L-W17/source.json": "4483e0662c92d7439775e194e96f6b12d11df32df25e3119098abeb7cb1aa9a3",
+    "snapshot/L-W17/student.md": "5e6cb822041bba8617792bc6a768355c99406ebd17a4a22e582201e43639e2eb",
+    "snapshot/L-W18/STATUS.md": "0b28f8e71fe0bfb7ac1ef3753d13f2cde3f9b44e1965eab7831b2969f377f2fe",
+    "snapshot/L-W18/answers.md": "a948d3161c452670b4d12f4d708004a107a21854ae7712be13ccd6f1b99c77c5",
+    "snapshot/L-W18/flow.svg": "6227b753d7da5e5cdc76900774e84e553ddb2ae5d054661e27f5fab6c731d8aa",
+    "snapshot/L-W18/intensive.md": "ae442f19a206234e256ae2e3c2d67008f7ab129e3f6d139fcfe2194eb5996aa9",
+    "snapshot/L-W18/map.svg": "496541dc770161d08ade9a0185498bd4a6a8462ead814f457296843be4a5aad4",
+    "snapshot/L-W18/questions.json": "3f020b3181e566e3c1b3ddb75db09b936cddf67b940dd7e2bf09705ee6ad6d9e",
+    "snapshot/L-W18/script-source.txt": "336aad69196b54b0ef83567e31b3ba101e5a5e8c788af81eb6e312803015852b",
+    "snapshot/L-W18/script.md": "3420650858e59c29f19f4739e99ba7ff089a2bf0196e53361f9aa9adf154190c",
+    "snapshot/L-W18/source.json": "b7c2c47593643c98b2796dd8316f9564b26da24937c7c2daf75db66d8caaf1f3",
+    "snapshot/L-W18/student.md": "0af26a2e8a2accacb9a6f71f25d3228805cd125e26ffddd2a1ab9fd941c77cce",
+    "snapshot/L-W19/STATUS.md": "199fc8d5670842d86f1bcb685ffefcaa7cc94121e7c17b0712916b89b463682f",
+    "snapshot/L-W19/answers.md": "4db2c39ce577ed8ba9dc853b8716bd07bd3f385ec6dde487f56cd34dad4818d7",
+    "snapshot/L-W19/flow.svg": "8e4cf7252ff00a94c628ab3a5c1049be3c7b5f6dd336a7aec92c8fbdc7a7955c",
+    "snapshot/L-W19/intensive.md": "e68e85f00f081c419eabc8203b3b465c10393275f7280d5d88c7e05fcd552edc",
+    "snapshot/L-W19/map.svg": "ac186c4c24570b9af7eb88bb58326a89361d6ebfab1ca3551873f8d773c5c4e3",
+    "snapshot/L-W19/questions.json": "8504ec482d2d8706c49084a7b81dcf52a705f4a539f798008cb5f74f097151cf",
+    "snapshot/L-W19/script-source.txt": "7fd84e091778b361adfb28a7e02dd63ae7d4be88bbe15854413019347acbf0dd",
+    "snapshot/L-W19/script.md": "398e26f97dcb6d1f482c6bd210ed1ba08d5d0ff5cb44460d5424f2c517e0da1c",
+    "snapshot/L-W19/source.json": "6ae9ec239fefc7e61a9d4c3a58f41c3c572556d36d4d0851e60ef9b1e3347116",
+    "snapshot/L-W19/student.md": "654c872f0cb8c26989f89478f3d271464c91c8633c1cf21c5b12fe5b4770c034",
+    "snapshot/L-W20/STATUS.md": "673a45f5a83e47ddf7efc16bb8bdcc9de006a26e2f2f277fa39a4f0dc6762cde",
+    "snapshot/L-W20/answers.md": "54c81762a25472b4c8304ab1b844311f68fe15d3da0e994a841f969f051e6a84",
+    "snapshot/L-W20/flow.svg": "dfdcc9900edd1603ba97d74328c757ffad137c3c704fb2b3b168fa7ea6c61ae3",
+    "snapshot/L-W20/intensive.md": "936ccf7b44fae1247dd282ccd6c8bda29878938ae0b7a270cf03460f8cdcb142",
+    "snapshot/L-W20/map.svg": "ebe5278e43c9c2ebb10c04bd69c7afb6f1ba667a19a11c5cbab9ffa45436bd51",
+    "snapshot/L-W20/questions.json": "7d6d2a497534ff5ca0dea1df7d33393772118c347de9ef948fabde956aada754",
+    "snapshot/L-W20/script-source.txt": "8db6e40398ce61fa463760649e4a7e0c2d44a6c71ba06572f14f25407f228762",
+    "snapshot/L-W20/script.md": "362b615d0bf3e9fd2e3b09d8913592517603c431c6b271749be90eb6b151982d",
+    "snapshot/L-W20/source.json": "546f7ed54afb3c0c2216e9ff2266e9b0618855ce4cf601c4f792d331490c99d4",
+    "snapshot/L-W20/student.md": "07322f77d1539d555feb664f1c789d78330b7c715772f4c4c224c1b1ed4c4f6e",
+    "snapshot/QA-L14-RESPONSE.md": "afe96c6b8bea99cb8fc634c92ea6ec1d292cdb0de2a2a972f1a0caebc2436fab",
+    "snapshot/README.md": "5ca226bdcb832974e8a87aae72027914c9de4f1ee2846a3f441fa7acb8bc2f6c",
+    "snapshot/STATUS.md": "0071945cb3aaffebf797aab9a76e8606ed4ff7edcaf2e78f3e17f53cb8f7bcc3",
+    "snapshot/answer-forms-audit.json": "4a865d72c1dcaaa9afacc50b0b5184c70f54c949891f49bc695159b6e5416261",
+    "snapshot/build_batch.py": "43f1e1e1e3fe8f9910324133e1ac3b6755a6075f6419e51fc3445965804eef55",
+    "snapshot/change-manifest.json": "f1fad6acc2ca6511b34960fa2bca75b3de8ead4ff2dbe77e26f9e9c610ff99fc",
+    "snapshot/check_batch.py": "737d13f65f5e2285d8b0092d59d2639bba1b288f5e58ab9f5df525bc934f1d25",
+    "snapshot/design.py": "1c166b5d6690dd01233a6cd390dc42936a5235b3f96ec26c68aa09cd5b50bb9e",
+    "snapshot/editorial-review.md": "e67061bcb247b84898f46c6823df0ccf65c6961d9fb9e533de44f097720ace96",
+    "snapshot/finalize_batch.py": "e265bf289dc9b3818a21a51eb4c89554f083a40ee4d31610424b466a168a322d",
+    "snapshot/geometry-check.json": "6795fe78ff202517d99e19e3aa0fcd7800b566e296dc4cba26be94d6677e5f97",
+    "snapshot/inventory.json": "2abb3096215c55f3f19a213ea5376dcf926094bf3261f9caeb14733685b3a5d9",
+    "snapshot/parent-freeze-text-v1.json": "f1e616b5f67ab42d2d8d063e721f94df45d9f49c656b6e9f97beff506314f177",
+    "snapshot/prior-batch-guards.json": "d595c306c7cbb5cc95e61869690df9a6e4b9dcb1ee5a0bcbdad7fd850dd06061",
+    "snapshot/qa-l14-evidence.json": "b6ab3c399285aa81ece4ef62818d89ce403f02600d32542f5cb0193bfb1c8e33",
+    "snapshot/revision-check.json": "4bc6b3f8d5da7b2a49513da91d48e42fa395266fd5e034041dff5bab1c016d82",
+    "snapshot/scoring-check.json": "51fd35987dd9ddaa12bcd33f47142ad054ecc4f77c08c747484fefbc743418ea",
+    "snapshot/scoring.py": "8b44ab911e739df02d0b7b0381cde7475e48c16618bede23224eeb4fba0c0c90",
+    "snapshot/self-check.json": "462bb5a31270e5ca932d0414b224c832024620416a103a4353c94498d2e3375c",
+    "snapshot/verify_revision.py": "0a901b77cf202af033a477de4b558df1001af4341dd8857fc08838e50c6ee4ab",
+    "snapshot/visual-qa/L-W17/flow.svg.png": "4b7d94e009a018860583df3da9d7aaf2f2dfc57785bee0195f6c9a0550656717",
+    "snapshot/visual-qa/L-W17/map.svg.png": "d72da607323e180a3b07986f1974d1a021af7c7481826ddaf8566d33a1a26faa",
+    "snapshot/visual-qa/L-W18/flow.svg.png": "d48789d8e9e895c1fe680068344e8da3642a1a4b7be0a5a9011b06556d5585ec",
+    "snapshot/visual-qa/L-W18/map.svg.png": "f6b5e6cb7d90a504b7dc037d927e94f449041e85ff8a498d83b2f4629ac924c6",
+    "snapshot/visual-qa/L-W19/flow.svg.png": "2834f28aba2604113b282c1266cb1eee4a681f218541f9c3ca0d59cff010da57",
+    "snapshot/visual-qa/L-W19/map.svg.png": "86921165894b5f85efd5c799883a0dd300b99b8e4e7e865126ad2b4ade05f3b4",
+    "snapshot/visual-qa/L-W20/flow.svg.png": "82078dcd118eb9689a3c6a69a6c52a1a6f0fabc0bc15acbf1087263b5e4b4a9b",
+    "snapshot/visual-qa/L-W20/map.svg.png": "d8a6ec575f09b30b06144a1334c59cc6dbae9949b0255e496f1bdfb95d78e634",
+    "snapshot/visual-qa/manifest.json": "52afefe9ec3838422cb96ea4df6d5d544af868696e6ac6e81f37d179425ba7e9",
+    "snapshot-check.json": "0eaf1a95e7a6f87e2a53bcdf266f8535be9b679bb2b0079ef51922d57b196f0d",
+    "snapshot.py": "f76fe0dbda9e6fc995b41037397eeec060f2e35a41e975660a4d3b5580af4a17"
+  },
+  "write_scope": "qa/listening-w17-w20-recheck; qa/acceptance-index.json; qa/QA.md",
+  "not_approved": [
+    "Audio/listenability/actual duration",
+    "Personal diagnosis/learning completion/formal T20/readiness/mandatory extension",
+    "Integration/publication"
+  ],
+  "release_handoff_only": "Coordinator reports 0.2.8/v0.12 public with five assets verified, 24 weeks reading/writing/speaking; not independently reverified here."
+}

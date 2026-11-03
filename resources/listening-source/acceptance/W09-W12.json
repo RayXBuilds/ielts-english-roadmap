@@ -1,0 +1,86 @@
+{
+  "scope": "listening W09-W12 QA-L10/L11 targeted text recheck",
+  "conclusion": "passed",
+  "reviewed_at": "2026-11-03T04:52:13.711258+08:00",
+  "freeze_sha256": "b75229cd029eecc3ccadad6751d1798c512634f267bc248df0df5d28117fda98",
+  "frozen_files": 68,
+  "closed_issues": [
+    "QA-L10",
+    "QA-L11"
+  ],
+  "remaining_issues": [],
+  "nonblocking_observations": [
+    "OBS-L09-01",
+    "OBS-L09-02"
+  ],
+  "parent_acceptance": {
+    "path": "listening-w09-w12/acceptance.json",
+    "sha256": "bc9cecc996852fdeba5e2243089b1face4e9eaa019e443b90b634cb21540eada"
+  },
+  "counts": {
+    "spoken_words": 16911,
+    "scored_blanks": 160,
+    "question_objects": 152,
+    "registered_forms": 258,
+    "new_forms": 6,
+    "unchanged_scored_blanks": 154,
+    "unchanged_script_blocks": 160,
+    "unchanged_SVG": 8,
+    "prior_files_unchanged": 100,
+    "runtime_score_calls": 2944
+  },
+  "sub_batches": {
+    "W09": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "text_only": true,
+      "planned_minutes": 158,
+      "buffer_max": 22
+    },
+    "W10": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "text_only": true,
+      "planned_minutes": 158,
+      "buffer_max": 22
+    },
+    "W11": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "text_only": true,
+      "planned_minutes": 158,
+      "buffer_max": 22
+    },
+    "W12": {
+      "conclusion": "passed",
+      "scored_blanks": 40,
+      "text_only": true,
+      "planned_minutes": 158,
+      "buffer_max": 22
+    }
+  },
+  "public_audio": {
+    "conclusion": "not_reviewed",
+    "complete_playable_sets": 0,
+    "actual_duration_seconds": null
+  },
+  "evidence": {
+    "snapshot-check.json": "b8fcce96b8f1bd2163000731d37d8057c2d7afa63917f15479f5e9d146d8cbfc",
+    "checks.json": "545ba5e5dbc8e0d428187a2437b02265b32a6e1d7d9aab1e30950952c443df31",
+    "scoring-calls.json": "7895a5299dcab015fd06bc91fb6801a3bd46b3d3d44992bb4e25b96b652d1830",
+    "candidate-checks.json": "88a4043242707729dd3a2197ca7ea1ab85cd373da83d40ae0640ca58618b5707",
+    "patch-checks.json": "bb9eb105b7d860b58635fb3c92acb56efcf937e69b04db196e57af86f3b67d95",
+    "patch.diff": "728fac6afa6e0fdceabd97d5f4bfff74c28c14f6d310e0b77b119e30596df3c0",
+    "issues.json": "214c9e22ae4da4b076928aa9c16cea29d24e9ee7a1cc4ad13d5ac1ab03184fec",
+    "REPORT.md": "6702dafda477e4dfaddee957d4aa3d0d42857eb11c17fbcb033b9a4371c84573",
+    "check.py": "905a1c1e15fbd7c1777824a33c829e0c2295742bcc0197670e2ef5fc81bce7d0",
+    "candidate-check.py": "ac18321ad7b5246a8d3f676f92b0efdcc70242f51b53590ab185b3eef3a0afbd",
+    "patch-check.py": "0cf353596e3a8880210eb1571013e8a5b60d98c6dfcdf485604f7ff63aa5a470"
+  },
+  "source_drift": [],
+  "write_scope": "curriculum-expansion/qa only",
+  "limits": [
+    "No actual audio or elapsed time verified",
+    "No student completion, band conversion, integration or publication approved"
+  ]
+}

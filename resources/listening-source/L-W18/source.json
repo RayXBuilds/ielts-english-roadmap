@@ -1,0 +1,1096 @@
+{
+  "id": "L-W18",
+  "week": 18,
+  "title": "Conditions, exceptions and the meaning of a claim",
+  "version": "W17-W20-text-v1",
+  "status": "text_self_check_pending_independent_QA",
+  "original": true,
+  "personal_remediation": null,
+  "stage_check": null,
+  "provenance": "Original fictional practice commissioned for this curriculum; not authentic IELTS, not standardised or score-calibrated. No third-party text or diagrams used.",
+  "license": "CC BY 4.0 for original text and SVG; no audio rights or audio files supplied.",
+  "question_count": 40,
+  "question_objects": 38,
+  "spoken_word_count": 4175,
+  "word_count_method": "Regex word tokens including hyphenated forms; excludes speaker labels, titles, question text and Q locators.",
+  "audio_file": null,
+  "duration_seconds": null,
+  "audio_start_seconds": null,
+  "audio_end_seconds": null,
+  "media_status": "missing_not_generated",
+  "complete_listening_set": false,
+  "planning_only": {
+    "speech_rate_words_per_minute": [
+      140,
+      160
+    ],
+    "speech_minutes_estimate": [
+      26.09,
+      29.82
+    ],
+    "actual_duration_seconds": null,
+    "first_listen_budget_minutes": 32,
+    "note": "Text-based estimate only. Future rendition must fit 32 minutes including part pauses; if not, revise the timetable before release."
+  },
+  "weekly_training": {
+    "minutes": 158,
+    "maximum_minutes": 180,
+    "buffer_minutes": 22,
+    "tasks": [
+      {
+        "task": "Preview questions without the script",
+        "minutes": 8
+      },
+      {
+        "task": "Future continuous first listen, including planned part pauses",
+        "minutes": 32
+      },
+      {
+        "task": "Submit first answers and confidence, without a second play",
+        "minutes": 8
+      },
+      {
+        "task": "Check answers and classify errors",
+        "minutes": 20
+      },
+      {
+        "task": "Four Q-located intensive segments, 15 minutes each",
+        "minutes": 60
+      },
+      {
+        "task": "Diagram and opinion retelling",
+        "minutes": 15
+      },
+      {
+        "task": "Next-day retry of missed items",
+        "minutes": 15
+      }
+    ],
+    "completed_listening_minutes": 0
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "Booking a notice-writing workshop",
+      "roles": [
+        "Coordinator",
+        "Applicant"
+      ],
+      "question_range": [
+        1,
+        10
+      ],
+      "word_count": 1018,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q01",
+          "question_locator": "Q1",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Coordinator",
+              "text": "Communication centre, good afternoon."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Our association wants help writing information for visitors. I noticed a course on meeting minutes, but our difficulty is with announcements that people read without someone nearby to explain them."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Public notices would be the relevant workshop."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Yes, please book public notices. We need to describe who can attend an event and under what conditions, without making the page impossible to follow."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "The workshop examines that balance through fictional examples. It doesn't supply legal wording for a particular organisation, but it can help you see when a short message loses a condition that changes what the reader understands."
+            }
+          ]
+        },
+        {
+          "id": "Q02",
+          "question_locator": "Q2",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "Is the workshop on the sixteenth of July?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "That was the first proposed date. It is now confirmed for the twenty-third of July."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "The twenty-third suits us. I'll replace the earlier entry rather than leave both dates in our calendar."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "We will send a confirmation identifying the subject and date together."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "One member saw an announcement for another course in the same series, so that detail will help."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Similar headings can be misleading when practical information is copied between events. Please use the booking confirmation for this workshop rather than combining whichever details happen to be most convenient from several different notices."
+            }
+          ]
+        },
+        {
+          "id": "Q03",
+          "question_locator": "Q3",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "When does the teaching start?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Two forty-five in the afternoon. The reception desk opens at two fifteen, but your workshop begins at two forty-five."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "So the earlier time is for the desk, not the first activity."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Correct. Arrive shortly before the workshop to check in."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll put the start time clearly in our travel note."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "That will help. The opening activity asks participants to compare a headline with a condition printed elsewhere on the page. If somebody misses that introduction, the later discussion about what a reader could reasonably infer may seem like an argument about style rather than meaning."
+            }
+          ]
+        },
+        {
+          "id": "Q04",
+          "question_locator": "Q4",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Coordinator",
+              "text": "How many places are required?"
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Five members helped prepare our current notice, but only three can attend. Please reserve three places."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Three are available. Can those people bring the other members' questions?"
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Yes. We'll gather them in advance, but the two absent members won't be counted as workshop participants."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "If that changes, update the booking rather than making an informal substitution."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll keep a current attendance list with the confirmation."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Good. The room activity uses small groups, and a clear number helps the leader prepare without having to change the arrangement while people are arriving and the teaching time has already begun."
+            }
+          ]
+        },
+        {
+          "id": "Q05",
+          "question_locator": "Q5",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "What will the three places cost altogether?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "The association booking is forty-two pounds in total."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Forty-two for all three places, not forty-two each?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Exactly. The printed examples are included. Bringing your own notice for discussion does not purchase a separate editing service."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll explain that distinction to the committee."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Please check the number of places and the total on the confirmation before paying. If anything differs from this conversation, ask us to correct the record."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "That is easier than trying to work out afterwards whether an extra amount meant extra participants, extra materials or a service nobody had actually requested."
+            }
+          ]
+        },
+        {
+          "id": "Q06",
+          "question_locator": "Q6",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "What should we bring?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "A draft of the notice you want to discuss. It needn't look finished; we need to see the information and conditions you are trying to communicate."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll bring the draft with the unresolved wording still marked."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "That is more useful than removing the awkward paragraph just to make the page appear polished."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Do we need the poster from last year's event?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "You may bring it for context, but the required document is the draft for the current task. Keep earlier versions separate, especially if their entry conditions differ, so a convenient old sentence doesn't silently replace the rule now being communicated."
+            }
+          ]
+        },
+        {
+          "id": "Q07",
+          "question_locator": "Q7",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "Will the leader rewrite our notice during the session?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "No. You will practise making and explaining revisions, with feedback on selected examples. A complete commissioned rewrite would be a different service."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "So we should expect a method and a clearer view of our choices, rather than a guaranteed finished publication."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "That's right. The workshop can identify a missing qualification, but the organisation still has to confirm its actual arrangements."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "We'll distinguish facts we know from details awaiting a decision."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Good. A reader-friendly sentence is only useful if it represents the information the organisation is prepared to stand behind."
+            }
+          ]
+        },
+        {
+          "id": "Q08",
+          "question_locator": "Q8",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "Our notice includes a photograph from a previous activity. Can we use it in the workshop example?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Bring only material you may share for that purpose, and make any restrictions clear. Permission for a workshop discussion should not be assumed to cover a later public poster."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll check the conditions instead of relying on the fact that someone emailed us the image."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Yes. You can also use a simple placeholder if the image isn't necessary to examine the wording."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "That would let us focus on the information rather than delay the whole exercise while we search for a more attractive picture."
+            }
+          ]
+        },
+        {
+          "id": "Q09",
+          "question_locator": "Q9",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "One member needs an accessible digital version of the examples. Should I request that in advance?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Please describe the practical format requirement now, so we can check what is available and confirm any limits."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I won't assume that a larger printout addresses the same need."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Thank you. Different arrangements support different ways of accessing the task."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Should the person bring their usual device?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "If they normally use it, mention that too, but we shouldn't promise compatibility without checking the relevant files. A clear description before the session gives us a better chance of agreeing a workable arrangement than a general request after the first activity has started."
+            }
+          ]
+        },
+        {
+          "id": "Q10",
+          "question_locator": "Q10",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Applicant",
+              "text": "Which message should we follow if the room changes?"
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Use the current confirmation and any update that quotes its booking reference. Don't combine the entrance from an old programme with the time from a newer message."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "I'll keep the latest complete version in the group folder."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "For a routine change to your booking, reply to that confirmation. For an urgent issue, use the contact number it contains."
+            },
+            {
+              "speaker": "Applicant",
+              "text": "Understood."
+            },
+            {
+              "speaker": "Coordinator",
+              "text": "Keeping the conditions with the main information is also part of the workshop's subject. A correct detail can still mislead when the reader cannot tell which event, version or circumstance it belongs to."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Orientation at the communication centre",
+      "roles": [
+        "Centre host"
+      ],
+      "question_range": [
+        11,
+        20
+      ],
+      "word_count": 1061,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q11",
+          "question_locator": "Q11",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Welcome to the communication centre. North is at the top of the plan, and the entrance is on the southern edge. The atrium in the middle is the fixed landmark. Reception is directly west of the atrium, level with its centre. It is not the space immediately south of the atrium, which you pass when entering. Please check in at reception before joining the group. Staff can identify the current room arrangement and any practical update. The letters mark positions rather than room initials, so listen for the relation to the atrium or another named location instead of treating a familiar letter as a clue to the answer."
+            }
+          ]
+        },
+        {
+          "id": "Q12",
+          "question_locator": "Q12",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The interpretation room is in the north-east corner. It lies east of the northern central room and north of the space directly east of the atrium. An earlier programme located the activity in the north-west corner, but today's workshop begins in the north-east room. The first exercise compares a statement with several possible readings. You will be asked which interpretation is supported by the wording, not which one you personally prefer. A statement can be accurate under one condition and misleading when repeated without that condition. Keep the example sheet available during discussion so that the group can point to the actual phrase rather than argue from memory."
+            }
+          ]
+        },
+        {
+          "id": "Q13",
+          "question_locator": "Q13",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The example display is directly north of the atrium, in the northern central position. It is west of the interpretation room on the same row. The display contains several versions of a visitor notice, each prepared for a different audience and purpose. Read the short brief beside a page before deciding that its layout is better than another. A concise version may rely on background knowledge that a new visitor does not possess. The point is to connect a design choice with the task it serves, rather than search for one arrangement that should supposedly work for every message regardless of its content or readers."
+            }
+          ]
+        },
+        {
+          "id": "Q14",
+          "question_locator": "Q14",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The testing booth is in the south-east corner. It is south of the space directly east of the atrium and east of the southern central room. A volunteer reader will use that booth for a short navigation task. Observe which condition the reader finds, then ask a neutral question about how they interpreted it. Don't explain the intended meaning halfway through the task and later describe the result as independent understanding. Help can be useful, but its timing must remain visible in the record. Otherwise the team may credit a revised notice for an interpretation that was actually supplied by the observer during the test."
+            }
+          ]
+        },
+        {
+          "id": "Q15",
+          "question_locator": "Q15",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The resource desk is in the south-west corner. It lies south of reception and west of the southern central room. Collect the worksheet version named by the leader rather than taking a loose sheet from another group's table. Some worksheets ask for an observation and others for an interpretation; the headings look similar when viewed quickly. If a resource is missing, report it so the group can use a consistent version. The desk completes the five locations for today's visit. Reception is on the western side, while resources are below it, so don't confuse the two merely because both involve speaking to a member of staff."
+            }
+          ]
+        },
+        {
+          "id": "Q16",
+          "question_locator": "Q16",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Begin each exercise by identifying the decision the notice is intended to support. A page that enables a booking has different information priorities from a page explaining the history of an activity. Interesting background can displace a practical condition if the group treats every supplied fact as equally important. Ask what the reader needs to do and which information makes that action possible. This doesn't mean all notices should be reduced to the same short formula. It means the amount and arrangement of information should be justified by the reader's task, rather than by the amount of material the writer happens to have collected beforehand."
+            }
+          ]
+        },
+        {
+          "id": "Q17",
+          "question_locator": "Q17",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "A condition should stay close enough to the claim it limits for the reader to connect them. If a headline says admission is free but a later note restricts that offer to a particular group, moving the note out of sight changes the apparent promise. Simply retaining the words somewhere on the page may not preserve their practical meaning. The group should examine how the main statement and its qualification are encountered together. A shorter sentence can be an improvement if the condition remains clear, but removing that condition to make the heading cleaner is a change in what the message communicates, not merely a change in presentation."
+            }
+          ]
+        },
+        {
+          "id": "Q18",
+          "question_locator": "Q18",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "When information is uncertain, mark the uncertainty in a way that matches its significance. An unconfirmed opening time should not be presented as fixed simply because a precise number fits neatly into a table. The team can state what has been confirmed and identify where an update will appear. That is different from filling every gap with a plausible guess. A hypothetical example may be useful in a workshop, but it must remain recognisable as an example. The reader should not have to infer which details are real from subtle differences in tone or from a disclaimer separated from the claim it is meant to qualify."
+            }
+          ]
+        },
+        {
+          "id": "Q19",
+          "question_locator": "Q19",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "During reader testing, record an action before deciding what caused it. A visitor who selects the wrong option may have overlooked a condition, misunderstood a term or brought an expectation from another event. Ask a neutral follow-up rather than offering the explanation you want confirmed. If you tell the reader that the heading was confusing, agreement adds little evidence about their original interpretation. Preserve the first observation and distinguish it from the explanation that emerges in discussion. The purpose is to learn which feature needs attention, not to collect comments that make the team's preferred revision appear successful before it has actually been examined."
+            }
+          ]
+        },
+        {
+          "id": "Q20",
+          "question_locator": "Q20",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Close the exercise by comparing the revised notice with the original brief. Check required information, the conditions attached to important claims and any uncertainty that remains unresolved. A visually cleaner page is not necessarily a more complete response. Record a next action that follows from the evidence, such as testing whether readers find a particular restriction, rather than declaring the whole communication problem solved. You may retain a sentence that worked well while revising another. The review should identify the reason for each decision so that a later editor can understand what the team was trying to preserve and what further evidence could justify changing it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Revising a visitor message",
+      "roles": [
+        "Tutor",
+        "Mae",
+        "Jon"
+      ],
+      "question_range": [
+        21,
+        30
+      ],
+      "word_count": 1018,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q21",
+          "question_locator": "Q21",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "You tested both notice versions last week. What should the next revision preserve?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "The eligibility condition beside the headline. We saw readers infer a wider offer when it was moved to the footnote."
+            },
+            {
+              "speaker": "Jon",
+              "text": "I agree now. I originally preferred a cleaner heading, but the nearby condition changes how the promise is understood."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you agreeing to keep every word?"
+            },
+            {
+              "speaker": "Jon",
+              "text": "No. We can shorten it if the restriction remains explicit."
+            },
+            {
+              "speaker": "Mae",
+              "text": "That's the version I support too."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then both of you support retaining the nearby condition, while leaving room to improve its wording without expanding the offer beyond what the organisers confirmed."
+            }
+          ]
+        },
+        {
+          "id": "Q22",
+          "question_locator": "Q22",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Jon proposes giving the exact closing time in the opening panel."
+            },
+            {
+              "speaker": "Jon",
+              "text": "Yes. The time is confirmed, and readers need it before deciding whether they can attend."
+            },
+            {
+              "speaker": "Mae",
+              "text": "I would place it in the schedule immediately below, keeping the opening panel focused on who the event is for."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Would a small line in the panel change your view?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "It might fit, but I still prefer the schedule for this version."
+            },
+            {
+              "speaker": "Jon",
+              "text": "I continue to favour the opening panel."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Jon supports that specific location and Mae doesn't. You agree about the need for the time, but not every agreement about content settles where it should appear."
+            }
+          ]
+        },
+        {
+          "id": "Q23",
+          "question_locator": "Q23",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Your first draft says the activity is suitable for everyone."
+            },
+            {
+              "speaker": "Mae",
+              "text": "I used that phrase because it sounded welcoming. Looking at the entry conditions, I don't think we can support it."
+            },
+            {
+              "speaker": "Jon",
+              "text": "Neither do I. The notice specifies a minimum age and an advance booking requirement."
+            },
+            {
+              "speaker": "Mae",
+              "text": "I'll remove the universal wording instead of relying on readers to discover the exceptions later."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does either of you still want that phrase as a headline?"
+            },
+            {
+              "speaker": "Jon",
+              "text": "No. We can welcome enquiries without making an unrestricted promise."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. Neither student supports the original statement, even though one of you proposed it before examining how it interacted with the rest of the page."
+            }
+          ]
+        },
+        {
+          "id": "Q24",
+          "question_locator": "Q24",
+          "word_count": 98,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should the next test include readers unfamiliar with the association?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "I support that. Our members may understand terms that a first-time visitor doesn't recognise."
+            },
+            {
+              "speaker": "Jon",
+              "text": "I'd first test the revision with the same readers, so we can ask whether they notice the changed condition."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "That could reveal something about the revision, but would it test an independent first encounter?"
+            },
+            {
+              "speaker": "Jon",
+              "text": "No, and I would record that limit. For the next session, I still prefer those readers."
+            },
+            {
+              "speaker": "Mae",
+              "text": "I continue to favour newcomers."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Mae supports the specific recruitment proposal, while Jon wants a different comparison before the group broadens the audience."
+            }
+          ]
+        },
+        {
+          "id": "Q25",
+          "question_locator": "Q25",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Do you want to keep the original version alongside the revision?"
+            },
+            {
+              "speaker": "Jon",
+              "text": "Yes. Otherwise we might explain a reader's reaction using a sentence that wasn't on the page they saw."
+            },
+            {
+              "speaker": "Mae",
+              "text": "Agreed. Each test record should name the exact version."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Would a file called final be enough?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "No, especially if it is edited again. We'll use distinct version labels and preserve the content."
+            },
+            {
+              "speaker": "Jon",
+              "text": "That also lets us trace which condition changed between sessions."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then this is a shared decision. A comparison requires identifiable objects, not simply two impressions of how the notice looked at different points in a busy editing process."
+            }
+          ]
+        },
+        {
+          "id": "Q26",
+          "question_locator": "Q26",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Jon suggests recording a short verbal explanation from each reader."
+            },
+            {
+              "speaker": "Jon",
+              "text": "I support it, with a focused question about the offer and its conditions. The selected option alone may hide a misunderstanding."
+            },
+            {
+              "speaker": "Mae",
+              "text": "I'd leave recording out of the next trial and use written notes from an observer."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Is your concern the question or the recording arrangement?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "The arrangement. It may take time we need for another independent reader."
+            },
+            {
+              "speaker": "Jon",
+              "text": "I still prefer a brief recording so we can check the wording later."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Jon supports the proposal and Mae retains another method. Don't convert agreement on the question's importance into agreement on how to collect the response."
+            }
+          ]
+        },
+        {
+          "id": "Q27",
+          "question_locator": "Q27",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Which revision actions do you both accept?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "Retain the conditions that determine whether the headline claim applies. We can remove repetition, but not a restriction that changes the offer."
+            },
+            {
+              "speaker": "Jon",
+              "text": "Agreed. We should check each proposed deletion against the meaning of the complete message."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that require retaining every historical detail in the background pack?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "No. A detail can be accurate without being necessary for this notice."
+            },
+            {
+              "speaker": "Jon",
+              "text": "Nor do we need to make every panel the same length."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "So preserving meaningful conditions is one agreed action. The reason is the relation between the claim and its scope, not a general preference for longer wording."
+            }
+          ]
+        },
+        {
+          "id": "Q28",
+          "question_locator": "Q28",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What is the second agreed action?"
+            },
+            {
+              "speaker": "Jon",
+              "text": "Separate confirmed information from assumptions that still need checking."
+            },
+            {
+              "speaker": "Mae",
+              "text": "Yes. If the organisers haven't confirmed a detail, we should not let a confident layout disguise that gap."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you planning to invent a number temporarily and remove it later?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "No. A temporary figure can escape into another version before someone notices the label."
+            },
+            {
+              "speaker": "Jon",
+              "text": "We can use a clearly marked gap while requesting the information."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then your two selected actions are retaining the claim's conditions and separating assumptions from confirmed facts. A decorative chart or a predicted formal score is not part of the agreed revision plan."
+            }
+          ]
+        },
+        {
+          "id": "Q29",
+          "question_locator": "Q29",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What limited last week's comparison?"
+            },
+            {
+              "speaker": "Jon",
+              "text": "The readers in the second session had more experience with the association. They already knew several terms used in the notice."
+            },
+            {
+              "speaker": "Mae",
+              "text": "That means a smoother response could reflect familiarity as well as the wording change."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Were all the printed pages missing a section?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "No. The pages were complete. The issue is the difference between the reader groups, not a printing failure."
+            },
+            {
+              "speaker": "Jon",
+              "text": "We should report the relevant experience instead of treating everyone as an interchangeable visitor."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "That will help the next review distinguish an observation about these participants from a claim about what a genuinely new reader would understand."
+            }
+          ]
+        },
+        {
+          "id": "Q30",
+          "question_locator": "Q30",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Was anything else different?"
+            },
+            {
+              "speaker": "Mae",
+              "text": "We changed the question we asked after reading. The first group selected an option, while the second explained the offer in their own words."
+            },
+            {
+              "speaker": "Jon",
+              "text": "Both responses can be informative, but they aren't the same measure."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "So you can't attribute the difference solely to the revised notice."
+            },
+            {
+              "speaker": "Mae",
+              "text": "Correct. We need to keep the question wording with each record."
+            },
+            {
+              "speaker": "Jon",
+              "text": "Neither session was cancelled, and the room was available."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then record differing reader experience and the changed question as the two limitations. Avoid adding circumstances that sound plausible but did not affect the sessions you actually conducted last week."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "title": "Keeping qualifications connected to claims",
+      "roles": [
+        "Lecturer"
+      ],
+      "question_range": [
+        31,
+        40
+      ],
+      "word_count": 1078,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q31",
+          "question_locator": "Q31",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Consider a fictional team preparing a message about a community programme. The first stage identifies the main claim. The claim is the proposition the reader is being asked to understand or act upon, such as an offer of entry under stated arrangements. The team writes it clearly enough to compare with the information that supports it. A collection of attractive phrases can conceal uncertainty about what is actually being promised. Identifying the main claim does not mean stripping away every condition. It gives the review a starting point from which to examine whether the complete message says something narrower, broader or different from the heading alone."
+            }
+          ]
+        },
+        {
+          "id": "Q32",
+          "question_locator": "Q32",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The second stage defines the scope of that claim. Scope concerns the people, circumstances and period to which the statement applies. A notice about one session should not accidentally sound like a rule for every future event. The team checks whether a reader could reasonably extend the statement beyond the intended boundary. This stated scope may be supplied by a heading, a nearby phrase or another clearly connected feature of the page. What matters is that the connection remains available during normal reading. An accurate restriction stored in a separate document does not necessarily repair a public sentence whose apparent meaning is broader than the organisation intends."
+            }
+          ]
+        },
+        {
+          "id": "Q33",
+          "question_locator": "Q33",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The third stage lists the relevant conditions. Conditions explain what must hold for the claim to apply, such as prior booking or attendance during a specified period. They differ from background details that merely describe the event's history. The team examines whether omitting a condition would change a reader's decision. If it would, that information should not disappear simply because the layout is crowded. A condition may be short while carrying considerable meaning. The review therefore considers its function rather than assuming that the number of words indicates its importance. The objective is a complete, usable message, not the shortest possible string that can still be called a notice."
+            }
+          ]
+        },
+        {
+          "id": "Q34",
+          "question_locator": "Q34",
+          "word_count": 112,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fourth stage adds a clear qualification beside the claim where the evidence requires it. A qualification narrows or limits how the statement should be understood. The limitation should connect to the actual uncertainty or exception, rather than operate as a vague apology for the whole message. For example, a prediction based on a small local trial may need a boundary about the conditions observed. Placing that qualification nearby helps the reader interpret the claim at the point of encounter. It does not guarantee that every reader will understand it, but it gives the later test a coherent message to examine instead of a promise separated from the words that constrain it."
+            }
+          ]
+        },
+        {
+          "id": "Q35",
+          "question_locator": "Q35",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fifth stage completes an audit of the whole message. This consistency check examines how headings, examples, figures and notes work together, rather than judging each sentence in isolation. A qualification in one panel may be undermined by an unrestricted phrase elsewhere. The audit compares the complete page with the confirmed information and the intended reader's task. It also checks whether a revision introduced a new contradiction while removing an old one. A useful check records remaining questions and who will resolve them. Reaching the final stage in a sequence does not itself mean that every factual gap has disappeared or that publication is justified without further confirmation."
+            }
+          ]
+        },
+        {
+          "id": "Q36",
+          "question_locator": "Q36",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Ambiguity occurs when wording supports more than one plausible interpretation. It is different from a statement that is clear but unfamiliar to a particular reader. The team should identify the competing readings before deciding how to revise the phrase. Otherwise it may replace a short ambiguous sentence with a longer one that preserves the same problem. A test can ask readers to explain the meaning without supplying the alternatives in a leading question. Their responses may reveal an ambiguity the writer did not anticipate. The review then connects the revision to that specific issue rather than assuming that any increase in detail necessarily makes the message clearer."
+            }
+          ]
+        },
+        {
+          "id": "Q37",
+          "question_locator": "Q37",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Inference also affects interpretation. Readers may supply an unstated connection from familiar practices or from the arrangement of information. An inference can be reasonable without being the one the writer intended. For example, placing two prices beside one another may suggest that they cover comparable services even when the underlying arrangements differ. The team examines which inferences the page invites and whether the information supports them. It cannot control everything a reader brings to the encounter, but it can avoid relying on a hidden distinction that the layout makes difficult to discover. The review concerns the meaning produced by the whole communication, not only the literal accuracy of isolated words."
+            }
+          ]
+        },
+        {
+          "id": "Q38",
+          "question_locator": "Q38",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "A concession can recognise evidence that complicates a conclusion without abandoning the conclusion entirely. A writer might acknowledge that a shorter notice is easier to scan while arguing that one condition must remain visible. That concession differs from claiming that the competing consideration has no value. The team should keep the relationship clear so that a reader can follow why one choice is preferred despite a genuine cost. Removing the acknowledged limitation may make the argument sound stronger while making it less accurate. In a discussion, noticing a concession also helps distinguish a change of final position from an acknowledgement that another proposal has some merit."
+            }
+          ]
+        },
+        {
+          "id": "Q39",
+          "question_locator": "Q39",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Salience concerns how readily a feature attracts attention. Prominence can result from position, size, contrast or the reader's immediate purpose. A condition printed in technically readable text may still be overlooked if the page directs attention elsewhere. The team therefore considers how a reader encounters the message, rather than checking only whether all required words are present. More emphasis is not always the solution: if every line competes for attention, the hierarchy may become harder to follow. The useful question is whether the information needed for the decision is noticeable at the right point, with its connection to the main claim still intact."
+            }
+          ]
+        },
+        {
+          "id": "Q40",
+          "question_locator": "Q40",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Finally, traceability allows the team to connect each public claim with its source and revision history. A reviewer should be able to identify which confirmed arrangement supports a statement and which version of the notice was tested. Without that connection, a plausible sentence can survive long after the information behind it has changed. Traceability does not require displaying the entire editing history to every visitor. It requires preserving enough of that history for the team to examine a decision and update it responsibly. The stage review ends by recording unresolved questions and the next check, rather than treating a polished page as proof that all its implications have been understood."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

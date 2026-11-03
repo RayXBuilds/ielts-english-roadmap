@@ -1,0 +1,390 @@
+# L-W16 — An original checkpoint and the next learning decision: transcript
+> 原创虚构练习，非真题；音频缺失。仅供完成首次作答后的核对或文字审阅。Q 标记与角色名不属于朗读正文。
+
+## Part 1 — Booking a progress workshop
+
+### Q1 evidence block
+
+**Adviser:** Learning review centre, hello.
+
+**Learner:** I'd like to attend one of your workshops with a study partner. We don't need somebody to predict an official test score. We want to review what our recent practice shows and decide what to work on next.
+
+**Adviser:** Then progress review is the workshop topic to select.
+
+**Learner:** Yes, progress review describes our purpose. We have records from several original classroom tasks, but we're unsure which differences reflect learning and which reflect different conditions.
+
+**Adviser:** The session examines that distinction. It uses local examples and doesn't turn classroom marks into an official result or replace any formal assessment you may need to arrange separately.
+
+### Q2 evidence block
+
+**Adviser:** The workshop is on the twenty-first of November.
+
+**Learner:** I saw the fourteenth in an early programme. Has it moved?
+
+**Adviser:** Yes. The twenty-first is the confirmed date after the room arrangement was settled.
+
+**Learner:** That's possible for both of us. I'll replace the older calendar entry and send my partner the current information.
+
+**Adviser:** We will repeat the date in your confirmation.
+
+**Learner:** Good. I want to avoid keeping two versions and then guessing which one was final when we organise transport.
+
+**Adviser:** The confirmation is the booking record to use. If another practical change occurs, the update will clearly identify that same booking rather than appear as an unrelated event notice.
+
+### Q3 evidence block
+
+**Learner:** What time does it start?
+
+**Adviser:** One thirty-five in the afternoon. The building is open from one, but your workshop begins at one thirty-five.
+
+**Learner:** I'll record one thirty-five as the session time and arrive shortly before it to check in.
+
+**Adviser:** Thank you. The introduction explains how to use the practice records and what conclusions the exercise cannot support.
+
+**Learner:** We shouldn't miss that and then assume the workshop is a formal test.
+
+**Adviser:** Exactly. The activity is a guided review of learning evidence. It has a schedule and clear tasks, but those features alone don't make it a standardised assessment or provide an official score interpretation.
+
+### Q4 evidence block
+
+**Adviser:** How many places should I reserve?
+
+**Learner:** Two. Three of us discussed attending, but the third person has another commitment.
+
+**Adviser:** Two places are available.
+
+**Learner:** We'll collect that person's questions, but we won't reserve a seat that we don't expect them to use.
+
+**Adviser:** If your attendance changes, contact us before transferring a place. The group activity depends on knowing who is coming and how many work areas to prepare.
+
+**Learner:** I'll keep the booking with the two confirmed names and update it through the proper route if necessary.
+
+**Adviser:** That helps us maintain a clear record rather than reconstruct changes from several informal messages on the morning.
+
+### Q5 evidence block
+
+**Learner:** What is the total cost for the two places?
+
+**Adviser:** The introductory booking total is twenty-eight pounds.
+
+**Learner:** Twenty-eight altogether, not for each person?
+
+**Adviser:** Correct. It includes the workshop materials. A separate consultation about a longer programme would have different arrangements, but you haven't booked that here.
+
+**Learner:** I'll share the total and the scope with my partner so we both understand what the payment covers.
+
+**Adviser:** Check the confirmation before completing payment. If the amount or number of places differs from this conversation, ask us to correct it. A clear explanation now is better than discovering later that each person assumed a different service was included.
+
+### Q6 evidence block
+
+**Learner:** What should we bring from our practice?
+
+**Adviser:** Bring your error log, with the original task references if you have them. The log should distinguish what you first answered, what the feedback said and what you changed afterwards.
+
+**Learner:** I have an error log, although some entries just say careless mistake.
+
+**Adviser:** Bring it as it is. We can discuss how to make those entries more informative. You don't need to rewrite the log to make your preparation look better.
+
+**Learner:** That's useful. A record of the difficulty we actually had will probably help more than a polished summary that hides the steps between the first attempt and the correction.
+
+### Q7 evidence block
+
+**Learner:** Will we take a formal examination during the workshop?
+
+**Adviser:** No. There is an original practice activity to help you examine your review method, but it isn't an official examination or a substitute for a separately required checkpoint.
+
+**Learner:** So its results help us plan learning rather than establish a recognised score.
+
+**Adviser:** Exactly. The tasks and local criteria are explained for that purpose.
+
+**Learner:** I'll make sure my partner understands the distinction before we arrive.
+
+**Adviser:** Good. A structured activity can be useful without claiming the standardisation, security or score interpretation of a formal assessment. We want the conclusions to match the evidence the activity is actually designed to produce.
+
+### Q8 evidence block
+
+**Learner:** Can we compare our two practice scores directly?
+
+**Adviser:** You can discuss them, but first examine the tasks, timing and help received. A higher total from an easier or more familiar activity may not show the same thing as improvement under comparable conditions.
+
+**Learner:** We should bring those details rather than just the final numbers.
+
+**Adviser:** Yes. The workshop looks at the information behind a difference. It doesn't assume every rise proves learning or every fall proves decline.
+
+**Learner:** That could change how we read our logs. We've sometimes written a judgement beside a number without recording whether we repeated a task we already knew or received extra explanation before finishing it.
+
+### Q9 evidence block
+
+**Learner:** One of us may need a different format for the review sheet. Should we wait until the workshop?
+
+**Adviser:** Please describe the practical requirement when replying to the confirmation. We can check the available formats and discuss any limits before the day.
+
+**Learner:** I'll ask my partner which format works rather than guess on their behalf.
+
+**Adviser:** Thank you. That gives us a useful request to respond to.
+
+**Learner:** We don't want to arrive assuming that an ordinary printed sheet is the only option, or assume an alternative is guaranteed without discussing it.
+
+**Adviser:** Exactly. The aim is a clear arrangement that the participant and the teaching team both understand in advance.
+
+### Q10 evidence block
+
+**Learner:** If we need to change the booking, what should we do?
+
+**Adviser:** Reply to the confirmation with the booking reference. For an urgent change close to the session, use the telephone number printed there.
+
+**Learner:** A message in the public workshop comments wouldn't update the attendance list?
+
+**Adviser:** Correct. It may not reach the person managing places.
+
+**Learner:** I'll keep the full confirmation, not just a screenshot of the time.
+
+**Adviser:** Good. It contains the current instructions and the route for changing them. That helps prevent two people acting on different versions and each assuming the other has already told the centre about a revised plan.
+
+## Part 2 — Learning review centre orientation
+
+### Q11 evidence block
+
+**Review host:** Welcome to the learning review centre. North is at the top of the diagram, the entrance is on the southern edge and the courtyard is the central landmark. Eight lettered spaces surround it. Check-in is directly south of the courtyard, on the entrance axis. It isn't in either southern corner. Please report there before joining an activity. Staff can confirm the room and explain any practical update. The centre hosts several kinds of learning session, so an old plan from another event may not identify today's arrangement. Use the current diagram and ask if a sign appears inconsistent with the instructions in your confirmation.
+
+### Q12 evidence block
+
+**Review host:** The individual practice room is in the north-west corner. It is west of the northern central room and diagonally north-west of the courtyard. An earlier plan put the practice activity directly north, but that room now has another function. The practice room is used under a stated timetable, so please wait until the leader explains when to begin. This original activity is a way to examine a learning process, not an official test. Keep the conditions visible in your record, including any agreed support. A local score is only interpretable in relation to the task and procedure that produced it, not by the room's formal appearance or the presence of a timer.
+
+### Q13 evidence block
+
+**Review host:** The discussion room is directly east of the courtyard, level with its centre. It is not the south-east room. Groups use that space to compare interpretations of their practice records after the individual activity. The purpose is to explain what the evidence supports and where members disagree, not to rank people by a single total. A participant with a lower score may have encountered unfamiliar material or received less help, so the number alone doesn't settle the comparison. Please bring the task conditions and relevant examples to the discussion. Those details give the group something specific to examine instead of relying only on a broad judgement such as better or worse.
+
+### Q14 evidence block
+
+**Review host:** The review room is in the north-east corner, directly north of the discussion room. It is also east of the northern central room, since both positions are on the same northern row of the diagram. This is where participants turn their observations into a short plan for the next stage. The plan should identify a priority and the evidence behind it, rather than list every possible weakness. Staff may ask you to explain why a proposed action addresses the difficulty you observed. That question is intended to clarify the reasoning, not to demand certainty about a future result. A useful plan can include a carefully defined uncertainty to investigate.
+
+### Q15 evidence block
+
+**Review host:** The collection point for printed resources is in the south-west area, west of check-in and below the room directly west of the courtyard. Please take the resource that matches the task version named by your leader. Several activities use similar layouts, but their required outputs may differ. A familiar-looking sheet isn't necessarily the correct one. If you find a missing page, report it rather than copy a neighbour's answers and treat that as an independent attempt. The collection point is a practical service, not a second assessment desk. The helper can supply the right material but won't decide which interpretation your response should defend.
+
+### Q16 evidence block
+
+**Review host:** Today's checkpoint is original practice. It cannot replace an official or separately scheduled formal assessment, and its local score should not be converted into an official band or grade. The useful evidence concerns particular actions: whether a requirement was noticed, whether a claim had support and whether time was reserved for checking. Those observations can guide a next learning decision without predicting every future performance. We ask participants to keep that scope visible when discussing the result afterwards. Calling an exercise a checkpoint explains its place in a learning sequence; it doesn't by itself establish that the task has the properties needed for a formal score interpretation.
+
+### Q17 evidence block
+
+**Review host:** Before the activity begins, identify what the task requires and what the stated limit includes. If a response asks for a comparison and a recommendation, completing only the comparison is an incomplete response even if it is detailed. At the same time, adding an unrequested section can consume time needed for a required qualification. The task isn't a contest to write the largest amount. It asks you to allocate effort to the work specified. If an instruction is unclear, follow the clarification process rather than silently invent a requirement. Your later review should be able to distinguish misunderstanding the task from understanding it but running out of time.
+
+### Q18 evidence block
+
+**Review host:** During the review, preserve your first response separately from the corrected version. Otherwise you may remember the improved answer as though it were what you produced independently at the start. The first response provides evidence about the difficulty; the correction provides evidence about what you changed after feedback or further thought. Both are useful, but they answer different questions. If you used an explanation from another person, record that support rather than presenting the revision as unaided work. The aim is an honest learning record, not a display that makes every attempt look successful by removing the parts that would help you understand why improvement was needed.
+
+### Q19 evidence block
+
+**Review host:** A confidence rating can be discussed alongside an answer, but confidence isn't a substitute for evidence. A person may feel certain about an incorrect interpretation or uncertain about a well-supported one. The review can examine the relationship between the rating and the response rather than praising confidence by itself. Explain which clue or reasoning step produced your judgement. If you changed your mind, identify what new information mattered. This makes a confidence record useful for learning: it can reveal a recurring unsupported assumption or a tendency to overlook evidence you actually understood. A bare high-or-low label without that connection may tell the group little about what to change next.
+
+### Q20 evidence block
+
+**Review host:** The closing plan should name one manageable priority and a way to check it later. You may need more than one improvement over time, but attempting every possible change in the next session can make it difficult to learn which action helped. Record what you will retain as well as what you will revise. The next checkpoint should connect to the plan without simply repeating a familiar answer from memory. A useful sequence includes an attempt, evidence, interpretation and a deliberate next action. It remains open to revision when new evidence arrives, rather than treating one local practice result as a permanent description of a learner's ability.
+
+## Part 3 — Interpreting two practice attempts
+
+### Q21 evidence block
+
+**Tutor:** You completed two original practice attempts last week. Today we're reviewing them before planning the next checkpoint.
+
+**Mina:** I suggest beginning with any required output that was missed. A neat answer can still fail to do everything the task asked.
+
+**Caleb:** I agree. I initially wanted to start with spelling, but an omitted recommendation affects the whole response.
+
+**Tutor:** So you both support reviewing missed requirements first?
+
+**Caleb:** Yes, while keeping the other issues for later.
+
+**Mina:** We can mark the instruction and the corresponding place in the response.
+
+**Tutor:** That gives you a concrete comparison rather than a general impression that one answer seems more complete than another.
+
+### Q22 evidence block
+
+**Tutor:** Caleb proposes timing the first planning stage separately in the next attempt.
+
+**Caleb:** I support that. We know the overall duration, but we don't know whether the planning stage expanded or whether writing took longer.
+
+**Mina:** I'd keep the same timing record for one more attempt before adding another measurement. A new stage marker might alter how people plan.
+
+**Tutor:** Could that alteration itself be useful to observe?
+
+**Mina:** Possibly, but I still prefer to establish the existing pattern first.
+
+**Caleb:** I continue to support the separate timing.
+
+**Tutor:** Then the proposal isn't shared. Your disagreement is about what the next attempt should investigate, not whether planning time can matter.
+
+### Q23 evidence block
+
+**Tutor:** An early note suggests converting the local total into an official band.
+
+**Caleb:** I wrote that because a familiar scale seemed easier to explain.
+
+**Mina:** I don't support it. These tasks don't provide a valid official score conversion.
+
+**Caleb:** You're right. I'll remove the conversion and keep the result on the local scale with its purpose stated.
+
+**Tutor:** Are you withdrawing the proposed official interpretation?
+
+**Caleb:** Yes. A structured original task isn't enough to justify that claim.
+
+**Mina:** We can still identify specific strengths and difficulties.
+
+**Tutor:** Exactly. A narrower, justified conclusion is more useful than a familiar number whose meaning the assessment design cannot support.
+
+### Q24 evidence block
+
+**Tutor:** Mina proposes a short follow-up on uncertain interpretations from the review.
+
+**Mina:** I support asking participants to explain one passage they were unsure about. It could distinguish a misunderstood word from a problem with the underlying reasoning.
+
+**Caleb:** I'd leave that out of the next session and use the time for another independent attempt.
+
+**Mina:** We could keep it brief, but I still think the explanation is worth collecting.
+
+**Tutor:** Caleb, does limiting it to one passage change your position?
+
+**Caleb:** Not for this stage. I want to see whether the difficulty recurs without additional help.
+
+**Tutor:** Then Mina supports the follow-up and Caleb remains against including it in this next session.
+
+### Q25 evidence block
+
+**Tutor:** Should you compare attempts only after checking the conditions?
+
+**Caleb:** Yes. We need to know whether the tasks were similarly familiar and what help was available.
+
+**Mina:** I agree. Equal time limits don't make every other condition equivalent.
+
+**Tutor:** What would you do if the conditions differed?
+
+**Mina:** Describe the difference and narrow the claim, rather than force the totals into a simple improvement story.
+
+**Caleb:** We might still learn something from the examples, but we couldn't attribute every change to the learning plan.
+
+**Tutor:** Then this is a shared check. It should happen before interpreting the score difference, not appear as a small qualification after a confident conclusion has already been announced.
+
+### Q26 evidence block
+
+**Tutor:** Do you both want a confidence rating beside each first answer?
+
+**Mina:** I support it, with a brief note about the evidence behind the rating. It could show where I'm certain for a weak reason.
+
+**Caleb:** I'd record the errors and their causes first without adding ratings. People may use the scale differently, and I don't want to create another difficult comparison.
+
+**Tutor:** Would an agreed scale resolve that?
+
+**Caleb:** It would help, but I still prefer to leave ratings out of the next attempt.
+
+**Mina:** I continue to favour them.
+
+**Tutor:** Then Mina supports the proposal and Caleb doesn't. Keep that distinction separate from your shared agreement to preserve the first response.
+
+### Q27 evidence block
+
+**Tutor:** Which two indicators have you agreed for the stage review?
+
+**Caleb:** First, coverage of the required outputs. We can check whether each requested component is present rather than assume a long answer is complete.
+
+**Mina:** Agreed. The checklist should use the actual instruction for that task.
+
+**Tutor:** Are you using total word count as the main indicator instead?
+
+**Mina:** No. More words don't necessarily mean better task fulfilment.
+
+**Caleb:** We also rejected a neatness ranking.
+
+**Tutor:** Then required-output coverage is the first agreed indicator. It doesn't judge every aspect of quality, but it addresses a concrete problem that appeared in the practice and can be examined directly in the response.
+
+### Q28 evidence block
+
+**Tutor:** What is the second agreed indicator?
+
+**Mina:** Whether the evidence behind each main claim can be traced. A response may state an attractive conclusion without showing which information supports it.
+
+**Caleb:** Yes. We'll connect the claim to a relevant source detail or reasoning step.
+
+**Tutor:** Are you predicting an official result from that indicator?
+
+**Caleb:** No. We rejected a formal score forecast for this original activity.
+
+**Mina:** The pair is required-output coverage and evidence traceability.
+
+**Tutor:** Good. Those indicators give the review a defined focus. They don't turn it into a complete assessment of every skill, so keep the scope visible when explaining the result to somebody who wasn't part of the exercise.
+
+### Q29 evidence block
+
+**Tutor:** Which two limitations affect the comparison between last week's attempts?
+
+**Mina:** The second task was more familiar. Several participants had worked with a similar example before, whereas the first task introduced a new setting.
+
+**Caleb:** Agreed. That familiarity could contribute to a higher total.
+
+**Tutor:** Does saving both first responses count as a limitation?
+
+**Caleb:** No, it helps us compare the actual work.
+
+**Mina:** And both sessions took place, so cancellation isn't part of the explanation.
+
+**Tutor:** Then prior familiarity is the first limitation. Explain its relevance to the result rather than listing every difference between the task sheets as though each must have had an equal effect.
+
+### Q30 evidence block
+
+**Tutor:** What is the second limitation?
+
+**Caleb:** Participants received different amounts of help. Some had an additional explanation before completing the second response.
+
+**Mina:** Yes. We can't treat that result as entirely independent work or attribute every improvement to the plan we proposed.
+
+**Tutor:** What will change next time?
+
+**Mina:** Record the assistance consistently and distinguish unaided work from work completed after help.
+
+**Caleb:** We should preserve the earlier records with their limitations rather than edit the help out of the history.
+
+**Tutor:** Exactly. The two limitations are task familiarity and unequal assistance. The printed pages were complete, so missing material isn't another problem that affected these particular attempts.
+
+## Part 4 — From a checkpoint to a revised learning plan
+
+### Q31 evidence block
+
+**Lecturer:** This lecture describes an original learning checkpoint, not a formal standardised examination. The first stage prepares a rubric. A rubric is a scoring guide that explains which features the local review will examine and how judgements will be made. In this example, the guide focuses on responding to the task and supporting claims with relevant evidence. It does not provide an official score conversion. The team should make the criteria clear before reviewing the responses, so the standard doesn't shift to fit an attractive answer after it has been seen. A useful rubric supports consistent discussion while keeping its limited purpose visible to both participants and reviewers.
+
+### Q32 evidence block
+
+**Lecturer:** The second stage preserves the first attempt made under the agreed conditions. The initial response is kept separately from revisions, with the task version, time limit and any support recorded. This gives the review an identifiable object rather than a memory of what the learner probably meant to write. A corrected response may demonstrate useful learning, but it cannot replace the initial response when the question concerns independent performance before feedback. The team should also note a significant interruption rather than pretend the attempt followed the plan exactly. Keeping the record clear is a practical requirement for interpreting later change, not an invitation to treat one attempt as a complete description of ability.
+
+### Q33 evidence block
+
+**Lecturer:** The third stage gathers evidence for each judgement. Evidence includes features of the response that relate to the stated criteria, such as a missing required output or a claim connected to an appropriate source detail. The reviewer should identify the relevant passage rather than rely only on a general impression. A label such as unclear may be a starting observation, but it needs an explanation of what the reader cannot follow and why that matters to the task. The purpose is to make the judgement inspectable. Another reviewer should be able to see the basis for the comment and discuss it, rather than accept an unexplained verdict because it sounds confident.
+
+### Q34 evidence block
+
+**Lecturer:** The fourth stage makes a diagnosis of the main difficulty. A diagnosis is a reasoned explanation that connects the observed problem with a plausible learning need. An omitted section could reflect a missed instruction, poor time allocation or uncertainty about the content. The response alone may not distinguish those possibilities, so the reviewer should keep the explanation qualified and use additional information where appropriate. Calling every omission carelessness doesn't identify a useful action. The aim is to formulate a difficulty precisely enough that a later revision can address it, while acknowledging when the evidence supports more than one interpretation. Diagnosis therefore follows evidence rather than replacing the need to examine it.
+
+### Q35 evidence block
+
+**Lecturer:** The fifth stage plans a revision that addresses the identified difficulty. A revision is a deliberate change, not simply a second attempt made with the hope that more effort will produce a better result. The learner might add a check for required outputs, practise a particular reasoning step or alter the allocation of time. The selected action should connect to the diagnosis and remain manageable within the next session. If several changes are introduced at once, it may be difficult to understand which one helped. The plan can therefore begin with a focused adjustment while keeping other needs recorded for later work. The next attempt will provide new evidence, not a guaranteed confirmation that the plan was correct.
+
+### Q36 evidence block
+
+**Lecturer:** Retention concerns what remains available after a delay. A learner who can repeat an explanation immediately after hearing it may not use the same idea independently a week later. A later check can explore retention, provided its purpose and conditions are clear. The reviewer should not treat any difference as proof that all earlier learning disappeared; the later task may introduce another demand or context. It helps to identify which specific knowledge or procedure the check is intended to examine. That makes the comparison more informative than a broad judgement that the learner either remembers everything or has forgotten the whole lesson based on one response.
+
+### Q37 evidence block
+
+**Lecturer:** Transfer concerns using learning in a different task or setting. A person may recognise the required comparison in a familiar example but miss it when the wording changes. The next stage can examine whether the underlying principle carries across, without simply asking for the same answer again. The team should describe the relevant similarities and differences between tasks. A task that changes every feature at once may make a difficulty hard to interpret, while an almost identical task may mainly reward memory of the earlier response. A useful transfer check is designed around the principle being investigated and keeps the claim narrower than a promise of success in every future situation.
+
+### Q38 evidence block
+
+**Lecturer:** Calibration concerns the relationship between confidence and accuracy. In this example, a learner records confidence before receiving feedback and later compares that rating with the support for the answer. High confidence in a weak interpretation may reveal an assumption worth examining; low confidence in a sound interpretation may reveal overlooked evidence. The review should investigate the pattern rather than simply encourage everyone to sound more certain. Different people may use a rating scale differently, so an agreed description helps. Calibration is a local learning question here, not a diagnosis of personality. Its value depends on linking a rating with an answer and the reasons behind it.
+
+### Q39 evidence block
+
+**Lecturer:** The stage review selects a small number of priorities for the next period. These improvement targets should reflect both the importance of a difficulty and the evidence that the proposed action can address it. The most frequent error is not automatically the best first target if it has little effect on the required task. Equally, a striking rare mistake may distract from a repeated omission that prevents completion. The learner and reviewer explain the choice and record what will be deferred. This keeps the plan manageable without pretending that deferred issues have disappeared. Clear priorities make the next session a deliberate test of an improvement idea rather than another attempt to fix everything simultaneously.
+
+### Q40 evidence block
+
+**Lecturer:** Finally, the team arranges a checkpoint to review the next attempt. The checkpoint identifies when the evidence will be examined, which criteria remain relevant and what would justify changing the plan. It should not promise a particular score before the learner has done the work. A useful review can lead to retaining the current approach, revising the diagnosis or testing a different action. The record should preserve that decision and its reasons. In this way, an original checkpoint becomes one stage in a continuing learning process. It supports a justified next step while leaving formal assessment requirements separate and avoiding claims that a local exercise can establish every conclusion a learner might want to draw.

@@ -1,0 +1,388 @@
+# L-W24 — Answers and evidence
+> 独立答案页。先提交首次答案，再看本页。当前缺音频，文本验题不能充当实听验收。
+
+每个单空 1 分；双选各 2 分、答案顺序不限、按不同正确选项计分。接受形式仅做大小写和空白规范化；不做模糊词形推断。
+
+## Q1 — progress review
+
+Accepted answers: progress review
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q01 (script.md; timestamps unavailable).
+
+> Coordinator: Good morning. We offer a progress review workshop and a separate presentation session. Which would suit your group? Caller: Progress review, please. We have several kinds of records and want to describe them accurately before deciding what to do next. Coordinator: Then that is the appropriate booking. It doesn't supply an official result or guarantee that anyone is ready for an examination. Caller: Understood. We want to learn how to organise evidence, rather than have an attractive slide stand in for it. Coordinator: I'll enter progress review as the selected workshop. The presentation session can help with delivery later, but it isn't the subject of this reservation.
+
+## Q2 — 28
+
+Accepted answers: 28 / 28th / twenty-eighth / twenty eighth / the twenty-eighth / the 28th
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q02 (script.md; timestamps unavailable).
+
+> Caller: The draft programme showed the twenty-first of November. Is that still the date? Coordinator: No, that was provisional. The confirmed date is the twenty-eighth of November. The room is available then, and the facilitator has confirmed. Caller: So the twenty-eighth, with November unchanged. I'll correct our calendar. Coordinator: Please do. An old message may still contain the twenty-first, but it should not govern travel arrangements. Caller: I'll use the date in this confirmation. We had only discussed the earlier date informally, so nobody has booked transport yet. Coordinator: Good. The reservation will state the twenty-eighth clearly; a discussion about an earlier possibility does not create a second session.
+
+## Q3 — 1:40
+
+Accepted answers: 1:40 / 1.40 / 01:40 / 01.40 / one forty
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q03 (script.md; timestamps unavailable).
+
+> Caller: What time does the workshop begin? Coordinator: At one forty in the afternoon. The building opens at one, which gives staff time to prepare and visitors time to arrive. Caller: I nearly wrote one as the start. Coordinator: Please record one forty for the workshop itself. If you arrive at the opening time, you can wait in the lobby, but the teaching won't have begun. Caller: That distinction helps. We'll aim to be ready before one forty rather than treat arrival as participation. Coordinator: Exactly. The later review of your booking should distinguish the scheduled beginning from the building's opening and from the time your group actually arrives.
+
+## Q4 — 2
+
+Accepted answers: 2 / two
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q04 (script.md; timestamps unavailable).
+
+> Coordinator: How many people are attending? Caller: There are five people in our study group, but only two can come to this session. The other three have work commitments. Coordinator: Then I will reserve two places. We should not include people merely because they belong to the same group. Caller: Correct. The two attendees can share the general method afterwards, but the others won't be recorded as having attended. Coordinator: If that changes, contact us before the session so we can check capacity. Caller: I will. For now, the confirmed attendance is two, and any future request will be treated as a change rather than quietly added to this booking.
+
+## Q5 — 46
+
+Accepted answers: 46 / 46.00 / forty-six / forty six
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q05 (script.md; timestamps unavailable).
+
+> Caller: Could you clarify the payment? Coordinator: It is twenty-three pounds per person, so the total for your two confirmed places is forty-six pounds. Caller: Forty-six for the whole booking. I don't multiply that amount by two again. Coordinator: That's right. The total already includes both places. There is no separate materials charge in this fictional workshop. Caller: I'll put forty-six in the total field and leave the currency to the printed heading. Coordinator: That will avoid confusing a total with a rate. Keep the confirmation as well, since the calculation should be traceable if someone later asks why the group paid that amount rather than the price for one attendee.
+
+## Q6 — ledger
+
+Accepted answers: ledger / organised list / list
+
+Use the final confirmed detail in this exchange; the printed unit or date context is already supplied.
+
+Evidence locator: Q06 (script.md; timestamps unavailable).
+
+> Caller: What should we bring? Coordinator: Bring a ledger of the records you actually have. A ledger is the organised list we will inspect, even if some entries are incomplete. A certificate alone won't show the conditions of all your practice. Caller: I'll bring the ledger and mark gaps honestly. Coordinator: Good. Include references to supporting work where available, but don't create scores to fill empty cells. Caller: Some formal assessments have only been planned. Coordinator: Then list them as planned, without results. The ledger can distinguish an intended activity from an observed outcome. Its value comes from accurate categories and references, not from making every row look finished before you arrive.
+
+## Q7 — B
+
+Accepted answers: B
+
+The formal checkpoint requires its own implementation and evidence.
+
+Evidence locator: Q07 (script.md; timestamps unavailable).
+
+> Caller: Does this workshop itself count as our final formal checkpoint? Coordinator: No. It is an original local exercise about evidence. A separately specified formal checkpoint remains separate and needs its own lawful material, administration conditions and result. Caller: So a local correct count belongs to this exercise, without being converted into an official band. Coordinator: Exactly. Nor does a planned formal session already have a result. Caller: We can learn from the original exercise while keeping those distinctions visible. Coordinator: Yes. A useful learning activity doesn't need to claim the status of another assessment. Record what was actually attempted and how, then use only the conclusions that record can support.
+
+## Q8 — A
+
+Accepted answers: A
+
+A target belongs to the person who stated it; it is not an observed outcome.
+
+Evidence locator: Q08 (script.md; timestamps unavailable).
+
+> Caller: One member has a target score written down, while the other hasn't confirmed a target. Should we give them the same target for the worksheet? Coordinator: No. Keep each stated aim attached to the person who supplied it, and leave the other as unknown until clarified. Caller: We shouldn't infer a target from a friend's plan. Coordinator: Correct. Also distinguish a desired result from a result already obtained. Caller: That seems obvious, but our old table put both under a column called score. Coordinator: A clearer structure will help. During the workshop, you can revise the headings without pretending that clearer formatting supplies the missing information or changes what either person has achieved.
+
+## Q9 — C
+
+Accepted answers: C
+
+They answer different questions and need visible conditions.
+
+Evidence locator: Q09 (script.md; timestamps unavailable).
+
+> Caller: May we combine a familiar corrected task with a new attempt to make one progress total? Coordinator: Keep them separate. A familiar retest can show what was retained under its conditions, while a fresh first response addresses a different question. Caller: We should include the earlier exposure and any guidance. Coordinator: Yes. You can discuss both records, but a combined number can hide those differences. Caller: Then we'll label each attempt before interpreting it. Coordinator: That is the useful step. Repeating a task isn't inherently wrong; it becomes misleading when the description erases prior access to the questions or answers and presents the result as independent evidence from unseen material.
+
+## Q10 — B
+
+Accepted answers: B
+
+Missing evidence does not dictate either decision.
+
+Evidence locator: Q10 (script.md; timestamps unavailable).
+
+> Caller: If our information is incomplete, will the workshop require us to book an examination or extend the course? Coordinator: Neither follows automatically. Missing evidence means a decision needs an appropriate basis, not that a particular action is compulsory. Caller: We can identify what information would help and choose a practical next step. Coordinator: Exactly. If you need to change this reservation, reply with its confirmation reference. Don't treat a blank result field as a booking instruction. Caller: We'll keep the administrative change separate from our learning decision. Coordinator: Good. The review should explain its limits and support a choice, rather than turn an unfinished table into a claim that you have passed or must continue for a fixed period.
+
+## Q11 — C
+
+Accepted answers: C
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q11 (script.md; timestamps unavailable).
+
+> Welcome to the review centre. The map has north at the top, a courtyard in the middle and the entrance on the south edge. The check-in room is directly west of the courtyard. Enter from the south and find the room aligned horizontally with the central space on its left. Don't choose a room merely because it is nearest the entrance. The south position belongs to a different facility. Staff in the west room will check the reservation and explain the day's arrangement. Checking in confirms arrival; it does not by itself record participation in every activity shown on the map or establish that a learner completed a formal assessment.
+
+## Q12 — E
+
+Accepted answers: E
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q12 (script.md; timestamps unavailable).
+
+> The records briefing is directly north of the courtyard. An earlier proposal placed it in the north-west corner, but that proposal was not adopted. On the current map, use the middle room in the top row. There you will see how to separate a stated target from observed results. The display includes incomplete fictional records because an honest blank can be more informative than an invented value. The briefing teaches a method for organising evidence. It cannot supply a missing personal target, verify an unrecorded examination or change the conditions under which a previous response was produced. Those facts have to come from the relevant actual records.
+
+## Q13 — A
+
+Accepted answers: A
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q13 (script.md; timestamps unavailable).
+
+> The comparison gallery occupies the north-east corner. It is east of the briefing room and north of the room directly east of the courtyard. Use both relations to confirm the corner. The gallery compares records whose headings once looked similar but whose meanings differed. One count came from a first response, another from a familiar corrected item, and a third was only a target. Visitors are asked to explain the distinction before comparing values. The spatial route to this gallery is fixed for the exercise, but the examples don't establish any personal result for the visitor. Reading a fictional display should not be entered as completing the task described within it.
+
+## Q14 — F
+
+Accepted answers: F
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q14 (script.md; timestamps unavailable).
+
+> The discussion room is in the south-east corner. It lies south of the room directly east of the courtyard and east of the room directly south of it. This is where small groups will discuss what their evidence can support. The room is not the eastern room beside the courtyard; continue to the bottom-right corner. Discussions should retain disagreement when the records do not settle a question. A confident speaker may suggest a plausible interpretation, but the group still needs to identify its basis. The facilitator will ask which observation supports the statement and which relevant information remains unavailable, rather than select an answer solely because it sounds reassuring.
+
+## Q15 — G
+
+Accepted answers: G
+
+Use the explicitly stated position relative to the courtyard, not an earlier layout or adjacent area.
+
+Evidence locator: Q15 (script.md; timestamps unavailable).
+
+> The resources room is in the south-west corner. It is south of the check-in room and west of the room directly south of the courtyard. That gives you three ways to locate the same destination. Resources include blank record structures, not completed personal conclusions. You can use a structure to preserve evidence references and actual conditions, but copying its layout does not validate what you enter. Before leaving, compare each field with the information you genuinely have. If a source or result is missing, mark the limitation. The template is meant to make the record easier to inspect, not to create pressure to fill every space with a favourable number.
+
+## Q16 — C
+
+Accepted answers: C
+
+Targets, original counts, formal results and familiar retests have different meanings.
+
+Evidence locator: Q16 (script.md; timestamps unavailable).
+
+> During the first activity, separate categories before comparing results. The target records what someone wants to achieve. An original-task count records correct answers on that particular original task. A familiar retest records performance after earlier exposure, and a formal result belongs to its identified assessment and conditions. Those categories can inform one discussion without being merged into one interchangeable score. If the headings are unclear, fix them before drawing conclusions. A tidy average across unlike records may look precise while answering no useful question. The activity therefore begins with classification of the evidence, followed by a narrower comparison whose purpose and limits can be explained.
+
+## Q17 — A
+
+Accepted answers: A
+
+Known conditions determine the scope of a comparison; missing ones stay unknown.
+
+Evidence locator: Q17 (script.md; timestamps unavailable).
+
+> The next activity examines whether two observations are sufficiently comparable for the proposed claim. Check the task, prior exposure, support and response conditions that matter to that claim. Identical totals can represent different processes, while different totals can arise from changes in material. This doesn't mean comparison is impossible whenever conditions differ. It means the interpretation should say what differences are known and why they matter. Where an important condition was never recorded, retain that uncertainty. Don't invent a standard setting because the result would then be easier to explain. A qualified comparison is often more useful than either an unsupported ranking or a refusal to examine any evidence at all.
+
+## Q18 — B
+
+Accepted answers: B
+
+Planning, administration and verified results are distinct states.
+
+Evidence locator: Q18 (script.md; timestamps unavailable).
+
+> At the review station, identify the source of each formal result. A planned assessment is not an administered assessment, and an administered assessment without a verified result is not a confirmed score. The workshop doesn't provide a source, test sitting or independent human evaluation on your behalf. Keep those statuses distinct in the record. If a formal checkpoint is part of your course, it still needs its separately authorised implementation. This original exercise cannot silently replace it. You may record that an item is awaiting evidence, then describe what would resolve the gap. The absence of a result does not establish either success or failure.
+
+## Q19 — A
+
+Accepted answers: A
+
+Prior exposure limits the claims a familiar retest supports.
+
+Evidence locator: Q19 (script.md; timestamps unavailable).
+
+> When discussing familiar-item retests, keep their purpose visible. A repeated item may help show retention of a correction or use of a checking routine after feedback. It cannot automatically stand in for an unseen first attempt under different conditions. Record the earlier exposure and the help available. If the same answer is remembered, that is relevant information about this attempt rather than a reason to erase the activity. The review should match the claim to the evidence. It can acknowledge a useful correction while leaving transfer to unfamiliar material unestablished until an appropriate later response supplies evidence for that separate question.
+
+## Q20 — C
+
+Accepted answers: C
+
+A proportionate next step needs a basis; it may remain conditional.
+
+Evidence locator: Q20 (script.md; timestamps unavailable).
+
+> The final station asks groups to identify a proportionate next step. Depending on the actual record, that might mean collecting missing information, examining a repeated error or proceeding with an independently chosen plan. No single action follows merely from reaching the end of this original worksheet. Don't announce readiness, a booking decision or a compulsory extension without the required evidence and the learner's circumstances. The facilitator will look for a clear connection between the proposed action and the facts available. A decision can remain conditional. That is different from pretending every uncertainty has disappeared or treating an unknown result as a hidden instruction to continue studying indefinitely.
+
+## Q21 — C
+
+Accepted answers: C
+
+Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q21 (script.md; timestamps unavailable).
+
+> Tutor: Last week you organised the fictional group's records. Today, who supports separating targets from observed outcomes before comparing them? Iris: I do. The old score column mixed what people wanted with what they obtained. Leo: I agree. I initially thought colour alone would clarify it, but separate categories are more reliable. Tutor: Are you both endorsing that separation now? Leo: Yes. We can still display the categories together, provided their meanings remain clear. Iris: And a missing target stays missing rather than being copied from another person. Tutor: Good. Your joint proposal concerns how to describe the records, not a claim that reorganising them changes any result already observed.
+
+## Q22 — B
+
+Accepted answers: B
+
+Final stance: Leo only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q22 (script.md; timestamps unavailable).
+
+> Tutor: Who favours adding a new unfamiliar task as the immediate next step? Iris: I would first inspect the conditions of the existing responses. We may already have useful evidence that hasn't been understood. Leo: I favour the unfamiliar task next, because the familiar retest cannot answer our question about a changed item. Tutor: Iris, does that persuade you to adopt Leo's timing? Iris: No. I accept the possible value of a fresh task, but my next step remains reviewing what we have. Leo: Then our priorities differ even though neither of us rejects the other's activity altogether. Tutor: Exactly. The question concerns the immediate next step, not whether an activity might ever be useful.
+
+## Q23 — A
+
+Accepted answers: A
+
+Final stance: Iris only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q23 (script.md; timestamps unavailable).
+
+> Tutor: Who wants a source reference beside each formal-result entry? Iris: I do. Without a reference, a later reader may confuse a remembered number with a verified record. Leo: I would first resolve the category labels and add references in a later pass. Tutor: So do you both support putting the references beside entries now? Leo: No. I recognise their value, but I am not supporting that action at this stage. Iris: My position is unchanged. The reference belongs with the entry during this review. Tutor: That gives us a clear difference about the proposed procedure. A general agreement that evidence matters does not make every specific timing proposal a shared decision.
+
+## Q24 — D
+
+Accepted answers: D
+
+Final stance: Neither student. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q24 (script.md; timestamps unavailable).
+
+> Tutor: Should the familiar retest replace the separate formal checkpoint? Leo: I wondered whether it might save time, since the retest was successful. Iris: I don't support replacement. Prior exposure and the status of the task matter. Leo: You're right. I withdraw that suggestion; the retest should remain in its own category. Tutor: What is your final position? Leo: I no longer want it to replace the checkpoint. Iris: Nor do I. We can acknowledge what the retest showed without assigning it another assessment's role. Tutor: Good. The final stance is different from Leo's opening suggestion, and the record should reflect that change rather than preserve a proposal he has explicitly abandoned.
+
+## Q25 — C
+
+Accepted answers: C
+
+Final stance: Both students. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q25 (script.md; timestamps unavailable).
+
+> Tutor: Who supports leaving readiness unknown where the necessary evidence is absent? Iris: I do. Unknown is more accurate than inferring failure from an empty field. Leo: I agree. I had been tempted to write not ready as a precaution, but that goes beyond the record. Tutor: Has your view changed? Leo: Yes. I support unknown until the relevant basis is available. Iris: We should still say what information would help, within a manageable plan. Tutor: Both of you can therefore support an honest status without requiring the same future action in every case. The missing evidence doesn't prove readiness, but neither does it itself dictate an extension or a booking decision.
+
+## Q26 — A
+
+Accepted answers: A
+
+Final stance: Iris only. Ignore an initial proposal if later withdrawn; the tutor is not an answer option.
+
+Evidence locator: Q26 (script.md; timestamps unavailable).
+
+> Tutor: Who wants to record the next review point before ending today's discussion? Iris: I do. A defined point for returning to the question will help us avoid leaving a conditional decision unattended. Leo: I would wait until the missing information has an expected arrival date. Tutor: Iris, are you changing your proposal? Iris: No. The review point can be provisional and explicitly conditional. Leo: I still prefer to wait rather than set one now. Tutor: Then only Iris supports recording it at this point. Acknowledging that future review is useful does not mean Leo has accepted the specific action proposed for the end of today's meeting.
+
+## Q27–28 — A, D
+
+Accept unordered set: A, D. One point per distinct correct choice, maximum 2.
+
+They agree category separation and condition records, not conversion or a universal instruction.
+
+Evidence locator: Q27, Q28 (script.md; timestamps unavailable).
+
+> Tutor: Which two actions have you agreed to take in the summary? Iris: First, keep the four evidence categories distinct. A target, an original correct count, a formal result and a familiar retest should not share one unexplained score field. Leo: Agreed. Second, attach relevant conditions to the observed attempts, so a reader can understand what happened. Tutor: Have you agreed to calculate an official band from the original task? Leo: No. We have no basis for that conversion. Iris: Nor are we deleting the familiar attempts. They remain useful when their role is described accurately. Tutor: Then state the two agreed actions clearly and avoid presenting the rejected ideas as part of the plan.
+
+> Leo: Keeping conditions means noting earlier access to answers and any guidance, not merely writing a date beside a number. Iris: Yes. And keeping categories distinct means that a target remains an aim even when it happens to equal a later observed count. Tutor: Are you adding a third agreed action to require extra study from everyone? Iris: No. The next action depends on the evidence and circumstances. Leo: The summary is about accurate records, not a universal instruction. Tutor: Good. Your two commitments are the category separation and the conditions attached to attempts. Explain those commitments consistently when you present the summary, including the limits of what they establish.
+
+## Q29–30 — B, E
+
+Accept unordered set: B, E. One point per distinct correct choice, maximum 2.
+
+The unknown target and unverified formal result are the stated gaps; other evidence is present.
+
+Evidence locator: Q29, Q30 (script.md; timestamps unavailable).
+
+> Tutor: What two gaps prevent a stronger personal conclusion in this fictional example? Leo: One person's target hasn't been supplied. We cannot assess progress towards an aim we don't know. Iris: Also, the formal result has not been verified. A planned assessment appears in the ledger, but no confirmed outcome accompanies it. Tutor: Is the familiar retest missing? Iris: No, it is present and labelled. The issue is what that kind of evidence can support. Leo: And the original response count is present too. Tutor: So distinguish absent information from available information with limited relevance. Otherwise you might request records you already have while overlooking the gaps that matter to the proposed conclusion.
+
+> Iris: I will state the unknown target and the unverified formal result as the two gaps. Leo: That does not mean we know the learner failed. It also doesn't justify announcing that the aim has been achieved. Tutor: Does it automatically require a fixed extension? Iris: No. We need an appropriate next step, which depends on the person's situation and available evidence. Leo: We should not invent a target or a formal number to make the conclusion easier. Tutor: Exactly. A useful summary identifies what is missing, preserves the available evidence and keeps the scope of its conclusion honest. It can guide further work without claiming a personal result the record does not contain.
+
+## Q31 — target
+
+Accepted answers: target / stated target / aim / declared aim
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q31 (script.md; timestamps unavailable).
+
+> The first stage records the stated target. Here, a target is the learner's declared aim, not an observed result. This aim should be specific enough to identify the question a later review is meant to address. If the learner has not supplied it, the field remains unknown. A reviewer should not infer it from another person's plans or from a convenient number in a template. Recording a target establishes what is wanted. It does not establish that the aim has been reached, that a particular test has been taken or that the learner should make a booking. Those are different questions requiring their own evidence and decisions.
+
+## Q32 — evidence register
+
+Accepted answers: evidence register / register / organised list / list
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q32 (script.md; timestamps unavailable).
+
+> The second stage assembles an evidence register. The register is an organised list of available records, with categories and source references. This list separates original correct counts, formal results and familiar-item retests while retaining any relevant link to the stated aim. Some entries may describe planned activities without outcomes. Those entries should remain visibly different from completed attempts. The evidence register helps another reader locate what supports a statement. It is not a substitute for the underlying work or a reason to fill missing cells with estimated success. The stage should make both available evidence and important gaps easier to inspect before any judgement is drawn.
+
+## Q33 — comparison
+
+Accepted answers: comparison / structured comparison / proposed comparison
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q33 (script.md; timestamps unavailable).
+
+> The third stage makes a structured comparison suited to the review question. This comparison considers the conditions and meaning of the observations, not only their numerical difference. A familiar retest and an unfamiliar first response may both be informative while answering different questions. The reviewer should explain which observations can support the proposed comparison and which differences limit it. If a relevant condition is unknown, that uncertainty remains part of the interpretation. A structured comparison can be narrow and still useful. Its purpose is to examine the available relationship carefully, rather than manufacture a single progress total from records that were never designed to be interchangeable.
+
+## Q34 — judgement
+
+Accepted answers: judgement / judgment / qualified judgement / qualified judgment / local judgement / local judgment / conclusion
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q34 (script.md; timestamps unavailable).
+
+> The fourth stage forms a qualified judgement. A judgement is the conclusion drawn from the reviewed evidence, with its limits stated. This conclusion may be that a narrow skill was demonstrated under recorded conditions, while a broader readiness claim remains unknown. It should not become more ambitious merely because the review occurs at the end of a schedule. A local judgement about an original task is not an official result. The reviewer should identify which facts support the conclusion and what additional information would be needed to extend it. Keeping the qualification visible allows the record to be useful without claiming certainty that the available evidence cannot supply.
+
+## Q35 — decision
+
+Accepted answers: decision / next decision / recorded decision / choice
+
+Complete the named stage in the stated process order; retain any word already printed around the blank.
+
+Evidence locator: Q35 (script.md; timestamps unavailable).
+
+> The fifth stage records the next decision. The decision concerns what to do in light of the judgement and the learner's circumstances. This choice may be conditional on obtaining a missing record, clarifying an aim or examining a specific response. It should include a practical basis rather than repeat a general slogan about working harder. A recorded decision can be revised when relevant evidence changes. It is not automatically a booking instruction or a requirement to extend study. The stage connects the review to an action whose purpose can be explained, while preserving the distinction between a proposed activity, its later completion and whatever outcome is actually observed.
+
+## Q36 — provenance
+
+Accepted answers: provenance
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q36 (script.md; timestamps unavailable).
+
+> Provenance is the named concept used here for the source history of a record. It asks where the evidence came from and how it reached the review. A copied number without a traceable source may be difficult to interpret even when the person sharing it acts in good faith. Recording provenance helps distinguish an original response, a corrected transcription and a remembered estimate. It does not make a source reliable merely because a reference exists. The reviewer still needs to inspect what the source supports. The concept concerns the origin and handling of evidence, rather than supplying a substitute for the result or making every linked document an official assessment.
+
+## Q37 — independence
+
+Accepted answers: independence
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q37 (script.md; timestamps unavailable).
+
+> The named quality used here for a response produced without answer access or relevant guidance is independence. Independence must be described in relation to the task and the question being investigated. A learner can work alone while still remembering a previously studied answer. The record should therefore include prior exposure as well as who was present. This does not make supported learning unhelpful. It means supported practice and an independent response provide different evidence. A claim about independence should be tied to what is known about the attempt, and uncertain conditions should remain visible rather than being silently upgraded because the resulting number looks plausible or encouraging.
+
+## Q38 — retention
+
+Accepted answers: retention
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q38 (script.md; timestamps unavailable).
+
+> Retention is the named concept for remembering learning after a delay. A familiar-item retest may provide evidence about retention under its recorded conditions. It does not automatically establish transfer to a changed task or broad readiness for an assessment. The review should say which question the repeated item was intended to examine. Remembering a correction can be valuable, especially when the learner can explain the relevant procedure, but the description must retain earlier exposure. A clear record allows that useful result to stand on its own terms. There is no need to disguise a familiar attempt as unseen evidence in order to recognise that some learning may have been retained.
+
+## Q39 — uncertainty
+
+Accepted answers: uncertainty / remaining uncertainty
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q39 (script.md; timestamps unavailable).
+
+> The lecture uses uncertainty for the unresolved part of an interpretation. Relevant evidence may be incomplete, conditions may differ or several explanations may remain plausible. The reviewer can describe the remaining uncertainty and identify an observation that would reduce it. This is more useful than replacing every unknown with a reassuring prediction or a pessimistic label. Uncertainty does not forbid practical choices; it affects how strongly a claim can be made and whether a decision should remain conditional. The record should preserve that distinction between choosing an action under limited information and pretending the missing information has already arrived.
+
+## Q40 — unknown
+
+Accepted answers: unknown
+
+The corresponding evidence block supplies this distinction or qualification; the question retains the surrounding grammar.
+
+Evidence locator: Q40 (script.md; timestamps unavailable).
+
+> The final status word for readiness without the necessary personal evidence is unknown. Unknown does not mean passed, failed, ready to book or required to extend. It says the stated question has not been established by the available record. A review can end with that status and still specify a useful, proportionate next step. The original correct count remains attached to this original task; formal results remain attached to their separate assessments; familiar retests retain their exposure history. Keeping those distinctions through the final line protects the meaning of the evidence. The aim is an honest basis for the learner's decision, not a predetermined conclusion produced by the calendar.

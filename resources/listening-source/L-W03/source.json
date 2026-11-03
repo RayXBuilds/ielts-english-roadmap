@@ -1,0 +1,988 @@
+{
+  "schema_version": 2,
+  "id": "L-W03",
+  "revision": "qa4-fix-v2",
+  "title": "Learning beyond the classroom",
+  "part_titles": [
+    "Booking a coastal walk",
+    "Community theatre introduction",
+    "Student podcast planning",
+    "How public signs guide movement"
+  ],
+  "text_license": "CC BY 4.0",
+  "kind": "仅笔记填空技能练习",
+  "canonical_source": true,
+  "notes": "source.json is the complete authoritative source, including role labels and accepted_answers. content.txt is a compatible three-column projection of prompt, canonical answer and spoken text; consult source.json for roles/variants.",
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "The customer chooses the ____ walk.",
+      "answer": "coastal",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "I'd like to book a guided walk for two people. We're reasonably fit, but we don't know the area and would prefer a route with somebody who can explain what we're seeing."
+        },
+        {
+          "role": "Adviser",
+          "text": "We offer a woodland walk and a coastal walk. The woodland route is shorter, but the coastal one includes several interesting viewpoints."
+        },
+        {
+          "role": "Customer",
+          "text": "Let's choose the coastal walk. We spend a lot of time in woods at home, so it would be nice to explore a different landscape while we're here."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "coastal"
+      ],
+      "evidence_locator": "script.md#q1-证据段"
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "The walk is booked for ____.",
+      "answer": "Saturday",
+      "evidence": [
+        {
+          "role": "Adviser",
+          "text": "Which day would suit you? The same route runs twice this week, but the group sizes are slightly different."
+        },
+        {
+          "role": "Customer",
+          "text": "We first thought about Sunday. However, we've just arranged to visit friends then, so Saturday would be better."
+        },
+        {
+          "role": "Adviser",
+          "text": "There are still two places on Saturday. I'll reserve those while we go through the details."
+        },
+        {
+          "role": "Customer",
+          "text": "Thank you. We can organise the rest of our weekend around that. It's helpful to have one activity fixed before deciding what to do with the remaining time."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "Saturday"
+      ],
+      "evidence_locator": "script.md#q2-证据段"
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "The meeting point is the old ____.",
+      "answer": "station",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "Where does everybody meet? We're staying near the harbour, but we can walk across town if necessary."
+        },
+        {
+          "role": "Adviser",
+          "text": "Meet outside the old station. It no longer has trains, but the building is easy to recognise and there is shelter if the weather is poor. Don't go to the modern bus station, which is on the other side of town."
+        },
+        {
+          "role": "Customer",
+          "text": "I think we passed the old building yesterday. There was a small exhibition in the waiting room, so we should be able to find it again."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "station"
+      ],
+      "evidence_locator": "script.md#q3-证据段"
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Participants should arrive at ____ a.m.",
+      "answer": "9.15",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "What time should we be there? I don't want to confuse the meeting time with the time the walk actually starts."
+        },
+        {
+          "role": "Adviser",
+          "text": "Please arrive at nine fifteen. The guide will check the group and explain the route before you leave at half past nine. That preparation is part of the activity, so arriving just as the group sets off isn't ideal."
+        },
+        {
+          "role": "Customer",
+          "text": "We'll aim for a little earlier. Our accommodation serves breakfast from eight, which should leave enough time to eat and walk over comfortably."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "9.15",
+        "9:15",
+        "nine fifteen"
+      ],
+      "evidence_locator": "script.md#q4-证据段"
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "The route is ____ kilometres long.",
+      "answer": "8",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "How far will we walk altogether? We can manage a fair distance, but my friend would appreciate knowing before deciding which shoes to bring."
+        },
+        {
+          "role": "Adviser",
+          "text": "The route is eight kilometres. It includes gentle climbs and some uneven ground, so it takes longer than the same distance on a pavement. We stop regularly to look at features along the way."
+        },
+        {
+          "role": "Customer",
+          "text": "That sounds manageable. We're interested in the guide's explanations, so a route with pauses is more appealing than trying to cover as much ground as possible."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "8",
+        "eight"
+      ],
+      "evidence_locator": "script.md#q5-证据段"
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Each adult pays £____.",
+      "answer": "24",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "And what's the price for each adult? The website mentioned a discount, though I couldn't tell whether that applied to this route."
+        },
+        {
+          "role": "Adviser",
+          "text": "It's twenty-four pounds per adult. The discount is for groups booking six or more places together, so it wouldn't apply to your booking. The price includes the guide, but not lunch or transport back into town."
+        },
+        {
+          "role": "Customer",
+          "text": "That's clear. We're only booking for two, and we'd rather know the ordinary price than rely on an offer that doesn't apply to us."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "24",
+        "twenty-four",
+        "twenty four"
+      ],
+      "evidence_locator": "script.md#q6-证据段"
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Participants should carry a ____.",
+      "answer": "waterproof",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "What should we bring apart from walking shoes and water? The forecast looks dry, but I know conditions can change quickly near the sea."
+        },
+        {
+          "role": "Adviser",
+          "text": "Carry a waterproof, even if the morning is sunny. The exposed sections can feel very different from the sheltered town. A heavy umbrella isn't useful on the narrow path, particularly if it becomes windy."
+        },
+        {
+          "role": "Customer",
+          "text": "We'll put lightweight jackets in our bags. They don't take up much room, and we'd prefer to carry them unnecessarily than discover halfway round that we need them."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "waterproof"
+      ],
+      "evidence_locator": "script.md#q7-证据段"
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "Lunch will be near the ____.",
+      "answer": "lighthouse",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "Is there a cafe where the group stops for lunch, or should we bring food with us?"
+        },
+        {
+          "role": "Adviser",
+          "text": "Bring a packed lunch. We'll stop near the lighthouse, where there are benches overlooking the bay. There's no cafe at that point, and the small shop on the route isn't always open."
+        },
+        {
+          "role": "Customer",
+          "text": "We'll buy something before leaving town. The stop sounds lovely, and carrying lunch means we won't have to worry about whether a shop has enough food for the whole group."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "lighthouse"
+      ],
+      "evidence_locator": "script.md#q8-证据段"
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "The return journey is by ____.",
+      "answer": "bus",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "Does the walk finish where it begins? If not, we need to know how to get back, because we won't have a car."
+        },
+        {
+          "role": "Adviser",
+          "text": "The walk finishes in the next village, and the return journey is by bus. The guide will show you the stop and check the current timetable before the group leaves town. You buy that ticket separately."
+        },
+        {
+          "role": "Customer",
+          "text": "Fine. We might spend a little time in the village first, provided there is a later service. We'll confirm that with the guide on the day."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "bus"
+      ],
+      "evidence_locator": "script.md#q9-证据段"
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "type": "note_completion",
+      "prompt": "If the organiser cancels, customers receive a full ____.",
+      "answer": "refund",
+      "evidence": [
+        {
+          "role": "Customer",
+          "text": "One final question: what happens if conditions are too poor for the walk to go ahead? We would understand a cancellation, but we'd need to adjust our plans."
+        },
+        {
+          "role": "Adviser",
+          "text": "If the organiser cancels, customers receive a full refund. We'll contact you using the details on your booking. Cancellation by a customer has different conditions, which are explained in the confirmation."
+        },
+        {
+          "role": "Customer",
+          "text": "Please send those through. I'll read them before paying, and I'll make sure my phone is switched on while we're away."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "refund"
+      ],
+      "evidence_locator": "script.md#q10-证据段"
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "The theatre used to be a ____.",
+      "answer": "cinema",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Welcome to the community theatre. Many visitors remember this building as a cinema, and several features of that earlier use are still visible. The sloping floor and small projection window were retained when the space was converted. Today we use the building for performances, rehearsals and practical workshops. The organisation is supported by a mixture of paid staff and volunteers. This introduction is for people considering a volunteer role, so I'll focus on what happens behind the scenes as well as in the auditorium."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "cinema"
+      ],
+      "evidence_locator": "script.md#q11-证据段"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "New volunteers begin with an ____ session.",
+      "answer": "induction",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Every new volunteer begins with an induction session. Previous theatre experience is welcome, but it doesn't replace learning how this particular building works. The session covers entrances, evacuation arrangements, communication and the limits of each role. You won't be expected to remember everything immediately; written guidance is provided afterwards. Please ask if a direction seems unclear. It's much easier to resolve a question in advance than during a busy evening when audience members are arriving and several things need attention at once."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "induction"
+      ],
+      "evidence_locator": "script.md#q12-证据段"
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "The current priority is recruiting ____.",
+      "answer": "ushers",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Our current priority is recruiting ushers. These volunteers help audience members find seats, answer straightforward questions and alert the duty manager if a problem occurs. We also have people helping with costumes and scenery, but those teams have enough members for the next production. Being an usher doesn't require detailed knowledge of theatre. It does require patience, a clear understanding of your responsibilities and willingness to ask for help rather than improvise when a situation falls outside the guidance you've been given."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "ushers"
+      ],
+      "evidence_locator": "script.md#q13-证据段"
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "Volunteers receive their rota by ____.",
+      "answer": "email",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Volunteers receive their rota by email. We try to send it well before the performance week so that people can check their availability. Please reply even if all your assigned dates are suitable; otherwise we don't know whether the message reached you. If you need to swap a shift, contact the coordinator rather than relying on an informal arrangement with a friend. The final rota must show who is actually expected, because the duty manager uses it when allocating positions before the doors open."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "email",
+        "e-mail"
+      ],
+      "evidence_locator": "script.md#q14-证据段"
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "Personal belongings are stored in ____.",
+      "answer": "lockers",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Personal belongings should be stored in the lockers near the staff entrance. Bags left under seats or beside doors can obstruct movement, particularly when the lights are low. The lockers are small, so bring only what you need for the shift. Keep essential items with you if the coordinator advises it, but don't carry a large bag while helping people through the auditorium. At the end of the evening, check that you've collected everything so the space is ready for the next group."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "lockers",
+        "the lockers"
+      ],
+      "evidence_locator": "script.md#q15-证据段"
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "Questions about access should go to the duty ____.",
+      "answer": "manager",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Questions about access arrangements should go to the duty manager. Ushers can explain the location of facilities, but they shouldn't promise an arrangement they aren't authorised to provide. Some visitors will have contacted the theatre in advance, while others may raise a need on arrival. Listen carefully and pass on the relevant information without making assumptions about what help a person wants. The aim is to make the visit work for that individual, rather than automatically offering the same response to everyone."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "manager"
+      ],
+      "evidence_locator": "script.md#q16-证据段"
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "The interval lasts ____ minutes.",
+      "answer": "20",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "For the next production, the interval lasts twenty minutes. Ushers help people return to their seats before the second half begins. Please use the agreed announcement rather than shouting individual reminders across the room. A calm, consistent approach makes the process easier for both staff and visitors. Some audience members may need more time to move, so keep the route clear and follow the manager's directions. The performance team needs to know when the auditorium is ready before the lights are lowered again."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "20",
+        "twenty"
+      ],
+      "evidence_locator": "script.md#q17-证据段"
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "The backstage area requires a ____.",
+      "answer": "pass",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "The backstage area requires a pass. Even if you're volunteering elsewhere in the building, you shouldn't enter simply because you recognise somebody going through the door. Performers and technicians may be moving equipment or preparing for a cue, and an unexpected visitor can create a distraction. If an audience member asks to leave something for a performer, take the request to the duty manager. Do not guide them backstage yourself. There is a procedure for messages and deliveries that keeps the working area clear."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "pass"
+      ],
+      "evidence_locator": "script.md#q18-证据段"
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "Volunteer feedback is discussed at a monthly ____.",
+      "answer": "meeting",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Volunteer feedback is discussed at a monthly meeting. You don't have to wait until then to report an urgent problem, but the meeting is useful for reviewing patterns across several performances. Perhaps a sign is repeatedly missed, or visitors ask the same question every night. Those observations can suggest a practical improvement. Try to describe what happened before proposing a solution. A clear account helps the group understand whether the difficulty comes from information, the building layout or the way a task is organised."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "meeting"
+      ],
+      "evidence_locator": "script.md#q19-证据段"
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "type": "note_completion",
+      "prompt": "The next practical workshop covers ____.",
+      "answer": "lighting",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "The next practical workshop covers lighting. It is an introduction to how lighting choices affect a scene, rather than permission to operate equipment during performances. Participants will see demonstrations and discuss examples with a technician. Places are limited because the working area is small, so register separately even if you've already applied to volunteer. If the first workshop fills up, we'll keep a waiting list for a later date. Thank you for coming; we'll now walk through the public areas together before visiting the staff entrance."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "lighting"
+      ],
+      "evidence_locator": "script.md#q20-证据段"
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The podcast will explore student ____.",
+      "answer": "housing",
+      "evidence": [
+        {
+          "role": "Tutor",
+          "text": "Your proposal mentioned several possible topics. Which one have you chosen for the podcast?"
+        },
+        {
+          "role": "Student one",
+          "text": "We were interested in food, but the initial interviews kept returning to housing. Students talked about how their accommodation affected study and friendships."
+        },
+        {
+          "role": "Student two",
+          "text": "We'd like to make housing the main topic and use food only where it's relevant to that experience."
+        },
+        {
+          "role": "Tutor",
+          "text": "That gives you a clearer focus. Remember that a coherent short programme usually works better than trying to include every interesting comment you collected."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "housing"
+      ],
+      "evidence_locator": "script.md#q21-证据段"
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The intended audience is ____ students.",
+      "answer": "new",
+      "evidence": [
+        {
+          "role": "Student two",
+          "text": "Should we explain basic terms about renting, or would that make the programme too simple?"
+        },
+        {
+          "role": "Tutor",
+          "text": "It depends on your intended audience. Who do you expect to listen?"
+        },
+        {
+          "role": "Student one",
+          "text": "New students who haven't arranged accommodation yet. Some may be arriving from another country."
+        },
+        {
+          "role": "Tutor",
+          "text": "Then explain terms that experienced residents take for granted. You can do that briefly without turning the podcast into a lecture. Think about the decisions listeners face and what information they need in order to understand your examples."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "new"
+      ],
+      "evidence_locator": "script.md#q22-证据段"
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The opening should use a short ____.",
+      "answer": "story",
+      "evidence": [
+        {
+          "role": "Student one",
+          "text": "I wrote an opening with several statistics, but it sounds rather formal when I read it aloud."
+        },
+        {
+          "role": "Student two",
+          "text": "Perhaps we could begin with the short story about arriving at a flat and discovering that the journey to campus took much longer than expected."
+        },
+        {
+          "role": "Tutor",
+          "text": "That would give listeners a concrete situation. Use the story, then explain the wider question it introduces. Avoid treating one person's experience as evidence that the same thing happens to everyone. The opening should invite interest without overstating what you know."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "story"
+      ],
+      "evidence_locator": "script.md#q23-证据段"
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "Background music will be removed during ____.",
+      "answer": "interviews",
+      "evidence": [
+        {
+          "role": "Student two",
+          "text": "We added quiet background music throughout the draft. I thought it would make the programme sound more professional."
+        },
+        {
+          "role": "Tutor",
+          "text": "During interviews, remove it. Some words are already difficult to hear, and the music makes listeners work harder."
+        },
+        {
+          "role": "Student one",
+          "text": "We can use a short musical transition between sections instead."
+        },
+        {
+          "role": "Tutor",
+          "text": "Only if you have the necessary permission for the recording. Production choices should support understanding, and any music you retain needs a documented source and suitable licence rather than an assumption that a short extract is harmless."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "interviews"
+      ],
+      "evidence_locator": "script.md#q24-证据段"
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The students must check consent for public ____.",
+      "answer": "distribution",
+      "evidence": [
+        {
+          "role": "Student one",
+          "text": "The interviewees agreed to help with our assignment. Do we need to contact them again if the finished podcast goes on the department website?"
+        },
+        {
+          "role": "Tutor",
+          "text": "Yes. Check consent for public distribution. Agreeing to a classroom exercise isn't automatically agreement to an online publication. Explain the intended use clearly."
+        },
+        {
+          "role": "Student two",
+          "text": "We'll send them the relevant extract and the distribution details."
+        },
+        {
+          "role": "Tutor",
+          "text": "Good. Keep a record of the response, and have an alternative plan if someone prefers their contribution to remain within the class."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "distribution"
+      ],
+      "evidence_locator": "script.md#q25-证据段"
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "Repeated questions can be cut during ____.",
+      "answer": "editing",
+      "evidence": [
+        {
+          "role": "Student two",
+          "text": "Some interviews contain the same question twice because I wasn't sure the recorder had captured the first answer. Should both versions remain so that the conversation is complete?"
+        },
+        {
+          "role": "Tutor",
+          "text": "Repeated questions can usually be cut during editing, provided the change doesn't distort the speaker's meaning."
+        },
+        {
+          "role": "Student one",
+          "text": "We'll listen to the surrounding sentences after each cut."
+        },
+        {
+          "role": "Tutor",
+          "text": "Exactly. An edit that looks neat on a screen can sound abrupt. It can also remove a qualification that changes how a statement should be understood."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "editing"
+      ],
+      "evidence_locator": "script.md#q26-证据段"
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The transcript must identify each ____.",
+      "answer": "speaker",
+      "evidence": [
+        {
+          "role": "Student one",
+          "text": "We're preparing a transcript for people who prefer reading or cannot use the audio. Is it enough to put all the words into paragraphs?"
+        },
+        {
+          "role": "Tutor",
+          "text": "The transcript must identify each speaker. A listener may distinguish voices, but a reader needs another way to follow the exchange."
+        },
+        {
+          "role": "Student two",
+          "text": "We'll use consistent labels and mark relevant sounds where they affect meaning."
+        },
+        {
+          "role": "Tutor",
+          "text": "Good. Check the transcript against the final edited recording, not an earlier version. Otherwise it may contain material that no longer appears or miss a correction."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "speaker"
+      ],
+      "evidence_locator": "script.md#q27-证据段"
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The pilot listeners will use ordinary ____.",
+      "answer": "headphones",
+      "evidence": [
+        {
+          "role": "Student two",
+          "text": "It sounds clear through the studio monitors. Does that mean the audio quality is ready for release?"
+        },
+        {
+          "role": "Tutor",
+          "text": "Test it in a more typical listening situation. Ask your pilot listeners to use ordinary headphones."
+        },
+        {
+          "role": "Student one",
+          "text": "We can also ask whether they had to change the volume between sections."
+        },
+        {
+          "role": "Tutor",
+          "text": "Yes. Listen for consistency as well as individual clarity. A programme can contain several clean recordings that become tiring together because one voice is much louder than the next or transitions arrive unexpectedly."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "headphones"
+      ],
+      "evidence_locator": "script.md#q28-证据段"
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The feedback form should ask about confusing ____.",
+      "answer": "terms",
+      "evidence": [
+        {
+          "role": "Student one",
+          "text": "Our feedback form asks whether the topic was interesting and whether the length felt appropriate. What else should we include?"
+        },
+        {
+          "role": "Tutor",
+          "text": "Ask about confusing terms. Since the programme is aimed at new students, you need to know where assumed knowledge creates a gap."
+        },
+        {
+          "role": "Student two",
+          "text": "We'll leave space for listeners to write the exact word or phrase."
+        },
+        {
+          "role": "Tutor",
+          "text": "That will help. A general question about clarity often produces a polite answer, while a request for a particular example can identify something you can actually revise."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "terms"
+      ],
+      "evidence_locator": "script.md#q29-证据段"
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "type": "note_completion",
+      "prompt": "The completed episode should last ____ minutes.",
+      "answer": "12",
+      "evidence": [
+        {
+          "role": "Student two",
+          "text": "The current version is nearly sixteen minutes. We could cut some material, but we're worried about losing useful advice."
+        },
+        {
+          "role": "Tutor",
+          "text": "The completed episode should last twelve minutes, as specified in the brief. Prioritise the central question and remove repetition before cutting explanations that listeners need."
+        },
+        {
+          "role": "Student one",
+          "text": "We'll make a revised outline before editing again."
+        },
+        {
+          "role": "Tutor",
+          "text": "Sensible. Deciding what each section contributes will help you make deliberate cuts. Simply shortening every interview by the same amount could damage the strongest material while preserving weaker passages."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "12",
+        "twelve"
+      ],
+      "evidence_locator": "script.md#q30-证据段"
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "The lecture examines public ____.",
+      "answer": "signs",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Today we'll examine public signs as tools for guiding movement. A sign may seem like a small design object, but its usefulness depends on where a person encounters it and what decision they need to make at that moment. A beautifully drawn arrow has little value if it appears after the relevant junction. We'll consider how wording, placement and consistency interact, using an imaginary transport building as an example. The aim is to understand a method of evaluation, not to prescribe one style for every place."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "signs"
+      ],
+      "evidence_locator": "script.md#q31-证据段"
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "A route usually contains several decision ____.",
+      "answer": "points",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "A route usually contains several decision points. These are places where a traveller must choose between possible directions, such as a junction, doorway or change of level. Mapping those points is a useful first step because it reveals where information is required. It also prevents designers from placing signs only where there happens to be an empty wall. The route should be examined from the traveller's perspective, including what is visible on approach and whether other people or objects may block the view."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "points"
+      ],
+      "evidence_locator": "script.md#q32-证据段"
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Inconsistent destination ____ can create confusion.",
+      "answer": "names",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Inconsistent destination names can create confusion even when each individual sign is easy to read. If a ticket calls a place the central hall, one sign says main concourse and another says public lobby, a visitor may not know that they refer to the same space. Local staff often overlook this problem because the equivalence is familiar to them. Reviewing terminology across tickets, maps and physical signs can reveal inconsistencies that are invisible when each item is assessed separately by its own production team."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "names"
+      ],
+      "evidence_locator": "script.md#q33-证据段"
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "High contrast improves text ____.",
+      "answer": "legibility",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "High contrast improves text legibility, although contrast alone cannot solve every reading problem. Letter size, viewing distance and lighting conditions also matter. A sample that looks clear on a designer's bright screen may behave differently in a dim corridor or beside a reflective window. Evaluation therefore needs realistic conditions. This is one reason to test a physical sample in position before ordering an entire system. Small adjustments made early can prevent an expensive replacement once all the signs have been installed."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "legibility"
+      ],
+      "evidence_locator": "script.md#q34-证据段"
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Symbols may require cultural ____.",
+      "answer": "knowledge",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Symbols can reduce the amount of text, but they may still require cultural knowledge. A familiar symbol feels obvious to people who have encountered it repeatedly. That familiarity should not be mistaken for universal understanding. Testing with a varied group can reveal interpretations the design team did not anticipate. Where the meaning is important, combining a symbol with clear words may be more helpful than relying on the image alone. The appropriate balance depends on the setting and the decisions users are expected to make."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "knowledge"
+      ],
+      "evidence_locator": "script.md#q35-证据段"
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "A user test should record wrong ____.",
+      "answer": "turns",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "A user test should record wrong turns, not merely whether participants eventually arrive. Someone may reach the destination after several unnecessary detours and still report that the task was manageable. Recording the route reveals where uncertainty occurred. Observers should avoid directing participants unless assistance is required, because a helpful hint can hide the very problem being investigated. The test must also make clear that the information system is being evaluated. Participants should not feel that a mistake reflects their intelligence or ability to navigate."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "turns"
+      ],
+      "evidence_locator": "script.md#q36-证据段"
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Thinking aloud can change normal ____.",
+      "answer": "behaviour",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Asking participants to think aloud can reveal what they notice and how they interpret it, but the method may change normal behaviour. A person explaining every choice may slow down and inspect signs more carefully than an ordinary traveller would. This doesn't make the method useless. It means its findings should be interpreted alongside other evidence. Researchers can combine verbal accounts with route observations or follow-up questions. Each method illuminates part of the process while introducing its own limitations, which should be described rather than concealed."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "behaviour",
+        "behavior"
+      ],
+      "evidence_locator": "script.md#q37-证据段"
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Temporary notices can cause visual ____.",
+      "answer": "clutter",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Temporary notices can cause visual clutter when they accumulate around permanent directions. A maintenance message, event poster and promotional display may each be reasonable in isolation, yet together they compete with information needed for navigation. Managing signs is therefore an ongoing responsibility rather than a task completed on installation day. Someone needs to review what remains relevant, remove expired notices and consider how new material affects the whole view. Without that process, even a carefully designed system can become difficult to use over time."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "clutter"
+      ],
+      "evidence_locator": "script.md#q38-证据段"
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "To locate the physical sign, records must include its ____ as well as its wording and condition.",
+      "answer": "location",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Maintenance records should include a sign's location as well as its wording and condition. A list saying that three arrows need replacement is not very useful if staff cannot identify which arrows are meant. A simple plan or stable location code can connect the record to the physical object. This also helps when a destination moves and several signs need updating together. Consistency must be maintained across the route; replacing one sign while leaving contradictory information elsewhere can increase confusion rather than reduce it."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "location"
+      ],
+      "evidence_locator": "script.md#q39-证据段"
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "type": "note_completion",
+      "prompt": "Success should be measured with more than travel ____.",
+      "answer": "time",
+      "evidence": [
+        {
+          "role": "Speaker",
+          "text": "Finally, success should be measured with more than travel time. A faster route may be desirable, but confidence, accessibility and the number of requests for assistance can also matter. Different users may prioritise these outcomes differently. A system that works well for frequent commuters may still be difficult for a first-time visitor carrying luggage. The evaluation should therefore state whose experience it concerns and which outcomes were measured. Clear scope makes the results useful without pretending that one successful test establishes effectiveness for every person and circumstance."
+        }
+      ],
+      "audio_start": null,
+      "audio_end": null,
+      "accepted_answers": [
+        "time"
+      ],
+      "evidence_locator": "script.md#q40-证据段"
+    }
+  ]
+}

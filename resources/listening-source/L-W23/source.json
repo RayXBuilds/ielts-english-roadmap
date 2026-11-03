@@ -1,0 +1,1117 @@
+{
+  "id": "L-W23",
+  "week": 23,
+  "title": "Choosing targeted practice from genuine response evidence",
+  "version": "W21-W24-text-v1",
+  "status": "text_self_check_pending_independent_QA",
+  "original": true,
+  "personal_remediation": {
+    "requires_real_first_response": true,
+    "learner_evidence": null,
+    "diagnosis": "unknown_not_inferred",
+    "uses_existing_intensive_budget": true
+  },
+  "stage_check": null,
+  "provenance": "Original fictional practice commissioned for this curriculum; not authentic IELTS, not standardised or score-calibrated. No third-party text or diagrams used.",
+  "license": "CC BY 4.0 for original text and SVG; no audio rights or audio files supplied.",
+  "question_count": 40,
+  "question_objects": 38,
+  "spoken_word_count": 4255,
+  "word_count_method": "Regex word tokens including hyphenated forms; excludes speaker labels, titles, question text and Q locators.",
+  "audio_file": null,
+  "duration_seconds": null,
+  "audio_start_seconds": null,
+  "audio_end_seconds": null,
+  "media_status": "missing_not_generated",
+  "complete_listening_set": false,
+  "planning_only": {
+    "speech_rate_words_per_minute": [
+      140,
+      160
+    ],
+    "speech_minutes_estimate": [
+      26.59,
+      30.39
+    ],
+    "actual_duration_seconds": null,
+    "first_listen_budget_minutes": 32,
+    "note": "Text-based estimate only. Future rendition must fit 32 minutes including part pauses; if not, revise the timetable before release."
+  },
+  "weekly_training": {
+    "minutes": 158,
+    "maximum_minutes": 180,
+    "buffer_minutes": 22,
+    "tasks": [
+      {
+        "task": "Preview questions without the script",
+        "minutes": 8
+      },
+      {
+        "task": "Future continuous first listen, including planned part pauses",
+        "minutes": 32
+      },
+      {
+        "task": "Submit first answers and confidence, without a second play",
+        "minutes": 8
+      },
+      {
+        "task": "Check answers and classify errors",
+        "minutes": 20
+      },
+      {
+        "task": "Four Q-located intensive segments, 15 minutes each",
+        "minutes": 60
+      },
+      {
+        "task": "Diagram and opinion retelling",
+        "minutes": 15
+      },
+      {
+        "task": "Next-day retry of missed items",
+        "minutes": 15
+      }
+    ],
+    "completed_listening_minutes": 0
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "Booking a targeted-practice session",
+      "roles": [
+        "Adviser",
+        "Caller"
+      ],
+      "question_range": [
+        1,
+        10
+      ],
+      "word_count": 1029,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q01",
+          "question_locator": "Q1",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Adviser",
+              "text": "Study review centre, hello."
+            },
+            {
+              "speaker": "Caller",
+              "text": "Our group wants help deciding what to practise next. We saw general revision and targeted practice on the programme. We have some saved responses, but we don't yet know which errors recur."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Targeted practice would let you examine that evidence before selecting an action."
+            },
+            {
+              "speaker": "Caller",
+              "text": "Please book targeted practice."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The session won't assign a weakness simply because you attend. If the records are incomplete, the appropriate next step may be to collect a genuine first response."
+            },
+            {
+              "speaker": "Caller",
+              "text": "So a fictional example can demonstrate the method without being treated as a diagnosis of our own performance."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. Those are different kinds of evidence."
+            }
+          ]
+        },
+        {
+          "id": "Q02",
+          "question_locator": "Q2",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "Is the session on the seventh of August?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "That was the proposed date. The confirmed session is on the fourteenth of August."
+            },
+            {
+              "speaker": "Caller",
+              "text": "The fourteenth works for us. I'll replace the old calendar entry."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The confirmation will identify the workshop and date together."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll keep that complete message, because another member saved a programme for a different course."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Good. A date correction is only useful if everyone can tell which version governs the booking. Leaving two notices visible without explaining the change may create the appearance of two opportunities to attend, when only one session has actually been confirmed for your group."
+            }
+          ]
+        },
+        {
+          "id": "Q03",
+          "question_locator": "Q3",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "What time does teaching begin?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Two twenty in the afternoon. The reception desk opens at two, but the session begins at two twenty."
+            },
+            {
+              "speaker": "Caller",
+              "text": "Then two is the opening time, not the start of the first activity."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Correct. Arrive shortly before teaching to check in."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll distinguish the lesson time from our planned arrival."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The opening discussion matters because it separates an observed response from an explanation of why it occurred. If someone arrives after that distinction, they may assume the task is to attach a familiar label to every error rather than decide which explanation the actual records support."
+            }
+          ]
+        },
+        {
+          "id": "Q04",
+          "question_locator": "Q4",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Adviser",
+              "text": "How many places do you need?"
+            },
+            {
+              "speaker": "Caller",
+              "text": "Six people joined the earlier study group, but only four can attend this session. Please reserve four places."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Four are available."
+            },
+            {
+              "speaker": "Caller",
+              "text": "We'll collect the absent members' questions without counting them as participants."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "If attendance changes, update the booking before making a substitution."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll keep one current list."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The practical activity depends on knowing which people have brought first responses and which will use the supplied fictional examples. Both can learn the review method, but their records should not imply that the same personal evidence is available for everyone simply because they are sitting at the same table."
+            }
+          ]
+        },
+        {
+          "id": "Q05",
+          "question_locator": "Q5",
+          "word_count": 97,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "What is the total cost?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Sixty-four pounds for the four places altogether."
+            },
+            {
+              "speaker": "Caller",
+              "text": "Sixty-four for the whole booking, not for each participant?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Correct. The worksheets are included. An individual follow-on appointment would be arranged separately and isn't part of this booking."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll explain the total and the scope to the person handling payment."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Please compare the confirmation with this conversation before paying. If the amount or number differs, ask for a correction."
+            },
+            {
+              "speaker": "Caller",
+              "text": "That should prevent an unexplained change from being interpreted as another service someone assumed we had purchased without discussing it with the rest of the group."
+            }
+          ]
+        },
+        {
+          "id": "Q06",
+          "question_locator": "Q6",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "What evidence should we bring?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Bring a first response if you have preserved one, with its task reference and conditions. A corrected copy alone cannot show exactly what you answered before feedback."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll bring my first response separately from the revision."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "If another member doesn't have one, leave that absence clear. They can examine the method using fictional material, then collect an appropriate response later."
+            },
+            {
+              "speaker": "Caller",
+              "text": "We shouldn't reconstruct an original answer from memory."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. A later recollection may contribute to discussion if labelled, but it should not replace the actual work and give a guessed starting point the appearance of a recorded event."
+            }
+          ]
+        },
+        {
+          "id": "Q07",
+          "question_locator": "Q7",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "Can the leader tell us our weakest listening skill from a total score?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Not reliably from that number alone. The review needs the actual responses, the requirements and relevant conditions. A total doesn't identify which items were wrong or why."
+            },
+            {
+              "speaker": "Caller",
+              "text": "So we might leave with an unresolved question rather than a fixed weakness label."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Yes. That can be useful if the next activity is designed to distinguish plausible explanations."
+            },
+            {
+              "speaker": "Caller",
+              "text": "We want to avoid practising a guessed problem for several weeks."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Then begin with the evidence and keep the claim narrow. The session supports a reasoned next step, not an automatic diagnosis based on attendance or a familiar description of difficulty."
+            }
+          ]
+        },
+        {
+          "id": "Q08",
+          "question_locator": "Q8",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "Should we rewrite unclear notes before bringing them?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Keep the originals and add any later clarification separately. Otherwise the record may appear more complete than it was when the response was produced."
+            },
+            {
+              "speaker": "Caller",
+              "text": "One note only says I lost track."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Preserve that wording and discuss what further detail would help. It might concern the question position, the speaker's point or an interruption, and the phrase alone doesn't distinguish them."
+            },
+            {
+              "speaker": "Caller",
+              "text": "We can ask about the conditions without inventing an exact cause."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Correct. A useful review can identify what remains unknown rather than turn every vague recollection into a confident explanation merely to fill a column."
+            }
+          ]
+        },
+        {
+          "id": "Q09",
+          "question_locator": "Q9",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "One participant needs the examples in an accessible digital format."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Please describe the practical requirement in advance so we can check the available files and explain any limitations."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll ask the participant for the details rather than assume a larger printout solves it."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Thank you. Keep the arrangement visible if it affects a relevant comparison."
+            },
+            {
+              "speaker": "Caller",
+              "text": "That doesn't mean treating all support as the same kind of help."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. An access arrangement, a repeated play and an answer hint may have different implications for the question being examined. A clear record preserves those distinctions instead of using one broad assisted label that obscures what actually happened."
+            }
+          ]
+        },
+        {
+          "id": "Q10",
+          "question_locator": "Q10",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Caller",
+              "text": "How should we report a change in attendance?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Reply to the confirmation with its reference. Public comments below the event announcement do not update the booking. For an urgent issue, use the contact number in that message."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll keep the latest complete version in the group folder."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "It contains the entrance and preparation details."
+            },
+            {
+              "speaker": "Caller",
+              "text": "I'll also remind everyone that missing first responses remain missing."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "That's helpful. The workshop can prepare a collection plan within the existing practice schedule, but it cannot create personal evidence retrospectively or claim that a remedial activity is necessary before the records establish the difficulty it is supposed to address."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Orientation at the review centre",
+      "roles": [
+        "Centre host"
+      ],
+      "question_range": [
+        11,
+        20
+      ],
+      "word_count": 1072,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q11",
+          "question_locator": "Q11",
+          "word_count": 109,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Welcome to the review centre. North is at the top of the diagram and the entrance is on the southern edge. The lobby in the centre is our fixed reference point. Check-in is directly south of the lobby, on the entrance axis. It is not in either southern corner. Please report there before joining the group. The letters identify positions rather than room initials. Keep the current map available even if you have attended before. A familiar name may refer to an activity now using another space, and the purpose of today's orientation is to establish the arrangement actually in use rather than reconstruct an older route from memory."
+            }
+          ]
+        },
+        {
+          "id": "Q12",
+          "question_locator": "Q12",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The records room is in the north-west corner. It lies west of the northern central room and diagonally north-west of the lobby. An earlier notice placed the records activity directly north, but the corner room is used today. Arrange the first response, task reference and later correction so their sequence remains visible. If one item is missing, mark the gap rather than silently substitute a different version. The room is not intended to make a portfolio look complete. It supports an evidence review in which another person can identify what was produced, under which conditions and before or after which information became available to the learner."
+            }
+          ]
+        },
+        {
+          "id": "Q13",
+          "question_locator": "Q13",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The trial-design room is directly east of the lobby, level with its centre. It is not the south-east room. Groups use it to choose one manageable action connected to a supported question. A proposal such as practise harder does not specify what will change or how the result will be examined. The leader may ask which observation would count against your explanation. That question helps make the trial informative; it isn't a demand that everyone reach certainty before acting. Keep the proposed action separate from its expected benefit, because a sensible plan can still produce a result that requires the group to reconsider its original interpretation."
+            }
+          ]
+        },
+        {
+          "id": "Q14",
+          "question_locator": "Q14",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The consultation room is in the north-east corner. It is directly north of the trial-design room and directly east of the northern central room. The northern spaces share a row, so the consultation room is east of its neighbour rather than north-east of that neighbour. In that room, participants discuss how strongly the evidence supports an error explanation. Two responses with the same visible mistake may have different causes. The conversation should refer to the task, answer and conditions rather than rely on a general judgement about the person. A cautious hypothesis can guide a useful next check without becoming a permanent description of the learner's ability."
+            }
+          ]
+        },
+        {
+          "id": "Q15",
+          "question_locator": "Q15",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The resource desk is in the south-west corner. It is west of check-in and below the room directly west of the lobby. Collect the worksheet version named in the briefing. Some sheets describe an observation, while others plan a trial or record a later reassessment. Their headings matter. Placing a proposed cause in an observation column can make a tentative interpretation look established. If a page is missing, ask the helper rather than copying another participant's completed diagnosis. The supplied fictional examples teach a method; they are not evidence that you personally made those errors or need the same action as the character described in the example."
+            }
+          ]
+        },
+        {
+          "id": "Q16",
+          "question_locator": "Q16",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Begin the review with a genuine response if one is available. Record the source, question number, original answer and relevant conditions before naming an error pattern. The evidence may come from an earlier session, provided its meaning can still be checked. If no suitable first response exists, mark the personal pattern unknown and plan collection when appropriate material is available. Reading this script is not a listening attempt, and a corrected example is not an independent first answer. The activity should make the evidence gap visible, not conceal it by assigning every participant a plausible weakness simply because the timetable contains a slot labelled targeted practice."
+            }
+          ]
+        },
+        {
+          "id": "Q17",
+          "question_locator": "Q17",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Distinguish the observed problem from a proposed explanation. An answer that exceeds the word limit is an observable feature. Whether it resulted from a missed instruction, uncertainty about counting or a rushed final entry requires further evidence. Several causes may remain possible. The team can choose a small trial that addresses one distinction without claiming that the cause has already been settled. This is more useful than treating a broad label such as carelessness as a complete explanation. The review should identify what the learner did and what information would help understand it, rather than use a familiar word to close the question prematurely."
+            }
+          ]
+        },
+        {
+          "id": "Q18",
+          "question_locator": "Q18",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Choose a practice action that can be examined within the available time. If the evidence concerns a printed-unit error, a short checking routine may be more informative than adding an unrelated long exercise. The choice should follow the record, not the popularity of a technique. Keep other needs visible without attempting to repair everything in one session. A manageable trial can produce evidence about a specific procedure, while an overloaded plan may leave the group unable to tell which change mattered. The weekly budget includes checking and reflection, so a new remedial task must replace an allocated activity rather than quietly create extra work outside the stated schedule."
+            }
+          ]
+        },
+        {
+          "id": "Q19",
+          "question_locator": "Q19",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "Preserve what changes between attempts. A second response completed with a hint, repeated listening or a familiar item provides different evidence from an unaided response to new material. The record should show the relevant support rather than describe all improvement as the effect of one practice routine. This does not mean the supported attempt has no value. It may reveal how the learner uses feedback or whether a procedure can be followed with guidance. The important point is to connect the conclusion with the conditions actually observed. A useful trial can support a limited next decision without proving a broader claim about independent performance in every future task."
+            }
+          ]
+        },
+        {
+          "id": "Q20",
+          "question_locator": "Q20",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Centre host",
+              "text": "The closing plan should include a later way to examine the proposed improvement. Repeating a corrected item may show retention of that answer, while a fresh item with the relevant demand asks whether the procedure carries across. Keep those results separate rather than treating every higher count as new evidence of independent ability. If the personal difficulty remains unverified, the plan may focus on collecting a suitable response first. Do not fill the record with an invented diagnosis or claim that an unperformed trial succeeded. The review ends with a specific next action and its evidence requirement, within the existing time budget, not a promise that a preferred technique must work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Selecting a small repair trial",
+      "roles": [
+        "Tutor",
+        "Mila",
+        "Evan"
+      ],
+      "question_range": [
+        21,
+        30
+      ],
+      "word_count": 1039,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q21",
+          "question_locator": "Q21",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "You examined the genuine saved responses last week. What should the next trial focus on?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "The repeated word-limit errors we actually identified. I'd choose that one pattern before adding another demand."
+            },
+            {
+              "speaker": "Evan",
+              "text": "I'd compare it with the missing-qualification pattern first, because the second may affect the task more strongly."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that mean you dispute the word-limit evidence?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "No. I disagree about the next priority, not whether those answers exist."
+            },
+            {
+              "speaker": "Mila",
+              "text": "I still support choosing one pattern now."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Mila supports that specific focus and Evan wants a further comparison before selection. Preserve that distinction instead of describing both proposals as the same general intention to improve performance."
+            }
+          ]
+        },
+        {
+          "id": "Q22",
+          "question_locator": "Q22",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should the original response remain unchanged during review?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "Yes. I initially thought a corrected copy would be enough, but it hides what was produced before feedback."
+            },
+            {
+              "speaker": "Mila",
+              "text": "I agree. We can keep the correction alongside the first answer."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "What if the writer immediately notices a spelling error?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "Record the later correction without replacing the submitted version."
+            },
+            {
+              "speaker": "Evan",
+              "text": "That makes the sequence inspectable and still allows us to discuss what the person can repair."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. Both of you support preserving the original. A clear record doesn't prevent learning; it prevents a later improvement from being silently attributed to an earlier stage where it hadn't yet occurred."
+            }
+          ]
+        },
+        {
+          "id": "Q23",
+          "question_locator": "Q23",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Evan proposes collecting a brief explanation immediately after the next response."
+            },
+            {
+              "speaker": "Evan",
+              "text": "I support that. It may help distinguish a misunderstood limit from a decision made under time pressure."
+            },
+            {
+              "speaker": "Mila",
+              "text": "I'd inspect the written planning marks first. An explanation could reflect what the person thinks the reviewer wants to hear."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could you ask a neutral question before giving feedback?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "Yes, that is the version I mean."
+            },
+            {
+              "speaker": "Mila",
+              "text": "It would reduce one concern, but I still prefer the existing marks as the next source."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Evan supports the explanation and Mila retains another sequence of enquiry. Acknowledging a useful safeguard does not itself mean agreeing to the proposal."
+            }
+          ]
+        },
+        {
+          "id": "Q24",
+          "question_locator": "Q24",
+          "word_count": 99,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Your early table labels every omitted answer as a memory problem."
+            },
+            {
+              "speaker": "Mila",
+              "text": "I used that label before checking the task sequence. I don't think we can support it now."
+            },
+            {
+              "speaker": "Evan",
+              "text": "Neither do I. One response followed an interruption, and another missed an instruction."
+            },
+            {
+              "speaker": "Mila",
+              "text": "I'll remove the universal label and retain the observed omission."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you replacing it with another single cause?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "No. We need evidence that distinguishes the possibilities."
+            },
+            {
+              "speaker": "Evan",
+              "text": "Agreed."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then neither student supports the original classification. Keep that withdrawal visible so that a later reader does not mistake a discarded heading for the conclusion reached after examining the actual responses."
+            }
+          ]
+        },
+        {
+          "id": "Q25",
+          "question_locator": "Q25",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Should the next check use an unfamiliar item with the same relevant demand?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "Yes. I want to see whether the procedure is used without recalling the corrected answer."
+            },
+            {
+              "speaker": "Evan",
+              "text": "I'd repeat one familiar item first and ask the learner to explain the correction."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could those activities answer different questions?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "Certainly, but for the next action I prefer the familiar item."
+            },
+            {
+              "speaker": "Mila",
+              "text": "I continue to support the fresh item."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then Mila supports that proposal and Evan doesn't support it for the immediate next check. Your shared interest in learning doesn't remove the difference between testing memory of feedback and testing use of a procedure when the answer itself is new."
+            }
+          ]
+        },
+        {
+          "id": "Q26",
+          "question_locator": "Q26",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What should the record say when two explanations remain plausible?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "Keep both and identify what might distinguish them."
+            },
+            {
+              "speaker": "Mila",
+              "text": "I agree. I originally wanted one cause in every row, but that would overstate what the evidence shows."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Would uncertainty prevent a practical trial?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "No. We can select a small action aimed at a specific distinction."
+            },
+            {
+              "speaker": "Evan",
+              "text": "And state what the result would and wouldn't establish."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. Both of you support preserving uncertainty without abandoning the next decision. The table should make the enquiry clearer, rather than reward confidence by forcing every observed error into a single cause before the relevant evidence has been collected."
+            }
+          ]
+        },
+        {
+          "id": "Q27",
+          "question_locator": "Q27",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Which two actions are agreed for the next trial plan?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "Select one observed pattern supported by the saved responses."
+            },
+            {
+              "speaker": "Evan",
+              "text": "Agreed. We can disagree about priority while still requiring evidence for the eventual selection."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Are you proposing to diagnose the learner from the total alone?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "No. The plan needs the actual question and response."
+            },
+            {
+              "speaker": "Mila",
+              "text": "Nor should we copy a fictional character's weakness into the personal record."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then choosing an evidenced pattern is one agreed action. It establishes the basis for targeted practice without pretending that every participant in the workshop has the same difficulty or that a plausible label becomes true when written on a worksheet."
+            }
+          ]
+        },
+        {
+          "id": "Q28",
+          "question_locator": "Q28",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What is the other agreed action?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "Change one manageable feature of the procedure and record it clearly."
+            },
+            {
+              "speaker": "Mila",
+              "text": "Yes. If we add several routines at once, a different result may be hard to interpret."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that mean every other condition can be assumed identical?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "No. Relevant differences still need to be recorded."
+            },
+            {
+              "speaker": "Evan",
+              "text": "We also aren't choosing to fill missing first answers or forecast an official score."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. The selected pair is choosing an observed pattern and changing one manageable procedural feature. That gives the next trial a defined question, while leaving its actual result open until the learner has completed the work under recorded conditions."
+            }
+          ]
+        },
+        {
+          "id": "Q29",
+          "question_locator": "Q29",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "What limits the review you completed last week?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "Some first responses were missing. The corrected versions survived, but they didn't establish the exact starting answers."
+            },
+            {
+              "speaker": "Evan",
+              "text": "That limits our claim about the frequency of the original pattern."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Were all the records unusable?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "No. We had genuine first responses for part of the sample, and we kept the missing cases separate."
+            },
+            {
+              "speaker": "Mila",
+              "text": "We should report that coverage instead of reconstructing the absent work from memory."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Exactly. The limitation concerns which evidence is available. A clearly defined partial record can support a narrower observation, whereas an invented complete record would make the conclusion appear stronger without adding real information."
+            }
+          ]
+        },
+        {
+          "id": "Q30",
+          "question_locator": "Q30",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Was support consistent across the remaining tasks?"
+            },
+            {
+              "speaker": "Evan",
+              "text": "No. One task followed additional guidance, while another was attempted without that help."
+            },
+            {
+              "speaker": "Mila",
+              "text": "The difference was recorded, so we can preserve it when interpreting the totals."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Does that prove the practice routine had no benefit?"
+            },
+            {
+              "speaker": "Mila",
+              "text": "No. It means the comparison doesn't isolate its effect."
+            },
+            {
+              "speaker": "Evan",
+              "text": "The room was available and both sessions occurred; those were not limitations."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then missing original responses and unequal guidance are the two issues to retain. The report should describe the actual evidence gap and changed condition rather than add a generic list of problems that could have happened but did not affect this review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "title": "Testing a proposed explanation for an error pattern",
+      "roles": [
+        "Lecturer"
+      ],
+      "question_range": [
+        31,
+        40
+      ],
+      "word_count": 1115,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q31",
+          "question_locator": "Q31",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Consider a fictional team planning targeted practice. The first stage retrieves the original response produced before feedback. This first response must be linked to its question and relevant conditions. It is the actual work, not a reconstruction based on the answer key or a later recollection of what probably happened. The response record may be incomplete, and that limitation should remain visible. If the required evidence does not exist, the team plans collection rather than inventing a starting point. This stage establishes what can be inspected. It does not justify a personal diagnosis simply because the learner has reached a scheduled week in a course or expressed a wish to improve."
+            }
+          ]
+        },
+        {
+          "id": "Q32",
+          "question_locator": "Q32",
+          "word_count": 113,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The second stage identifies an observed pattern across suitable responses. The pattern should be defined through features that another reviewer can locate, such as repeated inclusion of a printed unit or omission of a requested comparison. The team checks how many relevant opportunities existed rather than treating every question as equivalent. A single occurrence may be worth discussing without establishing a recurring pattern. The review should preserve cases that don't fit the proposed description, because they can reveal a definition that is too broad. This stage concerns what the evidence shows. It does not yet establish the cause, and it should not turn a descriptive category into a permanent label about the learner."
+            }
+          ]
+        },
+        {
+          "id": "Q33",
+          "question_locator": "Q33",
+          "word_count": 113,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The third stage states a working hypothesis to be tested. A hypothesis is an explanation that connects the observed pattern with a possible process. For example, a learner might copy a complete phrase without noticing that one part is already printed in the question. Another explanation may concern uncertainty about the response rule. The team asks what observation would help distinguish them. This explanation remains provisional even if it sounds familiar. If any result would be interpreted as supporting it, the proposal is too flexible to guide a useful test. A clear hypothesis identifies a question for the next trial rather than supplying a confident cause before the evidence has settled the issue."
+            }
+          ]
+        },
+        {
+          "id": "Q34",
+          "question_locator": "Q34",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fourth stage specifies a targeted intervention. The intervention is the planned change to the practice procedure, selected because it addresses the question being investigated. It might ask the learner to mark printed units before starting or to identify required outputs in a brief summary. The change should remain manageable within the existing session. Adding several unrelated activities may increase effort without clarifying which procedure helped. The team also records what was retained and any relevant difference in the task. A targeted intervention is a proposal whose result must be examined, not a guaranteed remedy that becomes successful merely because the learner completed the scheduled activity or spent more time working."
+            }
+          ]
+        },
+        {
+          "id": "Q35",
+          "question_locator": "Q35",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The fifth stage plans reassessment using an appropriate later task. This later assessment asks whether the relevant procedure can be used under the conditions the team wants to understand. The check should distinguish a fresh item from a familiar corrected one, since they provide different information. A later check can be useful even if the result is mixed, provided the response and conditions are preserved. The team should not present the planned reassessment as completed or fill an expected score into the record. Its purpose is to produce evidence for the next decision, including the possibility that the original explanation or chosen action needs to be revised after the actual attempt."
+            }
+          ]
+        },
+        {
+          "id": "Q36",
+          "question_locator": "Q36",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The term opportunity cost names what is given up when limited practice time is used for one activity instead of another. In this example, adding a long unrelated exercise may displace the review needed to understand an error. The team should consider that trade-off rather than treat every additional task as a free improvement. A manageable plan can retain useful practice while reserving time to inspect its result. The concept does not provide a universal ranking of activities. It asks the planner to recognise that time spent in one place is unavailable elsewhere and to connect the choice with the evidence and purpose of this particular session."
+            }
+          ]
+        },
+        {
+          "id": "Q37",
+          "question_locator": "Q37",
+          "word_count": 113,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Sequencing is the term used here for arranging the order of practice activities. The order matters because one activity can supply information that changes what a later response represents. A familiar corrected item before a fresh task may remind the learner of a procedure; feedback before a first response changes its independence. The team should therefore describe the sequence when interpreting results. This does not imply that there is one correct order for every learning purpose. Different sequences can answer different questions. The important point is to choose an order deliberately and retain it in the record, rather than treat the same collection of activities as equivalent regardless of when help became available."
+            }
+          ]
+        },
+        {
+          "id": "Q38",
+          "question_locator": "Q38",
+          "word_count": 110,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The lecture calls a conclusion that extends beyond the evidence an overgeneralisation. In this setting, one error is used to claim a permanent weakness across every task, or one successful correction is used to promise reliable performance everywhere. The problem is the scope of the claim, not the fact that the observation is small. A small observation can support a narrow, useful statement. The team should identify the boundary between that statement and the broader conclusion it cannot establish. Naming overgeneralisation does not require rejecting all practical decisions under uncertainty. It requires keeping the recommendation proportionate to what was actually observed and specifying what additional evidence would support an extension."
+            }
+          ]
+        },
+        {
+          "id": "Q39",
+          "question_locator": "Q39",
+          "word_count": 112,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Transfer is the term for using learning when relevant aspects of the task or setting change. A learner may remember a corrected answer without applying the same checking principle to a fresh item. The later task should therefore preserve the demand under investigation while making the changed features visible. A difficulty in transfer can prompt another question about the procedure or the new task, rather than prove that the earlier learning was worthless. The team also keeps retention separate: remembering information after a delay is not identical to using it in a different context. Clear terms help the review state which question a particular repeated or unfamiliar task was designed to examine."
+            }
+          ]
+        },
+        {
+          "id": "Q40",
+          "question_locator": "Q40",
+          "word_count": 114,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "When personal evidence is absent, the status word used in this review is unknown. Unknown is not a low score, a diagnosis or a conclusion that the learner must extend study. It identifies information that has not been established. The team can record what needs to be collected and fit that activity into the existing plan when suitable material is available. Until a genuine response exists, a fictional example remains an example. The stage review should not fill an empty record with the errors described in this lecture. Its final purpose is to connect a practical next step with honest evidence, including an explicit unknown status where the required personal record is still missing."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

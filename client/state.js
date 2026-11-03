@@ -2,7 +2,11 @@
 const $ = selector => document.querySelector(selector);
 const D = window.COURSE_DATA;
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const blank = () => ({version:1, completed:{}, days:{}, notes:{}, words:[], last:'r01', media:{}, preferences:{fontSize:18}});
+const blank = () => ({version:1, completed:{}, previewRead:{}, days:{}, notes:{}, words:[], last:'r01', media:{}, preferences:{fontSize:18}});
+const isTextPreview = id => D.lessons.some(l => l.id === id && l.previewOnly === true);
+const marked = lesson => !!(lesson.previewOnly ? state.previewRead[lesson.id] : state.completed[lesson.id]);
+const trainingLessons = () => D.lessons.filter(l => !l.previewOnly);
+const completedCount = () => trainingLessons().filter(l => state.completed[l.id]).length;
 
 // Version 1 backups from the original client remain readable. Imported strings
 // are data only; lesson identifiers are checked against the bundled curriculum.
@@ -13,7 +17,14 @@ function validate(value) {
   for (const key of ['completed','days','notes','media']) {
     if (!value[key] || typeof value[key] !== 'object' || Array.isArray(value[key])) throw Error('备份字段缺失');
   }
-  for (const [id, v] of Object.entries(value.completed)) if (ids.has(id) && v === true) next.completed[id] = true;
+  for (const [id, v] of Object.entries(value.completed)) if (ids.has(id) && v === true) {
+    if (isTextPreview(id)) next.previewRead[id] = true;
+    else next.completed[id] = true;
+  }
+  if (value.previewRead !== undefined) {
+    if (!value.previewRead || typeof value.previewRead !== 'object' || Array.isArray(value.previewRead)) throw Error('预览记录格式不正确');
+    for (const [id, v] of Object.entries(value.previewRead)) if (isTextPreview(id) && v === true) next.previewRead[id] = true;
+  }
   for (const [id, v] of Object.entries(value.days)) if (/^\d+$/.test(id) && +id >= 1 && +id <= 84 && v === true) next.days[id] = true;
   for (const [id, v] of Object.entries(value.notes)) if (ids.has(id) && typeof v === 'string') {
     if (v.length > 200000) throw Error('笔记超过长度限制');

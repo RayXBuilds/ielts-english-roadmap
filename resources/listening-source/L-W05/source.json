@@ -1,0 +1,938 @@
+{
+  "id": "L-W05",
+  "week": 5,
+  "title": "Repair, reuse and shared spaces",
+  "version": "W05-W08-text-v2-qa-l07-l09",
+  "status": "text_self_check_pending_independent_QA",
+  "original": true,
+  "provenance": "Original fictional practice commissioned for this curriculum; not authentic IELTS, not standardised or score-calibrated. No third-party text or diagrams used.",
+  "license": "CC BY 4.0 for original text and SVG; no audio rights or audio files supplied.",
+  "question_count": 40,
+  "question_objects": 38,
+  "spoken_word_count": 4197,
+  "word_count_method": "Regex word tokens including hyphenated forms; excludes speaker labels, titles, question text and Q locators.",
+  "audio_file": null,
+  "duration_seconds": null,
+  "audio_start_seconds": null,
+  "audio_end_seconds": null,
+  "media_status": "missing_not_generated",
+  "complete_listening_set": false,
+  "planning_only": {
+    "speech_rate_words_per_minute": [
+      140,
+      160
+    ],
+    "speech_minutes_estimate": [
+      26.23,
+      29.98
+    ],
+    "actual_duration_seconds": null,
+    "first_listen_budget_minutes": 32,
+    "note": "Text-based estimate only. Future rendition must fit 32 minutes including part pauses; if not, revise the timetable before release."
+  },
+  "weekly_training": {
+    "minutes": 158,
+    "maximum_minutes": 180,
+    "buffer_minutes": 22,
+    "tasks": [
+      {
+        "task": "Preview questions without the script",
+        "minutes": 8
+      },
+      {
+        "task": "Future continuous first listen, including planned part pauses",
+        "minutes": 32
+      },
+      {
+        "task": "Submit first answers and confidence, without a second play",
+        "minutes": 8
+      },
+      {
+        "task": "Check answers and classify errors",
+        "minutes": 20
+      },
+      {
+        "task": "Four Q-located intensive segments, 15 minutes each",
+        "minutes": 60
+      },
+      {
+        "task": "Diagram and opinion retelling",
+        "minutes": 15
+      },
+      {
+        "task": "Next-day retry of missed items",
+        "minutes": 15
+      }
+    ],
+    "completed_listening_minutes": 0
+  },
+  "parts": [
+    {
+      "part": 1,
+      "title": "Joining a repair fair",
+      "roles": [
+        "Customer",
+        "Adviser"
+      ],
+      "question_range": [
+        1,
+        10
+      ],
+      "word_count": 1025,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q01",
+          "question_locator": "Q1",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "Hello, I'm hoping to bring a household item to your repair fair, but I'm unsure whether visitors need to book. I've never attended anything like this before, and I don't want to arrive with something your volunteers cannot examine."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Booking helps us match an item with somebody who has relevant experience. What were you thinking of bringing?"
+            },
+            {
+              "speaker": "Customer",
+              "text": "A lamp. The shade and cable look fine, but it stopped working suddenly. I considered bringing my radio too, although I realise that might be asking too much for one visit."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Let's register the lamp first. Describe the problem without trying to open it yourself."
+            }
+          ]
+        },
+        {
+          "id": "Q02",
+          "question_locator": "Q2",
+          "word_count": 101,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "Your poster says the fair runs at weekends. Is my appointment on Saturday? I need to arrange transport, and a friend has offered to drive me if I give her enough notice."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Saturday is when we set out the tables and check equipment. Your appointment is on Sunday, when the public event takes place. Several people have confused those dates because an old volunteer notice is still circulating."
+            },
+            {
+              "speaker": "Customer",
+              "text": "Sunday is actually easier for my friend. I'll put that in my diary now and make sure she receives the visitor confirmation, rather than the photograph of the notice that somebody sent me."
+            }
+          ]
+        },
+        {
+          "id": "Q03",
+          "question_locator": "Q3",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "What time should we aim to arrive? My friend prefers to leave early in case traffic is heavy, but I don't want to be waiting outside before the building opens."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The doors open at nine, and your booked assessment begins at nine forty-five. Arriving ten minutes before that will give you time to register and carry the lamp to the correct table."
+            },
+            {
+              "speaker": "Customer",
+              "text": "I'll record nine forty-five as the appointment time, then. The earlier arrival is just to complete the formalities."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. If the roads delay you, call the number on your confirmation so we know whether to hold the slot."
+            }
+          ]
+        },
+        {
+          "id": "Q04",
+          "question_locator": "Q4",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "How long will the volunteer spend looking at the lamp? I wondered whether to ask my friend to wait or come back later."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "The initial assessment lasts twenty minutes. Within that time, the volunteer will try to identify the problem and explain what might be possible. It doesn't guarantee a completed repair."
+            },
+            {
+              "speaker": "Customer",
+              "text": "That distinction is useful. We shouldn't assume we can leave with a working lamp immediately after the appointment."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Right. Some simple jobs can be completed, but others need a part we don't have. We'll explain the options before anyone agrees to further work or spends money on a replacement component."
+            }
+          ]
+        },
+        {
+          "id": "Q05",
+          "question_locator": "Q5",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "Should I bring the original box? It's somewhere in the attic, although finding it may take longer than getting here."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "A secure bag or box for transport is enough. The useful thing to bring, if you still have it, is the manual. It may show how the parts fit together or identify the exact model."
+            },
+            {
+              "speaker": "Customer",
+              "text": "I kept the manual in a drawer with the receipt, so that won't be difficult."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Excellent. Please leave it with the lamp during the assessment and take it home afterwards. A volunteer can make a note of relevant information, but we don't need to keep your original paperwork."
+            }
+          ]
+        },
+        {
+          "id": "Q06",
+          "question_locator": "Q6",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "Do you collect any information about the owner? I'm happy to give contact details, but I don't know the lamp's age because it was a gift."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "An approximate age is sufficient. What we need for the booking is your postcode, so we can distinguish visitors with similar names and understand which neighbourhoods the fair serves."
+            },
+            {
+              "speaker": "Customer",
+              "text": "I'll provide my current postcode; I moved recently, and some of my older documents still show the previous address."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Thank you. We don't need those documents. Please check the confirmation after this call and tell us if any of the booking information is wrong before the event."
+            }
+          ]
+        },
+        {
+          "id": "Q07",
+          "question_locator": "Q7",
+          "word_count": 102,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "I noticed a free electrical advice desk on the poster. Could I simply go there instead of keeping the booked assessment? It might be easier if our journey takes longer than expected."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "You could ask general questions there, but the desk doesn't reserve time to examine an individual item. The appointment gives a volunteer a defined slot for your lamp. It doesn't put you ahead of people with urgent problems or promise a cheaper repair."
+            },
+            {
+              "speaker": "Customer",
+              "text": "So the important difference is having examination time allocated. I'll keep the booking and use the advice desk only if I have a separate general question afterwards."
+            }
+          ]
+        },
+        {
+          "id": "Q08",
+          "question_locator": "Q8",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "If the lamp needs a new switch, will I be asked to buy one from the fair? I'd rather compare prices before committing to anything."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "We don't sell replacement parts. The volunteer may describe the specification you need, but you decide whether to obtain it and where to buy it. Please don't order a component before the assessment just because an online forum mentions a similar fault."
+            },
+            {
+              "speaker": "Customer",
+              "text": "That makes sense. Two lamps can look alike without using the same internal parts."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Exactly. The point of the assessment is to reduce uncertainty. You should leave understanding the next step, even if you choose not to continue with the repair."
+            }
+          ]
+        },
+        {
+          "id": "Q09",
+          "question_locator": "Q9",
+          "word_count": 100,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "Will somebody contact me if the event changes? I use my phone constantly for work, but messages from unfamiliar numbers sometimes get lost among automated reminders."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "We'll send changes by email, because we may need to explain a new entrance or attach a revised map. Check the address in your confirmation. We would call only if something urgent happened very close to your appointment."
+            },
+            {
+              "speaker": "Customer",
+              "text": "I'll add your address to my contacts and check my inbox the evening before."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Good. Please don't rely on a social media post, since a general update may not include the arrangements for your particular booking."
+            }
+          ]
+        },
+        {
+          "id": "Q10",
+          "question_locator": "Q10",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Customer",
+              "text": "One last question. My friend has a small child who may come with us. Is it all right for them to watch the assessment?"
+            },
+            {
+              "speaker": "Adviser",
+              "text": "Children are welcome with a supervising adult, but they must stay on the visitor side of the marked line. The line separates the public area from tools and equipment. It isn't there to stop people asking questions."
+            },
+            {
+              "speaker": "Customer",
+              "text": "Then my friend can supervise while I discuss the lamp with the volunteer."
+            },
+            {
+              "speaker": "Adviser",
+              "text": "That would work. If the child needs a break, there is a separate activity area. Please don't move the line or lift a child over it to get a better view."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Repair fair site briefing",
+      "roles": [
+        "Site coordinator"
+      ],
+      "question_range": [
+        11,
+        20
+      ],
+      "word_count": 1056,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q11",
+          "question_locator": "Q11",
+          "word_count": 111,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "Welcome to the repair fair. Before the first appointments begin, I'll explain the outdoor layout shown on your map. North is at the top, and the entrance is marked on the southern edge. The central square contains the covered courtyard, which is a fixed landmark rather than a lettered activity area. Registration is in the southwest corner of the site. It is west of the entrance axis and south of the courtyard, not in the area directly south of the courtyard. Visitors should go there first even if they recognise a volunteer elsewhere. Registration confirms which table has been allocated and helps us keep track of belongings moving through the fair."
+            }
+          ]
+        },
+        {
+          "id": "Q12",
+          "question_locator": "Q12",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "After registering, volunteers who need shared equipment should visit the tool store. On the map, that is the area in the northwest corner, directly north of registration and diagonally northwest of the courtyard. There is another area immediately west of the courtyard, but that is not the store. The arrangement allows equipment to be checked out away from the busiest visitor route. Only a volunteer may collect a tool from the store, and the borrower should return it personally. This avoids a situation where several people assume somebody else has checked that a valuable or potentially hazardous item is back in the correct place."
+            }
+          ]
+        },
+        {
+          "id": "Q13",
+          "question_locator": "Q13",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "The bicycle assessment area occupies the space directly east of the central courtyard. It is level with the courtyard on the map, not in the northeast corner. Please wheel bicycles rather than ride them anywhere inside the site. The assessment team needs room to turn a bicycle and examine it from both sides, so visitors should wait at the marked edge until invited forward. We have kept this activity away from the tool store because a row of waiting bicycles can obstruct other volunteers. If you have arrived only to ask about a route or a helmet, the general advice desk will be more suitable."
+            }
+          ]
+        },
+        {
+          "id": "Q14",
+          "question_locator": "Q14",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "The children's activity area is in the northeast corner. It lies north of the bicycle assessment area and east of the space at the northern centre of the map. An earlier plan placed children beside registration, but we changed that arrangement to give families a quieter area with better visibility. Activities there use simple materials and are supervised, although parents or carers remain responsible for their children. Please do not assume that leaving a child in the area provides childcare for the duration of a repair appointment. The helpers can explain an activity, but they cannot accompany children around the rest of the site."
+            }
+          ]
+        },
+        {
+          "id": "Q15",
+          "question_locator": "Q15",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "Unwanted usable materials can be offered at the donation point in the southeast corner. This is south of the bicycle assessment area and east of the space directly south of the courtyard. Please speak to a helper before unloading anything. We have limited storage and cannot accept every object simply because it may be useful someday. A clear description helps us decide whether another local group can use it. The donation point is deliberately separate from registration, so a visitor carrying a broken item will not accidentally leave it among donated materials. If you are uncertain whether something is yours to collect or ours to redistribute, ask first."
+            }
+          ]
+        },
+        {
+          "id": "Q16",
+          "question_locator": "Q16",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "We expect a busy morning, but the fair is organised around explanation rather than speed. Volunteers are asked to describe what they are checking and invite owners to ask questions. Finishing the largest possible number of repairs would be an easy figure to advertise, yet it would miss much of the event's purpose. An owner who understands why a repair is unsuitable has still gained useful information. Equally, someone who learns a simple maintenance habit may prevent a later problem. Please allow conversations to finish instead of urging the next person forward whenever a tool is put down. A pause can be part of a careful explanation."
+            }
+          ]
+        },
+        {
+          "id": "Q17",
+          "question_locator": "Q17",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "Photography is allowed in general areas, but close photographs of a repair need the permission of both the volunteer and the owner. An object may look anonymous while still revealing a person's name, address or other private detail. We therefore ask visitors to check the whole frame before sharing an image. A sign saying that photographs may be taken at the event is not a substitute for asking about a close view of someone's belongings. Staff will happily suggest a different subject if permission is declined. For our own report, we can photograph an empty workstation or a demonstration item without interrupting a live assessment."
+            }
+          ]
+        },
+        {
+          "id": "Q18",
+          "question_locator": "Q18",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "If a volunteer decides that an item should not be examined here, the owner will receive an explanation and, where appropriate, information about another type of service. The decision is not a judgement about whether the item matters to its owner. It reflects the equipment, competence and time available at this event. Please don't move to another table hoping for a different answer without telling the coordinator. That could separate the item from the information already recorded. The coordinator can clarify the decision or arrange an appropriate discussion, but cannot require a volunteer to attempt work they consider outside the safe limits of their role."
+            }
+          ]
+        },
+        {
+          "id": "Q19",
+          "question_locator": "Q19",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "At lunchtime, visitors with appointments should still report to registration at their stated time. Volunteer breaks are staggered, so the site does not close completely in the middle of the day. However, a particular specialist may be unavailable for a short period. The registration team can explain that person's schedule. Please don't join an apparently shorter queue without checking what it is for. Some tables are demonstrating techniques rather than assessing visitors' items. A short queue at a demonstration does not mean the repair service is operating unfairly; it may simply involve a different activity with a different purpose and a different timetable."
+            }
+          ]
+        },
+        {
+          "id": "Q20",
+          "question_locator": "Q20",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Site coordinator",
+              "text": "Before leaving, please complete a short feedback card, including one thing that was clear and one thing that could be improved. We are especially interested in whether you understood the advice, not just whether the item was repaired. The card does not ask for the volunteer's name, and it is not used to rank individual volunteers. We review the comments to improve instructions, signage and the range of support available next time. If you need help with an unresolved booking problem, speak to the coordinator instead of relying on the card. Feedback cards are read later and will not produce an immediate response today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Evaluating a repair workshop",
+      "roles": [
+        "Tutor",
+        "Maya",
+        "Noah"
+      ],
+      "question_range": [
+        21,
+        30
+      ],
+      "word_count": 1064,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q21",
+          "question_locator": "Q21",
+          "word_count": 104,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Your project asks how visitors experience the workshop. Let's review the proposals one by one, starting with short exit interviews."
+            },
+            {
+              "speaker": "Maya",
+              "text": "I support them because a brief conversation can show whether someone understood the advice, even when the object wasn't repaired."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I was against them at first because I expected a long queue, but limiting each conversation to two minutes changes my view. I now support that version."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then record the revised plan, including the limit. Agreement about the method doesn't mean you have to expect the same findings. Your different interests can still shape the questions you ask and the patterns you examine afterwards."
+            }
+          ]
+        },
+        {
+          "id": "Q22",
+          "question_locator": "Q22",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Noah",
+              "text": "My next proposal is to count every successful repair and use that total as our only measure of the event. Numbers are easier to compare than personal stories, so I still think one clear total is enough."
+            },
+            {
+              "speaker": "Maya",
+              "text": "I don't support making it the only measure. An unsuccessful repair can lead to a useful explanation, and a successful one may fail again later."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Could you retain the count while changing the claim?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "Possibly in a future draft, but for this proposed measure I am still arguing for the single total."
+            },
+            {
+              "speaker": "Maya",
+              "text": "Then my objection remains."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Make that disagreement visible rather than writing that the group has already reached a decision."
+            }
+          ]
+        },
+        {
+          "id": "Q23",
+          "question_locator": "Q23",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Maya",
+              "text": "I suggested recording visitors' exact addresses so we could map where everyone came from. A detailed map might reveal gaps in the area served."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I don't support collecting exact addresses. Broad neighbourhood information should be enough for our question, and detailed records create avoidable privacy concerns."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "What does the additional precision actually help you explain?"
+            },
+            {
+              "speaker": "Maya",
+              "text": "Looking at our question again, very little. I withdraw the address proposal and would use broad areas instead."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I agree with dropping it."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. In your notes, distinguish the original suggestion from the position you both hold after considering its purpose. Otherwise a reader may mistake discussion for final endorsement."
+            }
+          ]
+        },
+        {
+          "id": "Q24",
+          "question_locator": "Q24",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Maya",
+              "text": "I would like to include follow-up accounts from owners whose items were not repaired. They may tell us what happened after receiving advice, which an event-day count cannot show."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I see the interest, but I don't support that proposal for our project. We have little time, and those owners may be difficult to contact."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Is your concern the value of the evidence or the resources needed to collect it?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "The resources."
+            },
+            {
+              "speaker": "Maya",
+              "text": "I still support a small follow-up, even if it includes only a few clearly described cases."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then you disagree about what is manageable, not necessarily about whether those experiences matter. State the distinction accurately."
+            }
+          ]
+        },
+        {
+          "id": "Q25",
+          "question_locator": "Q25",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Noah",
+              "text": "We also need to observe the waiting area from a fixed position. If we keep moving, our counts may miss people or count them twice."
+            },
+            {
+              "speaker": "Maya",
+              "text": "I support that, provided the position doesn't block visitors or make them feel inspected. We should agree it with the organiser first."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Would a fixed position prevent you from noticing problems elsewhere?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "It limits the view, but that limitation is easier to describe than changing our method unpredictably."
+            },
+            {
+              "speaker": "Maya",
+              "text": "Yes, and we can keep the observations focused on one question."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "You are both supporting the fixed-position method, with a practical condition. Include that condition in the method rather than leaving it in meeting notes."
+            }
+          ]
+        },
+        {
+          "id": "Q26",
+          "question_locator": "Q26",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Maya",
+              "text": "Finally, I support including a quotation from a volunteer in our presentation, but only after we have checked permission for that use. A short quotation could show how the volunteer explains an uncertain repair decision."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I don't support adding it. We already have too much material for the presentation, and I would prefer to summarise the point in our own words."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Both approaches could be reasonable. Does hearing Maya's condition change your position?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "No. My objection is about the limited presentation time, not permission."
+            },
+            {
+              "speaker": "Maya",
+              "text": "And I still favour one brief quotation."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Then record your final positions without treating the permission condition as evidence that Noah agrees."
+            }
+          ]
+        },
+        {
+          "id": "Q27",
+          "question_locator": "Q27",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Now choose two changes to the exit interview itself. The current draft asks whether the visit was useful and then immediately asks the person to rate the fair."
+            },
+            {
+              "speaker": "Maya",
+              "text": "I'd add a question asking the visitor to explain the next step they intend to take. That would test understanding more directly than another satisfaction rating."
+            },
+            {
+              "speaker": "Noah",
+              "text": "I agree. Someone might be pleased with the friendly welcome while remaining uncertain about the advice."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "That's one change selected. What about asking for a score for the individual volunteer?"
+            },
+            {
+              "speaker": "Maya",
+              "text": "I would leave that out. Our project examines the visitor's understanding, not staff performance, and people may be uncomfortable assigning a personal score."
+            }
+          ]
+        },
+        {
+          "id": "Q28",
+          "question_locator": "Q28",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Noah",
+              "text": "The other change I want is a question about advice the visitor found unclear. We should let them identify a particular point rather than forcing them to choose from our guesses."
+            },
+            {
+              "speaker": "Maya",
+              "text": "Agreed. We can ask neutrally and make clear that saying everything was clear is acceptable too."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "So those are your two selected additions. You are not asking for the item's purchase price or the visitor's home address, and you are not introducing a personal rating of the volunteer."
+            },
+            {
+              "speaker": "Noah",
+              "text": "Correct. Keeping the interview short means choosing questions that serve our purpose."
+            },
+            {
+              "speaker": "Maya",
+              "text": "We should test the wording before the event to see whether people understand what we are asking."
+            }
+          ]
+        },
+        {
+          "id": "Q29",
+          "question_locator": "Q29",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Tutor",
+              "text": "Your draft conclusion makes several claims. Which two limitations must be made explicit?"
+            },
+            {
+              "speaker": "Noah",
+              "text": "First, we observed only one event. We cannot assume another venue, season or group of volunteers would produce the same pattern."
+            },
+            {
+              "speaker": "Maya",
+              "text": "I agree. Repeating the same method in different settings would strengthen a later project, but we shouldn't write as though we've already done that."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Good. The fact that you used paper forms is not automatically a limitation if the records are clear and complete. Nor does a small project become worthless simply because it isn't large. Explain precisely what the evidence can and cannot support instead of adding a general apology."
+            }
+          ]
+        },
+        {
+          "id": "Q30",
+          "question_locator": "Q30",
+          "word_count": 108,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Maya",
+              "text": "Second, the visitors who agree to an interview may differ from those who leave without speaking to us. People with more time or stronger opinions might be more willing to participate."
+            },
+            {
+              "speaker": "Noah",
+              "text": "Yes, so our responses cannot stand for every visitor."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Those are the two limitations to carry into the conclusion. The workshop wasn't cancelled, and you did have access to the waiting area, so don't list those as obstacles."
+            },
+            {
+              "speaker": "Maya",
+              "text": "We'll distinguish events that actually affected the method from things that might have happened."
+            },
+            {
+              "speaker": "Tutor",
+              "text": "Exactly. A useful evaluation is specific to the work you carried out and gives the reader enough information to judge the reach of your claims."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "title": "Tracing a repair request",
+      "roles": [
+        "Lecturer"
+      ],
+      "question_range": [
+        31,
+        40
+      ],
+      "word_count": 1052,
+      "duration_seconds": null,
+      "segments": [
+        {
+          "id": "Q31",
+          "question_locator": "Q31",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "In this lecture, we will trace a hypothetical repair request through a small community service. The example is designed to show how records support decisions, rather than to describe a particular organisation. The first stage is to give the item an identification code. That code connects the object to its record without requiring the owner's name to appear on every working note. It should remain stable throughout the process, even if the item moves between people. Changing identifiers midway can make a complete set of notes look like several unrelated cases. A clear record begins with consistency, not with collecting the largest possible amount of information."
+            }
+          ]
+        },
+        {
+          "id": "Q32",
+          "question_locator": "Q32",
+          "word_count": 106,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The second stage is to record the symptom described by the owner. A symptom is what the person noticed, such as a device stopping after a few minutes, rather than a diagnosis of the underlying cause. The distinction matters because owners may arrive with a confident explanation from an online discussion. Staff can record that explanation separately, but should not substitute it for the observed behaviour. Otherwise a later technician may investigate only the suggested cause and overlook useful evidence. Recording the owner's description accurately also makes it possible to check whether the problem experienced after a repair is genuinely the same as the original one."
+            }
+          ]
+        },
+        {
+          "id": "Q33",
+          "question_locator": "Q33",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Next, a trained person conducts a visual inspection before deciding whether any further examination is appropriate. This stage may identify obvious damage, missing parts or signs that the item falls outside the service's scope. It is not a promise that an apparently undamaged object is safe or repairable. The result should be recorded in language that distinguishes what was seen from what was inferred. For example, describing a damaged casing is different from asserting that the damage caused the fault. If the item cannot be examined within the service's limits, the record should explain that decision and the information given to the owner."
+            }
+          ]
+        },
+        {
+          "id": "Q34",
+          "question_locator": "Q34",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "When further work appears possible, the next stage is to obtain the owner's consent. Consent should relate to a described action, not to a vague promise that the service will do whatever seems useful. The owner needs to understand likely costs, uncertainties and any relevant limits. This does not require predicting every possible outcome, but it does require making the proposed next step intelligible. A signature alone cannot show that an explanation was understood. Staff may need to invite questions or ask the owner to describe their understanding. The record should show what was agreed and when, so that later decisions do not rely entirely on memory."
+            }
+          ]
+        },
+        {
+          "id": "Q35",
+          "question_locator": "Q35",
+          "word_count": 107,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "The final stage in this simplified flow is to record the outcome after the agreed work. An outcome record should not use the single word finished for situations that differ substantially. An item may have been repaired, returned without repair, or referred elsewhere. Those distinctions affect what the owner needs to do next and how the service evaluates its work. Recording an outcome also closes a gap between an activity taking place and the organisation knowing what happened. If a technician completes a task but nobody updates the record, another person may spend time trying to locate an item that has already been collected by its owner."
+            }
+          ]
+        },
+        {
+          "id": "Q36",
+          "question_locator": "Q36",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "To compare different kinds of work, the service can classify requests into categories. Categories should be defined before staff begin coding a large set of records, and examples should be supplied for difficult cases. Otherwise one person may classify an item by its main material while another uses its function. The resulting totals could look precise without referring to consistent groups. A small trial of the coding system helps reveal these differences. When staff disagree, the aim is not simply to choose a winner. They should examine whether the definition is unclear or whether the case contains information that the current categories fail to represent."
+            }
+          ]
+        },
+        {
+          "id": "Q37",
+          "question_locator": "Q37",
+          "word_count": 103,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Some records will contain missing information. The service should mark a missing value as unknown rather than silently replacing it with a convenient assumption. An unknown result is different from an unsuccessful repair, just as an unrecorded cost is different from a repair that cost nothing. Mixing these cases can distort both totals and comparisons. The proportion of unknown values is itself useful information about how well the recording system works. If one field is frequently left empty, staff can investigate whether the question is difficult to answer, poorly explained or requested at a point when the relevant person is no longer available."
+            }
+          ]
+        },
+        {
+          "id": "Q38",
+          "question_locator": "Q38",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "A further check compares initial outcomes with later follow-up information. In this example, owners are contacted after four weeks to ask whether the item is still in use and whether the original problem has returned. Four weeks is a chosen interval for the example, not a universal standard for judging every repair. A longer interval might reveal different problems, while a shorter one could be easier to complete reliably. Whatever interval is used should be stated clearly. The service should also report how many owners responded, since a high success rate among a small group of respondents may not describe the experience of everyone contacted."
+            }
+          ]
+        },
+        {
+          "id": "Q39",
+          "question_locator": "Q39",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Before sharing a case publicly, staff remove direct identifiers from the working account. Removing a name alone may be insufficient if other details make the owner recognisable. The level of detail needed for an internal technical record can be different from the level appropriate for a public example. This creates a practical challenge: an account must retain enough information to explain the learning point while avoiding unnecessary personal detail. The decision should be made deliberately, rather than leaving publication staff to guess which parts are sensitive. A separate publication version can help preserve the fuller internal record without exposing every detail to a wider audience."
+            }
+          ]
+        },
+        {
+          "id": "Q40",
+          "question_locator": "Q40",
+          "word_count": 105,
+          "start_seconds": null,
+          "end_seconds": null,
+          "turns": [
+            {
+              "speaker": "Lecturer",
+              "text": "Finally, the service should review its recording system with the people who use it. A technically impressive database can fail if staff cannot complete records during ordinary work or cannot retrieve information when they need it. The review should examine both the quality of the data and the burden of collecting them. It may reveal that a short field needs a clearer definition, or that an elaborate question adds little value. Improvement does not always mean adding more fields. A smaller, consistently maintained record can support decisions better than a larger system whose apparent detail conceals gaps, incompatible categories and assumptions that nobody has documented."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
