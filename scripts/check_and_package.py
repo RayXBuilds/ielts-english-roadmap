@@ -19,7 +19,7 @@ for name in ['offline.html','offline-audio.html']:
  assert not re.search(r'(?:src|href)="https?://',s),'External dependency'
 plan='\n'.join((ROOT/n).read_text() for n in ['plans/first-28-days.md','plans/days-29-84.md'])
 assert [int(n) for n in re.findall(r'\| Day (\d+) \|',plan)]==list(range(1,85))
-for folder,expected in [('readings',24),('listening',12),('speaking',12),('bridge',59)]:assert len(list((ROOT/'lessons'/folder).glob('*.md')))==expected
+for folder,expected in [('readings',24),('listening',12),('speaking',12),('bridge',76)]:assert len(list((ROOT/'lessons'/folder).glob('*.md')))==expected
 course=(ROOT/'lessons/bridge/u02-ielts-eight-weeks.md').read_text()
 expected=[f'{w}.{d}' for w in range(1,8) for d in range(1,7)]+[f'8.{d}' for d in range(1,5)]
 assert re.findall(r'^\| (\d+\.\d+) \|',course,re.M)==expected,'8-week task sequence'
@@ -42,4 +42,4 @@ for mode in ['full','audio']:
   names=set(z.namelist());s=z.read('ielts-english-roadmap/offline.html').decode()
   for src in re.findall(r'src="([^"]+)"',s):assert 'ielts-english-roadmap/'+src in names
  print(dest.name,dest.stat().st_size,hashlib.sha256(dest.read_bytes()).hexdigest())
-print('PASS: links, local HTML, 84 days, 107 lesson files, 8-week course and resource guide, 24 media hashes, ZIP integrity')
+print('PASS: links, local HTML, 84 days, 124 lesson files, 8-week course and resource guide, 24 media hashes, ZIP integrity')

@@ -1,0 +1,161 @@
+{
+  "id": "SR-03",
+  "title": "The Folding Chair Changes Its Audience",
+  "paragraphs": [
+    "In the fictional town of Telin, a furniture workshop begins making folding chairs for travelling musicians. The first design uses a narrow seat and a simple hinge so that several chairs fit inside a cart. Its users carry instruments as well as furniture, and the workshop's sales letters emphasise storage space. Comfort during a long seated meeting receives little attention in those letters. This silence does not prove that the musicians disliked comfort. It shows which feature the makers chose to promote for that particular market. The earliest surviving examples are therefore best understood through the practical journey they supported, rather than judged only against the requirements of a later household dining chair.",
+    "A new customer changes the workshop's priorities. A reading society orders chairs for lectures lasting two hours and reports discomfort with the narrow seat. The maker widens it and adds a back support. These additions increase folded volume, making the chairs less convenient for the original cart. The workshop continues selling both versions instead of treating the larger chair as a universal replacement. Its order book keeps separate columns for the customers choosing each version. The change illustrates how an improvement for one activity can reduce suitability for another. A historical account that arranges the two models on a single ladder from poor to advanced would conceal the different tasks that explain why both remained in production. Design development here follows a division of uses rather than a simple elimination of everything that came before.",
+    "The mechanism then attracts attention from a school. Teachers want children to move chairs between rooms, but an inspection finds that fingers can enter a closing gap. The workshop builds a guard over the hinge and tests handling with staff before approving the revised model for that school. The guard is visible in later drawings. Its presence provides evidence of a particular response to a recognised problem, although it does not establish that every older chair caused an injury. The surviving correspondence reports the concern and the design response but contains no injury count. Distinguishing a risk identified during inspection from a documented accident prevents an understandable modern concern from being converted into an invented historical event.",
+    "Later, a catalogue groups all three models beneath one elegant drawing. Small symbols beside the prices identify seat width, folded depth and the guarded hinge. Customers must read those symbols to know which combination they are ordering. The illustration creates a family resemblance while the specifications preserve differences. A researcher who copies only the picture may conclude that the workshop offered one standard model. Conversely, reading each price as a separate invention would exaggerate the number of designs. The catalogue combines marketing and ordering functions. Its visual unity should be read alongside the small marks that allow a buyer to distinguish the products, because those marks carry practical information the attractive image leaves unresolved.",
+    "A present-day exhibition places the compact, wide and guarded versions together. Visitors can fold replicas while the originals remain supported in display cases. A label identifies the customer requests and the evidence linking each request to a change. The exhibition avoids calling the last surviving model the final solution. A household needing permanent seating may prefer a chair that does not fold at all. The workshop's history concerns a particular family of portable objects and the activities that gave their differences value. By keeping the users visible, the display lets visitors ask what each version made easier, what it made harder and why more than one answer could remain commercially useful at the same time. The chair's changing audience becomes part of its changing form."
+  ],
+  "questions": [
+    {
+      "type": "heading",
+      "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+      "prompt": "Paragraph A",
+      "accepted_answers": [
+        "iii"
+      ],
+      "paragraph": "A",
+      "evidence": "storage space",
+      "explanation": "主旨是为巡演搬运设计的起点。"
+    },
+    {
+      "type": "heading",
+      "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+      "prompt": "Paragraph B",
+      "accepted_answers": [
+        "v"
+      ],
+      "paragraph": "B",
+      "evidence": "division of uses",
+      "explanation": "比较不同用途分化，不是全面替代。"
+    },
+    {
+      "type": "heading",
+      "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+      "prompt": "Paragraph C",
+      "accepted_answers": [
+        "i"
+      ],
+      "paragraph": "C",
+      "evidence": "a guard over the hinge",
+      "explanation": "围绕具体夹手风险与防护回应。"
+    },
+    {
+      "type": "heading",
+      "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+      "prompt": "Paragraph D",
+      "accepted_answers": [
+        "vi"
+      ],
+      "paragraph": "D",
+      "evidence": "specifications preserve differences",
+      "explanation": "同图与规格共同区分产品。"
+    },
+    {
+      "type": "heading",
+      "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+      "prompt": "Paragraph E",
+      "accepted_answers": [
+        "ii"
+      ],
+      "paragraph": "E",
+      "evidence": "By keeping the users visible",
+      "explanation": "展览通过使用者解释设计。"
+    },
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "The first chairs were promoted for saving space.",
+      "accepted_answers": [
+        "TRUE"
+      ],
+      "paragraph": "A",
+      "evidence": "sales letters emphasise storage space",
+      "explanation": "文本明示。"
+    },
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "The wider model occupied less space when folded.",
+      "accepted_answers": [
+        "FALSE"
+      ],
+      "paragraph": "B",
+      "evidence": "increase folded volume",
+      "explanation": "体积增大。"
+    },
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "The old and wide versions were sold together.",
+      "accepted_answers": [
+        "TRUE"
+      ],
+      "paragraph": "B",
+      "evidence": "continues selling both versions",
+      "explanation": "并售。"
+    },
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "The correspondence records three injured children.",
+      "accepted_answers": [
+        "FALSE"
+      ],
+      "paragraph": "C",
+      "evidence": "contains no injury count",
+      "explanation": "题干断言信件记载了三名受伤儿童。C段明确说明信件 contains no injury count，即没有记载伤者人数，与题干相反，因此答案为FALSE。实际有多少儿童受伤仍缺乏信息，若问题询问实际人数，才需要按该命题另行判断。"
+    },
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "Visitors fold the original historic chairs.",
+      "accepted_answers": [
+        "FALSE"
+      ],
+      "paragraph": "E",
+      "evidence": "Visitors can fold replicas",
+      "explanation": "原件置展示柜。"
+    }
+  ],
+  "vocabulary": [
+    [
+      "hinge",
+      "允许部件转动折叠的铰链"
+    ],
+    [
+      "replica",
+      "用于操作展示的复制品"
+    ],
+    [
+      "portable",
+      "便于搬运的"
+    ],
+    [
+      "specification",
+      "区分尺寸和部件的规格"
+    ],
+    [
+      "guard",
+      "覆盖危险间隙的防护件"
+    ],
+    [
+      "correspondence",
+      "往来信件资料"
+    ]
+  ],
+  "sentences": [
+    [
+      "The change illustrates how an improvement for one activity can reduce suitability for another.",
+      "how引导宾语内容，can保留条件性。"
+    ],
+    [
+      "Its presence provides evidence of a particular response to a recognised problem, although it does not establish that every older chair caused an injury.",
+      "although限定由防护件可推出的历史范围。"
+    ]
+  ],
+  "review": "先用一句话概括每段，再匹配标题。标出只覆盖单个细节的诱项，随后处理事实判断。",
+  "options": "Headings\n\ni. A protective response to a handling problem\nii. Explaining designs through their users\niii. Furniture for a crowded travelling load\niv. Recorded injuries force a national ban\nv. Different uses sustain different versions\nvi. One image conceals choices revealed by specifications\nvii. The disappearance of all folding furniture"
+}

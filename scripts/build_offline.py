@@ -10,6 +10,7 @@ runpy.run_path(str(ROOT/'scripts/build_exam_batch4.py'))
 runpy.run_path(str(ROOT/'scripts/build_exam_batch5.py'))
 runpy.run_path(str(ROOT/'scripts/build_exam_batch6.py'))
 runpy.run_path(str(ROOT/'scripts/build_listening_text.py'))
+runpy.run_path(str(ROOT/'scripts/build_supplement.py'))
 sections=[]
 for name,title in [('plans/first-28-days.md','Day 1–28'),('plans/days-29-84.md','Day 29–84')]:sections.append((ROOT/name,'plan'+('1' if 'first' in name else '2'),title))
 for folder,prefix in [('readings','r'),('listening','l'),('speaking','s'),('bridge','u')]:

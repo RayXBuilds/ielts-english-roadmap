@@ -1,0 +1,527 @@
+{
+  "checked_on": "2026-11-04",
+  "terminology": "Cambridge authentic practice tests. Publication years identify editions, not dated live-exam sittings.",
+  "books": [
+    {
+      "edition": 15,
+      "module": "Academic",
+      "publication_year": 2020,
+      "actual_exam_date": null,
+      "isbn": "9781108781619",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridge.org/9781108781619",
+      "product_access": "publisher ISBN locator; content verified through frontmatter, locator not verified accessible",
+      "evidence_url": "https://assets.cambridge.org/97811087/81626/frontmatter/9781108781626_frontmatter.pdf",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [
+        {
+          "url": "https://assets.cambridge.org/97811087/81626/frontmatter/9781108781626_frontmatter.pdf",
+          "status": "readable",
+          "scope": "3-page frontmatter with copyright, ISBNs, contents only"
+        },
+        {
+          "url": "https://assets.cambridge.org/97811087/81619/excerpt/9781108781619_excerpt.pdf",
+          "status": "readable",
+          "scope": "3-page introduction and format description only"
+        }
+      ],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 15,
+      "module": "General Training",
+      "publication_year": 2020,
+      "actual_exam_date": null,
+      "isbn": "9781108781626",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridge.org/9781108781626",
+      "product_access": "publisher ISBN locator; content verified through frontmatter, locator not verified accessible",
+      "evidence_url": "https://assets.cambridge.org/97811087/81626/frontmatter/9781108781626_frontmatter.pdf",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [
+        {
+          "url": "https://assets.cambridge.org/97811087/81626/frontmatter/9781108781626_frontmatter.pdf",
+          "status": "readable",
+          "scope": "3-page frontmatter with copyright, ISBNs, contents only"
+        },
+        {
+          "url": "https://assets.cambridge.org/97811087/81619/excerpt/9781108781619_excerpt.pdf",
+          "status": "readable",
+          "scope": "3-page introduction and format description only"
+        }
+      ],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 16,
+      "module": "Academic",
+      "publication_year": 2021,
+      "actual_exam_date": null,
+      "isbn": "9781108933858",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridge.org/9781108933858",
+      "product_access": "publisher ISBN locator; content verified through frontmatter, locator not verified accessible",
+      "evidence_url": "https://assets.cambridge.org/97811089/33858/frontmatter/9781108933858_frontmatter.pdf",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [
+        {
+          "url": "https://assets.cambridge.org/97811089/33858/frontmatter/9781108933858_frontmatter.pdf",
+          "status": "readable",
+          "scope": "3-page frontmatter with copyright and contents only"
+        }
+      ],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 16,
+      "module": "General Training",
+      "publication_year": 2021,
+      "actual_exam_date": null,
+      "isbn": "9781108933865",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridge.org/9781108933865",
+      "product_access": "publisher ISBN locator; content verified through frontmatter, locator not verified accessible",
+      "evidence_url": "https://assets.cambridge.org/97811089/33865/frontmatter/9781108933865_frontmatter.pdf",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [
+        {
+          "url": "https://assets.cambridge.org/97811089/33865/frontmatter/9781108933865_frontmatter.pdf",
+          "status": "readable",
+          "scope": "3-page frontmatter with copyright and contents only"
+        }
+      ],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 17,
+      "module": "Academic",
+      "publication_year": 2022,
+      "actual_exam_date": null,
+      "isbn": "9781108933810",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridgebookshop.co.uk/products/ielts-17",
+      "product_access": "readable",
+      "evidence_url": "https://www.cambridgebookshop.co.uk/products/ielts-17",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 17,
+      "module": "General Training",
+      "publication_year": 2022,
+      "actual_exam_date": null,
+      "isbn": "9781108933834",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridgebookshop.co.uk/products/ielts-17-general-training-students-book-with-answers-with-audio-with-resource-bank",
+      "product_access": "readable",
+      "evidence_url": "https://www.cambridgebookshop.co.uk/products/ielts-17-general-training-students-book-with-answers-with-audio-with-resource-bank",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 18,
+      "module": "Academic",
+      "publication_year": 2023,
+      "actual_exam_date": null,
+      "isbn": "9781009275187",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridgebookshop.co.uk/products/ielts-18-academic-students-book-with-answers-with-audio-with-resource-bank-authentic-practice-tests",
+      "product_access": "readable",
+      "evidence_url": "https://www.cambridgebookshop.co.uk/products/ielts-18-academic-students-book-with-answers-with-audio-with-resource-bank-authentic-practice-tests",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 18,
+      "module": "General Training",
+      "publication_year": 2023,
+      "actual_exam_date": null,
+      "isbn": "9781009275194",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridgebookshop.co.uk/products/ielts-18-general-training-students-book-with-answers-authentic-practice-tests",
+      "product_access": "readable",
+      "evidence_url": "https://www.cambridgebookshop.co.uk/products/ielts-18-general-training-students-book-with-answers-authentic-practice-tests",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 19,
+      "module": "Academic",
+      "publication_year": 2024,
+      "actual_exam_date": null,
+      "isbn": "9781009454735",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridge.org/9781009454735",
+      "product_access": "publisher ISBN locator; content verified through frontmatter, locator not verified accessible",
+      "evidence_url": "https://assets.cambridge.org/97810094/54735/frontmatter/9781009454735_frontmatter.pdf",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [
+        {
+          "url": "https://assets.cambridge.org/97810094/54735/frontmatter/9781009454735_frontmatter.pdf",
+          "status": "readable",
+          "scope": "9-page frontmatter, contents, introduction and marking guidance only"
+        }
+      ],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 19,
+      "module": "General Training",
+      "publication_year": 2024,
+      "actual_exam_date": null,
+      "isbn": "9781009454742",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridgebookshop.co.uk/products/ielts-19-general-training-students-book-with-answers-with-audio-with-resource-bank",
+      "product_access": "readable",
+      "evidence_url": "https://www.cambridgebookshop.co.uk/products/ielts-19-general-training-students-book-with-answers-with-audio-with-resource-bank",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 20,
+      "module": "Academic",
+      "publication_year": 2025,
+      "actual_exam_date": null,
+      "isbn": "9781009814904",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://shop.cambridge.org/english/product/2700250101",
+      "product_access": "readable",
+      "evidence_url": "https://shop.cambridge.org/english/product/2700250101",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 20,
+      "module": "General Training",
+      "publication_year": 2025,
+      "actual_exam_date": null,
+      "isbn": "9781009814911",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridgebookshop.co.uk/products/ielts-20-practice-test-general-training-students-book-with-answers-with-digital-pack",
+      "product_access": "readable",
+      "evidence_url": "https://www.cambridgebookshop.co.uk/products/ielts-20-practice-test-general-training-students-book-with-answers-with-digital-pack",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 21,
+      "module": "Academic",
+      "publication_year": 2026,
+      "actual_exam_date": null,
+      "isbn": "9781009826723",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://www.cambridgebookshop.co.uk/products/ielts-21-practice-tests-academic-students-book-with-answers-with-digital-pack",
+      "product_access": "readable",
+      "evidence_url": "https://www.cambridgebookshop.co.uk/products/ielts-21-practice-tests-academic-students-book-with-answers-with-digital-pack",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [
+        {
+          "url": "https://assets.cambridge.org/97810098/26723/excerpt/9781009826723_excerpt.pdf",
+          "status": "web_open_404",
+          "scope": "content unverified despite search-index snippet"
+        },
+        {
+          "url": "https://assets.cambridge.org/97810098/26723/toc/9781009826723_toc.pdf",
+          "status": "web_open_404",
+          "scope": "content unverified"
+        }
+      ],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    },
+    {
+      "edition": 21,
+      "module": "General Training",
+      "publication_year": 2026,
+      "actual_exam_date": null,
+      "isbn": "9781009826730",
+      "package": "Student book with answers, audio/resource access or Digital Pack as labelled by publisher",
+      "complete_tests": 4,
+      "product_url": "https://shop.cambridge.org/english/product/2700255601",
+      "product_access": "readable",
+      "evidence_url": "https://shop.cambridge.org/english/product/2700255601",
+      "verified_fields": [
+        "module",
+        "ISBN",
+        "publication_year",
+        "four_tests"
+      ],
+      "answers": "Included in purchased book. Frontmatter lists listening/reading keys and audioscripts. Public preview does not supply all test answers.",
+      "audio_access": "Use the instructions inside the licensed book/package. Resource Bank/QR details vary by edition. 17–19 product pages explicitly mention inside-front-cover instructions and book QR codes. 20–21 state inside-front-cover instructions. Digital activation depends on the selected package.",
+      "digital_activation_verified": false,
+      "free_preview": [],
+      "full_content_access": "Paid lawful edition or eligible library loan. Check whether a library copy includes usable digital access. No purchase or loan performed.",
+      "library_holding_verified_for_user": false,
+      "public_redistribution_permission_obtained": false,
+      "embedded_in_project": false,
+      "checked_on": "2026-11-04"
+    }
+  ],
+  "free_samples": [
+    {
+      "id": "academic_pdf",
+      "url": "https://ielts.org/cdn/Sample-tests/ielts-academic-reading-sample-tasks-2023.pdf",
+      "status": "readable",
+      "scope": "46 pages of Academic Reading sample tasks with answer sections, including matching, completion, information identification and headings",
+      "answers": "In the same PDF, follow contents page 2. T/F/NG answers page 14, headings answers page 18.",
+      "audio": null,
+      "checked_on": "2026-11-04",
+      "embedded_in_project": false,
+      "download_saved": false,
+      "public_redistribution_permission_obtained": false
+    },
+    {
+      "id": "general_pdf",
+      "url": "https://takeielts.britishcouncil.org/sites/default/files/%5Bdownloads%5D/ielts-general-reading-sample-tasks-2023.pdf",
+      "status": "readable",
+      "scope": "33-page General Training Reading task collection with answers",
+      "answers": "Same PDF. Flow-chart answers page 5, matching headings answers page 19, final T/F/NG answers page 33.",
+      "audio": null,
+      "checked_on": "2026-11-04",
+      "embedded_in_project": false,
+      "download_saved": false,
+      "public_redistribution_permission_obtained": false
+    },
+    {
+      "id": "listening_pdf",
+      "url": "https://takeielts.britishcouncil.org/sites/default/files/%5Bdownloads%5D/ielts-listening-sample-tasks-2023.pdf",
+      "status": "text_readable_via_web; direct HTTP client 403",
+      "scope": "33-page Listening task collection, transcripts and answer sections",
+      "answers": "Same PDF pages 7, 10, 13, 17, 21, 25, 28, 33.",
+      "audio": "Open Link to Recording in PDF pages 4, 9, 12, 15, 19, 23, 27, 31. Embedded destinations and playback not verified by this client.",
+      "audio_playback_verified": false,
+      "checked_on": "2026-11-04",
+      "embedded_in_project": false,
+      "download_saved": false,
+      "public_redistribution_permission_obtained": false
+    },
+    {
+      "id": "listening_player",
+      "url": "https://ielts.inspera.com/player/?assessmentRunId=189697549&context=exam",
+      "status": "web_open_403",
+      "scope": "Official page describes a Part 3 research-discussion extract, multiple-choice single answer. Player could not be inspected.",
+      "answers": "https://ielts.org/cdn/computer-delivered-sample-tests-listening/ielts-listening-computer-delivered-multiple-choice-one-answer-answer-key.pdf",
+      "answers_status": "readable one-page PDF",
+      "transcript": "https://takeielts.britishcouncil.org/sites/default/files/%5Bdownloads%5D/ielts-listening-computer-delivered-multiple-choice-one-answer-transcript.pdf",
+      "transcript_status": "readable one-page PDF",
+      "audio_playback_verified": false,
+      "checked_on": "2026-11-04",
+      "embedded_in_project": false,
+      "download_saved": false,
+      "public_redistribution_permission_obtained": false
+    },
+    {
+      "id": "general_player",
+      "url": "https://ielts.inspera.com/player/?assessmentRunId=189732223&context=exam",
+      "status": "web_open_403",
+      "scope": "Official General Training T/F/NG sample task. Player content uninspected.",
+      "answers": "https://ielts.org/cdn/computer-delivered-sample-tests-general-training-reading/ielts-general-training-reading-computer-delivered-identifying-information-true-false-not-given-answer-key.pdf",
+      "answers_status": "readable one-page PDF",
+      "checked_on": "2026-11-04",
+      "embedded_in_project": false,
+      "download_saved": false,
+      "public_redistribution_permission_obtained": false
+    },
+    {
+      "id": "academic_tf_key",
+      "url": "https://ielts.org/cdn/computer-delivered-sample-tests-academic-reading/ielts-academic-reading-computer-delivered-identifying-information-true-flase-not-given-answer-key.pdf",
+      "status": "readable",
+      "scope": "One-page answer key for the official Marie Curie computer task. Preserve flase spelling in actual URL.",
+      "checked_on": "2026-11-04",
+      "embedded_in_project": false,
+      "download_saved": false,
+      "public_redistribution_permission_obtained": false
+    }
+  ],
+  "expansion_candidates": [
+    {
+      "edition": 14,
+      "status": "partially located; not counted as fully verified",
+      "official_catalogue": "https://www.cambridge.org/pl/files/2915/4379/2908/2019_International_Catalogue_Low_Res.pdf",
+      "index_evidence": "Official catalogue search index identifies IELTS 14 availability in June 2019 and four tests per A/G module.",
+      "actual_access": "403",
+      "isbn": "not promoted to verified record; package variants require further checking"
+    }
+  ],
+  "access_notes": [
+    "ISBN is package-specific; local reprints may carry other ISBNs.",
+    "All external materials remain links. No paid purchase, content package download or library transaction performed.",
+    "Personal use access does not supply evidence of GitHub redistribution rights.",
+    "Official 21 excerpt/toc index presence conflicts with actual 404, so no downloaded-sample completion claimed."
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "question": 1,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "three distant peaks used to check an artist’s viewing position",
+    "accepted_answers": [
+      "B"
+    ],
+    "paragraph": "B",
+    "evidence": "alignment of three distant peaks",
+    "explanation": "独有定位组合。"
+  },
+  {
+    "question": 2,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "an artist’s seat described beside the east wall of a shelter",
+    "accepted_answers": [
+      "B"
+    ],
+    "paragraph": "B",
+    "evidence": "eastern wall",
+    "explanation": "独有方位。"
+  },
+  {
+    "question": 3,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "white ground that could represent seasonal snow",
+    "accepted_answers": [
+      "C"
+    ],
+    "paragraph": "C",
+    "evidence": "labels snow",
+    "explanation": "明确物质与时节区别。"
+  },
+  {
+    "question": 4,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "a missing exact date for melting",
+    "accepted_answers": [
+      "C"
+    ],
+    "paragraph": "C",
+    "evidence": "does not establish an exact melting date",
+    "explanation": "该缺失字段仅C。"
+  },
+  {
+    "question": 5,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "a reference object relocated during path construction",
+    "accepted_answers": [
+      "D"
+    ],
+    "paragraph": "D",
+    "evidence": "footpath was rebuilt",
+    "explanation": "标记迁移。"
+  },
+  {
+    "question": 6,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "a relocation record lacking replacement coordinates",
+    "accepted_answers": [
+      "D"
+    ],
+    "paragraph": "D",
+    "evidence": "gives no new coordinates",
+    "explanation": "坐标缺失。"
+  },
+  {
+    "question": 7,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "two printed images based on the same original sketch",
+    "accepted_answers": [
+      "E"
+    ],
+    "paragraph": "E",
+    "evidence": "both were derived from one artist's sketch",
+    "explanation": "非独立来源。"
+  },
+  {
+    "question": 8,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "a crack enlarged for visual effect",
+    "accepted_answers": [
+      "E"
+    ],
+    "paragraph": "E",
+    "evidence": "enlarges a crack",
+    "explanation": "印刷改动。"
+  },
+  {
+    "question": 9,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "an overlay accompanied by reasons for excluding other images",
+    "accepted_answers": [
+      "F"
+    ],
+    "paragraph": "F",
+    "evidence": "why other images were excluded",
+    "explanation": "透明选择程序。"
+  },
+  {
+    "question": 10,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "the initial warning that viewing position changes apparent glacier width",
+    "accepted_answers": [
+      "A"
+    ],
+    "paragraph": "A",
+    "evidence": "appear wider or narrower",
+    "explanation": "开篇具体视觉警告。"
+  }
+]

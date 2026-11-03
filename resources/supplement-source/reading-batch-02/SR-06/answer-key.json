@@ -1,0 +1,130 @@
+[
+  {
+    "question": 1,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Receive scraps in an ______. ↓",
+    "accepted_answers": [
+      "arrival tray"
+    ],
+    "paragraph": "B",
+    "evidence": "an arrival tray",
+    "explanation": "an排除tray单独。"
+  },
+  {
+    "question": 2,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Record cleanliness and metal-fastening checks on an ______. ↓",
+    "accepted_answers": [
+      "inspection card"
+    ],
+    "paragraph": "B",
+    "evidence": "An inspection card",
+    "explanation": "an排除card。"
+  },
+  {
+    "question": 3,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Sort accepted pieces by thickness on a ______. ↓",
+    "accepted_answers": [
+      "sorting mat",
+      "mat"
+    ],
+    "paragraph": "B",
+    "evidence": "a sorting mat",
+    "explanation": "mat可接受。"
+  },
+  {
+    "question": 4,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Prepare comparable widths using a ______. ↓",
+    "accepted_answers": [
+      "cutting guide",
+      "guide"
+    ],
+    "paragraph": "C",
+    "evidence": "a cutting guide",
+    "explanation": "guide可接受。"
+  },
+  {
+    "question": 5,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Combine the dry strips in a ______. ↓",
+    "accepted_answers": [
+      "mixing bowl",
+      "bowl"
+    ],
+    "paragraph": "C",
+    "evidence": "a mixing bowl",
+    "explanation": "bowl可接受。"
+  },
+  {
+    "question": 6,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Spread strips over a ______. Check the adjacent template. ↓",
+    "accepted_answers": [
+      "mesh screen",
+      "screen"
+    ],
+    "paragraph": "C",
+    "evidence": "a mesh screen",
+    "explanation": "screen可接受。"
+  },
+  {
+    "question": 7,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Hold the arrangement beneath a ______ while binder sets. ↓",
+    "accepted_answers": [
+      "pressure board",
+      "board"
+    ],
+    "paragraph": "D",
+    "evidence": "A pressure board",
+    "explanation": "board可接受。"
+  },
+  {
+    "question": 8,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Remove the board and transfer the sheet to a ______. ↓",
+    "accepted_answers": [
+      "drying rack",
+      "rack"
+    ],
+    "paragraph": "D",
+    "evidence": "a drying rack",
+    "explanation": "rack可接受。"
+  },
+  {
+    "question": 9,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "After drying, record weak or uneven edges on a ______. ↓",
+    "accepted_answers": [
+      "defect chart",
+      "chart"
+    ],
+    "paragraph": "E",
+    "evidence": "a defect chart",
+    "explanation": "chart可接受。"
+  },
+  {
+    "question": 10,
+    "type": "flow",
+    "instruction": "Follow the numbered flowchart from top to bottom. Complete each step using NO MORE THAN THREE WORDS FROM THE PASSAGE.",
+    "prompt": "Decision: adjustment needed → return to arrangement, then press again. Acceptable → place in a ______.",
+    "accepted_answers": [
+      "display folder",
+      "folder"
+    ],
+    "paragraph": "E",
+    "evidence": "a display folder",
+    "explanation": "folder可接受。"
+  }
+]

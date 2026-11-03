@@ -1,0 +1,10 @@
+{
+  "scope": "batch-02",
+  "status": "passed",
+  "freeze_sha256": "6f1fe2abedfac4ccb52bf338177323181aee566e85a1a2925d41ed66cc4e6dce",
+  "snapshot": "snapshot/batch-02",
+  "questions_reviewed": 40,
+  "issues": [],
+  "question_review_sha256": "87b026c9d82797740097c4c74483bc34b1da59b77b87d5e3ef355c3f0bcea6a7",
+  "checks_sha256": "118bb860cec4a2892193470c98f4ee416538bf93490a09096b72bf08d624f02e"
+}

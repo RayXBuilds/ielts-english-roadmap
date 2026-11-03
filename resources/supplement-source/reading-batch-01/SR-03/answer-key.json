@@ -1,0 +1,122 @@
+[
+  {
+    "question": 1,
+    "type": "heading",
+    "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+    "prompt": "Paragraph A",
+    "accepted_answers": [
+      "iii"
+    ],
+    "paragraph": "A",
+    "evidence": "storage space",
+    "explanation": "主旨是为巡演搬运设计的起点。"
+  },
+  {
+    "question": 2,
+    "type": "heading",
+    "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+    "prompt": "Paragraph B",
+    "accepted_answers": [
+      "v"
+    ],
+    "paragraph": "B",
+    "evidence": "division of uses",
+    "explanation": "比较不同用途分化，不是全面替代。"
+  },
+  {
+    "question": 3,
+    "type": "heading",
+    "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+    "prompt": "Paragraph C",
+    "accepted_answers": [
+      "i"
+    ],
+    "paragraph": "C",
+    "evidence": "a guard over the hinge",
+    "explanation": "围绕具体夹手风险与防护回应。"
+  },
+  {
+    "question": 4,
+    "type": "heading",
+    "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+    "prompt": "Paragraph D",
+    "accepted_answers": [
+      "vi"
+    ],
+    "paragraph": "D",
+    "evidence": "specifications preserve differences",
+    "explanation": "同图与规格共同区分产品。"
+  },
+  {
+    "question": 5,
+    "type": "heading",
+    "instruction": "Choose the best heading from the list. Use each Roman numeral once at most.",
+    "prompt": "Paragraph E",
+    "accepted_answers": [
+      "ii"
+    ],
+    "paragraph": "E",
+    "evidence": "By keeping the users visible",
+    "explanation": "展览通过使用者解释设计。"
+  },
+  {
+    "question": 6,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The first chairs were promoted for saving space.",
+    "accepted_answers": [
+      "TRUE"
+    ],
+    "paragraph": "A",
+    "evidence": "sales letters emphasise storage space",
+    "explanation": "文本明示。"
+  },
+  {
+    "question": 7,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The wider model occupied less space when folded.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "B",
+    "evidence": "increase folded volume",
+    "explanation": "体积增大。"
+  },
+  {
+    "question": 8,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The old and wide versions were sold together.",
+    "accepted_answers": [
+      "TRUE"
+    ],
+    "paragraph": "B",
+    "evidence": "continues selling both versions",
+    "explanation": "并售。"
+  },
+  {
+    "question": 9,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The correspondence records three injured children.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "C",
+    "evidence": "contains no injury count",
+    "explanation": "题干断言信件记载了三名受伤儿童。C段明确说明信件 contains no injury count，即没有记载伤者人数，与题干相反，因此答案为FALSE。实际有多少儿童受伤仍缺乏信息，若问题询问实际人数，才需要按该命题另行判断。"
+  },
+  {
+    "question": 10,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "Visitors fold the original historic chairs.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "E",
+    "evidence": "Visitors can fold replicas",
+    "explanation": "原件置展示柜。"
+  }
+]

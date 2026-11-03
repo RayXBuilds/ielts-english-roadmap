@@ -1,0 +1,122 @@
+[
+  {
+    "question": 1,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "Working marks should help explain how material was extracted.",
+    "accepted_answers": [
+      "A"
+    ],
+    "paragraph": "B",
+    "evidence": "understand how stone was removed",
+    "explanation": "Mara历史劳动。"
+  },
+  {
+    "question": 2,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "Equipment flexibility must include the labour needed for setup and removal.",
+    "accepted_answers": [
+      "B"
+    ],
+    "paragraph": "C",
+    "evidence": "Flexibility has a labour cost",
+    "explanation": "Leon运营劳动。"
+  },
+  {
+    "question": 3,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "Observations should cover more than one season.",
+    "accepted_answers": [
+      "C"
+    ],
+    "paragraph": "D",
+    "evidence": "across more than one season",
+    "explanation": "Suri生态时段。"
+  },
+  {
+    "question": 4,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "Objects without established historical connections may be stored separately.",
+    "accepted_answers": [
+      "A"
+    ],
+    "paragraph": "B",
+    "evidence": "could be stored separately",
+    "explanation": "Mara区别有据与无据物。"
+  },
+  {
+    "question": 5,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "Temporary seating avoids premature commitment to one arrangement.",
+    "accepted_answers": [
+      "B"
+    ],
+    "paragraph": "C",
+    "evidence": "favours removable seating",
+    "explanation": "Leon活动布局。"
+  },
+  {
+    "question": 6,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "Spontaneous arrival alone does not establish conservation value.",
+    "accepted_answers": [
+      "C"
+    ],
+    "paragraph": "D",
+    "evidence": "merely because it arrived without deliberate planting",
+    "explanation": "Suri评估具体价值。"
+  },
+  {
+    "question": 7,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "The first opening should be a guided account of surviving work marks.",
+    "accepted_answers": [
+      "A"
+    ],
+    "paragraph": "E",
+    "evidence": "Mara wants a guided visit",
+    "explanation": "明确归属。"
+  },
+  {
+    "question": 8,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "A staffing shortfall during trial setup would justify revising the plan.",
+    "accepted_answers": [
+      "B"
+    ],
+    "paragraph": "F",
+    "evidence": "more staff than the town could provide",
+    "explanation": "Leon条件。"
+  },
+  {
+    "question": 9,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "An effect extending beyond the intended area would prompt reconsideration.",
+    "accepted_answers": [
+      "C"
+    ],
+    "paragraph": "F",
+    "evidence": "an effect outside the intended area",
+    "explanation": "Suri条件。"
+  },
+  {
+    "question": 10,
+    "type": "people",
+    "instruction": "Match each view with a named speaker from the list. Letters may be used more than once.",
+    "prompt": "Evidence that a mark came from later construction would alter a claim.",
+    "accepted_answers": [
+      "A"
+    ],
+    "paragraph": "F",
+    "evidence": "came from later construction",
+    "explanation": "Mara条件。"
+  }
+]

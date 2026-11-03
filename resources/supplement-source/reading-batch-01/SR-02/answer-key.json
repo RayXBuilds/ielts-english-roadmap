@@ -1,0 +1,122 @@
+[
+  {
+    "question": 1,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "An expected answer may be privileged even when another meets every published rule.",
+    "accepted_answers": [
+      "NO"
+    ],
+    "paragraph": "A",
+    "evidence": "Personal expectation cannot silently become an additional condition",
+    "explanation": "拒绝事后隐含标准。"
+  },
+  {
+    "question": 2,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "Uniqueness can be a worthwhile part of a specified challenge.",
+    "accepted_answers": [
+      "YES"
+    ],
+    "paragraph": "B",
+    "evidence": "A unique solution can be valuable",
+    "explanation": "有条件肯定。"
+  },
+  {
+    "question": 3,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "Having multiple solutions always makes a puzzle intellectually inferior.",
+    "accepted_answers": [
+      "NO"
+    ],
+    "paragraph": "B",
+    "evidence": "not a universal measure of intellectual quality",
+    "explanation": "明确否定。"
+  },
+  {
+    "question": 4,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "Finding one example is equivalent to proving that no other examples exist.",
+    "accepted_answers": [
+      "NO"
+    ],
+    "paragraph": "B",
+    "evidence": "distinct achievements",
+    "explanation": "两任务不同。"
+  },
+  {
+    "question": 5,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "An online correction should be disclosed to readers.",
+    "accepted_answers": [
+      "YES"
+    ],
+    "paragraph": "C",
+    "evidence": "state the correction clearly",
+    "explanation": "明确要求。"
+  },
+  {
+    "question": 6,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "The illustrator should receive a higher salary than the editor.",
+    "accepted_answers": [
+      "NOT GIVEN"
+    ],
+    "paragraph": "D",
+    "evidence": "An illustrator proposes",
+    "explanation": "无薪酬立场。"
+  },
+  {
+    "question": 7,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "Decorative emphasis can replace an essential rule.",
+    "accepted_answers": [
+      "NO"
+    ],
+    "paragraph": "D",
+    "evidence": "a poor substitute for a rule",
+    "explanation": "反对替代。"
+  },
+  {
+    "question": 8,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "Testing should examine how readers use rules to reject alternatives.",
+    "accepted_answers": [
+      "YES"
+    ],
+    "paragraph": "E",
+    "evidence": "explain which rule excludes",
+    "explanation": "测试建议。"
+  },
+  {
+    "question": 9,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "Unexpectedness alone proves an alternative answer correct.",
+    "accepted_answers": [
+      "NO"
+    ],
+    "paragraph": "E",
+    "evidence": "surprise alone does not make it correct",
+    "explanation": "直接反向。"
+  },
+  {
+    "question": 10,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "The magazine should run an annual puzzle championship.",
+    "accepted_answers": [
+      "NOT GIVEN"
+    ],
+    "paragraph": "F",
+    "evidence": "invites readers to compare the two tasks",
+    "explanation": "比较活动未涉及年度比赛。"
+  }
+]

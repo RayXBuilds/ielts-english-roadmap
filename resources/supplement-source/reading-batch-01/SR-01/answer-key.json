@@ -1,0 +1,122 @@
+[
+  {
+    "question": 1,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The first two totals were forty and twenty arrivals.",
+    "accepted_answers": [
+      "TRUE"
+    ],
+    "paragraph": "A",
+    "evidence": "forty arrivals at the hedge and twenty at the courtyard",
+    "explanation": "两处计数明示。"
+  },
+  {
+    "question": 2,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The valley population was shown to halve overnight.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "A",
+    "evidence": "do not establish that the valley's insect population fell by half",
+    "explanation": "原文明确不支持该结论。"
+  },
+  {
+    "question": 3,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "Every session lasted one hour.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "B",
+    "evidence": "thirty minutes",
+    "explanation": "时长相反。"
+  },
+  {
+    "question": 4,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The observers controlled the wind.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "B",
+    "evidence": "do not control either",
+    "explanation": "记录不等于控制。"
+  },
+  {
+    "question": 5,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "Two lamps were used simultaneously.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "B",
+    "evidence": "only one lamp is available",
+    "explanation": "仅一灯。"
+  },
+  {
+    "question": 6,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "Arrival totals can include repeat visitors.",
+    "accepted_answers": [
+      "TRUE"
+    ],
+    "paragraph": "C",
+    "evidence": "fewer than forty animals",
+    "explanation": "统计到达次数。"
+  },
+  {
+    "question": 7,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "Unclear photographs were assigned to the largest category.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "D",
+    "evidence": "refuses to assign them to the most common group",
+    "explanation": "明确拒绝。"
+  },
+  {
+    "question": 8,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "Two readers first examined clear images independently.",
+    "accepted_answers": [
+      "TRUE"
+    ],
+    "paragraph": "D",
+    "evidence": "examine the clear images independently",
+    "explanation": "有明示步骤。"
+  },
+  {
+    "question": 9,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The volunteers were paid the same hourly rate.",
+    "accepted_answers": [
+      "NOT GIVEN"
+    ],
+    "paragraph": "F",
+    "evidence": "No payment information",
+    "explanation": "报酬无信息，不能推有或无。"
+  },
+  {
+    "question": 10,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The replacement lamp would cost twice as much.",
+    "accepted_answers": [
+      "NOT GIVEN"
+    ],
+    "paragraph": "E",
+    "evidence": "a more powerful lamp",
+    "explanation": "未述价格。"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "question": 1,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The surviving records prove sailors used this vane to plan voyages.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "A",
+    "evidence": "do not show sailors using it to plan voyages",
+    "explanation": "题干说证据证明，原文明确未证明。"
+  },
+  {
+    "question": 2,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The maintenance bill records wind-speed measurements.",
+    "accepted_answers": [
+      "FALSE"
+    ],
+    "paragraph": "B",
+    "evidence": "Neither source records wind speed",
+    "explanation": "明确反向。"
+  },
+  {
+    "question": 3,
+    "type": "tf",
+    "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+    "prompt": "The original owner paid a specified annual museum fee.",
+    "accepted_answers": [
+      "NOT GIVEN"
+    ],
+    "paragraph": "B",
+    "evidence": "records payment for a new bearing",
+    "explanation": "部件付款不提供年费信息。"
+  },
+  {
+    "question": 4,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "a dealer’s photograph showing a similar object of uncertain connection",
+    "accepted_answers": [
+      "C"
+    ],
+    "paragraph": "C",
+    "evidence": "a dealer's photograph",
+    "explanation": "C具体鉴别对象。"
+  },
+  {
+    "question": 5,
+    "type": "info",
+    "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+    "prompt": "a recent replica video used to explain movement",
+    "accepted_answers": [
+      "D"
+    ],
+    "paragraph": "D",
+    "evidence": "a replica turning outdoors",
+    "explanation": "D演示媒介。"
+  },
+  {
+    "question": 6,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "A replacement ______ enabled rotation around the support.",
+    "accepted_answers": [
+      "bearing",
+      "new bearing"
+    ],
+    "paragraph": "B",
+    "evidence": "a new bearing",
+    "explanation": "bearing与原文连续短语new bearing均符合三词上限及题干语法。"
+  },
+  {
+    "question": 7,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Delivery to the museum was entered on a ______.",
+    "accepted_answers": [
+      "transfer sheet",
+      "sheet"
+    ],
+    "paragraph": "C",
+    "evidence": "A transfer sheet",
+    "explanation": "sheet可接受。"
+  },
+  {
+    "question": 8,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Cleaning and mounting were to be described in a ______.",
+    "accepted_answers": [
+      "treatment log",
+      "log"
+    ],
+    "paragraph": "D",
+    "evidence": "a treatment log",
+    "explanation": "log可接受。"
+  },
+  {
+    "question": 9,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "A supported outline is sufficient to reconstruct the original colours confidently.",
+    "accepted_answers": [
+      "NO"
+    ],
+    "paragraph": "E",
+    "evidence": "too little detail to recover the original colours",
+    "explanation": "作者保留形与色边界。"
+  },
+  {
+    "question": 10,
+    "type": "yn",
+    "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+    "prompt": "A historical account should preserve evidence for changes in setting and function.",
+    "accepted_answers": [
+      "YES"
+    ],
+    "paragraph": "F",
+    "evidence": "preserving the evidence for each stage",
+    "explanation": "作者结论。"
+  }
+]

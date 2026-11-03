@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "scope": "writing-recheck QA-SUP-W-01",
+  "freeze_sha256": "e660b4f655bfb9e3f5658b186dbce37873873f9b23651c13faf782c1da8f1510",
+  "resolved_issues": [
+    "QA-SUP-W-01"
+  ],
+  "previous_acceptance_sha256": "399a48e29eee41fe3682089cde62529fc3444b7ba6d69d11a0de93dafd114811",
+  "checks_sha256": "1edfb5cd7f33405a8c7b106531e085e19ea63efbecac1dcd7ab323b7e3b9b726",
+  "report_sha256": "63023a5aa82a774639bc16268b819f17b28e9afd3c8cd0e9830962c668d39e3b",
+  "snapshot": "snapshot/",
+  "model_word_counts": [
+    172,
+    184,
+    193,
+    180,
+    298
+  ]
+}

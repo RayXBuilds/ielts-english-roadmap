@@ -1,0 +1,8 @@
+{
+  "scope": "speaking_frozen_text_workshops",
+  "status": "passed",
+  "freeze_sha256": "d9bcb879247fb1f4c5d3f90eab566ce890b0c74ee932e9f5cacac3faa278b7a7",
+  "checks_sha256": "f57250f2e6fad5b1f62929a3b42b2811ce35b69a88bd2e97d58a81f8fbd631d4",
+  "report_sha256": "6705635157900cb625a1a8af5e00bbe8009299f9306ce4fdf08420ca001a73db",
+  "issues": []
+}

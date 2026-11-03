@@ -1,0 +1,165 @@
+{
+  "id": "SR-08",
+  "title": "The Second Life of a Weather Vane",
+  "paragraphs": [
+    "In the fictional harbour town of Eska, a metal weather vane is removed from a warehouse roof during repairs. It later appears in a museum case labelled as a navigation instrument. The description sounds plausible because the object once turned with the wind near a busy port. A researcher asks a narrower question about its actual use. The vane indicated wind direction from its rooftop position, but the surviving records do not show sailors using it to plan voyages. A relationship to the harbour does not establish every maritime function. The researcher begins by distinguishing the object's observed action, its documented setting and the stronger story attached to it after removal.",
+    "An early maintenance bill names the warehouse owner and records payment for a new bearing. The bearing allowed the vane to turn around its vertical support. A later photograph shows the vane beside a fixed pointer, which helped viewers relate its movement to a direction. Neither source records wind speed. The researcher notes that a rotating object can invite more claims than its design supports if the observer does not ask which quantity is represented. The bill supplies evidence of maintenance, while the photograph supplies evidence of visible arrangement. Together they clarify part of the object's working life without establishing everything that people may have inferred from it.",
+    "During roof repairs, workers attach a numbered tag to the removed vane and place it in a temporary store. A transfer sheet later records delivery to the museum. The number on the tag matches the sheet, providing a link between the rooftop object and the accession entry. This connection matters because another similar vane appears in a dealer's photograph from the same decade. Similar shape alone would not securely identify the museum object. The documented transfer gives the researcher a stronger basis for its provenance, while the dealer's image remains a separate source whose relationship to the object has not been established.",
+    "The museum cleans the surface and mounts the vane so that it can no longer rotate. This improves stability inside the case but changes the action a visitor can observe. A small video shows a replica turning outdoors, and the display identifies it as a demonstration made recently. The film helps explain the mechanism without pretending to record the original warehouse in operation. The researcher also asks the museum to keep a treatment log describing cleaning and mounting. Future viewers may otherwise mistake the current appearance for the object's condition at the moment it left the roof, overlooking decisions made during its transition into a collection.",
+    "A donor suggests restoring the missing painted emblem visible in an old picture. The photograph confirms an outline but provides too little detail to recover the original colours. The museum therefore places a line drawing beside the object and leaves the metal unchanged. The drawing is labelled as a reconstruction of the visible outline. This choice preserves a distinction between supported form and uncertain colour. It does not establish that the emblem was originally colourless. The display gives visitors enough information to understand why the absent paint has become a historical question rather than silently converting uncertainty into a confident decorative addition.",
+    "The revised label describes the vane's rooftop function, recorded transfer and museum treatment. It also explains the limits of the navigation claim. The object now supports several connected investigations into weather observation, building maintenance and collecting. Its later history has not erased its earlier one, but neither can the later presentation be treated as an untouched continuation of use on the roof. A careful account follows the changes in setting and function while preserving the evidence for each stage. Visitors can then appreciate the object without having to accept a more dramatic story than the records support. The museum's explanation becomes stronger when it shows how its claims were assembled and where another document could still change the account."
+  ],
+  "questions": [
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "The surviving records prove sailors used this vane to plan voyages.",
+      "accepted_answers": [
+        "FALSE"
+      ],
+      "paragraph": "A",
+      "evidence": "do not show sailors using it to plan voyages",
+      "explanation": "题干说证据证明，原文明确未证明。"
+    },
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "The maintenance bill records wind-speed measurements.",
+      "accepted_answers": [
+        "FALSE"
+      ],
+      "paragraph": "B",
+      "evidence": "Neither source records wind speed",
+      "explanation": "明确反向。"
+    },
+    {
+      "type": "tf",
+      "instruction": "Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN. FALSE requires contrary information. NOT GIVEN means the information is absent.",
+      "prompt": "The original owner paid a specified annual museum fee.",
+      "accepted_answers": [
+        "NOT GIVEN"
+      ],
+      "paragraph": "B",
+      "evidence": "records payment for a new bearing",
+      "explanation": "部件付款不提供年费信息。"
+    },
+    {
+      "type": "info",
+      "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+      "prompt": "a dealer’s photograph showing a similar object of uncertain connection",
+      "accepted_answers": [
+        "C"
+      ],
+      "paragraph": "C",
+      "evidence": "a dealer's photograph",
+      "explanation": "C具体鉴别对象。"
+    },
+    {
+      "type": "info",
+      "instruction": "Which paragraph contains the information? Write a letter. You may use a letter more than once.",
+      "prompt": "a recent replica video used to explain movement",
+      "accepted_answers": [
+        "D"
+      ],
+      "paragraph": "D",
+      "evidence": "a replica turning outdoors",
+      "explanation": "D演示媒介。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "A replacement ______ enabled rotation around the support.",
+      "accepted_answers": [
+        "bearing",
+        "new bearing"
+      ],
+      "paragraph": "B",
+      "evidence": "a new bearing",
+      "explanation": "bearing与原文连续短语new bearing均符合三词上限及题干语法。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Delivery to the museum was entered on a ______.",
+      "accepted_answers": [
+        "transfer sheet",
+        "sheet"
+      ],
+      "paragraph": "C",
+      "evidence": "A transfer sheet",
+      "explanation": "sheet可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Cleaning and mounting were to be described in a ______.",
+      "accepted_answers": [
+        "treatment log",
+        "log"
+      ],
+      "paragraph": "D",
+      "evidence": "a treatment log",
+      "explanation": "log可接受。"
+    },
+    {
+      "type": "yn",
+      "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+      "prompt": "A supported outline is sufficient to reconstruct the original colours confidently.",
+      "accepted_answers": [
+        "NO"
+      ],
+      "paragraph": "E",
+      "evidence": "too little detail to recover the original colours",
+      "explanation": "作者保留形与色边界。"
+    },
+    {
+      "type": "yn",
+      "instruction": "Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN.",
+      "prompt": "A historical account should preserve evidence for changes in setting and function.",
+      "accepted_answers": [
+        "YES"
+      ],
+      "paragraph": "F",
+      "evidence": "preserving the evidence for each stage",
+      "explanation": "作者结论。"
+    }
+  ],
+  "vocabulary": [
+    [
+      "vane",
+      "随风转动、指示风向的部件"
+    ],
+    [
+      "bearing",
+      "帮助轴或部件旋转的支承件"
+    ],
+    [
+      "provenance",
+      "来源与转移过程的证据链"
+    ],
+    [
+      "accession",
+      "藏品正式入藏登记"
+    ],
+    [
+      "emblem",
+      "用作识别标记的图案"
+    ],
+    [
+      "reconstruction",
+      "根据可见证据重新呈现的形状"
+    ]
+  ],
+  "sentences": [
+    [
+      "The vane indicated wind direction from its rooftop position, but the surviving records do not show sailors using it to plan voyages.",
+      "but连接已知功能与未获支持用途，show后宾语加using说明需有证据的活动。"
+    ],
+    [
+      "Future viewers may otherwise mistake the current appearance for the object's condition at the moment it left the roof, overlooking decisions made during its transition into a collection.",
+      "mistake A for B，overlooking说明误读时忽略的后续处理。"
+    ]
+  ],
+  "review": "12分钟首答含最后2分钟漏答和形式检查。将四种题型的错误分列，记录检查前后改动和证据。",
+  "options": ""
+}

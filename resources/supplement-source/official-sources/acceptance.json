@@ -1,0 +1,14 @@
+{
+  "scope": "official_sources_catalog",
+  "status": "passed",
+  "parent_freeze_sha256": "31a8b7a3e54fc28d0bd45fe7f87aefc237810de652565bc78ca18062c34a9e45",
+  "snapshot_files": {
+    "sources.json": "62251e0ad165278bbfd0a0f4c2619b31863fbd5b6d22cbeed91d67e3f5998c00",
+    "sources_build.py": "866c4736b0c37fe5460bac54088aa0b7d53fbf64e0b893350ac27b71f297e562",
+    "真题查找指南.md": "e2fdf701ca94647f8a568474e5edbfef98d77857c194dd51549a7980c32d19fd"
+  },
+  "independent_source_review_sha256": "88756a1541286067575ce1a4a1096583ab113740874daf72b11158cb02435dd5",
+  "report_sha256": "e8d0b11926798c4c3e925a6088e84e00bd24187269ce21aed51562b1fe0e993c",
+  "actual_playback": false,
+  "full_papers_downloaded": false
+}

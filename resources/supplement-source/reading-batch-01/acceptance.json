@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "reading batch-01-recheck QA-SUP-R-01",
+  "freeze_sha256": "7f94815590575820bac927ae7a773f95b04dd371b71a76b06791ffed5528f7d1",
+  "resolved_issues": [
+    "QA-SUP-R-01"
+  ],
+  "checks_sha256": "dde2b56d07452e6416d42f426868b332e2716cddd4766a9cacfa99a762a4aebe",
+  "report_sha256": "e7aac4c7655aea2aa1ef377aa1de9d34d5f2d5928f09c7b8a0d471d5147a7401",
+  "prior_acceptance_sha256": "83a526650c3f31451574ab04d70f373a0fb135fd64957b7e5d23138041262d8e",
+  "snapshot": "snapshot/"
+}

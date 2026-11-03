@@ -1,0 +1,131 @@
+[
+  {
+    "question": 1,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "The intended classroom comparison is defined in a ______.",
+    "accepted_answers": [
+      "purpose statement",
+      "statement"
+    ],
+    "paragraph": "B",
+    "evidence": "a purpose statement",
+    "explanation": "statement可接受。"
+  },
+  {
+    "question": 2,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "The dimensions are recorded in a ______.",
+    "accepted_answers": [
+      "scale drawing",
+      "drawing"
+    ],
+    "paragraph": "B",
+    "evidence": "A scale drawing",
+    "explanation": "drawing可接受。"
+  },
+  {
+    "question": 3,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Expected costs and quantities appear on a ______.",
+    "accepted_answers": [
+      "budget sheet",
+      "sheet"
+    ],
+    "paragraph": "B",
+    "evidence": "A budget sheet",
+    "explanation": "sheet可接受。"
+  },
+  {
+    "question": 4,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Main branch positions are established by a ______.",
+    "accepted_answers": [
+      "wire frame",
+      "frame"
+    ],
+    "paragraph": "C",
+    "evidence": "A wire frame",
+    "explanation": "frame为同指中心词。"
+  },
+  {
+    "question": 5,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "The visible surface is supplied by a ______.",
+    "accepted_answers": [
+      "paper covering",
+      "covering"
+    ],
+    "paragraph": "C",
+    "evidence": "a paper covering",
+    "explanation": "covering可接受。"
+  },
+  {
+    "question": 6,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "The model stands upright on a wide ______.",
+    "accepted_answers": [
+      "base"
+    ],
+    "paragraph": "C",
+    "evidence": "A wide base",
+    "explanation": "wide已给。"
+  },
+  {
+    "question": 7,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Student comments are preserved in a ______.",
+    "accepted_answers": [
+      "trial notebook",
+      "notebook"
+    ],
+    "paragraph": "D",
+    "evidence": "a trial notebook",
+    "explanation": "notebook可接受。"
+  },
+  {
+    "question": 8,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Correspondence with the source shape is explained by a ______.",
+    "accepted_answers": [
+      "feature key",
+      "key"
+    ],
+    "paragraph": "E",
+    "evidence": "a feature key",
+    "explanation": "key可接受。"
+  },
+  {
+    "question": 9,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Replacing damaged covering is explained in a ______.",
+    "accepted_answers": [
+      "repair guide",
+      "guide"
+    ],
+    "paragraph": "E",
+    "evidence": "A repair guide",
+    "explanation": "guide可接受。"
+  },
+  {
+    "question": 10,
+    "type": "summary",
+    "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+    "prompt": "Simplifications are made explicit in a ______.",
+    "accepted_answers": [
+      "limitation note",
+      "note"
+    ],
+    "paragraph": "F",
+    "evidence": "a limitation note",
+    "explanation": "note可接受。"
+  }
+]

@@ -40,7 +40,7 @@ test('text previews survive backup separately from training completion, includin
  assert.equal(h.run('state.previewRead.u59'),true);
  assert.equal(h.run('state.previewRead.r02'),undefined);
  assert.equal(h.run('completedCount()'),1);
- assert.equal(h.run('trainingLessons().length'),85);
+ assert.equal(h.run('trainingLessons().length'),102);
  h.c.raw=h.writes.at(-1).payload;h.run('window.restoreBackup(raw)');
  assert.equal(h.run('state.previewRead.u59'),true);
  assert.equal(h.run('state.notes.u36'),'预览笔记');

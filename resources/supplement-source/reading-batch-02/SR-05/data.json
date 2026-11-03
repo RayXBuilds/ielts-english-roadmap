@@ -1,0 +1,171 @@
+{
+  "id": "SR-05",
+  "title": "Preparing a Coral Model for a Classroom",
+  "paragraphs": [
+    "The fictional design studio of Nima creates a classroom model of a branching coral shape. The object is made from ordinary craft materials and is intended to show how a complicated form can be represented at different scales. It makes no claim to reproduce the behaviour of a living organism. The commission begins with a photograph supplied by a teacher, who wants students to compare the arrangement of branches without handling a fragile specimen. The designers first identify the relationships the lesson needs. They can simplify surface texture if branch positions remain clear, but removing a major branch would change the relationship that the model is supposed to preserve.",
+    "The teacher writes a purpose statement identifying the comparison students will make. A scale drawing then records the intended dimensions. These two documents answer different questions. One explains why features matter, while the other specifies how large the representation will be. A budget sheet lists material quantities and expected costs. The team keeps the three records separate so that a convenient saving cannot silently become a change in educational purpose. If a cost limit requires a smaller model, the designers ask whether students will still be able to distinguish the relevant branches from their normal viewing position. Reducing size is a practical decision with consequences for the planned activity.",
+    "A wire frame establishes the positions of the main branches. Around it, the team adds a paper covering that provides a visible surface. Neither component is treated as a realistic substitute for the biological material. The construction separates support from appearance so that each can be changed without unnecessarily rebuilding the other. A wide base keeps the model upright on a classroom table. The base is deliberately plain, helping students distinguish a display support from the form they are being asked to study. Without that distinction, an added structural convenience could be mistaken for a feature of the original organism.",
+    "The first prototype has a rough surface that casts small shadows. Some students interpret those shadows as additional openings. The designers therefore test a smoother finish and compare the resulting descriptions. They record comments in a trial notebook, preserving both correct observations and misunderstandings. A model is not successful merely because its makers recognise what they intended to show. The relevant question is whether learners can use it for the proposed comparison under the actual conditions of the lesson. A response that seems strange to the designer can reveal an unintended feature that has become more visually prominent than the relationship meant to be taught.",
+    "The revised model comes with a feature key identifying which parts correspond to the source shape. A repair guide explains how to replace damaged covering without shifting the frame. The teacher also receives a storage box that prevents the branches from pressing against one another between lessons. These additions support different stages of use. A clear explanation helps during teaching, a repair instruction supports maintenance, and protected storage reduces avoidable changes before the next class. The studio tests whether the model can be removed from the box without forcing the user to pull on a branch, since a protective container can still introduce damage during access if its opening is poorly arranged.",
+    "Finally, a limitation note states which details were simplified and which relationships were preserved. Students are asked to compare the model with the original photograph and identify one difference that matters to a new question. For example, an activity concerned with fine surface texture would need different evidence. The model remains useful for its stated task, while the note helps prevent it from being used as a complete account of the photographed form. The project ends with an object and a record of decisions that make its purpose inspectable. Another teacher can then decide whether the same representation suits a different lesson or whether the new task calls for a revised design."
+  ],
+  "questions": [
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "The intended classroom comparison is defined in a ______.",
+      "accepted_answers": [
+        "purpose statement",
+        "statement"
+      ],
+      "paragraph": "B",
+      "evidence": "a purpose statement",
+      "explanation": "statement可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "The dimensions are recorded in a ______.",
+      "accepted_answers": [
+        "scale drawing",
+        "drawing"
+      ],
+      "paragraph": "B",
+      "evidence": "A scale drawing",
+      "explanation": "drawing可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Expected costs and quantities appear on a ______.",
+      "accepted_answers": [
+        "budget sheet",
+        "sheet"
+      ],
+      "paragraph": "B",
+      "evidence": "A budget sheet",
+      "explanation": "sheet可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Main branch positions are established by a ______.",
+      "accepted_answers": [
+        "wire frame",
+        "frame"
+      ],
+      "paragraph": "C",
+      "evidence": "A wire frame",
+      "explanation": "frame为同指中心词。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "The visible surface is supplied by a ______.",
+      "accepted_answers": [
+        "paper covering",
+        "covering"
+      ],
+      "paragraph": "C",
+      "evidence": "a paper covering",
+      "explanation": "covering可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "The model stands upright on a wide ______.",
+      "accepted_answers": [
+        "base"
+      ],
+      "paragraph": "C",
+      "evidence": "A wide base",
+      "explanation": "wide已给。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Student comments are preserved in a ______.",
+      "accepted_answers": [
+        "trial notebook",
+        "notebook"
+      ],
+      "paragraph": "D",
+      "evidence": "a trial notebook",
+      "explanation": "notebook可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Correspondence with the source shape is explained by a ______.",
+      "accepted_answers": [
+        "feature key",
+        "key"
+      ],
+      "paragraph": "E",
+      "evidence": "a feature key",
+      "explanation": "key可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Replacing damaged covering is explained in a ______.",
+      "accepted_answers": [
+        "repair guide",
+        "guide"
+      ],
+      "paragraph": "E",
+      "evidence": "A repair guide",
+      "explanation": "guide可接受。"
+    },
+    {
+      "type": "summary",
+      "instruction": "Complete the numbered summary using NO MORE THAN THREE WORDS FROM THE PASSAGE per blank.",
+      "prompt": "Simplifications are made explicit in a ______.",
+      "accepted_answers": [
+        "limitation note",
+        "note"
+      ],
+      "paragraph": "F",
+      "evidence": "a limitation note",
+      "explanation": "note可接受。"
+    }
+  ],
+  "vocabulary": [
+    [
+      "branching",
+      "呈分支状的"
+    ],
+    [
+      "specimen",
+      "用于观察的实物标本"
+    ],
+    [
+      "texture",
+      "表面纹理"
+    ],
+    [
+      "prototype",
+      "用于试用的样品"
+    ],
+    [
+      "prominent",
+      "更容易被注意到的"
+    ],
+    [
+      "maintenance",
+      "保持可用状态的维护"
+    ]
+  ],
+  "sentences": [
+    [
+      "They can simplify surface texture if branch positions remain clear, but removing a major branch would change the relationship that the model is supposed to preserve.",
+      "if限定可简化条件，but区分会改变目标关系的删减。"
+    ],
+    [
+      "If a cost limit requires a smaller model, the designers ask whether students will still be able to distinguish the relevant branches from their normal viewing position.",
+      "if给约束，whether引导仍需检验的可见性问题。"
+    ]
+  ],
+  "review": "将十个编号句连读为设计摘要。逐空核对原文连续词组、冠词与词数，抄出可接受中心词，解释每份记录的不同用途。",
+  "options": ""
+}
