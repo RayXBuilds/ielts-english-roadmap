@@ -45,7 +45,7 @@
 - [U60阅读专项](lessons/bridge/u60-supplement.md) · [U68写作专项](lessons/bridge/u68-supplement.md) · [U72口语专项](lessons/bridge/u72-supplement.md)
 - [U76剑桥历版与官方免费样题](lessons/bridge/u76-official-sources.md)，含版次、出版年、ISBN与获取方式。官方整册题目按正版购买或图书馆条件获取，外部试卷内置数量为0。
 
-客户端公开版0.2.9的课程范围见客户端说明。本轮新增内容的原生界面验收受设备锁定影响，U76网址剪贴板复制尚待验证。完整网址已显示，可通过本仓库文档的来源链接访问。新增配套完整听力音频仍待验收。
+客户端0.2.10收录本轮新增内容，共126条目。独立原生验收已核对新增内容、参考折叠、图示、代表性完整网址复制及学习记录恢复。新增配套完整听力音频仍待验收。
 
 ## 先下载再开始
 
@@ -63,7 +63,7 @@ GitHub 本身的国内连接仍可能不稳定；整包下载后，离线学习�
 
 **[拾阶英语：雅思英语离线学习客户端](client/README.md)** 将现有课程接入桌面应用：84 天计划、阅读、音视频播放、进度、笔记、生词收藏与编辑、JSON 备份恢复。课程与媒体随应用打包，无需登录或在线接口。0.2 版重做界面与折页书本图标，新增全局搜索、专注阅读、字号调整与生词复习筛选。
 
-[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.9)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
+[下载 Apple 芯片 Mac 预览版](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.10)。当前版本尚未 Apple Developer ID 签名或公证，下载后可能被系统拦截，安装条件及限制见客户端说明；Windows 和 Intel Mac 安装包尚未提供。通用资料包仍可通过 `offline.html` 学习。下载页按用途仅保留最新客户端和最新独立资料包，源码提交历史保留。
 
 ## 新增八周雅思系统课程
 

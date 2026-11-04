@@ -36,8 +36,13 @@ if args.qa:sys.exit(0)
 archive=out/f"Stepwise-English-macOS-arm64-v{version['version']}.zip"
 assert not archive.exists(),'Use a fresh output directory; published ZIPs must not be overwritten'
 subprocess.run(['ditto','-c','-k','--sequesterRsrc','--keepParent',str(app),str(archive)],check=True)
-with zipfile.ZipFile(archive,'a') as z:
- z.writestr('开始使用.txt',f"拾阶英语 {version['version']} — 雅思英语离线学习客户端\nApple 芯片 Mac，最低构建目标 macOS 14。解压后将拾阶英语.app 放入应用程序。\n此版本为本地签名，未经 Apple 公证，可能被系统拦截。安装及使用说明：\nhttps://github.com/RayXBuilds/ielts-english-roadmap/blob/main/client/README.md\n课程与既有12课媒体随应用提供。新增24周听力材料为文字预览，完整音频待补。设置与备份页面可导出和恢复学习记录，兼容 0.1 版备份。升级前建议导出备份。\n")
+readme=out/'开始使用.txt'
+readme.write_text(f"拾阶英语 {version['version']} — 雅思英语离线学习客户端\nApple 芯片 Mac，最低构建目标 macOS 14。解压后将拾阶英语.app 放入应用程序。\n此版本为本地签名，未经 Apple 公证，可能被系统拦截。安装及使用说明：\nhttps://github.com/RayXBuilds/ielts-english-roadmap/blob/main/client/README.md\n课程与既有12课媒体随应用提供。新增24周听力材料为文字预览，完整音频待补。设置与备份页面可导出和恢复学习记录，兼容 0.1 版备份。升级前建议导出备份。\n")
+subprocess.run(['zip','-j',str(archive),str(readme)],check=True)
+with zipfile.ZipFile(archive) as z:
+ names=[entry.filename if entry.flag_bits & 0x800 else entry.filename.encode('cp437').decode('utf-8') for entry in z.infolist()]
+ assert f'{name}.app/Contents/Info.plist' in names
+ assert '开始使用.txt' in names
  assert z.testzip() is None
  assert not any(n.endswith('progress.json') for n in z.namelist())
 digest=hashlib.sha256(archive.read_bytes()).hexdigest()
