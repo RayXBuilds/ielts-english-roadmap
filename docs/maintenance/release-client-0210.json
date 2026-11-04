@@ -1,0 +1,37 @@
+{
+  "status": "published_verified",
+  "version": "0.2.10",
+  "build": "12",
+  "course_version": "0.14",
+  "site_matching_files": 958,
+  "media_manifest_entries": 24,
+  "unit_count": 126,
+  "preview_count": 24,
+  "ordinary_count": 102,
+  "state_tests_passed": 11,
+  "all126payloads_and84days_unchanged": true,
+  "qa_native_receipt_sha256": "f0a629bda498eb98af7a27686c94f2dd9315352777f21ed99da0835aa9b30280",
+  "assets": [
+    {
+      "name": "Stepwise-English-macOS-arm64-v0.2.10.zip",
+      "bytes": 235353566,
+      "sha256": "8920de821642ec429a4c48fda6d30084817dcac0175fca808e7a85165b2b19dc",
+      "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/client-v0.2.10/Stepwise-English-macOS-arm64-v0.2.10.zip"
+    },
+    {
+      "name": "SHA256SUMS-client.txt",
+      "bytes": 107,
+      "sha256": "1eee7140904503bf1d9971d6d7c3ff2c063fa07262ac8bf0342d2a3d941f7a92",
+      "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/client-v0.2.10/SHA256SUMS-client.txt"
+    }
+  ],
+  "approved_complete_audio_sets": 0,
+  "target": "28647899d8a7ad6658d769c88a1afd71ebde309d",
+  "qa_artifact_receipt_sha256": "2570200578d36f3ff94383f4d5f03bce6608fb3f32069fabd4dfbc255f400e97",
+  "tag": "client-v0.2.10",
+  "release_id": 433433469,
+  "url": "https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/client-v0.2.10",
+  "published_at": "2026-11-04T02:13:25Z",
+  "remote_assets_verified": true,
+  "old_client_029_release_and_tag_deleted": true
+}
