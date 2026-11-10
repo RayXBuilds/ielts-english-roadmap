@@ -6,6 +6,7 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self' file:; connect-src 'none'; object-src 'none'; base-uri 'none'">
   <title>拾阶英语 · 你的英语学习空间</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="mobile.css">
 </head>
 <body>
   <aside class="sidebar" aria-label="主导航">
@@ -17,15 +18,17 @@
       <div class="sidebar-foot"><span>为每一点进步而设计</span><span>v0.2</span></div>
     </div>
   </aside>
+  <button id="menuBackdrop" aria-label="关闭菜单" tabindex="-1"></button>
   <main id="main">
-    <header class="topbar"><div class="breadcrumb"><span>我的学习空间</span><span class="divider">/</span><strong id="crumb">今日学习</strong></div><button id="globalSearch" class="search-trigger" aria-label="搜索全部课程"></button><span class="top-offline"><span class="status-dot"></span>离线就绪</span></header>
+    <header class="topbar"><button id="mobileMenu" aria-label="打开学习菜单" aria-expanded="false" aria-controls="nav">☰ 菜单</button><div class="breadcrumb"><span>我的学习空间</span><span class="divider">/</span><strong id="crumb">今日学习</strong></div><button id="globalSearch" class="search-trigger" aria-label="搜索全部课程"></button><span class="top-offline"><span class="status-dot"></span>离线就绪</span></header>
     <div id="storageWarning" class="storage-warning" role="alert" hidden></div>
     <div id="view"></div>
     <footer class="page-footer"><span>STEPWISE ENGLISH</span><span>从读懂一句，到表达自己。</span></footer>
   </main>
+  <nav id="mobileNav" aria-label="手机快捷导航"></nav>
   <div id="toast" role="status" hidden></div>
   <dialog id="searchDialog" aria-labelledby="searchTitle"><div class="dialog-heading"><h2 id="searchTitle">找到今天想学的内容</h2><button class="icon-button" id="closeSearch" aria-label="关闭搜索"></button></div><label class="search-box"><span id="searchIcon"></span><input id="allSearch" type="search" placeholder="输入标题或课程编号，如 R01、Welcome" aria-label="搜索全部课程"></label><div id="searchResults"></div><p class="dialog-hint">按 Esc 关闭 · 全部内容均可离线学习</p></dialog>
   <input id="importFile" type="file" accept="application/json" hidden>
-  <script src="data.js"></script><script src="state.js"></script><script src="app.js"></script>
+  <script src="data.js"></script><script src="state.js"></script><script src="mobile.js"></script><script src="app.js"></script>
 </body>
 </html>

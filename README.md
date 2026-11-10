@@ -6,6 +6,15 @@
 
 基础恢复路线：恢复英文阅读习惯，逐步听懂、开口表达，再按需要衔接雅思。默认每天 30 分钟，每周五天学习、一天复盘、一天休息。12 周约 36 小时，是建立习惯与观察进步的周期，不承诺达到特定等级或雅思分数。
 
+## 安装客户端
+
+| 平台 | 下载 | 安装要求 |
+|---|---|---|
+| Mac | [下载 Mac 0.2.10](https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/client-v0.2.10/Stepwise-English-macOS-arm64-v0.2.10.zip) | Apple 芯片 M 系列，macOS 14 及以上。[安装说明](client/README.md#下载与使用) |
+| Android | [下载 Android 0.1.0 APK](https://github.com/RayXBuilds/ielts-english-roadmap/releases/download/android-v0.1.0/Stepwise-English-Android-v0.1.0.apk) | 最低 Android 8.0，首版已测环境见[手机端说明](client/android/README.md)。 |
+
+课程与既有音视频随安装包提供，学习记录保存在各自设备上，可用 JSON 备份手动迁移。Mac 包采用本地签名，尚未经过 Apple 公证。Android 首版作为预览版发布。
+
 ## 客户端预览
 
 拾阶英语将学习计划、课程阅读和个人笔记放在同一个桌面学习空间。下图展示 0.2 系列客户端界面，学习记录为验收示例。

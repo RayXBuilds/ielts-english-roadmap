@@ -45,7 +45,18 @@ try {
   if (raw) state = validate(raw);
 } catch (_) { window.STATE_ERROR = true; }
 
-function native(action, payload) { window.webkit.messageHandlers.app.postMessage({action,payload}); }
+function native(action, payload) {
+  if (window.ANDROID_MODE) {
+    if (action === 'save' || action === 'restore') {
+      const error = window.StepwiseAndroid.save(payload, action === 'restore');
+      if (error) throw Error(error);
+      window.nativeSaved();
+    } else if (action === 'export') window.StepwiseAndroid.exportBackup(payload);
+    else if (action === 'import') window.StepwiseAndroid.importBackup();
+    return;
+  }
+  window.webkit.messageHandlers.app.postMessage({action,payload});
+}
 function setStorageWarning(message) {
   const el = $('#storageWarning');
   if (el) { el.textContent = message; el.hidden = !message; }
@@ -79,9 +90,12 @@ window.restoreBackup = raw => {
     // newly imported playback positions.
     if (typeof stopMedia === 'function') stopMedia();
     else document.querySelectorAll('audio,video').forEach(media => media.pause());
+    // Android acknowledges an atomic disk write before replacing the live state.
+    if (window.ANDROID_MODE) native('restore', JSON.stringify(next));
     state = next;
     window.STATE_ERROR = false;
-    const ok = save();
+    const ok = window.ANDROID_MODE ? true : save();
+    if (window.ANDROID_MODE) window.nativeSaved();
     navigate('home');
     if (ok) toast('备份已载入');
   } catch (error) { toast('无法恢复：' + error.message); }
