@@ -34,3 +34,9 @@ Android 签名证书 SHA-256 如下，私钥保存在本机私有构建目录，
 ```
 
 最低构建目标 Android 8.0。其他 Android 版本、各厂商真机和用户实际安装仍需验证。新增 24 周听力的完整音频仍待补，本次继续提供文字预览。Mac 包仍采用 ad-hoc 签名，未经过 Apple 公证。
+
+## 发布确认
+
+已发布 `android-v0.1.0` 预览版，对应源码提交 `213ce717fe994851eaec8dd51a46935b697f2198`。GitHub API 确认 APK、SHA256SUMS-android.txt 和 build-report.json 三项资产均为 uploaded，远端大小及 SHA-256 与本地逐项一致。[Android 下载页](https://github.com/RayXBuilds/ielts-english-roadmap/releases/tag/android-v0.1.0)
+
+最终安装包、校验文件、构建回执与运行检查记录保存于项目交付目录的 `android-v0.1.0/`。完整源码另保存在长期规划目录下 `implementation/worktrees/ielts-android-client`，便于在保留主工作区候选修改的同时继续维护。
