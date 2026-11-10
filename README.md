@@ -11,7 +11,7 @@
 拾阶英语将学习计划、课程阅读和个人笔记放在同一个桌面学习空间。下图展示 0.2 系列客户端界面，学习记录为验收示例。
 
 <p align="center">
-  <img src="docs/screenshots/client-home.png" alt="拾阶英语客户端首页，展示继续学习、每周计划和学习进度" width="960">
+  <img src="docs/screenshots/client-home.jpg" alt="拾阶英语客户端首页，展示继续学习、每周计划和学习进度" width="960">
 </p>
 
 <p align="center"><strong>学习首页</strong> · 继续上次课程，查看计划与进度</p>
@@ -20,7 +20,7 @@
 <summary>展开写作练习与学习笔记界面</summary>
 
 <p align="center">
-  <img src="docs/screenshots/client-writing.png" alt="雅思写作练习界面，展示原创折线图、学习笔记与课程导航" width="960">
+  <img src="docs/screenshots/client-writing.jpg" alt="雅思写作练习界面，展示原创折线图、学习笔记与课程导航" width="960">
 </p>
 
 图表练习与笔记并排显示，方便记录思路、整理表达和复盘自己的答案。
