@@ -6,6 +6,29 @@
 
 基础恢复路线：恢复英文阅读习惯，逐步听懂、开口表达，再按需要衔接雅思。默认每天 30 分钟，每周五天学习、一天复盘、一天休息。12 周约 36 小时，是建立习惯与观察进步的周期，不承诺达到特定等级或雅思分数。
 
+## 客户端预览
+
+拾阶英语将学习计划、课程阅读和个人笔记放在同一个桌面学习空间。下图展示 0.2 系列客户端界面，学习记录为验收示例。
+
+<p align="center">
+  <img src="docs/screenshots/client-home.png" alt="拾阶英语客户端首页，展示继续学习、每周计划和学习进度" width="960">
+</p>
+
+<p align="center"><strong>学习首页</strong> · 继续上次课程，查看计划与进度</p>
+
+<details>
+<summary>展开写作练习与学习笔记界面</summary>
+
+<p align="center">
+  <img src="docs/screenshots/client-writing.png" alt="雅思写作练习界面，展示原创折线图、学习笔记与课程导航" width="960">
+</p>
+
+图表练习与笔记并排显示，方便记录思路、整理表达和复盘自己的答案。
+
+</details>
+
+[下载 Mac 客户端与离线资料包](https://github.com/RayXBuilds/ielts-english-roadmap/releases) · [客户端功能与安装说明](client/README.md) · [24 周学习路线](lessons/bridge/u04-exam-preparation.md)
+
 ## 已验收的第1～4周文字课程
 
 新增9篇长文（7,315词、118题）与4周写作/口语，共24分支课项。已接入源码离线阅读器与客户端课程数据：[第1周 U06](lessons/bridge/u06-week-01.md) · [第2周 U07](lessons/bridge/u07-week-02.md) · [第3周 U08](lessons/bridge/u08-week-03.md) · [第4周 U09](lessons/bridge/u09-week-04.md) · [反馈协议 U10](lessons/bridge/u10-feedback.md)。答案和示例默认折叠。
